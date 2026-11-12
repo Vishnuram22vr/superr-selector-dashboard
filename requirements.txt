@@ -1,0 +1,7 @@
+# SupeRR Selector Season 2 - Rajasthan Royals IPL 2027 Auction Analytics
+# Dashboard Dependencies (Phase 6)
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.0.0
+numpy>=1.24.0
+

@@ -1,0 +1,1479 @@
+bowler_id,bowler_name,matches,innings_bowled,legal_balls,bowler_wickets,runs_conceded_baseline,wides_bowled,noballs_bowled,dots_bowled,overs,overs_decimal,economy_rate,bowling_average,bowling_strike_rate,dot_ball_pct,runs_conceded_uncertainty_flag,format_split
+23,Piyush Chawla,27,27,576,35,803,10,0,185,96.0,96.0,8.36,22.94,16.46,32.12,True,All Matches
+28,Ishant Sharma,24,24,422,24,670,32,2,157,70.2,70.333,9.53,27.92,17.58,37.2,True,All Matches
+47,Virat Kohli,1,1,6,0,6,0,0,1,1.0,1.0,6.0,,,16.67,False,All Matches
+143,Dinesh Karthik,1,1,6,0,18,0,0,1,1.0,1.0,18.0,,,16.67,False,All Matches
+147,Pradeep Sangwan,3,3,54,3,65,2,0,21,9.0,9.0,7.22,21.67,18.0,38.89,True,All Matches
+152,Ravindra Jadeja,74,74,1396,58,1832,24,3,420,232.4,232.667,7.87,31.59,24.07,30.09,True,All Matches
+158,Amit Mishra,8,8,126,8,169,1,0,35,21.0,21.0,8.05,21.12,15.75,27.78,True,All Matches
+161,Dwayne Bravo,10,10,206,16,299,20,3,66,34.2,34.333,8.71,18.69,12.88,32.04,True,All Matches
+232,Tom Cooper,2,2,12,0,13,0,0,3,2.0,2.0,6.5,,,25.0,False,All Matches
+278,Tim Southee,36,36,826,55,1146,34,1,321,137.4,137.667,8.32,20.84,15.02,38.86,True,All Matches
+286,Kane Richardson,9,9,198,15,301,9,0,76,33.0,33.0,9.12,20.07,13.2,38.38,True,All Matches
+295,Wayne Parnell,18,18,400,22,608,16,2,152,66.4,66.667,9.12,27.64,18.18,38.0,True,All Matches
+305,Ravichandran Ashwin,61,61,1404,47,1826,57,1,427,234.0,234.0,7.8,38.85,29.87,30.41,True,All Matches
+332,Angelo Mathews,9,9,110,7,152,3,1,44,18.2,18.333,8.29,21.71,15.71,40.0,True,All Matches
+360,Bhuvneshwar Kumar,101,101,2221,115,3052,86,7,900,370.1,370.167,8.24,26.54,19.31,40.52,True,All Matches
+395,Karn Sharma,21,21,363,24,605,9,0,100,60.3,60.5,10.0,25.21,15.12,27.55,True,All Matches
+403,Umesh Yadav,29,29,558,28,799,9,5,242,93.0,93.0,8.59,28.54,19.93,43.37,True,All Matches
+470,Mohammad Amir,7,7,146,5,223,11,0,53,24.2,24.333,9.16,44.6,29.2,36.3,True,All Matches
+479,Adil Rashid,61,61,1324,72,1744,23,0,443,220.4,220.667,7.9,24.22,18.39,33.46,True,All Matches
+494,Kieron Pollard,12,12,185,8,250,12,0,50,30.5,30.833,8.11,31.25,23.12,27.03,True,All Matches
+499,Shakib Al Hasan,17,17,340,20,380,3,1,131,56.4,56.667,6.71,19.0,17.0,38.53,True,All Matches
+507,Mohammad Mahmudullah,5,5,38,3,57,2,1,15,6.2,6.333,9.0,19.0,12.67,39.47,True,All Matches
+722,Liam Dawson,22,22,415,25,539,9,0,144,69.1,69.167,7.79,21.56,16.6,34.7,True,All Matches
+768,Reeza Hendricks,2,2,23,0,37,1,0,7,3.5,3.833,9.65,,,30.43,True,All Matches
+773,Shadley Van Schalkwyk,4,4,90,7,141,1,0,21,15.0,15.0,9.4,20.14,12.86,23.33,True,All Matches
+781,Sunil Narine,67,67,1530,64,1750,21,2,559,255.0,255.0,6.86,27.34,23.91,36.54,True,All Matches
+786,Chris Jordan,27,27,550,19,899,19,5,158,91.4,91.667,9.81,47.32,28.95,28.73,True,All Matches
+818,Mitchell Marsh,19,19,295,19,442,24,1,84,49.1,49.167,8.99,23.26,15.53,28.47,True,All Matches
+820,Nathan Coulter Nile,1,1,18,0,48,1,1,3,3.0,3.0,16.0,,,16.67,True,All Matches
+829,Mitchell Starc,39,39,803,53,1289,53,4,318,133.5,133.833,9.63,24.32,15.15,39.6,True,All Matches
+830,Josh Hazlewood,65,65,1476,98,2036,36,3,646,246.0,246.0,8.28,20.78,15.06,43.77,True,All Matches
+838,Glenn Maxwell,52,52,638,29,932,15,4,199,106.2,106.333,8.76,32.14,22.0,31.19,True,All Matches
+914,Krishnappa Gowtham,11,11,180,8,246,5,0,74,30.0,30.0,8.2,30.75,22.5,41.11,True,All Matches
+988,Graeme Cremer,2,2,42,2,44,0,0,18,7.0,7.0,6.29,22.0,21.0,42.86,False,All Matches
+1028,Varun Aaron,2,2,30,2,52,3,0,6,5.0,5.0,10.4,26.0,15.0,20.0,True,All Matches
+1045,David Wiese,1,1,18,0,38,0,0,3,3.0,3.0,12.67,,,16.67,False,All Matches
+1071,Jaydev Unadkat,30,30,575,29,911,24,0,165,95.5,95.833,9.51,31.41,19.83,28.7,True,All Matches
+1101,George Dockrell,15,15,186,8,191,4,0,52,31.0,31.0,6.16,23.88,23.25,27.96,True,All Matches
+1107,Mohammad Nabi,44,44,680,29,947,13,0,214,113.2,113.333,8.36,32.66,23.45,31.47,True,All Matches
+1159,Tendai Chatara,10,10,217,11,257,5,1,91,36.1,36.167,7.11,23.36,19.73,41.94,True,All Matches
+1171,Chris Woakes,11,11,164,11,223,2,0,62,27.2,27.333,8.16,20.27,14.91,37.8,True,All Matches
+1195,Ben Stokes,3,3,30,1,46,3,0,6,5.0,5.0,9.2,46.0,30.0,20.0,True,All Matches
+1219,David Willey,19,19,380,17,503,16,0,124,63.2,63.333,7.94,29.59,22.35,32.63,True,All Matches
+1318,Andre Russell,57,57,754,62,1368,29,9,241,125.4,125.667,10.89,22.06,12.16,31.96,True,All Matches
+1389,Sean Abbott,21,21,442,30,723,27,7,152,73.4,73.667,9.81,24.1,14.73,34.39,True,All Matches
+1487,Adam Milne,26,26,545,35,851,32,4,228,90.5,90.833,9.37,24.31,15.57,41.83,True,All Matches
+1541,Sean Williams,14,14,162,5,175,3,0,43,27.0,27.0,6.48,35.0,32.4,26.54,True,All Matches
+1556,David Payne,2,2,30,2,70,1,0,5,5.0,5.0,14.0,35.0,15.0,16.67,True,All Matches
+1566,Mohammed Shami,57,57,1275,69,1832,50,4,547,212.3,212.5,8.62,26.55,18.48,42.9,True,All Matches
+1596,Moeen Ali,58,58,805,45,1101,15,1,271,134.1,134.167,8.21,24.47,17.89,33.66,True,All Matches
+1612,Yuzvendra Chahal,98,98,2138,124,3065,75,5,624,356.2,356.333,8.6,24.72,17.24,29.19,True,All Matches
+1617,Rishi Dhawan,11,11,174,7,251,6,0,54,29.0,29.0,8.66,35.86,24.86,31.03,True,All Matches
+1699,Suryakumar Yadav,1,1,6,2,5,0,0,3,1.0,1.0,5.0,2.5,3.0,50.0,False,All Matches
+1701,Swapnil Singh,9,9,102,6,151,1,1,29,17.0,17.0,8.88,25.17,17.0,28.43,True,All Matches
+1758,Patrick Cummins,54,54,1215,61,1858,51,3,435,202.3,202.5,9.18,30.46,19.92,35.8,True,All Matches
+1772,Sheldon Cottrell,11,11,215,10,324,13,1,91,35.5,35.833,9.04,32.4,21.5,42.33,True,All Matches
+1813,Deepak Chahar,48,48,917,45,1383,44,3,377,152.5,152.833,9.05,30.73,20.38,41.11,True,All Matches
+1944,Keshav Maharaj,30,30,598,32,869,12,1,191,99.4,99.667,8.72,27.16,18.69,31.94,True,All Matches
+2054,Jason Behrendorff,20,20,438,25,639,17,0,162,73.0,73.0,8.75,25.56,17.52,36.99,True,All Matches
+2210,Sabbir Rahman,1,1,6,0,9,0,0,0,1.0,1.0,9.0,,,0.0,False,All Matches
+2213,Soumya Sarkar,6,6,42,2,61,3,0,12,7.0,7.0,8.71,30.5,21.0,28.57,True,All Matches
+2214,Gulbadin Naib,7,7,54,2,81,2,0,18,9.0,9.0,9.0,40.5,27.0,33.33,True,All Matches
+2261,Harshal Patel,79,79,1643,96,2533,91,14,511,273.5,273.833,9.25,26.39,17.11,31.1,True,All Matches
+2296,Safyaan Sharif,2,2,33,0,47,2,0,8,5.3,5.5,8.55,,,24.24,True,All Matches
+2304,Tymal Mills,12,12,229,10,426,12,1,64,38.1,38.167,11.16,42.6,22.9,27.95,True,All Matches
+2315,Reece Topley,29,29,615,31,905,24,0,230,102.3,102.5,8.83,29.19,19.84,37.4,True,All Matches
+2320,Trent Boult,70,70,1543,73,2157,62,0,628,257.1,257.167,8.39,29.55,21.14,40.7,True,All Matches
+2321,Olly Stone,1,1,24,0,36,0,1,4,4.0,4.0,9.0,,,16.67,False,All Matches
+2334,Dwaine Pretorius,14,14,308,17,486,27,1,86,51.2,51.333,9.47,28.59,18.12,27.92,True,All Matches
+2351,Danushka Gunathilaka,1,1,5,0,8,0,0,1,0.5,0.833,9.6,,,20.0,False,All Matches
+2359,Prenelan Subrayen,2,2,42,2,35,0,0,15,7.0,7.0,5.0,17.5,21.0,35.71,False,All Matches
+2364,Ashton Agar,6,6,144,4,122,1,0,53,24.0,24.0,5.08,30.5,36.0,36.81,True,All Matches
+2367,Travis Head,2,2,16,1,39,0,0,3,2.4,2.667,14.62,39.0,16.0,18.75,False,All Matches
+2382,Jamie Overton,30,30,497,36,713,27,1,187,82.5,82.833,8.61,19.81,13.81,37.63,True,All Matches
+2399,Dushmantha Chameera,53,53,1151,59,1692,46,7,430,191.5,191.833,8.82,28.68,19.51,37.36,True,All Matches
+2407,Dhananjaya de Silva,8,8,81,5,88,1,0,33,13.3,13.5,6.52,17.6,16.2,40.74,True,All Matches
+2411,Sandeep Sharma,43,43,961,39,1444,52,5,307,160.1,160.167,9.02,37.03,24.64,31.95,True,All Matches
+2416,Kyle Mayers,17,17,138,2,198,6,2,47,23.0,23.0,8.61,99.0,69.0,34.06,True,All Matches
+2417,Akeal Hosein,79,79,1692,79,2180,30,12,659,282.0,282.0,7.73,27.59,21.42,38.95,True,All Matches
+2418,Justin Greaves,1,1,6,0,14,0,0,2,1.0,1.0,14.0,,,33.33,False,All Matches
+2436,Dasun Shanaka,43,43,529,27,780,24,4,148,88.1,88.167,8.85,28.89,19.59,27.98,True,All Matches
+2439,Akila Dananjaya,2,2,36,2,56,1,0,6,6.0,6.0,9.33,28.0,18.0,16.67,True,All Matches
+2463,Ryan Burl,22,22,318,18,412,7,0,93,53.0,53.0,7.77,22.89,17.67,29.25,True,All Matches
+2483,Lizaad Williams,14,14,259,16,460,17,4,89,43.1,43.167,10.66,28.75,16.19,34.36,True,All Matches
+2490,Mohammad Nawaz,52,52,1004,66,1192,12,1,345,167.2,167.333,7.12,18.06,15.21,34.36,True,All Matches
+2526,Ish Sodhi,59,59,1175,63,1676,31,0,365,195.5,195.833,8.56,26.6,18.65,31.06,True,All Matches
+2531,Joe Root,1,1,12,0,14,0,0,1,2.0,2.0,7.0,,,8.33,False,All Matches
+2633,Jason Holder,88,88,1928,109,2886,99,5,630,321.2,321.333,8.98,26.48,17.69,32.68,True,All Matches
+2636,Adam Zampa,52,52,1152,71,1604,22,1,350,192.0,192.0,8.35,22.59,16.23,30.38,True,All Matches
+2639,Marcus Stoinis,55,55,747,44,1196,46,1,238,124.3,124.5,9.61,27.18,16.98,31.86,True,All Matches
+2650,Raymon Reifer,2,2,30,1,60,2,0,5,5.0,5.0,12.0,60.0,30.0,16.67,True,All Matches
+2681,Taskin Ahmed,46,46,1040,67,1378,37,6,439,173.2,173.333,7.95,20.57,15.52,42.21,True,All Matches
+2687,Roston Chase,45,45,834,35,1084,24,4,272,139.0,139.0,7.8,30.97,23.83,32.61,True,All Matches
+2756,Shashank Singh,8,8,90,5,140,3,0,21,15.0,15.0,9.33,28.0,18.0,23.33,True,All Matches
+2790,Praveen Dubey,2,2,30,2,39,1,0,11,5.0,5.0,7.8,19.5,15.0,36.67,True,All Matches
+2847,Shardul Thakur,50,50,966,54,1675,72,9,286,161.0,161.0,10.4,31.02,17.89,29.61,True,All Matches
+2852,Jagadeesha Suchith,5,5,108,7,139,7,0,48,18.0,18.0,7.72,19.86,15.43,44.44,True,All Matches
+2863,Sandeep Warrier,5,5,66,6,119,3,1,29,11.0,11.0,10.82,19.83,11.0,43.94,True,All Matches
+2872,Siddarth Kaul,1,1,24,0,43,0,0,6,4.0,4.0,10.75,,,25.0,False,All Matches
+2876,Axar Patel,136,136,2670,120,3498,36,1,939,445.0,445.0,7.86,29.15,22.25,35.17,True,All Matches
+2877,Vijay Shankar,2,2,9,0,15,1,0,4,1.3,1.5,10.0,,,44.44,True,All Matches
+2878,Mohit Sharma,33,33,649,42,1043,23,4,170,108.1,108.167,9.64,24.83,15.45,26.19,True,All Matches
+2887,Harmeet Singh,4,4,96,4,79,2,0,39,16.0,16.0,4.94,19.75,24.0,40.62,True,All Matches
+2933,Jasprit Bumrah,75,75,1708,85,2043,58,14,736,284.4,284.667,7.18,24.04,20.09,43.09,True,All Matches
+2972,Yasim Murtaza,14,14,306,7,363,3,2,97,51.0,51.0,7.12,51.86,43.71,31.7,True,All Matches
+2984,Sikandar Raza,52,52,1091,43,1286,22,3,348,181.5,181.833,7.07,29.91,25.37,31.9,True,All Matches
+2985,Mark Wood,13,13,281,27,381,16,2,119,46.5,46.833,8.14,14.11,10.41,42.35,True,All Matches
+2997,Paul van Meekeren,10,10,187,11,255,9,0,73,31.1,31.167,8.18,23.18,17.0,39.04,True,All Matches
+3033,Usman Qadir,4,4,96,5,159,1,1,23,16.0,16.0,9.94,31.8,19.2,23.96,True,All Matches
+3038,Hussain Talat,2,2,36,3,50,1,2,16,6.0,6.0,8.33,16.67,12.0,44.44,True,All Matches
+3040,Kashif Daud,1,1,11,0,21,0,0,3,1.5,1.833,11.45,,,27.27,False,All Matches
+3056,Iftikhar Ahmed,14,14,186,6,203,3,0,48,31.0,31.0,6.55,33.83,31.0,25.81,True,All Matches
+3077,Usama Mir,5,5,120,5,175,3,0,41,20.0,20.0,8.75,35.0,24.0,34.17,True,All Matches
+3135,Yannic Cariah,2,2,36,1,43,0,0,15,6.0,6.0,7.17,43.0,36.0,41.67,False,All Matches
+3174,Matt Henry,30,30,622,27,955,14,0,238,103.4,103.667,9.21,35.37,23.04,38.26,True,All Matches
+3253,Rohan Mustafa,1,1,24,1,36,2,0,7,4.0,4.0,9.0,36.0,24.0,29.17,True,All Matches
+3255,Ahmed Raza 1,1,1,12,1,19,0,0,4,2.0,2.0,9.5,19.0,12.0,33.33,False,All Matches
+3272,Fabian Allen,12,12,179,5,271,1,0,57,29.5,29.833,9.08,54.2,35.8,31.84,True,All Matches
+3275,Alzarri Joseph,53,53,1153,58,1859,51,10,403,192.1,192.167,9.67,32.05,19.88,34.95,True,All Matches
+3276,Gudakesh Motie,38,38,738,34,1008,15,0,236,123.0,123.0,8.2,29.65,21.71,31.98,True,All Matches
+3280,Nazmul Hossain Shanto,2,2,12,0,23,0,0,0,2.0,2.0,11.5,,,0.0,False,All Matches
+3281,Mosaddek Hossain,11,11,159,11,174,4,0,60,26.3,26.5,6.57,15.82,14.45,37.74,True,All Matches
+3282,Mehidy Hasan Miraz,17,17,234,14,305,2,0,82,39.0,39.0,7.82,21.79,16.71,35.04,True,All Matches
+3285,Abu Haider,7,7,149,6,271,9,0,41,24.5,24.833,10.91,45.17,24.83,27.52,True,All Matches
+3298,Jofra Archer,56,56,1259,71,1876,55,6,510,209.5,209.833,8.94,26.42,17.73,40.51,True,All Matches
+3299,Andrew Tye,3,3,66,2,107,3,0,21,11.0,11.0,9.73,53.5,33.0,31.82,True,All Matches
+3320,Jayant Yadav,1,1,24,0,26,0,0,8,4.0,4.0,6.5,,,33.33,False,All Matches
+3323,Jimmy Neesham,37,37,526,34,787,19,1,181,87.4,87.667,8.98,23.15,15.47,34.41,True,All Matches
+3330,Hardik Pandya,111,111,1825,84,2748,98,7,658,304.1,304.167,9.03,32.71,21.73,36.05,True,All Matches
+3337,Jeremy Gordon,1,1,18,0,29,2,0,8,3.0,3.0,9.67,,,44.44,True,All Matches
+3361,Michael Leask,3,3,30,2,39,2,0,12,5.0,5.0,7.8,19.5,15.0,40.0,True,All Matches
+3373,Aizaz Khan,12,12,183,8,298,22,2,54,30.3,30.5,9.77,37.25,22.88,29.51,True,All Matches
+3374,Mark Chapman,1,1,6,0,4,0,0,2,1.0,1.0,4.0,,,33.33,False,All Matches
+3383,Kinchit Shah,6,6,60,3,116,0,0,14,10.0,10.0,11.6,38.67,20.0,23.33,False,All Matches
+3469,Shreyas Gopal,4,4,60,4,101,0,0,17,10.0,10.0,10.1,25.25,15.0,28.33,False,All Matches
+3489,Salman Agha,13,13,108,5,141,3,0,32,18.0,18.0,7.83,28.2,21.6,29.63,True,All Matches
+3543,Shahidullah Kamal,4,4,30,2,53,1,0,7,5.0,5.0,10.6,26.5,15.0,23.33,True,All Matches
+3550,Sharafuddin Ashraf,11,11,186,9,207,3,1,68,31.0,31.0,6.68,23.0,20.67,36.56,True,All Matches
+3578,Imad Wasim,14,14,246,15,252,8,0,96,41.0,41.0,6.15,16.8,16.4,39.02,True,All Matches
+3595,Andy McBrine,6,6,72,2,129,2,0,14,12.0,12.0,10.75,64.5,36.0,19.44,True,All Matches
+3605,Aiden Markram,42,42,397,13,668,10,1,110,66.1,66.167,10.1,51.38,30.54,27.71,True,All Matches
+3613,Shakeel Ahmed,4,4,79,1,106,2,1,32,13.1,13.167,8.05,106.0,79.0,40.51,True,All Matches
+3622,Hayden Walsh,9,9,186,7,249,3,0,54,31.0,31.0,8.03,35.57,26.57,29.03,True,All Matches
+3623,Hasan Ali,8,8,158,12,289,6,4,57,26.2,26.333,10.97,24.08,13.17,36.08,True,All Matches
+3627,Andile Phehlukwayo,7,7,144,10,266,8,0,39,24.0,24.0,11.08,26.6,14.4,27.08,True,All Matches
+3628,Kagiso Rabada,69,69,1533,86,2362,71,12,635,255.3,255.5,9.24,27.47,17.83,41.42,True,All Matches
+3629,Corbin Bosch,19,19,367,33,528,14,3,157,61.1,61.167,8.63,16.0,11.12,42.78,True,All Matches
+3637,Dayyaan Galiem,1,1,24,2,21,3,0,12,4.0,4.0,5.25,10.5,12.0,50.0,True,All Matches
+3641,Ben Dwarshuis,14,14,324,23,498,9,1,108,54.0,54.0,9.22,21.65,14.09,33.33,True,All Matches
+3644,Kuldeep Yadav,89,89,1914,118,2556,48,3,631,319.0,319.0,8.01,21.66,16.22,32.97,True,All Matches
+3647,Shreyas Iyer,2,2,8,0,9,0,0,5,1.2,1.333,6.75,,,62.5,False,All Matches
+3648,Deepak Hooda,13,13,131,7,140,2,0,45,21.5,21.833,6.41,20.0,18.71,34.35,True,All Matches
+3653,Avesh Khan,79,79,1672,86,2672,68,5,573,278.4,278.667,9.59,31.07,19.44,34.27,True,All Matches
+3660,Luke Wood,17,17,324,19,524,10,2,123,54.0,54.0,9.7,27.58,17.05,37.96,True,All Matches
+3664,Binura Fernando,16,16,342,14,490,13,1,118,57.0,57.0,8.6,35.0,24.43,34.5,True,All Matches
+3673,Ramesh Mendis,8,8,150,2,168,5,0,55,25.0,25.0,6.72,84.0,75.0,36.67,True,All Matches
+3683,Gavin Main,2,2,36,2,48,2,3,12,6.0,6.0,8.0,24.0,18.0,33.33,True,All Matches
+3686,CB Sole,5,5,97,8,136,0,0,33,16.1,16.167,8.41,17.0,12.12,34.02,False,All Matches
+3689,Mark Watt,6,6,125,7,169,3,0,37,20.5,20.833,8.11,24.14,17.86,29.6,True,All Matches
+3697,Kyle Jamieson,30,30,627,34,1025,37,4,243,104.3,104.5,9.81,30.15,18.44,38.76,True,All Matches
+3720,Craig Young,23,23,466,36,671,12,2,165,77.4,77.667,8.64,18.64,12.94,35.41,True,All Matches
+3727,Matthew Short,15,15,151,9,266,10,0,41,25.1,25.167,10.57,29.56,16.78,27.15,True,All Matches
+3771,Vivian Kingma,5,5,97,6,123,9,0,45,16.1,16.167,7.61,20.5,16.17,46.39,True,All Matches
+3772,Logan van Beek,6,6,132,10,151,6,0,57,22.0,22.0,6.86,15.1,13.2,43.18,True,All Matches
+3775,Sompal Kami,3,3,44,0,68,2,1,18,7.2,7.333,9.27,,,40.91,True,All Matches
+3782,M Shahrukh Khan,3,3,18,1,28,0,0,4,3.0,3.0,9.33,28.0,18.0,22.22,False,All Matches
+3802,Anshuman Rath,2,2,20,1,26,0,0,6,3.2,3.333,7.8,26.0,20.0,30.0,False,All Matches
+3839,Amjad Mahboob,3,3,54,2,81,2,0,16,9.0,9.0,9.0,40.5,27.0,29.63,True,All Matches
+3858,Jatinder Singh,1,1,2,0,7,0,0,0,0.2,0.333,21.0,,,0.0,False,All Matches
+3871,Aamir Kaleem,6,6,108,8,137,1,0,28,18.0,18.0,7.61,17.12,13.5,25.93,True,All Matches
+3876,Sufyan Mehmood,5,5,72,2,121,2,0,19,12.0,12.0,10.08,60.5,36.0,26.39,True,All Matches
+3926,Rahul Tewatia,7,7,49,0,91,1,0,13,8.1,8.167,11.14,,,26.53,True,All Matches
+3986,Matthew Renshaw,3,3,36,3,43,0,0,13,6.0,6.0,7.17,14.33,12.0,36.11,False,All Matches
+3995,Donald Tiripano,2,2,30,1,54,5,0,10,5.0,5.0,10.8,54.0,30.0,33.33,True,All Matches
+4101,Mitchell Santner,83,83,1737,87,2140,56,0,633,289.3,289.5,7.39,24.6,19.97,36.44,True,All Matches
+4106,Daryl Mitchell,10,10,80,4,153,6,0,15,13.2,13.333,11.48,38.25,20.0,18.75,True,All Matches
+4111,Khushdil Shah,6,6,60,3,87,3,0,20,10.0,10.0,8.7,29.0,20.0,33.33,True,All Matches
+4117,Ishan Kishan,1,1,1,0,4,0,0,0,0.1,0.167,24.0,,,0.0,False,All Matches
+4201,Fareed Malik,17,17,308,23,503,6,2,103,51.2,51.333,9.8,21.87,13.39,33.44,True,All Matches
+4219,Krunal Pandya,66,66,1257,56,1627,29,0,384,209.3,209.5,7.77,29.05,22.45,30.55,True,All Matches
+4221,Chris Green,1,1,24,0,36,0,0,6,4.0,4.0,9.0,,,25.0,False,All Matches
+4229,George Linde,17,17,283,15,371,12,0,99,47.1,47.167,7.87,24.73,18.87,34.98,True,All Matches
+4235,Sisanda Magala,4,4,72,4,139,1,0,11,12.0,12.0,11.58,34.75,18.0,15.28,True,All Matches
+4237,Tabraiz Shamsi,16,16,310,17,493,11,0,87,51.4,51.667,9.54,29.0,18.24,28.06,True,All Matches
+4246,Nitish Rana,11,11,101,3,171,3,0,26,16.5,16.833,10.16,57.0,33.67,25.74,True,All Matches
+4265,T Natarajan,49,49,1052,53,1685,58,0,305,175.2,175.333,9.61,31.79,19.85,28.99,True,All Matches
+4276,Basil Thampi,5,5,96,5,152,6,0,38,16.0,16.0,9.5,30.4,19.2,39.58,True,All Matches
+4288,Navdeep Saini,5,5,90,6,183,4,4,25,15.0,15.0,12.2,30.5,15.0,27.78,True,All Matches
+4373,Mustafizur Rahman,71,71,1576,79,2041,64,6,604,262.4,262.667,7.77,25.84,19.95,38.32,True,All Matches
+4391,Liam Livingstone,49,49,594,32,944,24,1,169,99.0,99.0,9.54,29.5,18.56,28.45,True,All Matches
+4409,Sam Curran,73,73,1350,62,2162,68,5,396,225.0,225.0,9.61,34.87,21.77,29.33,True,All Matches
+4412,Max ODowd,2,2,30,1,35,1,0,10,5.0,5.0,7.0,35.0,30.0,33.33,True,All Matches
+4417,Karan KC,3,3,42,2,39,0,0,24,7.0,7.0,5.57,19.5,21.0,57.14,False,All Matches
+4438,Jasdeep Singh,4,4,90,4,135,3,1,28,15.0,15.0,9.0,33.75,22.5,31.11,True,All Matches
+4450,Mehran Khan,2,2,30,2,47,0,1,9,5.0,5.0,9.4,23.5,15.0,30.0,False,All Matches
+4460,Jeffrey Vandersay,5,5,120,2,168,2,0,26,20.0,20.0,8.4,84.0,60.0,21.67,True,All Matches
+4487,Vyshak Kumar,27,27,567,27,987,33,3,158,94.3,94.5,10.44,36.56,21.0,27.87,True,All Matches
+4489,Prasidh Krishna,52,52,1173,69,1773,56,5,472,195.3,195.5,9.07,25.7,17.0,40.24,True,All Matches
+4499,Saqib Mahmood,11,11,228,17,313,14,1,102,38.0,38.0,8.24,18.41,13.41,44.74,True,All Matches
+4505,Jhye Richardson,5,5,120,6,168,4,0,44,20.0,20.0,8.4,28.0,20.0,36.67,True,All Matches
+4604,Mitchell Swepson,1,1,12,0,31,0,0,2,2.0,2.0,15.5,,,16.67,False,All Matches
+4636,Bjorn Fortuin,13,13,210,8,351,7,0,78,35.0,35.0,10.03,43.88,26.25,37.14,True,All Matches
+4639,Wellington Masakadza,27,27,480,15,599,6,0,149,80.0,80.0,7.49,39.93,32.0,31.04,True,All Matches
+4641,Lungi Ngidi,39,39,798,47,1182,26,5,307,133.0,133.0,8.89,25.15,16.98,38.47,True,All Matches
+4658,Nasum Ahmed,29,29,600,25,764,7,0,241,100.0,100.0,7.64,30.56,24.0,40.17,True,All Matches
+4662,Cole McConchie,8,8,120,3,178,1,0,32,20.0,20.0,8.9,59.33,40.0,26.67,True,All Matches
+4686,Joshua Clarkson,4,4,48,6,59,2,1,12,8.0,8.0,7.38,9.83,8.0,25.0,True,All Matches
+4692,Lockie Ferguson,53,53,1076,59,1588,48,14,420,179.2,179.333,8.86,26.92,18.24,39.03,True,All Matches
+4708,Rinku Singh,2,2,10,3,10,0,0,6,1.4,1.667,6.0,3.33,3.33,60.0,False,All Matches
+4716,Mayank Dagar,8,8,137,2,199,1,0,43,22.5,22.833,8.72,99.5,68.5,31.39,True,All Matches
+4722,Rashid Khan,122,122,2747,153,3390,33,0,938,457.5,457.833,7.4,22.16,17.95,34.15,True,All Matches
+4755,Shivam Dube,40,40,469,29,773,21,1,134,78.1,78.167,9.89,26.66,16.17,28.57,True,All Matches
+4779,Pieter Willem Mulder,10,10,114,8,198,7,1,37,19.0,19.0,10.42,24.75,14.25,32.46,True,All Matches
+4780,Mohammad Saif Hassan,13,13,123,4,156,2,0,33,20.3,20.5,7.61,39.0,30.75,26.83,True,All Matches
+4790,Lutho Sipamla,5,5,110,6,213,2,1,33,18.2,18.333,11.62,35.5,18.33,30.0,True,All Matches
+4793,Dean Foxcroft,1,1,12,0,17,0,0,5,2.0,2.0,8.5,,,41.67,False,All Matches
+4807,Joshua Little,36,36,780,45,1059,35,0,292,130.0,130.0,8.15,23.53,17.33,37.44,True,All Matches
+4812,Harry Tector,16,16,228,11,266,18,2,80,38.0,38.0,7.0,24.18,20.73,35.09,True,All Matches
+4815,Benjamin White,20,20,390,18,595,11,3,122,65.0,65.0,9.15,33.06,21.67,31.28,True,All Matches
+4816,Khaleel Ahmed,56,56,1198,62,1786,61,8,524,199.4,199.667,8.94,28.81,19.32,43.74,True,All Matches
+4821,Mahipal Lomror,5,5,30,0,53,3,0,7,5.0,5.0,10.6,,,23.33,True,All Matches
+4823,Washington Sundar,51,51,786,39,1061,14,2,251,131.0,131.0,8.1,27.21,20.15,31.93,True,All Matches
+4824,Zeeshan Ansari,10,10,203,6,333,5,1,47,33.5,33.833,9.84,55.5,33.83,23.15,True,All Matches
+4826,George Garton,1,1,24,1,57,0,1,7,4.0,4.0,14.25,57.0,24.0,29.17,False,All Matches
+4837,Obed McCoy,32,32,641,40,1014,45,6,225,106.5,106.833,9.49,25.35,16.02,35.1,True,All Matches
+4838,Keemo Paul,6,6,90,9,166,12,3,24,15.0,15.0,11.07,18.44,10.0,26.67,True,All Matches
+4840,Odean Smith,24,24,384,25,672,27,3,131,64.0,64.0,10.5,26.88,15.36,34.11,True,All Matches
+4842,Shamar Springer,11,11,196,16,331,14,2,54,32.4,32.667,10.13,20.69,12.25,27.55,True,All Matches
+4853,Glenn Phillips,13,13,113,5,149,2,0,39,18.5,18.833,7.91,29.8,22.6,34.51,True,All Matches
+4854,Rachin Ravindra,12,12,132,5,196,4,0,43,22.0,22.0,8.91,39.2,26.4,32.58,True,All Matches
+4856,Benjamin Sears,22,22,453,30,608,10,0,181,75.3,75.5,8.05,20.27,15.1,39.96,True,All Matches
+4857,Nathan Smith,6,6,102,6,176,5,2,33,17.0,17.0,10.35,29.33,17.0,32.35,True,All Matches
+4867,Wesley Madhevere,9,9,96,4,137,3,0,28,16.0,16.0,8.56,34.25,24.0,29.17,True,All Matches
+4870,Kundai Matigimu,1,1,24,2,48,2,0,10,4.0,4.0,12.0,24.0,12.0,41.67,True,All Matches
+4871,Brandon Mavuta,2,2,42,2,56,2,0,15,7.0,7.0,8.0,28.0,21.0,35.71,True,All Matches
+4874,Richard Ngarava,39,39,846,41,1130,40,3,331,141.0,141.0,8.01,27.56,20.63,39.13,True,All Matches
+4876,Milton Shumba,2,2,12,1,14,0,0,4,2.0,2.0,7.0,14.0,12.0,33.33,False,All Matches
+4881,Dipendra Airee,2,2,36,2,24,0,0,26,6.0,6.0,4.0,12.0,18.0,72.22,False,All Matches
+4882,Kushal Bhurtel,3,3,49,5,50,1,0,27,8.1,8.167,6.12,10.0,9.8,55.1,True,All Matches
+4895,Charith Asalanka,14,14,161,7,210,3,0,47,26.5,26.833,7.83,30.0,23.0,29.19,True,All Matches
+4900,Wanindu Hasaranga,91,91,2034,133,2684,19,0,682,339.0,339.0,7.92,20.18,15.29,33.53,True,All Matches
+4901,Asitha Fernando,6,6,120,4,208,4,0,40,20.0,20.0,10.4,52.0,30.0,33.33,True,All Matches
+4903,Lahiru Kumara,3,3,71,7,94,7,0,24,11.5,11.833,7.94,13.43,10.14,33.8,True,All Matches
+4904,Kamindu Mendis,14,14,150,5,214,3,1,44,25.0,25.0,8.56,42.8,30.0,29.33,True,All Matches
+4926,Shadab Khan,42,42,832,36,1091,16,0,268,138.4,138.667,7.87,30.31,23.11,32.21,True,All Matches
+4947,Kasun Rajitha,5,5,108,4,158,8,0,42,18.0,18.0,8.78,39.5,27.0,38.89,True,All Matches
+4974,Mohammad Nadeem,5,5,60,2,94,4,0,14,10.0,10.0,9.4,47.0,30.0,23.33,True,All Matches
+4986,Rovman Powell,11,11,73,2,144,6,3,14,12.1,12.167,11.84,72.0,36.5,19.18,True,All Matches
+5034,Murugan Ashwin,10,10,198,9,281,5,1,68,33.0,33.0,8.52,31.22,22.0,34.34,True,All Matches
+5041,Mukesh Kumar,59,59,1148,62,1941,62,17,396,191.2,191.333,10.14,31.31,18.52,34.49,True,All Matches
+5189,Faheem Ashraf,32,32,442,26,620,9,1,165,73.4,73.667,8.42,23.85,17.0,37.33,True,All Matches
+5231,Oshane Thomas,1,1,24,0,36,0,0,5,4.0,4.0,9.0,,,20.83,False,All Matches
+5379,Mark Adair,40,40,845,56,1223,56,5,323,140.5,140.833,8.68,21.84,15.09,38.22,True,All Matches
+5441,Barry McCarthy,29,29,619,26,890,40,3,230,103.1,103.167,8.63,34.23,23.81,37.16,True,All Matches
+5547,Nosthush Kenjige,4,4,78,2,109,1,0,28,13.0,13.0,8.38,54.5,39.0,35.9,True,All Matches
+5561,Brad Wheal,2,2,36,0,90,0,0,8,6.0,6.0,15.0,,,22.22,False,All Matches
+5562,Richard Gleeson,9,9,194,11,297,8,1,67,32.2,32.333,9.19,27.0,17.64,34.54,True,All Matches
+5577,Sai Kishore,28,28,489,34,718,12,0,148,81.3,81.5,8.81,21.12,14.38,30.27,True,All Matches
+5665,Sanjay Yadav,1,1,12,0,23,2,0,6,2.0,2.0,11.5,,,50.0,True,All Matches
+5738,Xavier Bartlett,31,31,624,29,957,14,3,223,104.0,104.0,9.2,33.0,21.52,35.74,True,All Matches
+5750,Ehsan Khan,14,14,323,19,378,8,0,123,53.5,53.833,7.02,19.89,17.0,38.08,True,All Matches
+5808,Karim Janat,17,17,263,10,400,1,2,66,43.5,43.833,9.13,40.0,26.3,25.1,True,All Matches
+5809,Naveen ul Haq,37,37,786,52,1166,29,9,280,131.0,131.0,8.9,22.42,15.12,35.62,True,All Matches
+5837,Mahedi Hasan,41,41,914,50,1071,19,2,383,152.2,152.333,7.03,21.42,18.28,41.9,True,All Matches
+5844,Ebadot Hossain,3,3,72,6,113,9,2,24,12.0,12.0,9.42,18.83,12.0,33.33,True,All Matches
+5866,Patrick Kruger,7,7,116,8,179,9,2,28,19.2,19.333,9.26,22.38,14.5,24.14,True,All Matches
+5882,Afif Hossain,5,5,30,1,44,2,0,8,5.0,5.0,8.8,44.0,30.0,26.67,True,All Matches
+5892,Blair Tickner,11,11,215,16,340,8,2,77,35.5,35.833,9.49,21.25,13.44,35.81,True,All Matches
+5939,Cameron Green,51,51,753,34,1194,42,4,255,125.3,125.5,9.51,35.12,22.15,33.86,True,All Matches
+5940,Riley Meredith,14,14,310,16,468,20,1,119,51.4,51.667,9.06,29.25,19.38,38.39,True,All Matches
+5944,Mohammed Siraj,83,83,1806,86,2636,113,6,776,301.0,301.0,8.76,30.65,21.0,42.97,True,All Matches
+5977,Khary Pierre,6,6,120,4,169,4,0,38,20.0,20.0,8.45,42.25,30.0,31.67,True,All Matches
+5979,Abrar Ahmed,35,35,764,46,848,12,0,320,127.2,127.333,6.66,18.43,16.61,41.88,True,All Matches
+6025,Henry Shipley,4,4,78,2,141,5,0,16,13.0,13.0,10.85,70.5,39.0,20.51,True,All Matches
+6097,Brydon Carse,13,13,268,20,412,8,7,98,44.4,44.667,9.22,20.6,13.4,36.57,True,All Matches
+6160,Chamika Karunaratne,20,20,336,13,486,15,0,90,56.0,56.0,8.68,37.38,25.85,26.79,True,All Matches
+6161,Rahul Chahar,42,42,866,32,1191,17,4,273,144.2,144.333,8.25,37.22,27.06,31.52,True,All Matches
+6162,Kulwant Khejroliya,4,4,56,3,124,2,4,14,9.2,9.333,13.29,41.33,18.67,25.0,True,All Matches
+6166,Jack Edwards,1,1,12,0,25,0,0,0,2.0,2.0,12.5,,,0.0,False,All Matches
+6179,Nipun Ransika,5,5,90,6,111,2,0,30,15.0,15.0,7.4,18.5,15.0,33.33,True,All Matches
+6180,Praveen Jayawickrama,2,2,48,2,72,0,0,11,8.0,8.0,9.0,36.0,24.0,22.92,False,All Matches
+6188,Simi Singh,2,2,12,0,30,0,0,3,2.0,2.0,15.0,,,25.0,False,All Matches
+6196,Josh Tongue,5,5,120,8,183,5,1,55,20.0,20.0,9.15,22.88,15.0,45.83,True,All Matches
+6237,Manimaran Siddharth,9,9,186,9,281,4,3,59,31.0,31.0,9.06,31.22,20.67,31.72,True,All Matches
+6256,Varun Chakravarthy,95,95,2128,135,2836,47,7,806,354.4,354.667,8.0,21.01,15.76,37.88,True,All Matches
+6272,William Jacks,35,35,413,23,591,17,1,138,68.5,68.833,8.59,25.7,17.96,33.41,True,All Matches
+6281,Abhishek Sharma,46,46,457,14,672,6,0,131,76.1,76.167,8.82,48.0,32.64,28.67,True,All Matches
+6284,Anukul Roy,21,21,311,14,467,25,0,102,51.5,51.833,9.01,33.36,22.21,32.8,True,All Matches
+6285,Kamlesh Nagarkoti,1,1,12,0,29,1,0,4,2.0,2.0,14.5,,,33.33,True,All Matches
+6286,Shivam Mavi,12,12,216,12,350,13,3,79,36.0,36.0,9.72,29.17,18.0,36.57,True,All Matches
+6287,Yash Thakur,27,27,569,34,970,33,5,187,94.5,94.833,10.23,28.53,16.74,32.86,True,All Matches
+6297,Matthew Parkinson,2,2,36,1,65,4,0,7,6.0,6.0,10.83,65.0,36.0,19.44,True,All Matches
+6350,Matthew Kuhnemann,6,6,120,2,167,2,1,39,20.0,20.0,8.35,83.5,60.0,32.5,True,All Matches
+6354,Spencer Johnson,23,23,438,24,674,26,2,178,73.0,73.0,9.23,28.08,18.25,40.64,True,All Matches
+6355,Shaheen Afridi,47,47,990,65,1308,43,3,417,165.0,165.0,7.93,20.12,15.23,42.12,True,All Matches
+6356,Khaled Ahmed,1,1,24,0,37,0,0,7,4.0,4.0,9.25,,,29.17,False,All Matches
+6359,Raghu Sharma,5,5,90,1,130,0,0,23,15.0,15.0,8.67,130.0,90.0,25.56,False,All Matches
+6389,Tanvir Islam,6,6,102,4,136,1,0,40,17.0,17.0,8.0,34.0,25.5,39.22,True,All Matches
+6396,Tim David,1,1,6,0,18,0,0,1,1.0,1.0,18.0,,,16.67,False,All Matches
+6398,Aaron Hardie,15,15,271,15,390,14,1,109,45.1,45.167,8.63,26.0,18.07,40.22,True,All Matches
+6423,Riyan Parag,24,24,260,10,376,12,1,71,43.2,43.333,8.68,37.6,26.0,27.31,True,All Matches
+6436,Qais Ahmad,10,10,192,7,242,3,0,60,32.0,32.0,7.56,34.57,27.43,31.25,True,All Matches
+6449,Wafadar Momand,2,2,31,0,65,3,0,11,5.1,5.167,12.58,,,35.48,True,All Matches
+6450,Mujeeb Ur Rahman,38,38,820,48,956,29,0,343,136.4,136.667,7.0,19.92,17.08,41.83,True,All Matches
+6460,Ayush Badoni,10,10,77,4,105,1,0,20,12.5,12.833,8.18,26.25,19.25,25.97,True,All Matches
+6464,Arshdeep Singh,147,147,3202,192,4861,203,21,1214,533.4,533.667,9.11,25.32,16.68,37.91,True,All Matches
+6466,Atharwa Taide,1,1,1,0,4,0,0,0,0.1,0.167,24.0,,,0.0,False,All Matches
+6489,Darshan Nalkande,6,6,84,6,148,4,1,22,14.0,14.0,10.57,24.67,14.0,26.19,True,All Matches
+6503,Zahoor Khan,5,5,120,4,165,3,0,34,20.0,20.0,8.25,41.25,30.0,28.33,True,All Matches
+6506,Mohammad Imran Randhawa,3,3,72,6,63,4,0,34,12.0,12.0,5.25,10.5,12.0,47.22,True,All Matches
+6512,Michael Bracewell,41,41,678,39,889,23,0,238,113.0,113.0,7.87,22.79,17.38,35.1,True,All Matches
+6515,Benjamin Lister,12,12,245,11,338,13,0,87,40.5,40.833,8.28,30.73,22.27,35.51,True,All Matches
+6518,Daniel Sams,17,17,350,16,512,26,1,137,58.2,58.333,8.78,32.0,21.88,39.14,True,All Matches
+6523,Blessing Muzarabani,37,37,820,46,1028,23,3,348,136.4,136.667,7.52,22.35,17.83,42.44,True,All Matches
+6566,Matthew John Fisher,3,3,54,3,116,5,3,14,9.0,9.0,12.89,38.67,18.0,25.93,True,All Matches
+6574,Alick Athanaze,1,1,6,0,16,0,1,1,1.0,1.0,16.0,,,16.67,False,All Matches
+6591,KM Asif,4,4,84,3,137,6,1,28,14.0,14.0,9.79,45.67,28.0,33.33,True,All Matches
+6628,Gerald Coetzee,29,29,592,35,937,52,3,231,98.4,98.667,9.5,26.77,16.91,39.02,True,All Matches
+6643,Hasan Mahmud,20,20,396,22,515,15,1,152,66.0,66.0,7.8,23.41,18.0,38.38,True,All Matches
+6651,Towhid Hridoy,1,1,2,0,5,0,0,0,0.2,0.333,15.0,,,0.0,False,All Matches
+6664,Dion Myers,2,2,12,0,40,2,0,0,2.0,2.0,20.0,,,0.0,True,All Matches
+6669,Mohsin Khan,30,30,654,38,912,24,0,272,109.0,109.0,8.37,24.0,17.21,41.59,True,All Matches
+6671,Lalit Yadav,14,14,204,6,324,5,1,61,34.0,34.0,9.53,54.0,34.0,29.9,True,All Matches
+6676,Azmatullah Omarzai,65,65,1067,55,1547,51,0,409,177.5,177.833,8.7,28.13,19.4,38.33,True,All Matches
+6677,Mohammad Hasnain,10,10,222,8,355,13,3,80,37.0,37.0,9.59,44.38,27.75,36.04,True,All Matches
+6683,Mayank Markande,22,22,432,21,691,12,1,120,72.0,72.0,9.6,32.9,20.57,27.78,True,All Matches
+6697,Shams Mulani,2,2,30,0,57,3,0,7,5.0,5.0,11.4,,,23.33,True,All Matches
+6725,Sherfane Rutherford,2,2,18,1,43,3,0,3,3.0,3.0,14.33,43.0,18.0,16.67,True,All Matches
+6726,Romario Shepherd,92,92,1539,85,2679,114,4,436,256.3,256.5,10.44,31.52,18.11,28.33,True,All Matches
+6764,Bukkapatnam Siddharth,1,1,6,0,13,0,0,1,1.0,1.0,13.0,,,16.67,False,All Matches
+6772,Chetan Sakariya,6,6,132,6,211,12,1,38,22.0,22.0,9.59,35.17,22.0,28.79,True,All Matches
+6784,Hassan Mohammad,1,1,24,3,30,2,0,9,4.0,4.0,7.5,10.0,8.0,37.5,True,All Matches
+6795,Terrance Hinds,2,2,26,1,53,5,0,7,4.2,4.333,12.23,53.0,26.0,26.92,True,All Matches
+6797,Dominic Drakes,7,7,126,4,176,5,0,39,21.0,21.0,8.38,44.0,31.5,30.95,True,All Matches
+6806,Tushar Deshpande,50,50,1037,54,1721,78,6,366,172.5,172.833,9.96,31.87,19.2,35.29,True,All Matches
+6819,Yashasvi Jaiswal,2,2,7,0,17,0,0,1,1.1,1.167,14.57,,,14.29,False,All Matches
+6926,Matty Potts,1,1,24,2,48,8,1,6,4.0,4.0,12.0,24.0,12.0,25.0,True,All Matches
+6932,Pramod Madushan,7,7,145,13,206,11,1,35,24.1,24.167,8.52,15.85,11.15,24.14,True,All Matches
+6984,Saqib Zulfiqar,1,1,12,0,13,0,0,2,2.0,2.0,6.5,,,16.67,False,All Matches
+6985,Bas de Leede,4,4,72,4,109,6,0,21,12.0,12.0,9.08,27.25,18.0,29.17,True,All Matches
+6995,Saad Zafar,3,3,72,6,69,1,0,29,12.0,12.0,5.75,11.5,12.0,40.28,True,All Matches
+7001,Dilon Heyliger,3,3,54,3,109,3,1,16,9.0,9.0,12.11,36.33,18.0,29.63,True,All Matches
+7002,Nicholas Kirton,1,1,6,0,18,0,0,0,1.0,1.0,18.0,,,0.0,False,All Matches
+7008,Gus Atkinson,4,4,65,6,122,1,1,22,10.5,10.833,11.26,20.33,10.83,33.85,True,All Matches
+7049,Kamil Mishara,1,1,6,0,10,0,0,0,1.0,1.0,10.0,,,0.0,False,All Matches
+7052,Dunith Wellalage,16,16,332,20,447,6,1,126,55.2,55.333,8.08,22.35,16.6,37.95,True,All Matches
+7059,Nehal Wadhera,4,4,28,1,29,0,0,10,4.4,4.667,6.21,29.0,28.0,35.71,False,All Matches
+7060,Arjun Tendulkar,6,6,97,4,150,9,1,36,16.1,16.167,9.28,37.5,24.25,37.11,True,All Matches
+7094,Curtis Campher,29,29,396,9,564,17,1,117,66.0,66.0,8.55,62.67,44.0,29.55,True,All Matches
+7120,Rohit Paudel,3,3,42,1,49,1,0,18,7.0,7.0,7.0,49.0,42.0,42.86,True,All Matches
+7140,Senuran Muthusamy,2,2,42,1,58,1,0,21,7.0,7.0,8.29,58.0,42.0,50.0,True,All Matches
+7155,Sahan Arachchige,7,7,78,3,82,0,0,22,13.0,13.0,6.31,27.33,26.0,28.21,False,All Matches
+7201,Haroon Arshad,5,5,72,1,143,4,3,22,12.0,12.0,11.92,143.0,72.0,30.56,True,All Matches
+7227,Nijat Masood,3,3,66,4,95,3,2,14,11.0,11.0,8.64,23.75,16.5,21.21,True,All Matches
+7240,FazalHaq Farooqi,50,50,1027,46,1393,36,0,397,171.1,171.167,8.14,30.28,22.33,38.66,True,All Matches
+7241,Ziaur Rahman,2,2,48,5,81,1,1,17,8.0,8.0,10.12,16.2,9.6,35.42,True,All Matches
+7250,Mukesh Choudhary,24,24,483,25,771,28,1,198,80.3,80.5,9.58,30.84,19.32,40.99,True,All Matches
+7269,Sushant Mishra,2,2,38,2,67,9,0,15,6.2,6.333,10.58,33.5,19.0,39.47,True,All Matches
+7270,Anrich Nortje,39,39,836,36,1425,33,9,290,139.2,139.333,10.23,39.58,23.22,34.69,True,All Matches
+7312,Nandre Burger,22,22,441,22,701,24,3,174,73.3,73.5,9.54,31.86,20.05,39.46,True,All Matches
+7322,Yash Dayal,43,43,871,41,1386,39,10,307,145.1,145.167,9.55,33.8,21.24,35.25,True,All Matches
+7325,Harpreet Brar,38,38,667,32,912,11,1,218,111.1,111.167,8.2,28.5,20.84,32.68,True,All Matches
+7327,Rasikh Salam,28,28,542,38,865,27,2,177,90.2,90.333,9.58,22.76,14.26,32.66,True,All Matches
+7344,Shoriful Islam,39,39,790,41,1084,32,1,306,131.4,131.667,8.23,26.44,19.27,38.73,True,All Matches
+7354,Al Alis,1,1,24,2,29,1,0,13,4.0,4.0,7.25,14.5,12.0,54.17,True,All Matches
+7364,Haris Rauf,48,48,1027,76,1469,36,0,396,171.1,171.167,8.58,19.33,13.51,38.56,True,All Matches
+7403,Lalit Rajbanshi,2,2,30,2,19,1,0,14,5.0,5.0,3.8,9.5,15.0,46.67,True,All Matches
+7446,Abdul Samad,3,3,9,0,20,0,0,2,1.3,1.5,13.33,,,22.22,False,All Matches
+7472,Shahbaz Ahmed,42,42,535,18,933,17,2,139,89.1,89.167,10.46,51.83,29.72,25.98,True,All Matches
+7473,Akash Deep,14,14,278,10,544,20,4,89,46.2,46.333,11.74,54.4,27.8,32.01,True,All Matches
+7503,Ravi Bishnoi,109,109,2327,124,3223,90,12,831,387.5,387.833,8.31,25.99,18.77,35.71,True,All Matches
+7533,Simarjeet Singh,14,14,240,11,396,14,2,102,40.0,40.0,9.9,36.0,21.82,42.5,True,All Matches
+7544,Venkatesh Iyer,7,7,49,2,101,0,0,10,8.1,8.167,12.37,50.5,24.5,20.41,False,All Matches
+7545,Kuldeep Sen,12,12,241,14,386,12,2,83,40.1,40.167,9.61,27.57,17.21,34.44,True,All Matches
+7574,Kumar Kartikeya Singh,16,16,282,12,405,8,0,85,47.0,47.0,8.62,33.75,23.5,30.14,True,All Matches
+7625,Suryansh Shedge,4,4,60,0,119,2,3,13,10.0,10.0,11.9,,,21.67,True,All Matches
+7634,Aaron Jones,2,2,18,2,20,0,0,5,3.0,3.0,6.67,10.0,9.0,27.78,False,All Matches
+7689,Dilshan Madushanka,19,19,362,16,579,30,5,130,60.2,60.333,9.6,36.19,22.62,35.91,True,All Matches
+7690,Saim Ayub,32,32,510,26,606,12,1,196,85.0,85.0,7.13,23.31,19.62,38.43,True,All Matches
+7692,Qasim Akram,3,3,42,2,45,2,0,13,7.0,7.0,6.43,22.5,21.0,30.95,True,All Matches
+7696,Mohammad Wasim,17,17,355,17,509,19,0,136,59.1,59.167,8.6,29.94,20.88,38.31,True,All Matches
+7699,Abbas Afridi,25,25,453,40,630,19,2,170,75.3,75.5,8.34,15.75,11.32,37.53,True,All Matches
+7702,Chamindu Wickramasinghe,3,3,42,1,55,1,0,18,7.0,7.0,7.86,55.0,42.0,42.86,True,All Matches
+7704,Pavan Rathnayake,1,1,12,2,11,0,0,4,2.0,2.0,5.5,5.5,6.0,33.33,False,All Matches
+7709,Ainsley Ndlovu,5,5,66,2,95,2,0,26,11.0,11.0,8.64,47.5,33.0,39.39,True,All Matches
+7710,Brandon Glover,1,1,12,0,24,7,0,2,2.0,2.0,12.0,,,16.67,True,All Matches
+7741,Gareth Delany,35,35,552,30,702,14,0,181,92.0,92.0,7.63,23.4,18.4,32.79,True,All Matches
+7755,Harsh Thaker,3,3,48,2,72,0,0,14,8.0,8.0,9.0,36.0,24.0,29.17,False,All Matches
+7756,Kaleem Sana,3,3,67,4,68,0,0,30,11.1,11.167,6.09,17.0,16.75,44.78,False,All Matches
+7808,Marco Jansen,60,60,1317,58,2100,68,14,488,219.3,219.5,9.57,36.21,22.71,37.05,True,All Matches
+7896,Akash Singh,11,11,223,13,363,9,0,84,37.1,37.167,9.77,27.92,17.15,37.67,True,All Matches
+7897,Namboori Tilak Varma,12,12,85,3,107,3,0,34,14.1,14.167,7.55,35.67,28.33,40.0,True,All Matches
+7903,Shamim Hossain,10,10,103,3,143,0,1,24,17.1,17.167,8.33,47.67,34.33,23.3,False,All Matches
+7905,Tanzim Sakib,31,31,677,36,993,25,3,260,112.5,112.833,8.8,27.58,18.81,38.4,True,All Matches
+7906,Rakibul Hasan,8,8,180,9,197,2,0,74,30.0,30.0,6.57,21.89,20.0,41.11,True,All Matches
+7912,Vikramjit Singh,4,4,45,4,61,1,0,14,7.3,7.5,8.13,15.25,11.25,31.11,True,All Matches
+7914,Clayton Floyd,2,2,36,1,51,0,0,16,6.0,6.0,8.5,51.0,36.0,44.44,False,All Matches
+7916,Karima Gore,1,1,18,0,21,2,0,9,3.0,3.0,7.0,,,50.0,True,All Matches
+7920,Nathan Ellis,43,43,916,58,1259,39,4,319,152.4,152.667,8.25,21.71,15.79,34.83,True,All Matches
+7927,Janak Prakash,3,3,54,5,83,5,0,19,9.0,9.0,9.22,16.6,10.8,35.19,True,All Matches
+7928,Vinoth Baskaran,3,3,65,6,91,0,0,22,10.5,10.833,8.4,15.17,10.83,33.85,False,All Matches
+7929,Aryaman Sunil Uchil,2,2,42,1,57,3,0,14,7.0,7.0,8.14,57.0,42.0,33.33,True,All Matches
+7935,Mohammad Ghazanfar,5,5,108,4,130,0,0,29,18.0,18.0,7.22,32.5,27.0,26.85,False,All Matches
+7937,Wasim Ali,4,4,84,4,97,5,0,37,14.0,14.0,6.93,24.25,21.0,44.05,True,All Matches
+7942,Jay Odedara,3,3,54,3,74,0,0,28,9.0,9.0,8.22,24.67,18.0,51.85,False,All Matches
+7945,Nasrulla Rana,5,5,72,2,128,8,0,17,12.0,12.0,10.67,64.0,36.0,23.61,True,All Matches
+7966,Farmanullah Safi,2,2,36,1,40,1,0,13,6.0,6.0,6.67,40.0,36.0,36.11,True,All Matches
+7967,Noor Ahmad,70,70,1467,85,1938,65,5,504,244.3,244.5,7.93,22.8,17.26,34.36,True,All Matches
+8005,Zawar Farid,4,4,78,2,108,2,0,23,13.0,13.0,8.31,54.0,39.0,29.49,True,All Matches
+8009,Junaid Siddique,15,15,330,27,474,23,1,125,55.0,55.0,8.62,17.56,12.22,37.88,True,All Matches
+8033,Abdul Rahmani,3,3,60,5,81,2,1,23,10.0,10.0,8.1,16.2,12.0,38.33,True,All Matches
+8049,Naseem Shah,27,27,576,26,832,27,5,225,96.0,96.0,8.67,32.0,22.15,39.06,True,All Matches
+8093,Nikhil Chaudhary,3,3,42,2,48,2,0,20,7.0,7.0,6.86,24.0,21.0,47.62,True,All Matches
+8141,Auqib Nabi,5,5,78,0,149,3,3,24,13.0,13.0,11.46,,,30.77,True,All Matches
+8177,Akash Madhwal,17,17,352,23,586,17,7,105,58.4,58.667,9.99,25.48,15.3,29.83,True,All Matches
+8182,Donovan Ferreira,9,9,109,3,175,6,0,29,18.1,18.167,9.63,58.33,36.33,26.61,True,All Matches
+8221,Nitish Reddy,39,39,565,27,977,26,4,157,94.1,94.167,10.38,36.19,20.93,27.79,True,All Matches
+8266,Sumit Kumar 1,2,2,20,0,38,2,0,4,3.2,3.333,11.4,,,20.0,True,All Matches
+8295,Matthew Forde,21,21,408,20,636,18,1,151,68.0,68.0,9.35,31.8,20.4,37.01,True,All Matches
+8298,Ramon Simmonds,4,4,78,6,104,3,0,30,13.0,13.0,8.0,17.33,13.0,38.46,True,All Matches
+8311,Dan Mousley,4,4,54,2,78,1,0,24,9.0,9.0,8.67,39.0,27.0,44.44,True,All Matches
+8326,Jayden Seales,9,9,180,7,311,5,1,57,30.0,30.0,10.37,44.43,25.71,31.67,True,All Matches
+8380,Mohammad Rishad Hossain,49,49,1018,61,1432,15,0,348,169.4,169.667,8.44,23.48,16.69,34.18,True,All Matches
+8389,Jayden Lennox,1,1,18,1,28,0,0,7,3.0,3.0,9.33,28.0,18.0,38.89,False,All Matches
+8424,Tanveer Sangha,7,7,168,10,249,3,0,45,28.0,28.0,8.89,24.9,16.8,26.79,True,All Matches
+8530,Kartik Tyagi,19,19,415,20,720,16,10,141,69.1,69.167,10.41,36.0,20.75,33.98,True,All Matches
+8580,Yudhvir Singh,9,9,138,8,250,6,1,54,23.0,23.0,10.87,31.25,17.25,39.13,True,All Matches
+8611,Adithya Ashok,1,1,24,1,28,1,0,9,4.0,4.0,7.0,28.0,24.0,37.5,True,All Matches
+8614,William ORourke,8,8,182,11,272,10,3,63,30.2,30.333,8.97,24.73,16.55,34.62,True,All Matches
+8623,Kristian Clarke,1,1,24,1,40,0,0,8,4.0,4.0,10.0,40.0,24.0,33.33,False,All Matches
+8632,Aaqib Khan,2,2,48,2,86,2,0,17,8.0,8.0,10.75,43.0,24.0,35.42,True,All Matches
+8634,Ashwani Kumar,10,10,183,17,334,11,2,57,30.3,30.5,10.95,19.65,10.76,31.15,True,All Matches
+8638,Basil Hameed,8,8,138,7,194,2,0,39,23.0,23.0,8.43,27.71,19.71,28.26,True,All Matches
+8639,Kartik Meiyappan,4,4,96,6,99,4,0,39,16.0,16.0,6.19,16.5,16.0,40.62,True,All Matches
+8654,Cooper Connolly,7,7,114,3,177,4,0,41,19.0,19.0,9.32,59.0,38.0,35.96,True,All Matches
+8661,Matheesha Pathirana,54,54,1132,82,1630,138,9,386,188.4,188.667,8.64,19.88,13.8,34.1,True,All Matches
+8664,Victor Nyauchi,1,1,24,3,29,0,0,9,4.0,4.0,7.25,9.67,8.0,37.5,False,All Matches
+8719,Aryan Lakra,1,1,18,1,14,0,0,9,3.0,3.0,4.67,14.0,18.0,50.0,False,All Matches
+8723,Mohammed Faraazuddin,5,5,78,3,148,0,0,18,13.0,13.0,11.38,49.33,26.0,23.08,False,All Matches
+8726,Alishan Sharafu,1,1,1,0,3,0,0,0,0.1,0.167,18.0,,,0.0,False,All Matches
+8727,Sanchit Sharma,3,3,36,0,56,0,0,20,6.0,6.0,9.33,,,55.56,False,All Matches
+8743,Muhammad Shehzad,1,1,12,1,4,1,0,8,2.0,2.0,2.0,4.0,12.0,66.67,True,All Matches
+8746,Vaibhav Arora,44,44,896,48,1450,58,10,319,149.2,149.333,9.71,30.21,18.67,35.6,True,All Matches
+8763,Duan Jansen,1,1,24,1,53,4,0,6,4.0,4.0,13.25,53.0,24.0,25.0,True,All Matches
+8805,Ottneil Baartman,16,16,323,23,492,20,0,126,53.5,53.833,9.14,21.39,14.04,39.01,True,All Matches
+15269,Mohammed Aslam,3,3,48,0,54,0,0,18,8.0,8.0,6.75,,,37.5,False,All Matches
+15279,Shiraz Khan,3,3,66,4,71,2,0,27,11.0,11.0,6.45,17.75,16.5,40.91,True,All Matches
+15280,Sayed Monib,3,3,66,3,89,6,0,23,11.0,11.0,8.09,29.67,22.0,34.85,True,All Matches
+16498,Sultan Ahmad,2,2,45,1,36,0,0,25,7.3,7.5,4.8,36.0,45.0,55.56,False,All Matches
+17424,Graham Hume,10,10,188,11,301,11,1,71,31.2,31.333,9.61,27.36,17.09,37.77,True,All Matches
+17430,Conor Olphert,2,2,30,0,65,6,1,8,5.0,5.0,13.0,,,26.67,True,All Matches
+17898,Bilal Sami,7,7,141,12,200,7,0,63,23.3,23.5,8.51,16.67,11.75,44.68,True,All Matches
+17911,Nangeyalia Kharote,7,7,138,5,152,2,0,57,23.0,23.0,6.61,30.4,27.6,41.3,True,All Matches
+17918,Abdullah Tarakhail,1,1,18,2,14,2,1,12,3.0,3.0,4.67,7.0,9.0,66.67,True,All Matches
+17919,Mohammad Saleem Safi,1,1,18,0,43,3,1,3,3.0,3.0,14.33,,,16.67,True,All Matches
+17937,Zubaid Akbari,2,2,24,0,26,1,0,7,4.0,4.0,6.5,,,29.17,True,All Matches
+19020,Ateeq Iqbal,9,9,159,7,201,4,0,69,26.3,26.5,7.58,28.71,22.71,43.4,True,All Matches
+19124,Anas Khan,1,1,23,6,12,0,0,12,3.5,3.833,3.13,2.0,3.83,52.17,False,All Matches
+19125,Ayush Shukla,10,10,180,10,289,10,3,66,30.0,30.0,9.63,28.9,18.0,36.67,True,All Matches
+19145,Aamer Jamal,4,4,72,2,140,4,1,21,12.0,12.0,11.67,70.0,36.0,29.17,True,All Matches
+19147,Faraz Akram,6,6,99,1,167,13,0,23,16.3,16.5,10.12,167.0,99.0,23.23,True,All Matches
+19307,Tharindu Rathnayake,2,2,24,2,53,2,0,4,4.0,4.0,13.25,26.5,12.0,16.67,True,All Matches
+19312,Nuwan Thushara,38,38,775,36,1144,42,7,251,129.1,129.167,8.86,31.78,21.53,32.39,True,All Matches
+19315,Vijayakanth Viyaskanth,7,7,156,7,176,1,0,58,26.0,26.0,6.77,25.14,22.29,37.18,True,All Matches
+19316,Maheesh Theekshana,99,99,2264,93,2913,53,4,759,377.2,377.333,7.72,31.32,24.34,33.52,True,All Matches
+19530,Shahnawaz Dhani,12,12,236,12,322,8,0,104,39.2,39.333,8.19,26.83,19.67,44.07,True,All Matches
+19535,Rejaur Rahman Raja,2,2,48,3,70,0,1,12,8.0,8.0,8.75,23.33,16.0,25.0,False,All Matches
+19754,Raja Khan,2,2,48,1,82,3,0,15,8.0,8.0,10.25,82.0,48.0,31.25,True,All Matches
+19781,Mitchell Owen,4,4,30,2,58,3,0,7,5.0,5.0,11.6,29.0,15.0,23.33,True,All Matches
+19892,Theo van Woerkom,1,1,6,0,10,1,0,2,1.0,1.0,10.0,,,33.33,True,All Matches
+19902,Tim Pringle,7,7,132,8,151,2,0,55,22.0,22.0,6.86,18.88,16.5,41.67,True,All Matches
+19969,Mubasir Khan,1,1,18,0,42,0,0,3,3.0,3.0,14.0,,,16.67,False,All Matches
+19998,Rajvardhan Hangargekar,2,2,36,3,60,6,1,14,6.0,6.0,10.0,20.0,12.0,38.89,True,All Matches
+20005,Arshad Khan,25,25,376,18,689,36,1,137,62.4,62.667,10.99,38.28,20.89,36.44,True,All Matches
+20006,Ramandeep Singh,13,13,148,13,233,19,0,43,24.4,24.667,9.45,17.92,11.38,29.05,True,All Matches
+20175,Nandan Yadav,1,1,6,1,6,2,0,4,1.0,1.0,6.0,6.0,6.0,66.67,True,All Matches
+20229,Mohammad Ali,3,3,42,1,86,1,1,19,7.0,7.0,12.29,86.0,42.0,45.24,True,All Matches
+20310,Ahmed Daniyal,8,8,171,10,149,6,0,92,28.3,28.5,5.23,14.9,17.1,53.8,True,All Matches
+20316,Shahab Alam,1,1,12,0,23,1,0,4,2.0,2.0,11.5,,,33.33,True,All Matches
+20693,Kuldip Yadav,2,2,42,2,68,0,0,9,7.0,7.0,9.71,34.0,21.0,21.43,False,All Matches
+20702,Tristan Stubbs,7,7,48,4,110,1,1,13,8.0,8.0,13.75,27.5,12.0,27.08,True,All Matches
+20704,Salman Mirza,15,15,328,21,374,10,1,158,54.4,54.667,6.84,17.81,15.62,48.17,True,All Matches
+20894,Aman Khan,1,1,6,0,13,0,0,1,1.0,1.0,13.0,,,16.67,False,All Matches
+20989,Vivrant Sharma,2,2,18,0,37,2,1,5,3.0,3.0,12.33,,,27.78,True,All Matches
+21196,Mohammad Waheed,1,1,24,2,31,0,0,9,4.0,4.0,7.75,15.5,12.0,37.5,False,All Matches
+21780,Ernest Masuku,3,3,60,5,103,3,0,24,10.0,10.0,10.3,20.6,12.0,40.0,True,All Matches
+21784,Brad Evans,21,21,438,31,657,14,5,160,73.0,73.0,9.0,21.19,14.13,36.53,True,All Matches
+21786,Tanaka Chivanga,2,2,27,0,51,3,1,11,4.3,4.5,11.33,,,40.74,True,All Matches
+22134,Luke Jongwe,18,18,330,19,510,19,5,85,55.0,55.0,9.27,26.84,17.37,25.76,True,All Matches
+22137,Fionn Hand,10,10,134,6,218,7,2,47,22.2,22.333,9.76,36.33,22.33,35.07,True,All Matches
+22187,Ryan Klein,2,2,24,1,45,0,0,5,4.0,4.0,11.25,45.0,24.0,20.83,False,All Matches
+22188,Aryan Dutt,7,7,140,5,143,1,1,69,23.2,23.333,6.13,28.6,28.0,49.29,True,All Matches
+22471,Matthew Humphreys,14,14,305,20,359,10,0,123,50.5,50.833,7.06,17.95,15.25,40.33,True,All Matches
+22565,Muhammad Waseem,2,2,17,0,45,0,2,2,2.5,2.833,15.88,,,11.76,False,All Matches
+22920,Jacob Duffy,42,42,877,62,1277,51,5,380,146.1,146.167,8.74,20.6,14.15,43.33,True,All Matches
+23311,Jacob Bethell,5,5,87,8,122,3,0,27,14.3,14.5,8.41,15.25,10.88,31.03,True,All Matches
+23467,Gurjapneet Singh,12,12,241,11,343,16,0,83,40.1,40.167,8.54,31.18,21.91,34.44,True,All Matches
+24017,Brian Bennett,16,16,132,7,187,4,1,53,22.0,22.0,8.5,26.71,18.86,40.15,True,All Matches
+24346,Mohamed Shafeeq,3,3,63,2,82,6,0,23,10.3,10.5,7.81,41.0,31.5,36.51,True,All Matches
+24372,Muzahir Raza,5,5,90,5,132,6,0,36,15.0,15.0,8.8,26.4,18.0,40.0,True,All Matches
+24381,Shariz Ahmad,3,3,36,2,55,0,0,9,6.0,6.0,9.17,27.5,18.0,25.0,False,All Matches
+24473,Sonny Baker,4,4,95,6,96,3,0,56,15.5,15.833,6.06,16.0,15.83,58.95,True,All Matches
+24475,Rehan Ahmed,11,11,210,13,333,1,0,61,35.0,35.0,9.51,25.62,16.15,29.05,True,All Matches
+24767,Ripon Mondol,10,10,228,19,287,7,1,92,38.0,38.0,7.55,15.11,12.0,40.35,True,All Matches
+24779,Ijaz Ahmadzai,1,1,6,0,16,1,0,1,1.0,1.0,16.0,,,16.67,True,All Matches
+24812,Chris Greaves,4,4,54,3,79,0,0,11,9.0,9.0,8.78,26.33,18.0,20.37,False,All Matches
+24887,Innocent Kaia,1,1,6,0,4,0,0,3,1.0,1.0,4.0,,,50.0,False,All Matches
+24978,Jack Jarvis,2,2,22,1,67,0,0,3,3.4,3.667,18.27,67.0,22.0,13.64,False,All Matches
+25011,Liam Mccarthy,3,3,66,1,132,4,0,14,11.0,11.0,12.0,132.0,66.0,21.21,True,All Matches
+25030,Zaman Khan,12,12,231,10,296,9,3,87,38.3,38.5,7.69,29.6,23.1,37.66,True,All Matches
+25048,Umran Malik,31,31,560,38,907,32,8,224,93.2,93.333,9.72,23.87,14.74,40.0,True,All Matches
+25128,Nqabayomzi Peter,9,9,162,7,250,7,1,51,27.0,27.0,9.26,35.71,23.14,31.48,True,All Matches
+25132,Praful Hinge,7,7,156,14,305,9,3,60,26.0,26.0,11.73,21.79,11.14,38.46,True,All Matches
+25138,Harsh Dubey,15,15,264,17,400,9,0,81,44.0,44.0,9.09,23.53,15.53,30.68,True,All Matches
+25213,Dewald Brevis,1,1,3,1,8,0,0,1,0.3,0.5,16.0,8.0,3.0,33.33,False,All Matches
+25216,Andile Simelane,6,6,108,5,195,4,2,27,18.0,18.0,10.83,39.0,21.6,25.0,True,All Matches
+25231,Samay Shrivastava,9,9,150,3,221,8,0,54,25.0,25.0,8.84,73.67,50.0,36.0,True,All Matches
+25341,Mahfuzur Rabby,3,3,66,2,55,1,0,28,11.0,11.0,5.0,27.5,33.0,42.42,True,All Matches
+25502,Adnan Idrees,1,1,12,1,16,0,0,4,2.0,2.0,8.0,16.0,12.0,33.33,False,All Matches
+25507,Edson Silva,2,2,18,0,38,0,0,5,3.0,3.0,12.67,,,27.78,False,All Matches
+25809,Juanoy Drysdale,3,3,60,2,80,3,0,20,10.0,10.0,8.0,40.0,30.0,33.33,True,All Matches
+26514,Nimesh Vimukthi,4,4,96,1,140,7,0,29,16.0,16.0,8.75,140.0,96.0,30.21,True,All Matches
+26519,Janith Liyanage,1,1,8,0,18,0,0,2,1.2,1.333,13.5,,,25.0,False,All Matches
+26530,Treveen Mathew,3,3,72,7,68,5,0,33,12.0,12.0,5.67,9.71,10.29,45.83,True,All Matches
+26663,Kwena Maphaka,16,16,305,15,544,21,7,102,50.5,50.833,10.7,36.27,20.33,33.44,True,All Matches
+26795,Joel Davies,3,3,48,4,58,2,0,22,8.0,8.0,7.25,14.5,12.0,45.83,True,All Matches
+26830,Nishant Kumar Sindhu,3,3,36,3,44,0,0,12,6.0,6.0,7.33,14.67,12.0,33.33,False,All Matches
+26834,Raj Bawa,2,2,24,2,49,7,1,7,4.0,4.0,12.25,24.5,12.0,29.17,True,All Matches
+26843,Maaz Sadaqat,4,4,72,7,52,0,0,39,12.0,12.0,4.33,7.43,10.29,54.17,False,All Matches
+26854,SM Meherob Hasan,5,5,120,5,138,3,0,46,20.0,20.0,6.9,27.6,24.0,38.33,True,All Matches
+26916,Yasir Mohammad,3,3,48,1,74,0,0,10,8.0,8.0,9.25,74.0,48.0,20.83,False,All Matches
+26988,Jitenkumar Ramanandi,2,2,48,4,57,1,0,15,8.0,8.0,7.12,14.25,12.0,31.25,True,All Matches
+27004,Hassnain Shah,2,2,42,1,65,1,0,11,7.0,7.0,9.29,65.0,42.0,26.19,True,All Matches
+27059,Karan Sonavale,1,1,6,1,9,0,0,3,1.0,1.0,9.0,9.0,6.0,50.0,False,All Matches
+27259,Jishan Alam,3,3,18,1,28,0,0,5,3.0,3.0,9.33,28.0,18.0,27.78,False,All Matches
+27364,Simranjeet Kang,3,3,51,4,56,6,1,19,8.3,8.5,6.59,14.0,12.75,37.25,True,All Matches
+27373,Muhammad Farooq,5,5,96,8,121,7,0,35,16.0,16.0,7.56,15.12,12.0,36.46,True,All Matches
+27380,Harshit Kaushik,6,6,66,0,124,2,0,12,11.0,11.0,11.27,,,18.18,True,All Matches
+27390,Matiullah Khan,3,3,60,3,117,4,3,17,10.0,10.0,11.7,39.0,20.0,28.33,True,All Matches
+27391,Vishnu Sukumaran,1,1,12,1,8,2,0,6,2.0,2.0,4.0,8.0,12.0,50.0,True,All Matches
+27460,Ali Naseer,2,2,36,1,65,1,0,5,6.0,6.0,10.83,65.0,36.0,13.89,True,All Matches
+27464,Aayan Afzal Khan,7,7,144,8,177,0,0,53,24.0,24.0,7.38,22.12,18.0,36.81,False,All Matches
+27465,Nilansh Keswani,1,1,24,1,31,0,0,7,4.0,4.0,7.75,31.0,24.0,29.17,False,All Matches
+27466,Dhruv Parashar,11,11,210,4,293,7,0,77,35.0,35.0,8.37,73.25,52.5,36.67,True,All Matches
+27504,Dushan Hemantha,8,8,188,19,219,2,0,72,31.2,31.333,6.99,11.53,9.89,38.3,True,All Matches
+27516,Ihsanullah Ihsanullah,4,4,89,6,108,5,2,34,14.5,14.833,7.28,18.0,14.83,38.2,True,All Matches
+27743,DT Doram,9,9,192,9,238,0,0,70,32.0,32.0,7.44,26.44,21.33,36.46,False,All Matches
+27956,Prashant Solanki,2,2,36,2,38,0,0,11,6.0,6.0,6.33,19.0,18.0,30.56,False,All Matches
+27959,Hrithik Shokeen,13,13,204,5,310,7,2,78,34.0,34.0,9.12,62.0,40.8,38.24,True,All Matches
+27960,Mayank Yadav,22,22,493,26,767,26,7,215,82.1,82.167,9.33,29.5,18.96,43.61,True,All Matches
+27964,Anshul Kamboj,28,28,545,35,906,15,7,206,90.5,90.833,9.97,25.89,15.57,37.8,True,All Matches
+27970,Gurnoor Brar,1,1,18,0,42,1,2,7,3.0,3.0,14.0,,,38.89,True,All Matches
+28018,Ashok Sharma,8,8,174,7,276,12,1,72,29.0,29.0,9.52,39.43,24.86,41.38,True,All Matches
+28021,Saurabh Dubey,4,4,77,5,102,10,0,37,12.5,12.833,7.95,20.4,15.4,48.05,True,All Matches
+28655,Muhammad Rohid,9,9,178,8,255,11,0,80,29.4,29.667,8.6,31.88,22.25,44.94,True,All Matches
+28664,Zahid Ali,1,1,12,0,22,6,0,5,2.0,2.0,11.0,,,41.67,True,All Matches
+28756,Haider Ali,12,12,270,15,288,3,0,117,45.0,45.0,6.4,19.2,18.0,43.33,True,All Matches
+28908,Vincent Masekesa,2,2,19,1,27,0,0,6,3.1,3.167,8.53,27.0,19.0,31.58,False,All Matches
+28911,John Masara,1,1,6,0,5,0,0,1,1.0,1.0,5.0,,,16.67,False,All Matches
+28915,Trevor Gwandu,8,8,150,9,219,11,1,47,25.0,25.0,8.76,24.33,16.67,31.33,True,All Matches
+29066,Zakary Foulkes,18,18,364,20,572,30,7,142,60.4,60.667,9.43,28.6,18.2,39.01,True,All Matches
+29075,Aadil Ansari,2,2,36,4,48,2,0,11,6.0,6.0,8.0,12.0,9.0,30.56,True,All Matches
+29080,Muhammad Khan,4,4,96,9,168,10,1,29,16.0,16.0,10.5,18.67,10.67,30.21,True,All Matches
+29558,Muhammad Arfan,5,5,102,5,132,7,0,36,17.0,17.0,7.76,26.4,20.4,35.29,True,All Matches
+29699,Ibrahim Takahashi,1,1,12,1,13,1,0,4,2.0,2.0,6.5,13.0,12.0,33.33,True,All Matches
+29833,Bashir Ahmad,1,1,18,0,38,2,0,4,3.0,3.0,12.67,,,22.22,True,All Matches
+29888,Harshit Rana,44,44,901,56,1437,34,5,346,150.1,150.167,9.57,25.66,16.09,38.4,True,All Matches
+30925,Bradley Currie,5,5,108,8,125,4,0,43,18.0,18.0,6.94,15.62,13.5,39.81,True,All Matches
+31107,Yasin Patel,3,3,72,4,77,0,0,30,12.0,12.0,6.42,19.25,18.0,41.67,False,All Matches
+31227,Vidhwath Kaverappa,1,1,24,2,36,0,0,11,4.0,4.0,9.0,18.0,12.0,45.83,False,All Matches
+31513,Ethan Dsouza,2,2,24,1,36,0,1,8,4.0,4.0,9.0,36.0,24.0,33.33,False,All Matches
+31835,Akshay Roopak Puri,3,3,60,4,76,0,0,19,10.0,10.0,7.6,19.0,15.0,31.67,False,All Matches
+32244,Tripurana Vijay,1,1,12,0,29,0,0,2,2.0,2.0,14.5,,,16.67,False,All Matches
+32401,Akhil Kumar,2,2,24,0,27,0,0,11,4.0,4.0,6.75,,,45.83,False,All Matches
+32705,Faridoon Dawoodzai,4,4,75,5,108,3,0,33,12.3,12.5,8.64,21.6,15.0,44.0,True,All Matches
+32862,Allah Ghazanfar,22,22,461,28,613,6,0,191,76.5,76.833,7.98,21.89,16.46,41.43,True,All Matches
+33009,John Turner,2,2,36,1,64,1,0,13,6.0,6.0,10.67,64.0,36.0,36.11,True,All Matches
+33114,Milan Rathnayake,4,4,78,4,117,3,0,28,13.0,13.0,9.0,29.25,19.5,35.9,True,All Matches
+33440,Adwitya Bhargava,1,1,12,1,14,1,0,7,2.0,2.0,7.0,14.0,12.0,58.33,True,All Matches
+33443,Sabir Ali,3,3,48,3,70,3,1,23,8.0,8.0,8.75,23.33,16.0,47.92,True,All Matches
+33969,Tinotenda Maposa,12,12,176,4,288,9,2,57,29.2,29.333,9.82,72.0,44.0,32.39,True,All Matches
+34466,Arafat Minhas,8,8,132,7,113,1,1,60,22.0,22.0,5.14,16.14,18.86,45.45,True,All Matches
+34485,Sufiyan Muqeem,25,25,518,39,518,6,1,227,86.2,86.333,6.0,13.28,13.28,43.82,True,All Matches
+34522,Brandon McMullen,3,3,48,1,65,2,2,29,8.0,8.0,8.12,65.0,48.0,60.42,True,All Matches
+34527,Jasper John Davidson,1,1,6,0,15,0,0,0,1.0,1.0,15.0,,,0.0,False,All Matches
+34546,Aryan Bisht,1,1,23,1,24,0,0,7,3.5,3.833,6.26,24.0,23.0,30.43,False,All Matches
+34880,Saad Masood,4,4,90,8,109,2,1,43,15.0,15.0,7.27,13.62,11.25,47.78,True,All Matches
+34969,Manav Suthar,4,4,48,2,94,2,0,17,8.0,8.0,11.75,47.0,24.0,35.42,True,All Matches
+35072,Ramakrishna Ghosh,1,1,18,1,24,0,0,6,3.0,3.0,8.0,24.0,18.0,33.33,False,All Matches
+35102,Zikria Islam,3,3,30,0,51,1,0,6,5.0,5.0,10.2,,,20.0,True,All Matches
+35120,Narayan Saishiv,1,1,6,0,20,0,0,1,1.0,1.0,20.0,,,16.67,False,All Matches
+35122,Shah Faisal,3,3,72,5,101,6,0,34,12.0,12.0,8.42,20.2,14.4,47.22,True,All Matches
+35318,Sakib Hussain,11,11,252,15,393,21,1,86,42.0,42.0,9.36,26.2,16.8,34.13,True,All Matches
+36551,Zishan Motara,1,1,6,0,13,0,0,2,1.0,1.0,13.0,,,33.33,False,All Matches
+36553,Jediah Blades,6,6,119,6,177,11,1,53,19.5,19.833,8.92,29.5,19.83,44.54,True,All Matches
+36981,Himanshu Sharma,2,2,30,0,57,0,0,2,5.0,5.0,11.4,,,6.67,False,All Matches
+36982,Suyash Sharma,43,43,899,31,1293,25,1,291,149.5,149.833,8.63,41.71,29.0,32.37,True,All Matches
+36983,Mohit Rathee,1,1,12,0,29,0,0,3,2.0,2.0,14.5,,,25.0,False,All Matches
+36984,Raghav Goyal,1,1,24,0,33,0,0,6,4.0,4.0,8.25,,,25.0,False,All Matches
+37052,Naman Dhir,15,15,162,7,283,7,0,47,27.0,27.0,10.48,40.43,23.14,29.01,True,All Matches
+37572,Shafiq Jan,3,3,72,4,111,2,1,25,12.0,12.0,9.25,27.75,18.0,34.72,True,All Matches
+37731,Musheer Khan,1,1,12,1,27,0,0,1,2.0,2.0,13.5,27.0,12.0,8.33,False,All Matches
+37939,Nahid Rana,5,5,93,8,143,5,3,41,15.3,15.5,9.23,17.88,11.62,44.09,True,All Matches
+38044,Mahli Beardman,1,1,24,2,33,1,1,8,4.0,4.0,8.25,16.5,12.0,33.33,True,All Matches
+38050,Isitha Wijesundera,2,2,30,1,60,2,0,9,5.0,5.0,12.0,60.0,30.0,30.0,True,All Matches
+38855,Mohammad Saifuddin,21,21,442,26,657,28,5,149,73.4,73.667,8.92,25.27,17.0,33.71,True,All Matches
+39444,Basil Hameed,3,3,30,0,58,0,0,4,5.0,5.0,11.6,,,13.33,False,All Matches
+39637,Garuka Sanketh,4,4,78,2,117,9,0,20,13.0,13.0,9.0,58.5,39.0,25.64,True,All Matches
+39638,Vishen Halambage,1,1,6,0,8,1,0,2,1.0,1.0,8.0,,,33.33,True,All Matches
+39657,Eshan Malinga,44,44,922,55,1387,65,2,312,153.4,153.667,9.03,25.22,16.76,33.84,True,All Matches
+39991,Parveen Kumar,2,2,48,2,32,1,0,29,8.0,8.0,4.0,16.0,24.0,60.42,True,All Matches
+41503,Yash Punja,8,8,180,9,279,6,0,47,30.0,30.0,9.3,31.0,20.0,26.11,True,All Matches
+42548,Muhammad Jawadullah,13,13,271,16,404,12,2,99,45.1,45.167,8.94,25.25,16.94,36.53,True,All Matches
+43917,Krish Bhagat,3,3,36,0,63,0,0,15,6.0,6.0,10.5,,,41.67,False,All Matches
+45381,PV Satyanarayan Raju,2,2,24,1,53,5,0,3,4.0,4.0,13.25,53.0,24.0,12.5,True,All Matches
+45457,Zach Lion Cachet,4,4,70,4,80,0,0,24,11.4,11.667,6.86,20.0,17.5,34.29,False,All Matches
+45966,Prashant Veer,1,1,12,0,25,0,0,5,2.0,2.0,12.5,,,41.67,False,All Matches
+46066,Vipraj Nigam,18,18,288,13,468,8,5,85,48.0,48.0,9.75,36.0,22.15,29.51,True,All Matches
+46378,Kyle Klein,8,8,163,14,236,9,1,75,27.1,27.167,8.69,16.86,11.64,46.01,True,All Matches
+46929,Dian Forrester,1,1,6,0,4,0,0,3,1.0,1.0,4.0,,,50.0,False,All Matches
+46982,Shahid Aziz,4,4,78,5,117,6,0,35,13.0,13.0,9.0,23.4,15.6,44.87,True,All Matches
+47017,Mohammad Jnr,3,3,63,2,98,5,0,28,10.3,10.5,9.33,49.0,31.5,44.44,True,All Matches
+47050,Shamar Joseph,24,24,471,31,792,35,9,158,78.3,78.5,10.09,25.55,15.19,33.55,True,All Matches
+47371,Zuhaid Zubair,1,1,18,1,36,1,0,7,3.0,3.0,12.0,36.0,18.0,38.89,True,All Matches
+47403,Newman Nyamhuri,5,5,83,5,125,13,0,39,13.5,13.833,9.04,25.0,16.6,46.99,True,All Matches
+47542,Charles Hinze,1,1,12,2,16,1,0,6,2.0,2.0,8.0,8.0,6.0,50.0,True,All Matches
+47694,Omid Rahman,3,3,60,2,106,0,0,20,10.0,10.0,10.6,53.0,30.0,33.33,False,All Matches
+47724,Jahandad Khan,8,8,108,7,211,2,1,38,18.0,18.0,11.72,30.14,15.43,35.19,True,All Matches
+48278,Ubaid Shah,4,4,72,5,101,9,0,34,12.0,12.0,8.42,20.2,14.4,47.22,True,All Matches
+48557,Vignesh Puthur,5,5,72,6,109,1,0,24,12.0,12.0,9.08,18.17,12.0,33.33,True,All Matches
+48616,Abdul Saqlain,8,8,182,9,241,2,1,62,30.2,30.333,7.95,26.78,20.22,34.07,True,All Matches
+50062,Nqobani Mokoena,3,3,63,3,72,4,0,24,10.3,10.5,6.86,24.0,21.0,38.1,True,All Matches
+52338,Usman Tariq,3,3,64,8,60,2,0,26,10.4,10.667,5.62,7.5,8.0,40.62,True,All Matches
+54404,Benjamin Ito,1,1,6,1,2,0,0,5,1.0,1.0,2.0,2.0,6.0,83.33,False,All Matches
+56685,Abdullah Ahmadzai,12,12,223,16,350,10,2,77,37.1,37.167,9.42,21.88,13.94,34.53,True,All Matches
+56817,Shivang Kumar,13,13,234,9,375,6,0,62,39.0,39.0,9.62,41.67,26.0,26.5,True,All Matches
+56830,Madhav Tiwari,4,4,66,4,101,9,0,19,11.0,11.0,9.18,25.25,16.5,28.79,True,All Matches
+57747,Charlie Cassell,1,1,6,0,19,0,0,1,1.0,1.0,19.0,,,16.67,False,All Matches
+58134,Digvesh Rathi,23,23,546,19,822,13,2,149,91.0,91.0,9.03,43.26,28.74,27.29,True,All Matches
+58246,Prince Yadav,32,32,709,31,1083,36,2,228,118.1,118.167,9.17,34.94,22.87,32.16,True,All Matches
+58727,Abhinandan Singh,3,3,58,3,122,2,0,15,9.4,9.667,12.62,40.67,19.33,25.86,True,All Matches
+59045,Jai Moondra,2,2,48,5,58,2,0,19,8.0,8.0,7.25,11.6,9.6,39.58,True,All Matches
+60609,Navin Bidaisee,3,3,48,3,62,5,0,17,8.0,8.0,7.75,20.67,16.0,35.42,True,All Matches
+67036,Brijesh Sharma,13,13,273,14,449,20,4,84,45.3,45.5,9.87,32.07,19.5,30.77,True,All Matches
+67864,Matt Hollard,2,2,48,6,54,3,1,20,8.0,8.0,6.75,9.0,8.0,41.67,True,All Matches
+69806,Mohammad Salman,1,1,18,0,32,0,0,6,3.0,3.0,10.67,,,33.33,False,All Matches
+71727,Razaullah Razaullah,2,2,37,1,67,1,1,10,6.1,6.167,10.86,67.0,37.0,27.03,True,All Matches
+23,Piyush Chawla,27,27,576,35,803,10,0,185,96.0,96.0,8.36,22.94,16.46,32.12,True,T20
+28,Ishant Sharma,24,24,422,24,670,32,2,157,70.2,70.333,9.53,27.92,17.58,37.2,True,T20
+47,Virat Kohli,1,1,6,0,6,0,0,1,1.0,1.0,6.0,,,16.67,False,T20I
+143,Dinesh Karthik,1,1,6,0,18,0,0,1,1.0,1.0,18.0,,,16.67,False,T20I
+147,Pradeep Sangwan,3,3,54,3,65,2,0,21,9.0,9.0,7.22,21.67,18.0,38.89,True,T20
+152,Ravindra Jadeja,66,66,1247,53,1644,20,3,369,207.5,207.833,7.91,31.02,23.53,29.59,True,T20
+152,Ravindra Jadeja,8,8,149,5,188,4,0,51,24.5,24.833,7.57,37.6,29.8,34.23,True,T20I
+158,Amit Mishra,8,8,126,8,169,1,0,35,21.0,21.0,8.05,21.12,15.75,27.78,True,T20
+161,Dwayne Bravo,10,10,206,16,299,20,3,66,34.2,34.333,8.71,18.69,12.88,32.04,True,T20
+232,Tom Cooper,2,2,12,0,13,0,0,3,2.0,2.0,6.5,,,25.0,False,T20I
+278,Tim Southee,11,11,246,16,354,9,1,96,41.0,41.0,8.63,22.12,15.38,39.02,True,T20
+278,Tim Southee,25,25,580,39,792,25,0,225,96.4,96.667,8.19,20.31,14.87,38.79,True,T20I
+286,Kane Richardson,9,9,198,15,301,9,0,76,33.0,33.0,9.12,20.07,13.2,38.38,True,T20I
+295,Wayne Parnell,7,7,151,9,236,5,1,55,25.1,25.167,9.38,26.22,16.78,36.42,True,T20
+295,Wayne Parnell,11,11,249,13,372,11,1,97,41.3,41.5,8.96,28.62,19.15,38.96,True,T20I
+305,Ravichandran Ashwin,53,53,1212,42,1607,50,1,348,202.0,202.0,7.96,38.26,28.86,28.71,True,T20
+305,Ravichandran Ashwin,8,8,192,5,219,7,0,79,32.0,32.0,6.84,43.8,38.4,41.15,True,T20I
+332,Angelo Mathews,9,9,110,7,152,3,1,44,18.2,18.333,8.29,21.71,15.71,40.0,True,T20I
+360,Bhuvneshwar Kumar,74,74,1651,84,2312,60,4,641,275.1,275.167,8.4,27.52,19.65,38.82,True,T20
+360,Bhuvneshwar Kumar,27,27,570,31,740,26,3,259,95.0,95.0,7.79,23.87,18.39,45.44,True,T20I
+395,Karn Sharma,21,21,363,24,605,9,0,100,60.3,60.5,10.0,25.21,15.12,27.55,True,T20
+403,Umesh Yadav,27,27,528,25,738,9,5,231,88.0,88.0,8.39,29.52,21.12,43.75,True,T20
+403,Umesh Yadav,2,2,30,3,61,0,0,11,5.0,5.0,12.2,20.33,10.0,36.67,False,T20I
+470,Mohammad Amir,7,7,146,5,223,11,0,53,24.2,24.333,9.16,44.6,29.2,36.3,True,T20I
+479,Adil Rashid,2,2,42,2,56,0,0,14,7.0,7.0,8.0,28.0,21.0,33.33,False,T20
+479,Adil Rashid,59,59,1282,70,1688,23,0,429,213.4,213.667,7.9,24.11,18.31,33.46,True,T20I
+494,Kieron Pollard,6,6,83,4,124,3,0,19,13.5,13.833,8.96,31.0,20.75,22.89,True,T20
+494,Kieron Pollard,6,6,102,4,126,9,0,31,17.0,17.0,7.41,31.5,25.5,30.39,True,T20I
+499,Shakib Al Hasan,17,17,340,20,380,3,1,131,56.4,56.667,6.71,19.0,17.0,38.53,True,T20I
+507,Mohammad Mahmudullah,5,5,38,3,57,2,1,15,6.2,6.333,9.0,19.0,12.67,39.47,True,T20I
+722,Liam Dawson,22,22,415,25,539,9,0,144,69.1,69.167,7.79,21.56,16.6,34.7,True,T20I
+768,Reeza Hendricks,2,2,23,0,37,1,0,7,3.5,3.833,9.65,,,30.43,True,T20I
+773,Shadley Van Schalkwyk,4,4,90,7,141,1,0,21,15.0,15.0,9.4,20.14,12.86,23.33,True,T20I
+781,Sunil Narine,67,67,1530,64,1750,21,2,559,255.0,255.0,6.86,27.34,23.91,36.54,True,T20
+786,Chris Jordan,10,10,209,5,371,9,2,63,34.5,34.833,10.65,74.2,41.8,30.14,True,T20
+786,Chris Jordan,17,17,341,14,528,10,3,95,56.5,56.833,9.29,37.71,24.36,27.86,True,T20I
+818,Mitchell Marsh,15,15,241,17,375,20,1,68,40.1,40.167,9.34,22.06,14.18,28.22,True,T20
+818,Mitchell Marsh,4,4,54,2,67,4,0,16,9.0,9.0,7.44,33.5,27.0,29.63,True,T20I
+820,Nathan Coulter Nile,1,1,18,0,48,1,1,3,3.0,3.0,16.0,,,16.67,True,T20
+829,Mitchell Starc,30,30,611,42,1027,32,3,236,101.5,101.833,10.09,24.45,14.55,38.63,True,T20
+829,Mitchell Starc,9,9,192,11,262,21,1,82,32.0,32.0,8.19,23.82,17.45,42.71,True,T20I
+830,Josh Hazlewood,40,40,906,60,1333,30,2,384,151.0,151.0,8.83,22.22,15.1,42.38,True,T20
+830,Josh Hazlewood,25,25,570,38,703,6,1,262,95.0,95.0,7.4,18.5,15.0,45.96,True,T20I
+838,Glenn Maxwell,29,29,380,19,494,10,0,141,63.2,63.333,7.8,26.0,20.0,37.11,True,T20
+838,Glenn Maxwell,23,23,258,10,438,5,4,58,43.0,43.0,10.19,43.8,25.8,22.48,True,T20I
+914,Krishnappa Gowtham,11,11,180,8,246,5,0,74,30.0,30.0,8.2,30.75,22.5,41.11,True,T20
+988,Graeme Cremer,2,2,42,2,44,0,0,18,7.0,7.0,6.29,22.0,21.0,42.86,False,T20I
+1028,Varun Aaron,2,2,30,2,52,3,0,6,5.0,5.0,10.4,26.0,15.0,20.0,True,T20
+1045,David Wiese,1,1,18,0,38,0,0,3,3.0,3.0,12.67,,,16.67,False,T20
+1071,Jaydev Unadkat,30,30,575,29,911,24,0,165,95.5,95.833,9.51,31.41,19.83,28.7,True,T20
+1101,George Dockrell,15,15,186,8,191,4,0,52,31.0,31.0,6.16,23.88,23.25,27.96,True,T20I
+1107,Mohammad Nabi,6,6,74,2,109,0,0,18,12.2,12.333,8.84,54.5,37.0,24.32,False,T20
+1107,Mohammad Nabi,38,38,606,27,838,13,0,196,101.0,101.0,8.3,31.04,22.44,32.34,True,T20I
+1159,Tendai Chatara,10,10,217,11,257,5,1,91,36.1,36.167,7.11,23.36,19.73,41.94,True,T20I
+1171,Chris Woakes,11,11,164,11,223,2,0,62,27.2,27.333,8.16,20.27,14.91,37.8,True,T20I
+1195,Ben Stokes,1,1,6,0,18,0,0,0,1.0,1.0,18.0,,,0.0,False,T20
+1195,Ben Stokes,2,2,24,1,28,3,0,6,4.0,4.0,7.0,28.0,24.0,25.0,True,T20I
+1219,David Willey,8,8,156,4,177,4,0,60,26.0,26.0,6.81,44.25,39.0,38.46,True,T20
+1219,David Willey,11,11,224,13,326,12,0,64,37.2,37.333,8.73,25.08,17.23,28.57,True,T20I
+1318,Andre Russell,45,45,545,51,958,25,7,176,90.5,90.833,10.55,18.78,10.69,32.29,True,T20
+1318,Andre Russell,12,12,209,11,410,4,2,65,34.5,34.833,11.77,37.27,19.0,31.1,True,T20I
+1389,Sean Abbott,1,1,24,1,47,3,0,7,4.0,4.0,11.75,47.0,24.0,29.17,True,T20
+1389,Sean Abbott,20,20,418,29,676,24,7,145,69.4,69.667,9.7,23.31,14.41,34.69,True,T20I
+1487,Adam Milne,2,2,35,0,59,1,0,11,5.5,5.833,10.11,,,31.43,True,T20
+1487,Adam Milne,24,24,510,35,792,31,4,217,85.0,85.0,9.32,22.63,14.57,42.55,True,T20I
+1541,Sean Williams,14,14,162,5,175,3,0,43,27.0,27.0,6.48,35.0,32.4,26.54,True,T20I
+1556,David Payne,2,2,30,2,70,1,0,5,5.0,5.0,14.0,35.0,15.0,16.67,True,T20
+1566,Mohammed Shami,55,55,1242,66,1781,50,3,535,207.0,207.0,8.6,26.98,18.82,43.08,True,T20
+1566,Mohammed Shami,2,2,33,3,51,0,1,12,5.3,5.5,9.27,17.0,11.0,36.36,False,T20I
+1596,Moeen Ali,30,30,443,25,560,8,0,150,73.5,73.833,7.58,22.4,17.72,33.86,True,T20
+1596,Moeen Ali,28,28,362,20,541,7,1,121,60.2,60.333,8.97,27.05,18.1,33.43,True,T20I
+1612,Yuzvendra Chahal,71,71,1589,94,2314,62,5,446,264.5,264.833,8.74,24.62,16.9,28.07,True,T20
+1612,Yuzvendra Chahal,27,27,549,30,751,13,0,178,91.3,91.5,8.21,25.03,18.3,32.42,True,T20I
+1617,Rishi Dhawan,11,11,174,7,251,6,0,54,29.0,29.0,8.66,35.86,24.86,31.03,True,T20
+1699,Suryakumar Yadav,1,1,6,2,5,0,0,3,1.0,1.0,5.0,2.5,3.0,50.0,False,T20I
+1701,Swapnil Singh,9,9,102,6,151,1,1,29,17.0,17.0,8.88,25.17,17.0,28.43,True,T20
+1758,Patrick Cummins,43,43,975,49,1524,37,3,334,162.3,162.5,9.38,31.1,19.9,34.26,True,T20
+1758,Patrick Cummins,11,11,240,12,334,14,0,101,40.0,40.0,8.35,27.83,20.0,42.08,True,T20I
+1772,Sheldon Cottrell,11,11,215,10,324,13,1,91,35.5,35.833,9.04,32.4,21.5,42.33,True,T20I
+1813,Deepak Chahar,40,40,744,37,1135,40,2,303,124.0,124.0,9.15,30.68,20.11,40.73,True,T20
+1813,Deepak Chahar,8,8,173,8,248,4,1,74,28.5,28.833,8.6,31.0,21.62,42.77,True,T20I
+1944,Keshav Maharaj,2,2,36,2,39,0,0,11,6.0,6.0,6.5,19.5,18.0,30.56,False,T20
+1944,Keshav Maharaj,28,28,562,30,830,12,1,180,93.4,93.667,8.86,27.67,18.73,32.03,True,T20I
+2054,Jason Behrendorff,12,12,252,14,383,10,0,88,42.0,42.0,9.12,27.36,18.0,34.92,True,T20
+2054,Jason Behrendorff,8,8,186,11,256,7,0,74,31.0,31.0,8.26,23.27,16.91,39.78,True,T20I
+2210,Sabbir Rahman,1,1,6,0,9,0,0,0,1.0,1.0,9.0,,,0.0,False,T20I
+2213,Soumya Sarkar,6,6,42,2,61,3,0,12,7.0,7.0,8.71,30.5,21.0,28.57,True,T20I
+2214,Gulbadin Naib,1,1,6,0,12,0,0,1,1.0,1.0,12.0,,,16.67,False,T20
+2214,Gulbadin Naib,6,6,48,2,69,2,0,17,8.0,8.0,8.62,34.5,24.0,35.42,True,T20I
+2261,Harshal Patel,60,60,1242,73,1905,74,11,377,207.0,207.0,9.2,26.1,17.01,30.35,True,T20
+2261,Harshal Patel,19,19,401,23,628,17,3,134,66.5,66.833,9.4,27.3,17.43,33.42,True,T20I
+2296,Safyaan Sharif,2,2,33,0,47,2,0,8,5.3,5.5,8.55,,,24.24,True,T20I
+2304,Tymal Mills,5,5,102,6,189,5,0,28,17.0,17.0,11.12,31.5,17.0,27.45,True,T20
+2304,Tymal Mills,7,7,127,4,237,7,1,36,21.1,21.167,11.2,59.25,31.75,28.35,True,T20I
+2315,Reece Topley,6,6,120,5,222,5,0,44,20.0,20.0,11.1,44.4,24.0,36.67,True,T20
+2315,Reece Topley,23,23,495,26,683,19,0,186,82.3,82.5,8.28,26.27,19.04,37.58,True,T20I
+2320,Trent Boult,62,62,1363,69,1934,56,0,554,227.1,227.167,8.51,28.03,19.75,40.65,True,T20
+2320,Trent Boult,8,8,180,4,223,6,0,74,30.0,30.0,7.43,55.75,45.0,41.11,True,T20I
+2321,Olly Stone,1,1,24,0,36,0,1,4,4.0,4.0,9.0,,,16.67,False,T20I
+2334,Dwaine Pretorius,7,7,150,6,238,16,0,42,25.0,25.0,9.52,39.67,25.0,28.0,True,T20
+2334,Dwaine Pretorius,7,7,158,11,248,11,1,44,26.2,26.333,9.42,22.55,14.36,27.85,True,T20I
+2351,Danushka Gunathilaka,1,1,5,0,8,0,0,1,0.5,0.833,9.6,,,20.0,False,T20I
+2359,Prenelan Subrayen,2,2,42,2,35,0,0,15,7.0,7.0,5.0,17.5,21.0,35.71,False,T20I
+2364,Ashton Agar,6,6,144,4,122,1,0,53,24.0,24.0,5.08,30.5,36.0,36.81,True,T20I
+2367,Travis Head,2,2,16,1,39,0,0,3,2.4,2.667,14.62,39.0,16.0,18.75,False,T20
+2382,Jamie Overton,13,13,204,14,332,13,0,64,34.0,34.0,9.76,23.71,14.57,31.37,True,T20
+2382,Jamie Overton,17,17,293,22,381,14,1,123,48.5,48.833,7.8,17.32,13.32,41.98,True,T20I
+2399,Dushmantha Chameera,20,20,396,13,644,21,3,151,66.0,66.0,9.76,49.54,30.46,38.13,True,T20
+2399,Dushmantha Chameera,33,33,755,46,1048,25,4,279,125.5,125.833,8.33,22.78,16.41,36.95,True,T20I
+2407,Dhananjaya de Silva,8,8,81,5,88,1,0,33,13.3,13.5,6.52,17.6,16.2,40.74,True,T20I
+2411,Sandeep Sharma,43,43,961,39,1444,52,5,307,160.1,160.167,9.02,37.03,24.64,31.95,True,T20
+2416,Kyle Mayers,6,6,42,0,59,2,2,14,7.0,7.0,8.43,,,33.33,True,T20
+2416,Kyle Mayers,11,11,96,2,139,4,0,33,16.0,16.0,8.69,69.5,48.0,34.38,True,T20I
+2417,Akeal Hosein,8,8,172,9,238,1,2,63,28.4,28.667,8.3,26.44,19.11,36.63,True,T20
+2417,Akeal Hosein,71,71,1520,70,1942,29,10,596,253.2,253.333,7.67,27.74,21.71,39.21,True,T20I
+2418,Justin Greaves,1,1,6,0,14,0,0,2,1.0,1.0,14.0,,,33.33,False,T20I
+2436,Dasun Shanaka,3,3,36,1,60,2,0,7,6.0,6.0,10.0,60.0,36.0,19.44,True,T20
+2436,Dasun Shanaka,40,40,493,26,720,22,4,141,82.1,82.167,8.76,27.69,18.96,28.6,True,T20I
+2439,Akila Dananjaya,2,2,36,2,56,1,0,6,6.0,6.0,9.33,28.0,18.0,16.67,True,T20I
+2463,Ryan Burl,22,22,318,18,412,7,0,93,53.0,53.0,7.77,22.89,17.67,29.25,True,T20I
+2483,Lizaad Williams,2,2,36,1,68,4,2,12,6.0,6.0,11.33,68.0,36.0,33.33,True,T20
+2483,Lizaad Williams,12,12,223,15,392,13,2,77,37.1,37.167,10.55,26.13,14.87,34.53,True,T20I
+2490,Mohammad Nawaz,52,52,1004,66,1192,12,1,345,167.2,167.333,7.12,18.06,15.21,34.36,True,T20I
+2526,Ish Sodhi,59,59,1175,63,1676,31,0,365,195.5,195.833,8.56,26.6,18.65,31.06,True,T20I
+2531,Joe Root,1,1,12,0,14,0,0,1,2.0,2.0,7.0,,,8.33,False,T20
+2633,Jason Holder,31,31,650,35,965,27,1,204,108.2,108.333,8.91,27.57,18.57,31.38,True,T20
+2633,Jason Holder,57,57,1278,74,1921,72,4,426,213.0,213.0,9.02,25.96,17.27,33.33,True,T20I
+2636,Adam Zampa,8,8,180,10,281,3,0,49,30.0,30.0,9.37,28.1,18.0,27.22,True,T20
+2636,Adam Zampa,44,44,972,61,1323,19,1,301,162.0,162.0,8.17,21.69,15.93,30.97,True,T20I
+2639,Marcus Stoinis,30,30,323,16,574,20,1,97,53.5,53.833,10.66,35.88,20.19,30.03,True,T20
+2639,Marcus Stoinis,25,25,424,28,622,26,0,141,70.4,70.667,8.8,22.21,15.14,33.25,True,T20I
+2650,Raymon Reifer,2,2,30,1,60,2,0,5,5.0,5.0,12.0,60.0,30.0,16.67,True,T20I
+2681,Taskin Ahmed,46,46,1040,67,1378,37,6,439,173.2,173.333,7.95,20.57,15.52,42.21,True,T20I
+2687,Roston Chase,45,45,834,35,1084,24,4,272,139.0,139.0,7.8,30.97,23.83,32.61,True,T20I
+2756,Shashank Singh,8,8,90,5,140,3,0,21,15.0,15.0,9.33,28.0,18.0,23.33,True,T20
+2790,Praveen Dubey,2,2,30,2,39,1,0,11,5.0,5.0,7.8,19.5,15.0,36.67,True,T20
+2847,Shardul Thakur,49,49,942,52,1642,69,9,274,157.0,157.0,10.46,31.58,18.12,29.09,True,T20
+2847,Shardul Thakur,1,1,24,2,33,3,0,12,4.0,4.0,8.25,16.5,12.0,50.0,True,T20I
+2852,Jagadeesha Suchith,5,5,108,7,139,7,0,48,18.0,18.0,7.72,19.86,15.43,44.44,True,T20
+2863,Sandeep Warrier,5,5,66,6,119,3,1,29,11.0,11.0,10.82,19.83,11.0,43.94,True,T20
+2872,Siddarth Kaul,1,1,24,0,43,0,0,6,4.0,4.0,10.75,,,25.0,False,T20
+2876,Axar Patel,65,65,1284,44,1660,17,0,410,214.0,214.0,7.76,37.73,29.18,31.93,True,T20
+2876,Axar Patel,71,71,1386,76,1838,19,1,529,231.0,231.0,7.96,24.18,18.24,38.17,True,T20I
+2877,Vijay Shankar,2,2,9,0,15,1,0,4,1.3,1.5,10.0,,,44.44,True,T20
+2878,Mohit Sharma,33,33,649,42,1043,23,4,170,108.1,108.167,9.64,24.83,15.45,26.19,True,T20
+2887,Harmeet Singh,4,4,96,4,79,2,0,39,16.0,16.0,4.94,19.75,24.0,40.62,True,T20I
+2933,Jasprit Bumrah,52,52,1209,57,1440,41,12,507,201.3,201.5,7.15,25.26,21.21,41.94,True,T20
+2933,Jasprit Bumrah,23,23,499,28,603,17,2,229,83.1,83.167,7.25,21.54,17.82,45.89,True,T20I
+2972,Yasim Murtaza,6,6,114,2,147,2,0,35,19.0,19.0,7.74,73.5,57.0,30.7,True,T20
+2972,Yasim Murtaza,8,8,192,5,216,1,2,62,32.0,32.0,6.75,43.2,38.4,32.29,True,T20I
+2984,Sikandar Raza,7,7,84,3,141,3,1,21,14.0,14.0,10.07,47.0,28.0,25.0,True,T20
+2984,Sikandar Raza,45,45,1007,40,1145,19,2,327,167.5,167.833,6.82,28.62,25.18,32.47,True,T20I
+2985,Mark Wood,4,4,96,11,130,5,1,42,16.0,16.0,8.12,11.82,8.73,43.75,True,T20
+2985,Mark Wood,9,9,185,16,251,11,1,77,30.5,30.833,8.14,15.69,11.56,41.62,True,T20I
+2997,Paul van Meekeren,10,10,187,11,255,9,0,73,31.1,31.167,8.18,23.18,17.0,39.04,True,T20I
+3033,Usman Qadir,4,4,96,5,159,1,1,23,16.0,16.0,9.94,31.8,19.2,23.96,True,T20I
+3038,Hussain Talat,2,2,36,3,50,1,2,16,6.0,6.0,8.33,16.67,12.0,44.44,True,T20I
+3040,Kashif Daud,1,1,11,0,21,0,0,3,1.5,1.833,11.45,,,27.27,False,T20I
+3056,Iftikhar Ahmed,14,14,186,6,203,3,0,48,31.0,31.0,6.55,33.83,31.0,25.81,True,T20I
+3077,Usama Mir,5,5,120,5,175,3,0,41,20.0,20.0,8.75,35.0,24.0,34.17,True,T20I
+3135,Yannic Cariah,2,2,36,1,43,0,0,15,6.0,6.0,7.17,43.0,36.0,41.67,False,T20I
+3174,Matt Henry,7,7,132,3,240,3,0,33,22.0,22.0,10.91,80.0,44.0,25.0,True,T20
+3174,Matt Henry,23,23,490,24,715,11,0,205,81.4,81.667,8.76,29.79,20.42,41.84,True,T20I
+3253,Rohan Mustafa,1,1,24,1,36,2,0,7,4.0,4.0,9.0,36.0,24.0,29.17,True,T20I
+3255,Ahmed Raza 1,1,1,12,1,19,0,0,4,2.0,2.0,9.5,19.0,12.0,33.33,False,T20I
+3272,Fabian Allen,1,1,24,1,46,0,0,6,4.0,4.0,11.5,46.0,24.0,25.0,False,T20
+3272,Fabian Allen,11,11,155,4,225,1,0,51,25.5,25.833,8.71,56.25,38.75,32.9,True,T20I
+3275,Alzarri Joseph,19,19,382,15,602,16,1,139,63.4,63.667,9.46,40.13,25.47,36.39,True,T20
+3275,Alzarri Joseph,34,34,771,43,1257,35,9,264,128.3,128.5,9.78,29.23,17.93,34.24,True,T20I
+3276,Gudakesh Motie,38,38,738,34,1008,15,0,236,123.0,123.0,8.2,29.65,21.71,31.98,True,T20I
+3280,Nazmul Hossain Shanto,2,2,12,0,23,0,0,0,2.0,2.0,11.5,,,0.0,False,T20I
+3281,Mosaddek Hossain,11,11,159,11,174,4,0,60,26.3,26.5,6.57,15.82,14.45,37.74,True,T20I
+3282,Mehidy Hasan Miraz,17,17,234,14,305,2,0,82,39.0,39.0,7.82,21.79,16.71,35.04,True,T20I
+3285,Abu Haider,7,7,149,6,271,9,0,41,24.5,24.833,10.91,45.17,24.83,27.52,True,T20
+3298,Jofra Archer,33,33,753,38,1164,42,5,300,125.3,125.5,9.27,30.63,19.82,39.84,True,T20
+3298,Jofra Archer,23,23,506,33,712,13,1,210,84.2,84.333,8.44,21.58,15.33,41.5,True,T20I
+3299,Andrew Tye,3,3,66,2,107,3,0,21,11.0,11.0,9.73,53.5,33.0,31.82,True,T20
+3320,Jayant Yadav,1,1,24,0,26,0,0,8,4.0,4.0,6.5,,,33.33,False,T20
+3323,Jimmy Neesham,1,1,18,0,29,0,0,5,3.0,3.0,9.67,,,27.78,False,T20
+3323,Jimmy Neesham,36,36,508,34,758,19,1,176,84.4,84.667,8.95,22.29,14.94,34.65,True,T20I
+3330,Hardik Pandya,56,56,895,40,1438,49,7,297,149.1,149.167,9.64,35.95,22.38,33.18,True,T20
+3330,Hardik Pandya,55,55,930,44,1310,49,0,361,155.0,155.0,8.45,29.77,21.14,38.82,True,T20I
+3337,Jeremy Gordon,1,1,18,0,29,2,0,8,3.0,3.0,9.67,,,44.44,True,T20I
+3361,Michael Leask,3,3,30,2,39,2,0,12,5.0,5.0,7.8,19.5,15.0,40.0,True,T20I
+3373,Aizaz Khan,4,4,60,3,99,6,1,15,10.0,10.0,9.9,33.0,20.0,25.0,True,T20
+3373,Aizaz Khan,8,8,123,5,199,16,1,39,20.3,20.5,9.71,39.8,24.6,31.71,True,T20I
+3374,Mark Chapman,1,1,6,0,4,0,0,2,1.0,1.0,4.0,,,33.33,False,T20I
+3383,Kinchit Shah,1,1,6,0,31,0,0,0,1.0,1.0,31.0,,,0.0,False,T20
+3383,Kinchit Shah,5,5,54,3,85,0,0,14,9.0,9.0,9.44,28.33,18.0,25.93,False,T20I
+3469,Shreyas Gopal,4,4,60,4,101,0,0,17,10.0,10.0,10.1,25.25,15.0,28.33,False,T20
+3489,Salman Agha,13,13,108,5,141,3,0,32,18.0,18.0,7.83,28.2,21.6,29.63,True,T20I
+3543,Shahidullah Kamal,4,4,30,2,53,1,0,7,5.0,5.0,10.6,26.5,15.0,23.33,True,T20I
+3550,Sharafuddin Ashraf,5,5,72,3,71,0,0,22,12.0,12.0,5.92,23.67,24.0,30.56,False,T20
+3550,Sharafuddin Ashraf,6,6,114,6,136,3,1,46,19.0,19.0,7.16,22.67,19.0,40.35,True,T20I
+3578,Imad Wasim,14,14,246,15,252,8,0,96,41.0,41.0,6.15,16.8,16.4,39.02,True,T20I
+3595,Andy McBrine,6,6,72,2,129,2,0,14,12.0,12.0,10.75,64.5,36.0,19.44,True,T20I
+3605,Aiden Markram,22,22,199,6,334,5,1,46,33.1,33.167,10.07,55.67,33.17,23.12,True,T20
+3605,Aiden Markram,20,20,198,7,334,5,0,64,33.0,33.0,10.12,47.71,28.29,32.32,True,T20I
+3613,Shakeel Ahmed,1,1,19,1,40,1,1,7,3.1,3.167,12.63,40.0,19.0,36.84,True,T20
+3613,Shakeel Ahmed,3,3,60,0,66,1,0,25,10.0,10.0,6.6,,,41.67,True,T20I
+3622,Hayden Walsh,9,9,186,7,249,3,0,54,31.0,31.0,8.03,35.57,26.57,29.03,True,T20I
+3623,Hasan Ali,8,8,158,12,289,6,4,57,26.2,26.333,10.97,24.08,13.17,36.08,True,T20I
+3627,Andile Phehlukwayo,7,7,144,10,266,8,0,39,24.0,24.0,11.08,26.6,14.4,27.08,True,T20I
+3628,Kagiso Rabada,51,51,1149,72,1792,44,6,468,191.3,191.5,9.36,24.89,15.96,40.73,True,T20
+3628,Kagiso Rabada,18,18,384,14,570,27,6,167,64.0,64.0,8.91,40.71,27.43,43.49,True,T20I
+3629,Corbin Bosch,8,8,163,13,250,6,2,67,27.1,27.167,9.2,19.23,12.54,41.1,True,T20
+3629,Corbin Bosch,11,11,204,20,278,8,1,90,34.0,34.0,8.18,13.9,10.2,44.12,True,T20I
+3637,Dayyaan Galiem,1,1,24,2,21,3,0,12,4.0,4.0,5.25,10.5,12.0,50.0,True,T20I
+3641,Ben Dwarshuis,1,1,24,1,48,2,0,6,4.0,4.0,12.0,48.0,24.0,25.0,True,T20
+3641,Ben Dwarshuis,13,13,300,22,450,7,1,102,50.0,50.0,9.0,20.45,13.64,34.0,True,T20I
+3644,Kuldeep Yadav,64,64,1390,72,1922,31,2,422,231.4,231.667,8.3,26.69,19.31,30.36,True,T20
+3644,Kuldeep Yadav,25,25,524,46,634,17,1,209,87.2,87.333,7.26,13.78,11.39,39.89,True,T20I
+3647,Shreyas Iyer,1,1,6,0,7,0,0,4,1.0,1.0,7.0,,,66.67,False,T20
+3647,Shreyas Iyer,1,1,2,0,2,0,0,1,0.2,0.333,6.0,,,50.0,False,T20I
+3648,Deepak Hooda,6,6,54,1,88,2,0,11,9.0,9.0,9.78,88.0,54.0,20.37,True,T20
+3648,Deepak Hooda,7,7,77,6,52,0,0,34,12.5,12.833,4.05,8.67,12.83,44.16,False,T20I
+3653,Avesh Khan,57,57,1221,64,1976,49,2,396,203.3,203.5,9.71,30.88,19.08,32.43,True,T20
+3653,Avesh Khan,22,22,451,22,696,19,3,177,75.1,75.167,9.26,31.64,20.5,39.25,True,T20I
+3660,Luke Wood,2,2,36,1,93,1,1,8,6.0,6.0,15.5,93.0,36.0,22.22,True,T20
+3660,Luke Wood,15,15,288,18,431,9,1,115,48.0,48.0,8.98,23.94,16.0,39.93,True,T20I
+3664,Binura Fernando,16,16,342,14,490,13,1,118,57.0,57.0,8.6,35.0,24.43,34.5,True,T20I
+3673,Ramesh Mendis,7,7,132,1,142,2,0,51,22.0,22.0,6.45,142.0,132.0,38.64,True,T20
+3673,Ramesh Mendis,1,1,18,1,26,3,0,4,3.0,3.0,8.67,26.0,18.0,22.22,True,T20I
+3683,Gavin Main,2,2,36,2,48,2,3,12,6.0,6.0,8.0,24.0,18.0,33.33,True,T20I
+3686,CB Sole,5,5,97,8,136,0,0,33,16.1,16.167,8.41,17.0,12.12,34.02,False,T20I
+3689,Mark Watt,6,6,125,7,169,3,0,37,20.5,20.833,8.11,24.14,17.86,29.6,True,T20I
+3697,Kyle Jamieson,6,6,132,7,237,4,0,45,22.0,22.0,10.77,33.86,18.86,34.09,True,T20
+3697,Kyle Jamieson,24,24,495,27,788,33,4,198,82.3,82.5,9.55,29.19,18.33,40.0,True,T20I
+3720,Craig Young,23,23,466,36,671,12,2,165,77.4,77.667,8.64,18.64,12.94,35.41,True,T20I
+3727,Matthew Short,5,5,43,0,64,2,0,16,7.1,7.167,8.93,,,37.21,True,T20
+3727,Matthew Short,10,10,108,9,202,8,0,25,18.0,18.0,11.22,22.44,12.0,23.15,True,T20I
+3771,Vivian Kingma,5,5,97,6,123,9,0,45,16.1,16.167,7.61,20.5,16.17,46.39,True,T20I
+3772,Logan van Beek,6,6,132,10,151,6,0,57,22.0,22.0,6.86,15.1,13.2,43.18,True,T20I
+3775,Sompal Kami,3,3,44,0,68,2,1,18,7.2,7.333,9.27,,,40.91,True,T20I
+3782,M Shahrukh Khan,3,3,18,1,28,0,0,4,3.0,3.0,9.33,28.0,18.0,22.22,False,T20
+3802,Anshuman Rath,2,2,20,1,26,0,0,6,3.2,3.333,7.8,26.0,20.0,30.0,False,T20
+3839,Amjad Mahboob,3,3,54,2,81,2,0,16,9.0,9.0,9.0,40.5,27.0,29.63,True,T20I
+3858,Jatinder Singh,1,1,2,0,7,0,0,0,0.2,0.333,21.0,,,0.0,False,T20
+3871,Aamir Kaleem,3,3,60,3,61,1,0,16,10.0,10.0,6.1,20.33,20.0,26.67,True,T20
+3871,Aamir Kaleem,3,3,48,5,76,0,0,12,8.0,8.0,9.5,15.2,9.6,25.0,False,T20I
+3876,Sufyan Mehmood,4,4,66,2,109,2,0,17,11.0,11.0,9.91,54.5,33.0,25.76,True,T20
+3876,Sufyan Mehmood,1,1,6,0,12,0,0,2,1.0,1.0,12.0,,,33.33,False,T20I
+3926,Rahul Tewatia,7,7,49,0,91,1,0,13,8.1,8.167,11.14,,,26.53,True,T20
+3986,Matthew Renshaw,3,3,36,3,43,0,0,13,6.0,6.0,7.17,14.33,12.0,36.11,False,T20I
+3995,Donald Tiripano,2,2,30,1,54,5,0,10,5.0,5.0,10.8,54.0,30.0,33.33,True,T20I
+4101,Mitchell Santner,29,29,561,24,712,13,0,192,93.3,93.5,7.61,29.67,23.38,34.22,True,T20
+4101,Mitchell Santner,54,54,1176,63,1428,43,0,441,196.0,196.0,7.29,22.67,18.67,37.5,True,T20I
+4106,Daryl Mitchell,4,4,48,1,97,3,0,5,8.0,8.0,12.12,97.0,48.0,10.42,True,T20
+4106,Daryl Mitchell,6,6,32,3,56,3,0,10,5.2,5.333,10.5,18.67,10.67,31.25,True,T20I
+4111,Khushdil Shah,6,6,60,3,87,3,0,20,10.0,10.0,8.7,29.0,20.0,33.33,True,T20I
+4117,Ishan Kishan,1,1,1,0,4,0,0,0,0.1,0.167,24.0,,,0.0,False,T20
+4201,Fareed Malik,17,17,308,23,503,6,2,103,51.2,51.333,9.8,21.87,13.39,33.44,True,T20I
+4219,Krunal Pandya,66,66,1257,56,1627,29,0,384,209.3,209.5,7.77,29.05,22.45,30.55,True,T20
+4221,Chris Green,1,1,24,0,36,0,0,6,4.0,4.0,9.0,,,25.0,False,T20I
+4229,George Linde,3,3,37,1,55,0,0,10,6.1,6.167,8.92,55.0,37.0,27.03,False,T20
+4229,George Linde,14,14,246,14,316,12,0,89,41.0,41.0,7.71,22.57,17.57,36.18,True,T20I
+4235,Sisanda Magala,2,2,36,1,51,1,0,5,6.0,6.0,8.5,51.0,36.0,13.89,True,T20
+4235,Sisanda Magala,2,2,36,3,88,0,0,6,6.0,6.0,14.67,29.33,12.0,16.67,False,T20I
+4237,Tabraiz Shamsi,16,16,310,17,493,11,0,87,51.4,51.667,9.54,29.0,18.24,28.06,True,T20I
+4246,Nitish Rana,11,11,101,3,171,3,0,26,16.5,16.833,10.16,57.0,33.67,25.74,True,T20
+4265,T Natarajan,49,49,1052,53,1685,58,0,305,175.2,175.333,9.61,31.79,19.85,28.99,True,T20
+4276,Basil Thampi,5,5,96,5,152,6,0,38,16.0,16.0,9.5,30.4,19.2,39.58,True,T20
+4288,Navdeep Saini,5,5,90,6,183,4,4,25,15.0,15.0,12.2,30.5,15.0,27.78,True,T20
+4373,Mustafizur Rahman,22,22,506,27,729,22,4,184,84.2,84.333,8.64,27.0,18.74,36.36,True,T20
+4373,Mustafizur Rahman,49,49,1070,52,1312,42,2,420,178.2,178.333,7.36,25.23,20.58,39.25,True,T20I
+4391,Liam Livingstone,26,26,306,13,456,9,0,78,51.0,51.0,8.94,35.08,23.54,25.49,True,T20
+4391,Liam Livingstone,23,23,288,19,488,15,1,91,48.0,48.0,10.17,25.68,15.16,31.6,True,T20I
+4409,Sam Curran,32,32,605,27,1038,20,2,177,100.5,100.833,10.29,38.44,22.41,29.26,True,T20
+4409,Sam Curran,41,41,745,35,1124,48,3,219,124.1,124.167,9.05,32.11,21.29,29.4,True,T20I
+4412,Max ODowd,2,2,30,1,35,1,0,10,5.0,5.0,7.0,35.0,30.0,33.33,True,T20I
+4417,Karan KC,3,3,42,2,39,0,0,24,7.0,7.0,5.57,19.5,21.0,57.14,False,T20I
+4438,Jasdeep Singh,4,4,90,4,135,3,1,28,15.0,15.0,9.0,33.75,22.5,31.11,True,T20I
+4450,Mehran Khan,2,2,30,2,47,0,1,9,5.0,5.0,9.4,23.5,15.0,30.0,False,T20
+4460,Jeffrey Vandersay,5,5,120,2,168,2,0,26,20.0,20.0,8.4,84.0,60.0,21.67,True,T20I
+4487,Vyshak Kumar,27,27,567,27,987,33,3,158,94.3,94.5,10.44,36.56,21.0,27.87,True,T20
+4489,Prasidh Krishna,44,44,987,60,1432,48,3,406,164.3,164.5,8.71,23.87,16.45,41.13,True,T20
+4489,Prasidh Krishna,8,8,186,9,341,8,2,66,31.0,31.0,11.0,37.89,20.67,35.48,True,T20I
+4499,Saqib Mahmood,11,11,228,17,313,14,1,102,38.0,38.0,8.24,18.41,13.41,44.74,True,T20I
+4505,Jhye Richardson,1,1,24,0,39,1,0,8,4.0,4.0,9.75,,,33.33,True,T20
+4505,Jhye Richardson,4,4,96,6,129,3,0,36,16.0,16.0,8.06,21.5,16.0,37.5,True,T20I
+4604,Mitchell Swepson,1,1,12,0,31,0,0,2,2.0,2.0,15.5,,,16.67,False,T20I
+4636,Bjorn Fortuin,13,13,210,8,351,7,0,78,35.0,35.0,10.03,43.88,26.25,37.14,True,T20I
+4639,Wellington Masakadza,27,27,480,15,599,6,0,149,80.0,80.0,7.49,39.93,32.0,31.04,True,T20I
+4641,Lungi Ngidi,13,13,296,17,421,7,0,107,49.2,49.333,8.53,24.76,17.41,36.15,True,T20
+4641,Lungi Ngidi,26,26,502,30,761,19,5,200,83.4,83.667,9.1,25.37,16.73,39.84,True,T20I
+4658,Nasum Ahmed,29,29,600,25,764,7,0,241,100.0,100.0,7.64,30.56,24.0,40.17,True,T20I
+4662,Cole McConchie,8,8,120,3,178,1,0,32,20.0,20.0,8.9,59.33,40.0,26.67,True,T20I
+4686,Joshua Clarkson,4,4,48,6,59,2,1,12,8.0,8.0,7.38,9.83,8.0,25.0,True,T20I
+4692,Lockie Ferguson,30,30,610,28,1012,25,6,207,101.4,101.667,9.95,36.14,21.79,33.93,True,T20
+4692,Lockie Ferguson,23,23,466,31,576,23,8,213,77.4,77.667,7.42,18.58,15.03,45.71,True,T20I
+4708,Rinku Singh,2,2,10,3,10,0,0,6,1.4,1.667,6.0,3.33,3.33,60.0,False,T20I
+4716,Mayank Dagar,8,8,137,2,199,1,0,43,22.5,22.833,8.72,99.5,68.5,31.39,True,T20
+4722,Rashid Khan,77,77,1718,86,2358,21,0,528,286.2,286.333,8.24,27.42,19.98,30.73,True,T20
+4722,Rashid Khan,45,45,1029,67,1032,12,0,410,171.3,171.5,6.02,15.4,15.36,39.84,True,T20I
+4755,Shivam Dube,8,8,60,2,143,5,0,8,10.0,10.0,14.3,71.5,30.0,13.33,True,T20
+4755,Shivam Dube,32,32,409,27,630,16,1,126,68.1,68.167,9.24,23.33,15.15,30.81,True,T20I
+4779,Pieter Willem Mulder,1,1,6,0,16,0,0,1,1.0,1.0,16.0,,,16.67,False,T20
+4779,Pieter Willem Mulder,9,9,108,8,182,7,1,36,18.0,18.0,10.11,22.75,13.5,33.33,True,T20I
+4780,Mohammad Saif Hassan,2,2,24,1,35,1,0,6,4.0,4.0,8.75,35.0,24.0,25.0,True,T20
+4780,Mohammad Saif Hassan,11,11,99,3,121,1,0,27,16.3,16.5,7.33,40.33,33.0,27.27,True,T20I
+4790,Lutho Sipamla,5,5,110,6,213,2,1,33,18.2,18.333,11.62,35.5,18.33,30.0,True,T20I
+4793,Dean Foxcroft,1,1,12,0,17,0,0,5,2.0,2.0,8.5,,,41.67,False,T20I
+4807,Joshua Little,11,11,228,11,339,8,0,82,38.0,38.0,8.92,30.82,20.73,35.96,True,T20
+4807,Joshua Little,25,25,552,34,720,27,0,210,92.0,92.0,7.83,21.18,16.24,38.04,True,T20I
+4812,Harry Tector,16,16,228,11,266,18,2,80,38.0,38.0,7.0,24.18,20.73,35.09,True,T20I
+4815,Benjamin White,20,20,390,18,595,11,3,122,65.0,65.0,9.15,33.06,21.67,31.28,True,T20I
+4816,Khaleel Ahmed,52,52,1114,59,1684,53,7,482,185.4,185.667,9.07,28.54,18.88,43.27,True,T20
+4816,Khaleel Ahmed,4,4,84,3,102,8,1,42,14.0,14.0,7.29,34.0,28.0,50.0,True,T20I
+4821,Mahipal Lomror,5,5,30,0,53,3,0,7,5.0,5.0,10.6,,,23.33,True,T20
+4823,Washington Sundar,27,27,424,13,652,3,1,114,70.4,70.667,9.23,50.15,32.62,26.89,True,T20
+4823,Washington Sundar,24,24,362,26,409,11,1,137,60.2,60.333,6.78,15.73,13.92,37.85,True,T20I
+4824,Zeeshan Ansari,10,10,203,6,333,5,1,47,33.5,33.833,9.84,55.5,33.83,23.15,True,T20
+4826,George Garton,1,1,24,1,57,0,1,7,4.0,4.0,14.25,57.0,24.0,29.17,False,T20I
+4837,Obed McCoy,8,8,161,11,254,17,2,49,26.5,26.833,9.47,23.09,14.64,30.43,True,T20
+4837,Obed McCoy,24,24,480,29,760,28,4,176,80.0,80.0,9.5,26.21,16.55,36.67,True,T20I
+4838,Keemo Paul,6,6,90,9,166,12,3,24,15.0,15.0,11.07,18.44,10.0,26.67,True,T20I
+4840,Odean Smith,6,6,90,6,178,4,1,35,15.0,15.0,11.87,29.67,15.0,38.89,True,T20
+4840,Odean Smith,18,18,294,19,494,23,2,96,49.0,49.0,10.08,26.0,15.47,32.65,True,T20I
+4842,Shamar Springer,11,11,196,16,331,14,2,54,32.4,32.667,10.13,20.69,12.25,27.55,True,T20I
+4853,Glenn Phillips,2,2,18,1,20,0,0,6,3.0,3.0,6.67,20.0,18.0,33.33,False,T20
+4853,Glenn Phillips,11,11,95,4,129,2,0,33,15.5,15.833,8.15,32.25,23.75,34.74,True,T20I
+4854,Rachin Ravindra,2,2,12,0,7,0,0,5,2.0,2.0,3.5,,,41.67,False,T20
+4854,Rachin Ravindra,10,10,120,5,189,4,0,38,20.0,20.0,9.45,37.8,24.0,31.67,True,T20I
+4856,Benjamin Sears,22,22,453,30,608,10,0,181,75.3,75.5,8.05,20.27,15.1,39.96,True,T20I
+4857,Nathan Smith,6,6,102,6,176,5,2,33,17.0,17.0,10.35,29.33,17.0,32.35,True,T20I
+4867,Wesley Madhevere,9,9,96,4,137,3,0,28,16.0,16.0,8.56,34.25,24.0,29.17,True,T20I
+4870,Kundai Matigimu,1,1,24,2,48,2,0,10,4.0,4.0,12.0,24.0,12.0,41.67,True,T20I
+4871,Brandon Mavuta,2,2,42,2,56,2,0,15,7.0,7.0,8.0,28.0,21.0,35.71,True,T20I
+4874,Richard Ngarava,39,39,846,41,1130,40,3,331,141.0,141.0,8.01,27.56,20.63,39.13,True,T20I
+4876,Milton Shumba,2,2,12,1,14,0,0,4,2.0,2.0,7.0,14.0,12.0,33.33,False,T20I
+4881,Dipendra Airee,2,2,36,2,24,0,0,26,6.0,6.0,4.0,12.0,18.0,72.22,False,T20I
+4882,Kushal Bhurtel,3,3,49,5,50,1,0,27,8.1,8.167,6.12,10.0,9.8,55.1,True,T20I
+4895,Charith Asalanka,14,14,161,7,210,3,0,47,26.5,26.833,7.83,30.0,23.0,29.19,True,T20I
+4900,Wanindu Hasaranga,35,35,762,46,1057,10,0,253,127.0,127.0,8.32,22.98,16.57,33.2,True,T20
+4900,Wanindu Hasaranga,56,56,1272,87,1627,9,0,429,212.0,212.0,7.67,18.7,14.62,33.73,True,T20I
+4901,Asitha Fernando,6,6,120,4,208,4,0,40,20.0,20.0,10.4,52.0,30.0,33.33,True,T20I
+4903,Lahiru Kumara,3,3,71,7,94,7,0,24,11.5,11.833,7.94,13.43,10.14,33.8,True,T20I
+4904,Kamindu Mendis,4,4,42,2,60,0,0,11,7.0,7.0,8.57,30.0,21.0,26.19,False,T20
+4904,Kamindu Mendis,10,10,108,3,154,3,1,33,18.0,18.0,8.56,51.33,36.0,30.56,True,T20I
+4926,Shadab Khan,42,42,832,36,1091,16,0,268,138.4,138.667,7.87,30.31,23.11,32.21,True,T20I
+4947,Kasun Rajitha,5,5,108,4,158,8,0,42,18.0,18.0,8.78,39.5,27.0,38.89,True,T20I
+4974,Mohammad Nadeem,3,3,36,1,54,2,0,7,6.0,6.0,9.0,54.0,36.0,19.44,True,T20
+4974,Mohammad Nadeem,2,2,24,1,40,2,0,7,4.0,4.0,10.0,40.0,24.0,29.17,True,T20I
+4986,Rovman Powell,2,2,18,1,35,2,1,4,3.0,3.0,11.67,35.0,18.0,22.22,True,T20
+4986,Rovman Powell,9,9,55,1,109,4,2,10,9.1,9.167,11.89,109.0,55.0,18.18,True,T20I
+5034,Murugan Ashwin,10,10,198,9,281,5,1,68,33.0,33.0,8.52,31.22,22.0,34.34,True,T20
+5041,Mukesh Kumar,42,42,824,42,1455,48,7,270,137.2,137.333,10.59,34.64,19.62,32.77,True,T20
+5041,Mukesh Kumar,17,17,324,20,486,14,10,126,54.0,54.0,9.0,24.3,16.2,38.89,True,T20I
+5189,Faheem Ashraf,32,32,442,26,620,9,1,165,73.4,73.667,8.42,23.85,17.0,37.33,True,T20I
+5231,Oshane Thomas,1,1,24,0,36,0,0,5,4.0,4.0,9.0,,,20.83,False,T20I
+5379,Mark Adair,40,40,845,56,1223,56,5,323,140.5,140.833,8.68,21.84,15.09,38.22,True,T20I
+5441,Barry McCarthy,29,29,619,26,890,40,3,230,103.1,103.167,8.63,34.23,23.81,37.16,True,T20I
+5547,Nosthush Kenjige,4,4,78,2,109,1,0,28,13.0,13.0,8.38,54.5,39.0,35.9,True,T20I
+5561,Brad Wheal,2,2,36,0,90,0,0,8,6.0,6.0,15.0,,,22.22,False,T20I
+5562,Richard Gleeson,3,3,68,2,110,4,1,24,11.2,11.333,9.71,55.0,34.0,35.29,True,T20
+5562,Richard Gleeson,6,6,126,9,187,4,0,43,21.0,21.0,8.9,20.78,14.0,34.13,True,T20I
+5577,Sai Kishore,28,28,489,34,718,12,0,148,81.3,81.5,8.81,21.12,14.38,30.27,True,T20
+5665,Sanjay Yadav,1,1,12,0,23,2,0,6,2.0,2.0,11.5,,,50.0,True,T20
+5738,Xavier Bartlett,13,13,261,7,480,7,1,82,43.3,43.5,11.03,68.57,37.29,31.42,True,T20
+5738,Xavier Bartlett,18,18,363,22,477,7,2,141,60.3,60.5,7.88,21.68,16.5,38.84,True,T20I
+5750,Ehsan Khan,6,6,137,6,167,3,0,49,22.5,22.833,7.31,27.83,22.83,35.77,True,T20
+5750,Ehsan Khan,8,8,186,13,211,5,0,74,31.0,31.0,6.81,16.23,14.31,39.78,True,T20I
+5808,Karim Janat,6,6,114,1,176,0,0,28,19.0,19.0,9.26,176.0,114.0,24.56,False,T20
+5808,Karim Janat,11,11,149,9,224,1,2,38,24.5,24.833,9.02,24.89,16.56,25.5,True,T20I
+5809,Naveen ul Haq,17,17,387,25,595,15,5,133,64.3,64.5,9.22,23.8,15.48,34.37,True,T20
+5809,Naveen ul Haq,20,20,399,27,571,14,4,147,66.3,66.5,8.59,21.15,14.78,36.84,True,T20I
+5837,Mahedi Hasan,41,41,914,50,1071,19,2,383,152.2,152.333,7.03,21.42,18.28,41.9,True,T20I
+5844,Ebadot Hossain,3,3,72,6,113,9,2,24,12.0,12.0,9.42,18.83,12.0,33.33,True,T20I
+5866,Patrick Kruger,7,7,116,8,179,9,2,28,19.2,19.333,9.26,22.38,14.5,24.14,True,T20I
+5882,Afif Hossain,5,5,30,1,44,2,0,8,5.0,5.0,8.8,44.0,30.0,26.67,True,T20I
+5892,Blair Tickner,11,11,215,16,340,8,2,77,35.5,35.833,9.49,21.25,13.44,35.81,True,T20I
+5939,Cameron Green,39,39,571,23,890,30,2,192,95.1,95.167,9.35,38.7,24.83,33.63,True,T20
+5939,Cameron Green,12,12,182,11,304,12,2,63,30.2,30.333,10.02,27.64,16.55,34.62,True,T20I
+5940,Riley Meredith,13,13,286,15,434,20,1,111,47.4,47.667,9.1,28.93,19.07,38.81,True,T20
+5940,Riley Meredith,1,1,24,1,34,0,0,8,4.0,4.0,8.5,34.0,24.0,33.33,False,T20I
+5944,Mohammed Siraj,75,75,1644,78,2450,108,5,699,274.0,274.0,8.94,31.41,21.08,42.52,True,T20
+5944,Mohammed Siraj,8,8,162,8,186,5,1,77,27.0,27.0,6.89,23.25,20.25,47.53,True,T20I
+5977,Khary Pierre,6,6,120,4,169,4,0,38,20.0,20.0,8.45,42.25,30.0,31.67,True,T20I
+5979,Abrar Ahmed,35,35,764,46,848,12,0,320,127.2,127.333,6.66,18.43,16.61,41.88,True,T20I
+6025,Henry Shipley,4,4,78,2,141,5,0,16,13.0,13.0,10.85,70.5,39.0,20.51,True,T20I
+6097,Brydon Carse,13,13,268,20,412,8,7,98,44.4,44.667,9.22,20.6,13.4,36.57,True,T20I
+6160,Chamika Karunaratne,20,20,336,13,486,15,0,90,56.0,56.0,8.68,37.38,25.85,26.79,True,T20I
+6161,Rahul Chahar,42,42,866,32,1191,17,4,273,144.2,144.333,8.25,37.22,27.06,31.52,True,T20
+6162,Kulwant Khejroliya,4,4,56,3,124,2,4,14,9.2,9.333,13.29,41.33,18.67,25.0,True,T20
+6166,Jack Edwards,1,1,12,0,25,0,0,0,2.0,2.0,12.5,,,0.0,False,T20I
+6179,Nipun Ransika,5,5,90,6,111,2,0,30,15.0,15.0,7.4,18.5,15.0,33.33,True,T20
+6180,Praveen Jayawickrama,2,2,48,2,72,0,0,11,8.0,8.0,9.0,36.0,24.0,22.92,False,T20I
+6188,Simi Singh,2,2,12,0,30,0,0,3,2.0,2.0,15.0,,,25.0,False,T20I
+6196,Josh Tongue,5,5,120,8,183,5,1,55,20.0,20.0,9.15,22.88,15.0,45.83,True,T20I
+6237,Manimaran Siddharth,9,9,186,9,281,4,3,59,31.0,31.0,9.06,31.22,20.67,31.72,True,T20
+6256,Varun Chakravarthy,63,63,1396,75,1909,39,5,513,232.4,232.667,8.2,25.45,18.61,36.75,True,T20
+6256,Varun Chakravarthy,32,32,732,60,927,8,2,293,122.0,122.0,7.6,15.45,12.2,40.03,True,T20I
+6272,William Jacks,19,19,191,10,310,11,1,62,31.5,31.833,9.74,31.0,19.1,32.46,True,T20
+6272,William Jacks,16,16,222,13,281,6,0,76,37.0,37.0,7.59,21.62,17.08,34.23,True,T20I
+6281,Abhishek Sharma,25,25,263,5,396,4,0,76,43.5,43.833,9.03,79.2,52.6,28.9,True,T20
+6281,Abhishek Sharma,21,21,194,9,276,2,0,55,32.2,32.333,8.54,30.67,21.56,28.35,True,T20I
+6284,Anukul Roy,21,21,311,14,467,25,0,102,51.5,51.833,9.01,33.36,22.21,32.8,True,T20
+6285,Kamlesh Nagarkoti,1,1,12,0,29,1,0,4,2.0,2.0,14.5,,,33.33,True,T20
+6286,Shivam Mavi,6,6,132,5,227,8,2,47,22.0,22.0,10.32,45.4,26.4,35.61,True,T20
+6286,Shivam Mavi,6,6,84,7,123,5,1,32,14.0,14.0,8.79,17.57,12.0,38.1,True,T20I
+6287,Yash Thakur,24,24,509,29,878,29,5,163,84.5,84.833,10.35,30.28,17.55,32.02,True,T20
+6287,Yash Thakur,3,3,60,5,92,4,0,24,10.0,10.0,9.2,18.4,12.0,40.0,True,T20I
+6297,Matthew Parkinson,2,2,36,1,65,4,0,7,6.0,6.0,10.83,65.0,36.0,19.44,True,T20I
+6350,Matthew Kuhnemann,6,6,120,2,167,2,1,39,20.0,20.0,8.35,83.5,60.0,32.5,True,T20I
+6354,Spencer Johnson,12,12,230,7,392,12,1,85,38.2,38.333,10.23,56.0,32.86,36.96,True,T20
+6354,Spencer Johnson,11,11,208,17,282,14,1,93,34.4,34.667,8.13,16.59,12.24,44.71,True,T20I
+6355,Shaheen Afridi,47,47,990,65,1308,43,3,417,165.0,165.0,7.93,20.12,15.23,42.12,True,T20I
+6356,Khaled Ahmed,1,1,24,0,37,0,0,7,4.0,4.0,9.25,,,29.17,False,T20I
+6359,Raghu Sharma,5,5,90,1,130,0,0,23,15.0,15.0,8.67,130.0,90.0,25.56,False,T20
+6389,Tanvir Islam,6,6,102,4,136,1,0,40,17.0,17.0,8.0,34.0,25.5,39.22,True,T20I
+6396,Tim David,1,1,6,0,18,0,0,1,1.0,1.0,18.0,,,16.67,False,T20
+6398,Aaron Hardie,15,15,271,15,390,14,1,109,45.1,45.167,8.63,26.0,18.07,40.22,True,T20I
+6423,Riyan Parag,19,19,186,6,293,12,0,42,31.0,31.0,9.45,48.83,31.0,22.58,True,T20
+6423,Riyan Parag,5,5,74,4,83,0,1,29,12.2,12.333,6.73,20.75,18.5,39.19,False,T20I
+6436,Qais Ahmad,7,7,138,6,162,2,0,43,23.0,23.0,7.04,27.0,23.0,31.16,True,T20
+6436,Qais Ahmad,3,3,54,1,80,1,0,17,9.0,9.0,8.89,80.0,54.0,31.48,True,T20I
+6449,Wafadar Momand,2,2,31,0,65,3,0,11,5.1,5.167,12.58,,,35.48,True,T20I
+6450,Mujeeb Ur Rahman,1,1,12,1,24,1,0,4,2.0,2.0,12.0,24.0,12.0,33.33,True,T20
+6450,Mujeeb Ur Rahman,37,37,808,47,932,28,0,339,134.4,134.667,6.92,19.83,17.19,41.96,True,T20I
+6460,Ayush Badoni,10,10,77,4,105,1,0,20,12.5,12.833,8.18,26.25,19.25,25.97,True,T20
+6464,Arshdeep Singh,72,72,1575,81,2430,101,5,562,262.3,262.5,9.26,30.0,19.44,35.68,True,T20
+6464,Arshdeep Singh,75,75,1627,111,2431,102,16,652,271.1,271.167,8.96,21.9,14.66,40.07,True,T20I
+6466,Atharwa Taide,1,1,1,0,4,0,0,0,0.1,0.167,24.0,,,0.0,False,T20
+6489,Darshan Nalkande,6,6,84,6,148,4,1,22,14.0,14.0,10.57,24.67,14.0,26.19,True,T20
+6503,Zahoor Khan,5,5,120,4,165,3,0,34,20.0,20.0,8.25,41.25,30.0,28.33,True,T20I
+6506,Mohammad Imran Randhawa,3,3,72,6,63,4,0,34,12.0,12.0,5.25,10.5,12.0,47.22,True,T20I
+6512,Michael Bracewell,5,5,66,6,95,0,0,26,11.0,11.0,8.64,15.83,11.0,39.39,False,T20
+6512,Michael Bracewell,36,36,612,33,794,23,0,212,102.0,102.0,7.78,24.06,18.55,34.64,True,T20I
+6515,Benjamin Lister,12,12,245,11,338,13,0,87,40.5,40.833,8.28,30.73,22.27,35.51,True,T20I
+6518,Daniel Sams,11,11,252,13,365,21,1,105,42.0,42.0,8.69,28.08,19.38,41.67,True,T20
+6518,Daniel Sams,6,6,98,3,147,5,0,32,16.2,16.333,9.0,49.0,32.67,32.65,True,T20I
+6523,Blessing Muzarabani,2,2,42,4,75,2,0,12,7.0,7.0,10.71,18.75,10.5,28.57,True,T20
+6523,Blessing Muzarabani,35,35,778,42,953,21,3,336,129.4,129.667,7.35,22.69,18.52,43.19,True,T20I
+6566,Matthew John Fisher,3,3,54,3,116,5,3,14,9.0,9.0,12.89,38.67,18.0,25.93,True,T20I
+6574,Alick Athanaze,1,1,6,0,16,0,1,1,1.0,1.0,16.0,,,16.67,False,T20I
+6591,KM Asif,4,4,84,3,137,6,1,28,14.0,14.0,9.79,45.67,28.0,33.33,True,T20
+6628,Gerald Coetzee,14,14,273,15,464,18,1,90,45.3,45.5,10.2,30.93,18.2,32.97,True,T20
+6628,Gerald Coetzee,15,15,319,20,473,34,2,141,53.1,53.167,8.9,23.65,15.95,44.2,True,T20I
+6643,Hasan Mahmud,20,20,396,22,515,15,1,152,66.0,66.0,7.8,23.41,18.0,38.38,True,T20I
+6651,Towhid Hridoy,1,1,2,0,5,0,0,0,0.2,0.333,15.0,,,0.0,False,T20I
+6664,Dion Myers,2,2,12,0,40,2,0,0,2.0,2.0,20.0,,,0.0,True,T20I
+6669,Mohsin Khan,30,30,654,38,912,24,0,272,109.0,109.0,8.37,24.0,17.21,41.59,True,T20
+6671,Lalit Yadav,14,14,204,6,324,5,1,61,34.0,34.0,9.53,54.0,34.0,29.9,True,T20
+6676,Azmatullah Omarzai,18,18,354,15,566,15,0,118,59.0,59.0,9.59,37.73,23.6,33.33,True,T20
+6676,Azmatullah Omarzai,47,47,713,40,981,36,0,291,118.5,118.833,8.26,24.52,17.82,40.81,True,T20I
+6677,Mohammad Hasnain,10,10,222,8,355,13,3,80,37.0,37.0,9.59,44.38,27.75,36.04,True,T20I
+6683,Mayank Markande,22,22,432,21,691,12,1,120,72.0,72.0,9.6,32.9,20.57,27.78,True,T20
+6697,Shams Mulani,2,2,30,0,57,3,0,7,5.0,5.0,11.4,,,23.33,True,T20
+6725,Sherfane Rutherford,2,2,18,1,43,3,0,3,3.0,3.0,14.33,43.0,18.0,16.67,True,T20I
+6726,Romario Shepherd,28,28,360,17,703,20,1,98,60.0,60.0,11.72,41.35,21.18,27.22,True,T20
+6726,Romario Shepherd,64,64,1179,68,1976,94,3,338,196.3,196.5,10.06,29.06,17.34,28.67,True,T20I
+6764,Bukkapatnam Siddharth,1,1,6,0,13,0,0,1,1.0,1.0,13.0,,,16.67,False,T20
+6772,Chetan Sakariya,6,6,132,6,211,12,1,38,22.0,22.0,9.59,35.17,22.0,28.79,True,T20
+6784,Hassan Mohammad,1,1,24,3,30,2,0,9,4.0,4.0,7.5,10.0,8.0,37.5,True,T20
+6795,Terrance Hinds,2,2,26,1,53,5,0,7,4.2,4.333,12.23,53.0,26.0,26.92,True,T20I
+6797,Dominic Drakes,7,7,126,4,176,5,0,39,21.0,21.0,8.38,44.0,31.5,30.95,True,T20I
+6806,Tushar Deshpande,48,48,1001,52,1666,77,6,349,166.5,166.833,9.99,32.04,19.25,34.87,True,T20
+6806,Tushar Deshpande,2,2,36,2,55,1,0,17,6.0,6.0,9.17,27.5,18.0,47.22,True,T20I
+6819,Yashasvi Jaiswal,1,1,1,0,6,0,0,0,0.1,0.167,36.0,,,0.0,False,T20
+6819,Yashasvi Jaiswal,1,1,6,0,11,0,0,1,1.0,1.0,11.0,,,16.67,False,T20I
+6926,Matty Potts,1,1,24,2,48,8,1,6,4.0,4.0,12.0,24.0,12.0,25.0,True,T20I
+6932,Pramod Madushan,2,2,48,4,59,2,0,14,8.0,8.0,7.38,14.75,12.0,29.17,True,T20
+6932,Pramod Madushan,5,5,97,9,147,9,1,21,16.1,16.167,9.09,16.33,10.78,21.65,True,T20I
+6984,Saqib Zulfiqar,1,1,12,0,13,0,0,2,2.0,2.0,6.5,,,16.67,False,T20I
+6985,Bas de Leede,4,4,72,4,109,6,0,21,12.0,12.0,9.08,27.25,18.0,29.17,True,T20I
+6995,Saad Zafar,3,3,72,6,69,1,0,29,12.0,12.0,5.75,11.5,12.0,40.28,True,T20I
+7001,Dilon Heyliger,3,3,54,3,109,3,1,16,9.0,9.0,12.11,36.33,18.0,29.63,True,T20I
+7002,Nicholas Kirton,1,1,6,0,18,0,0,0,1.0,1.0,18.0,,,0.0,False,T20I
+7008,Gus Atkinson,4,4,65,6,122,1,1,22,10.5,10.833,11.26,20.33,10.83,33.85,True,T20I
+7049,Kamil Mishara,1,1,6,0,10,0,0,0,1.0,1.0,10.0,,,0.0,False,T20I
+7052,Dunith Wellalage,4,4,77,7,85,2,0,32,12.5,12.833,6.62,12.14,11.0,41.56,True,T20
+7052,Dunith Wellalage,12,12,255,13,362,4,1,94,42.3,42.5,8.52,27.85,19.62,36.86,True,T20I
+7059,Nehal Wadhera,4,4,28,1,29,0,0,10,4.4,4.667,6.21,29.0,28.0,35.71,False,T20
+7060,Arjun Tendulkar,6,6,97,4,150,9,1,36,16.1,16.167,9.28,37.5,24.25,37.11,True,T20
+7094,Curtis Campher,29,29,396,9,564,17,1,117,66.0,66.0,8.55,62.67,44.0,29.55,True,T20I
+7120,Rohit Paudel,3,3,42,1,49,1,0,18,7.0,7.0,7.0,49.0,42.0,42.86,True,T20I
+7140,Senuran Muthusamy,2,2,42,1,58,1,0,21,7.0,7.0,8.29,58.0,42.0,50.0,True,T20I
+7155,Sahan Arachchige,7,7,78,3,82,0,0,22,13.0,13.0,6.31,27.33,26.0,28.21,False,T20
+7201,Haroon Arshad,5,5,72,1,143,4,3,22,12.0,12.0,11.92,143.0,72.0,30.56,True,T20I
+7227,Nijat Masood,3,3,66,4,95,3,2,14,11.0,11.0,8.64,23.75,16.5,21.21,True,T20I
+7240,FazalHaq Farooqi,12,12,254,6,437,12,0,80,42.2,42.333,10.32,72.83,42.33,31.5,True,T20
+7240,FazalHaq Farooqi,38,38,773,40,956,24,0,317,128.5,128.833,7.42,23.9,19.32,41.01,True,T20I
+7241,Ziaur Rahman,2,2,48,5,81,1,1,17,8.0,8.0,10.12,16.2,9.6,35.42,True,T20I
+7250,Mukesh Choudhary,24,24,483,25,771,28,1,198,80.3,80.5,9.58,30.84,19.32,40.99,True,T20
+7269,Sushant Mishra,2,2,38,2,67,9,0,15,6.2,6.333,10.58,33.5,19.0,39.47,True,T20
+7270,Anrich Nortje,25,25,572,27,989,26,8,194,95.2,95.333,10.37,36.63,21.19,33.92,True,T20
+7270,Anrich Nortje,14,14,264,9,436,7,1,96,44.0,44.0,9.91,48.44,29.33,36.36,True,T20I
+7312,Nandre Burger,18,18,363,21,565,19,1,146,60.3,60.5,9.34,26.9,17.29,40.22,True,T20
+7312,Nandre Burger,4,4,78,1,136,5,2,28,13.0,13.0,10.46,136.0,78.0,35.9,True,T20I
+7322,Yash Dayal,43,43,871,41,1386,39,10,307,145.1,145.167,9.55,33.8,21.24,35.25,True,T20
+7325,Harpreet Brar,38,38,667,32,912,11,1,218,111.1,111.167,8.2,28.5,20.84,32.68,True,T20
+7327,Rasikh Salam,28,28,542,38,865,27,2,177,90.2,90.333,9.58,22.76,14.26,32.66,True,T20
+7344,Shoriful Islam,39,39,790,41,1084,32,1,306,131.4,131.667,8.23,26.44,19.27,38.73,True,T20I
+7354,Al Alis,1,1,24,2,29,1,0,13,4.0,4.0,7.25,14.5,12.0,54.17,True,T20
+7364,Haris Rauf,48,48,1027,76,1469,36,0,396,171.1,171.167,8.58,19.33,13.51,38.56,True,T20I
+7403,Lalit Rajbanshi,2,2,30,2,19,1,0,14,5.0,5.0,3.8,9.5,15.0,46.67,True,T20I
+7446,Abdul Samad,3,3,9,0,20,0,0,2,1.3,1.5,13.33,,,22.22,False,T20
+7472,Shahbaz Ahmed,42,42,535,18,933,17,2,139,89.1,89.167,10.46,51.83,29.72,25.98,True,T20
+7473,Akash Deep,14,14,278,10,544,20,4,89,46.2,46.333,11.74,54.4,27.8,32.01,True,T20
+7503,Ravi Bishnoi,62,62,1266,59,1886,46,6,399,211.0,211.0,8.94,31.97,21.46,31.52,True,T20
+7503,Ravi Bishnoi,47,47,1061,65,1337,44,6,432,176.5,176.833,7.56,20.57,16.32,40.72,True,T20I
+7533,Simarjeet Singh,14,14,240,11,396,14,2,102,40.0,40.0,9.9,36.0,21.82,42.5,True,T20
+7544,Venkatesh Iyer,5,5,30,0,74,0,0,3,5.0,5.0,14.8,,,10.0,False,T20
+7544,Venkatesh Iyer,2,2,19,2,27,0,0,7,3.1,3.167,8.53,13.5,9.5,36.84,False,T20I
+7545,Kuldeep Sen,12,12,241,14,386,12,2,83,40.1,40.167,9.61,27.57,17.21,34.44,True,T20
+7574,Kumar Kartikeya Singh,16,16,282,12,405,8,0,85,47.0,47.0,8.62,33.75,23.5,30.14,True,T20
+7625,Suryansh Shedge,1,1,18,0,40,0,1,1,3.0,3.0,13.33,,,5.56,False,T20
+7625,Suryansh Shedge,3,3,42,0,79,2,2,12,7.0,7.0,11.29,,,28.57,True,T20I
+7634,Aaron Jones,2,2,18,2,20,0,0,5,3.0,3.0,6.67,10.0,9.0,27.78,False,T20I
+7689,Dilshan Madushanka,1,1,24,1,36,4,0,8,4.0,4.0,9.0,36.0,24.0,33.33,True,T20
+7689,Dilshan Madushanka,18,18,338,15,543,26,5,122,56.2,56.333,9.64,36.2,22.53,36.09,True,T20I
+7690,Saim Ayub,32,32,510,26,606,12,1,196,85.0,85.0,7.13,23.31,19.62,38.43,True,T20I
+7692,Qasim Akram,3,3,42,2,45,2,0,13,7.0,7.0,6.43,22.5,21.0,30.95,True,T20
+7696,Mohammad Wasim,17,17,355,17,509,19,0,136,59.1,59.167,8.6,29.94,20.88,38.31,True,T20I
+7699,Abbas Afridi,3,3,54,2,70,2,0,24,9.0,9.0,7.78,35.0,27.0,44.44,True,T20
+7699,Abbas Afridi,22,22,399,38,560,17,2,146,66.3,66.5,8.42,14.74,10.5,36.59,True,T20I
+7702,Chamindu Wickramasinghe,3,3,42,1,55,1,0,18,7.0,7.0,7.86,55.0,42.0,42.86,True,T20I
+7704,Pavan Rathnayake,1,1,12,2,11,0,0,4,2.0,2.0,5.5,5.5,6.0,33.33,False,T20I
+7709,Ainsley Ndlovu,5,5,66,2,95,2,0,26,11.0,11.0,8.64,47.5,33.0,39.39,True,T20I
+7710,Brandon Glover,1,1,12,0,24,7,0,2,2.0,2.0,12.0,,,16.67,True,T20I
+7741,Gareth Delany,35,35,552,30,702,14,0,181,92.0,92.0,7.63,23.4,18.4,32.79,True,T20I
+7755,Harsh Thaker,3,3,48,2,72,0,0,14,8.0,8.0,9.0,36.0,24.0,29.17,False,T20I
+7756,Kaleem Sana,3,3,67,4,68,0,0,30,11.1,11.167,6.09,17.0,16.75,44.78,False,T20I
+7808,Marco Jansen,45,45,981,43,1572,51,9,349,163.3,163.5,9.61,36.56,22.81,35.58,True,T20
+7808,Marco Jansen,15,15,336,15,528,17,5,139,56.0,56.0,9.43,35.2,22.4,41.37,True,T20I
+7896,Akash Singh,11,11,223,13,363,9,0,84,37.1,37.167,9.77,27.92,17.15,37.67,True,T20
+7897,Namboori Tilak Varma,6,6,46,0,59,3,0,18,7.4,7.667,7.7,,,39.13,True,T20
+7897,Namboori Tilak Varma,6,6,39,3,48,0,0,16,6.3,6.5,7.38,16.0,13.0,41.03,False,T20I
+7903,Shamim Hossain,1,1,12,1,19,0,0,2,2.0,2.0,9.5,19.0,12.0,16.67,False,T20
+7903,Shamim Hossain,9,9,91,2,124,0,1,22,15.1,15.167,8.18,62.0,45.5,24.18,False,T20I
+7905,Tanzim Sakib,31,31,677,36,993,25,3,260,112.5,112.833,8.8,27.58,18.81,38.4,True,T20I
+7906,Rakibul Hasan,8,8,180,9,197,2,0,74,30.0,30.0,6.57,21.89,20.0,41.11,True,T20
+7912,Vikramjit Singh,4,4,45,4,61,1,0,14,7.3,7.5,8.13,15.25,11.25,31.11,True,T20I
+7914,Clayton Floyd,2,2,36,1,51,0,0,16,6.0,6.0,8.5,51.0,36.0,44.44,False,T20I
+7916,Karima Gore,1,1,18,0,21,2,0,9,3.0,3.0,7.0,,,50.0,True,T20I
+7920,Nathan Ellis,14,14,312,18,455,7,3,94,52.0,52.0,8.75,25.28,17.33,30.13,True,T20
+7920,Nathan Ellis,29,29,604,40,804,32,1,225,100.4,100.667,7.99,20.1,15.1,37.25,True,T20I
+7927,Janak Prakash,3,3,54,5,83,5,0,19,9.0,9.0,9.22,16.6,10.8,35.19,True,T20I
+7928,Vinoth Baskaran,3,3,65,6,91,0,0,22,10.5,10.833,8.4,15.17,10.83,33.85,False,T20I
+7929,Aryaman Sunil Uchil,2,2,42,1,57,3,0,14,7.0,7.0,8.14,57.0,42.0,33.33,True,T20I
+7935,Mohammad Ghazanfar,5,5,108,4,130,0,0,29,18.0,18.0,7.22,32.5,27.0,26.85,False,T20I
+7937,Wasim Ali,4,4,84,4,97,5,0,37,14.0,14.0,6.93,24.25,21.0,44.05,True,T20
+7942,Jay Odedara,3,3,54,3,74,0,0,28,9.0,9.0,8.22,24.67,18.0,51.85,False,T20
+7945,Nasrulla Rana,5,5,72,2,128,8,0,17,12.0,12.0,10.67,64.0,36.0,23.61,True,T20
+7966,Farmanullah Safi,2,2,36,1,40,1,0,13,6.0,6.0,6.67,40.0,36.0,36.11,True,T20
+7967,Noor Ahmad,51,51,1098,61,1483,38,5,358,183.0,183.0,8.1,24.31,18.0,32.6,True,T20
+7967,Noor Ahmad,19,19,369,24,455,27,0,146,61.3,61.5,7.4,18.96,15.38,39.57,True,T20I
+8005,Zawar Farid,4,4,78,2,108,2,0,23,13.0,13.0,8.31,54.0,39.0,29.49,True,T20I
+8009,Junaid Siddique,15,15,330,27,474,23,1,125,55.0,55.0,8.62,17.56,12.22,37.88,True,T20I
+8033,Abdul Rahmani,3,3,60,5,81,2,1,23,10.0,10.0,8.1,16.2,12.0,38.33,True,T20
+8049,Naseem Shah,27,27,576,26,832,27,5,225,96.0,96.0,8.67,32.0,22.15,39.06,True,T20I
+8093,Nikhil Chaudhary,3,3,42,2,48,2,0,20,7.0,7.0,6.86,24.0,21.0,47.62,True,T20I
+8141,Auqib Nabi,5,5,78,0,149,3,3,24,13.0,13.0,11.46,,,30.77,True,T20
+8177,Akash Madhwal,17,17,352,23,586,17,7,105,58.4,58.667,9.99,25.48,15.3,29.83,True,T20
+8182,Donovan Ferreira,3,3,18,1,41,0,0,2,3.0,3.0,13.67,41.0,18.0,11.11,False,T20
+8182,Donovan Ferreira,6,6,91,2,134,6,0,27,15.1,15.167,8.84,67.0,45.5,29.67,True,T20I
+8221,Nitish Reddy,26,26,325,13,577,21,3,92,54.1,54.167,10.65,44.38,25.0,28.31,True,T20
+8221,Nitish Reddy,13,13,240,14,400,5,1,65,40.0,40.0,10.0,28.57,17.14,27.08,True,T20I
+8266,Sumit Kumar 1,2,2,20,0,38,2,0,4,3.2,3.333,11.4,,,20.0,True,T20
+8295,Matthew Forde,21,21,408,20,636,18,1,151,68.0,68.0,9.35,31.8,20.4,37.01,True,T20I
+8298,Ramon Simmonds,4,4,78,6,104,3,0,30,13.0,13.0,8.0,17.33,13.0,38.46,True,T20I
+8311,Dan Mousley,4,4,54,2,78,1,0,24,9.0,9.0,8.67,39.0,27.0,44.44,True,T20I
+8326,Jayden Seales,9,9,180,7,311,5,1,57,30.0,30.0,10.37,44.43,25.71,31.67,True,T20I
+8380,Mohammad Rishad Hossain,49,49,1018,61,1432,15,0,348,169.4,169.667,8.44,23.48,16.69,34.18,True,T20I
+8389,Jayden Lennox,1,1,18,1,28,0,0,7,3.0,3.0,9.33,28.0,18.0,38.89,False,T20I
+8424,Tanveer Sangha,7,7,168,10,249,3,0,45,28.0,28.0,8.89,24.9,16.8,26.79,True,T20I
+8530,Kartik Tyagi,19,19,415,20,720,16,10,141,69.1,69.167,10.41,36.0,20.75,33.98,True,T20
+8580,Yudhvir Singh,9,9,138,8,250,6,1,54,23.0,23.0,10.87,31.25,17.25,39.13,True,T20
+8611,Adithya Ashok,1,1,24,1,28,1,0,9,4.0,4.0,7.0,28.0,24.0,37.5,True,T20I
+8614,William ORourke,3,3,62,6,131,2,0,15,10.2,10.333,12.68,21.83,10.33,24.19,True,T20
+8614,William ORourke,5,5,120,5,141,8,3,48,20.0,20.0,7.05,28.2,24.0,40.0,True,T20I
+8623,Kristian Clarke,1,1,24,1,40,0,0,8,4.0,4.0,10.0,40.0,24.0,33.33,False,T20I
+8632,Aaqib Khan,2,2,48,2,86,2,0,17,8.0,8.0,10.75,43.0,24.0,35.42,True,T20
+8634,Ashwani Kumar,10,10,183,17,334,11,2,57,30.3,30.5,10.95,19.65,10.76,31.15,True,T20
+8638,Basil Hameed,8,8,138,7,194,2,0,39,23.0,23.0,8.43,27.71,19.71,28.26,True,T20I
+8639,Kartik Meiyappan,4,4,96,6,99,4,0,39,16.0,16.0,6.19,16.5,16.0,40.62,True,T20I
+8654,Cooper Connolly,7,7,114,3,177,4,0,41,19.0,19.0,9.32,59.0,38.0,35.96,True,T20I
+8661,Matheesha Pathirana,33,33,710,47,1005,85,2,240,118.2,118.333,8.49,21.38,15.11,33.8,True,T20
+8661,Matheesha Pathirana,21,21,422,35,625,53,7,146,70.2,70.333,8.89,17.86,12.06,34.6,True,T20I
+8664,Victor Nyauchi,1,1,24,3,29,0,0,9,4.0,4.0,7.25,9.67,8.0,37.5,False,T20I
+8719,Aryan Lakra,1,1,18,1,14,0,0,9,3.0,3.0,4.67,14.0,18.0,50.0,False,T20I
+8723,Mohammed Faraazuddin,2,2,30,1,78,0,0,9,5.0,5.0,15.6,78.0,30.0,30.0,False,T20
+8723,Mohammed Faraazuddin,3,3,48,2,70,0,0,9,8.0,8.0,8.75,35.0,24.0,18.75,False,T20I
+8726,Alishan Sharafu,1,1,1,0,3,0,0,0,0.1,0.167,18.0,,,0.0,False,T20I
+8727,Sanchit Sharma,2,2,30,0,38,0,0,18,5.0,5.0,7.6,,,60.0,False,T20
+8727,Sanchit Sharma,1,1,6,0,18,0,0,2,1.0,1.0,18.0,,,33.33,False,T20I
+8743,Muhammad Shehzad,1,1,12,1,4,1,0,8,2.0,2.0,2.0,4.0,12.0,66.67,True,T20
+8746,Vaibhav Arora,44,44,896,48,1450,58,10,319,149.2,149.333,9.71,30.21,18.67,35.6,True,T20
+8763,Duan Jansen,1,1,24,1,53,4,0,6,4.0,4.0,13.25,53.0,24.0,25.0,True,T20
+8805,Ottneil Baartman,16,16,323,23,492,20,0,126,53.5,53.833,9.14,21.39,14.04,39.01,True,T20I
+15269,Mohammed Aslam,3,3,48,0,54,0,0,18,8.0,8.0,6.75,,,37.5,False,T20I
+15279,Shiraz Khan,3,3,66,4,71,2,0,27,11.0,11.0,6.45,17.75,16.5,40.91,True,T20I
+15280,Sayed Monib,3,3,66,3,89,6,0,23,11.0,11.0,8.09,29.67,22.0,34.85,True,T20I
+16498,Sultan Ahmad,2,2,45,1,36,0,0,25,7.3,7.5,4.8,36.0,45.0,55.56,False,T20I
+17424,Graham Hume,10,10,188,11,301,11,1,71,31.2,31.333,9.61,27.36,17.09,37.77,True,T20I
+17430,Conor Olphert,2,2,30,0,65,6,1,8,5.0,5.0,13.0,,,26.67,True,T20I
+17898,Bilal Sami,7,7,141,12,200,7,0,63,23.3,23.5,8.51,16.67,11.75,44.68,True,T20
+17911,Nangeyalia Kharote,4,4,72,0,87,1,0,24,12.0,12.0,7.25,,,33.33,True,T20
+17911,Nangeyalia Kharote,3,3,66,5,65,1,0,33,11.0,11.0,5.91,13.0,13.2,50.0,True,T20I
+17918,Abdullah Tarakhail,1,1,18,2,14,2,1,12,3.0,3.0,4.67,7.0,9.0,66.67,True,T20I
+17919,Mohammad Saleem Safi,1,1,18,0,43,3,1,3,3.0,3.0,14.33,,,16.67,True,T20I
+17937,Zubaid Akbari,2,2,24,0,26,1,0,7,4.0,4.0,6.5,,,29.17,True,T20
+19020,Ateeq Iqbal,5,5,96,4,132,1,0,37,16.0,16.0,8.25,33.0,24.0,38.54,True,T20
+19020,Ateeq Iqbal,4,4,63,3,69,3,0,32,10.3,10.5,6.57,23.0,21.0,50.79,True,T20I
+19124,Anas Khan,1,1,23,6,12,0,0,12,3.5,3.833,3.13,2.0,3.83,52.17,False,T20
+19125,Ayush Shukla,3,3,42,1,68,0,2,13,7.0,7.0,9.71,68.0,42.0,30.95,False,T20
+19125,Ayush Shukla,7,7,138,9,221,10,1,53,23.0,23.0,9.61,24.56,15.33,38.41,True,T20I
+19145,Aamer Jamal,4,4,72,2,140,4,1,21,12.0,12.0,11.67,70.0,36.0,29.17,True,T20I
+19147,Faraz Akram,6,6,99,1,167,13,0,23,16.3,16.5,10.12,167.0,99.0,23.23,True,T20I
+19307,Tharindu Rathnayake,2,2,24,2,53,2,0,4,4.0,4.0,13.25,26.5,12.0,16.67,True,T20I
+19312,Nuwan Thushara,8,8,180,9,281,15,3,58,30.0,30.0,9.37,31.22,20.0,32.22,True,T20
+19312,Nuwan Thushara,30,30,595,27,863,27,4,193,99.1,99.167,8.7,31.96,22.04,32.44,True,T20I
+19315,Vijayakanth Viyaskanth,5,5,108,6,125,1,0,39,18.0,18.0,6.94,20.83,18.0,36.11,True,T20
+19315,Vijayakanth Viyaskanth,2,2,48,1,51,0,0,19,8.0,8.0,6.38,51.0,48.0,39.58,False,T20I
+19316,Maheesh Theekshana,38,38,876,36,1199,24,2,260,146.0,146.0,8.21,33.31,24.33,29.68,True,T20
+19316,Maheesh Theekshana,61,61,1388,57,1714,29,2,499,231.2,231.333,7.41,30.07,24.35,35.95,True,T20I
+19530,Shahnawaz Dhani,3,3,66,6,52,1,0,40,11.0,11.0,4.73,8.67,11.0,60.61,True,T20
+19530,Shahnawaz Dhani,9,9,170,6,270,7,0,64,28.2,28.333,9.53,45.0,28.33,37.65,True,T20I
+19535,Rejaur Rahman Raja,2,2,48,3,70,0,1,12,8.0,8.0,8.75,23.33,16.0,25.0,False,T20
+19754,Raja Khan,1,1,24,0,55,3,0,4,4.0,4.0,13.75,,,16.67,True,T20
+19754,Raja Khan,1,1,24,1,27,0,0,11,4.0,4.0,6.75,27.0,24.0,45.83,False,T20I
+19781,Mitchell Owen,4,4,30,2,58,3,0,7,5.0,5.0,11.6,29.0,15.0,23.33,True,T20I
+19892,Theo van Woerkom,1,1,6,0,10,1,0,2,1.0,1.0,10.0,,,33.33,True,T20I
+19902,Tim Pringle,7,7,132,8,151,2,0,55,22.0,22.0,6.86,18.88,16.5,41.67,True,T20I
+19969,Mubasir Khan,1,1,18,0,42,0,0,3,3.0,3.0,14.0,,,16.67,False,T20
+19998,Rajvardhan Hangargekar,2,2,36,3,60,6,1,14,6.0,6.0,10.0,20.0,12.0,38.89,True,T20
+20005,Arshad Khan,25,25,376,18,689,36,1,137,62.4,62.667,10.99,38.28,20.89,36.44,True,T20
+20006,Ramandeep Singh,12,12,128,12,191,16,0,39,21.2,21.333,8.95,15.92,10.67,30.47,True,T20
+20006,Ramandeep Singh,1,1,20,1,42,3,0,4,3.2,3.333,12.6,42.0,20.0,20.0,True,T20I
+20175,Nandan Yadav,1,1,6,1,6,2,0,4,1.0,1.0,6.0,6.0,6.0,66.67,True,T20I
+20229,Mohammad Ali,3,3,42,1,86,1,1,19,7.0,7.0,12.29,86.0,42.0,45.24,True,T20I
+20310,Ahmed Daniyal,6,6,129,7,110,4,0,70,21.3,21.5,5.12,15.71,18.43,54.26,True,T20
+20310,Ahmed Daniyal,2,2,42,3,39,2,0,22,7.0,7.0,5.57,13.0,14.0,52.38,True,T20I
+20316,Shahab Alam,1,1,12,0,23,1,0,4,2.0,2.0,11.5,,,33.33,True,T20I
+20693,Kuldip Yadav,2,2,42,2,68,0,0,9,7.0,7.0,9.71,34.0,21.0,21.43,False,T20
+20702,Tristan Stubbs,5,5,36,4,69,1,0,12,6.0,6.0,11.5,17.25,9.0,33.33,True,T20
+20702,Tristan Stubbs,2,2,12,0,41,0,1,1,2.0,2.0,20.5,,,8.33,False,T20I
+20704,Salman Mirza,15,15,328,21,374,10,1,158,54.4,54.667,6.84,17.81,15.62,48.17,True,T20I
+20894,Aman Khan,1,1,6,0,13,0,0,1,1.0,1.0,13.0,,,16.67,False,T20
+20989,Vivrant Sharma,2,2,18,0,37,2,1,5,3.0,3.0,12.33,,,27.78,True,T20
+21196,Mohammad Waheed,1,1,24,2,31,0,0,9,4.0,4.0,7.75,15.5,12.0,37.5,False,T20
+21780,Ernest Masuku,3,3,60,5,103,3,0,24,10.0,10.0,10.3,20.6,12.0,40.0,True,T20I
+21784,Brad Evans,21,21,438,31,657,14,5,160,73.0,73.0,9.0,21.19,14.13,36.53,True,T20I
+21786,Tanaka Chivanga,2,2,27,0,51,3,1,11,4.3,4.5,11.33,,,40.74,True,T20I
+22134,Luke Jongwe,18,18,330,19,510,19,5,85,55.0,55.0,9.27,26.84,17.37,25.76,True,T20I
+22137,Fionn Hand,10,10,134,6,218,7,2,47,22.2,22.333,9.76,36.33,22.33,35.07,True,T20I
+22187,Ryan Klein,2,2,24,1,45,0,0,5,4.0,4.0,11.25,45.0,24.0,20.83,False,T20I
+22188,Aryan Dutt,7,7,140,5,143,1,1,69,23.2,23.333,6.13,28.6,28.0,49.29,True,T20I
+22471,Matthew Humphreys,14,14,305,20,359,10,0,123,50.5,50.833,7.06,17.95,15.25,40.33,True,T20I
+22565,Muhammad Waseem,2,2,17,0,45,0,2,2,2.5,2.833,15.88,,,11.76,False,T20I
+22920,Jacob Duffy,6,6,144,9,263,11,1,54,24.0,24.0,10.96,29.22,16.0,37.5,True,T20
+22920,Jacob Duffy,36,36,733,53,1014,40,4,326,122.1,122.167,8.3,19.13,13.83,44.47,True,T20I
+23311,Jacob Bethell,5,5,87,8,122,3,0,27,14.3,14.5,8.41,15.25,10.88,31.03,True,T20I
+23467,Gurjapneet Singh,12,12,241,11,343,16,0,83,40.1,40.167,8.54,31.18,21.91,34.44,True,T20
+24017,Brian Bennett,16,16,132,7,187,4,1,53,22.0,22.0,8.5,26.71,18.86,40.15,True,T20I
+24346,Mohamed Shafeeq,3,3,63,2,82,6,0,23,10.3,10.5,7.81,41.0,31.5,36.51,True,T20I
+24372,Muzahir Raza,5,5,90,5,132,6,0,36,15.0,15.0,8.8,26.4,18.0,40.0,True,T20
+24381,Shariz Ahmad,3,3,36,2,55,0,0,9,6.0,6.0,9.17,27.5,18.0,25.0,False,T20I
+24473,Sonny Baker,4,4,95,6,96,3,0,56,15.5,15.833,6.06,16.0,15.83,58.95,True,T20I
+24475,Rehan Ahmed,11,11,210,13,333,1,0,61,35.0,35.0,9.51,25.62,16.15,29.05,True,T20I
+24767,Ripon Mondol,8,8,192,19,221,7,1,85,32.0,32.0,6.91,11.63,10.11,44.27,True,T20
+24767,Ripon Mondol,2,2,36,0,66,0,0,7,6.0,6.0,11.0,,,19.44,False,T20I
+24779,Ijaz Ahmadzai,1,1,6,0,16,1,0,1,1.0,1.0,16.0,,,16.67,True,T20I
+24812,Chris Greaves,4,4,54,3,79,0,0,11,9.0,9.0,8.78,26.33,18.0,20.37,False,T20I
+24887,Innocent Kaia,1,1,6,0,4,0,0,3,1.0,1.0,4.0,,,50.0,False,T20I
+24978,Jack Jarvis,2,2,22,1,67,0,0,3,3.4,3.667,18.27,67.0,22.0,13.64,False,T20I
+25011,Liam Mccarthy,3,3,66,1,132,4,0,14,11.0,11.0,12.0,132.0,66.0,21.21,True,T20I
+25030,Zaman Khan,2,2,42,3,60,1,0,12,7.0,7.0,8.57,20.0,14.0,28.57,True,T20
+25030,Zaman Khan,10,10,189,7,236,8,3,75,31.3,31.5,7.49,33.71,27.0,39.68,True,T20I
+25048,Umran Malik,23,23,421,27,663,19,4,174,70.1,70.167,9.45,24.56,15.59,41.33,True,T20
+25048,Umran Malik,8,8,139,11,244,13,4,50,23.1,23.167,10.53,22.18,12.64,35.97,True,T20I
+25128,Nqabayomzi Peter,9,9,162,7,250,7,1,51,27.0,27.0,9.26,35.71,23.14,31.48,True,T20I
+25132,Praful Hinge,7,7,156,14,305,9,3,60,26.0,26.0,11.73,21.79,11.14,38.46,True,T20
+25138,Harsh Dubey,15,15,264,17,400,9,0,81,44.0,44.0,9.09,23.53,15.53,30.68,True,T20
+25213,Dewald Brevis,1,1,3,1,8,0,0,1,0.3,0.5,16.0,8.0,3.0,33.33,False,T20
+25216,Andile Simelane,6,6,108,5,195,4,2,27,18.0,18.0,10.83,39.0,21.6,25.0,True,T20I
+25231,Samay Shrivastava,6,6,108,2,150,5,0,40,18.0,18.0,8.33,75.0,54.0,37.04,True,T20
+25231,Samay Shrivastava,3,3,42,1,71,3,0,14,7.0,7.0,10.14,71.0,42.0,33.33,True,T20I
+25341,Mahfuzur Rabby,3,3,66,2,55,1,0,28,11.0,11.0,5.0,27.5,33.0,42.42,True,T20
+25502,Adnan Idrees,1,1,12,1,16,0,0,4,2.0,2.0,8.0,16.0,12.0,33.33,False,T20I
+25507,Edson Silva,2,2,18,0,38,0,0,5,3.0,3.0,12.67,,,27.78,False,T20I
+25809,Juanoy Drysdale,3,3,60,2,80,3,0,20,10.0,10.0,8.0,40.0,30.0,33.33,True,T20I
+26514,Nimesh Vimukthi,4,4,96,1,140,7,0,29,16.0,16.0,8.75,140.0,96.0,30.21,True,T20
+26519,Janith Liyanage,1,1,8,0,18,0,0,2,1.2,1.333,13.5,,,25.0,False,T20I
+26530,Treveen Mathew,3,3,72,7,68,5,0,33,12.0,12.0,5.67,9.71,10.29,45.83,True,T20
+26663,Kwena Maphaka,4,4,66,2,143,5,0,22,11.0,11.0,13.0,71.5,33.0,33.33,True,T20
+26663,Kwena Maphaka,12,12,239,13,401,16,7,80,39.5,39.833,10.07,30.85,18.38,33.47,True,T20I
+26795,Joel Davies,3,3,48,4,58,2,0,22,8.0,8.0,7.25,14.5,12.0,45.83,True,T20I
+26830,Nishant Kumar Sindhu,3,3,36,3,44,0,0,12,6.0,6.0,7.33,14.67,12.0,33.33,False,T20
+26834,Raj Bawa,2,2,24,2,49,7,1,7,4.0,4.0,12.25,24.5,12.0,29.17,True,T20
+26843,Maaz Sadaqat,4,4,72,7,52,0,0,39,12.0,12.0,4.33,7.43,10.29,54.17,False,T20
+26854,SM Meherob Hasan,5,5,120,5,138,3,0,46,20.0,20.0,6.9,27.6,24.0,38.33,True,T20
+26916,Yasir Mohammad,3,3,48,1,74,0,0,10,8.0,8.0,9.25,74.0,48.0,20.83,False,T20I
+26988,Jitenkumar Ramanandi,2,2,48,4,57,1,0,15,8.0,8.0,7.12,14.25,12.0,31.25,True,T20I
+27004,Hassnain Shah,2,2,42,1,65,1,0,11,7.0,7.0,9.29,65.0,42.0,26.19,True,T20I
+27059,Karan Sonavale,1,1,6,1,9,0,0,3,1.0,1.0,9.0,9.0,6.0,50.0,False,T20
+27259,Jishan Alam,3,3,18,1,28,0,0,5,3.0,3.0,9.33,28.0,18.0,27.78,False,T20
+27364,Simranjeet Kang,3,3,51,4,56,6,1,19,8.3,8.5,6.59,14.0,12.75,37.25,True,T20I
+27373,Muhammad Farooq,4,4,78,7,89,6,0,31,13.0,13.0,6.85,12.71,11.14,39.74,True,T20
+27373,Muhammad Farooq,1,1,18,1,32,1,0,4,3.0,3.0,10.67,32.0,18.0,22.22,True,T20I
+27380,Harshit Kaushik,1,1,6,0,30,1,0,0,1.0,1.0,30.0,,,0.0,True,T20
+27380,Harshit Kaushik,5,5,60,0,94,1,0,12,10.0,10.0,9.4,,,20.0,True,T20I
+27390,Matiullah Khan,3,3,60,3,117,4,3,17,10.0,10.0,11.7,39.0,20.0,28.33,True,T20I
+27391,Vishnu Sukumaran,1,1,12,1,8,2,0,6,2.0,2.0,4.0,8.0,12.0,50.0,True,T20
+27460,Ali Naseer,2,2,36,1,65,1,0,5,6.0,6.0,10.83,65.0,36.0,13.89,True,T20I
+27464,Aayan Afzal Khan,2,2,42,2,65,0,0,15,7.0,7.0,9.29,32.5,21.0,35.71,False,T20
+27464,Aayan Afzal Khan,5,5,102,6,112,0,0,38,17.0,17.0,6.59,18.67,17.0,37.25,False,T20I
+27465,Nilansh Keswani,1,1,24,1,31,0,0,7,4.0,4.0,7.75,31.0,24.0,29.17,False,T20
+27466,Dhruv Parashar,1,1,24,0,19,0,0,10,4.0,4.0,4.75,,,41.67,False,T20
+27466,Dhruv Parashar,10,10,186,4,274,7,0,67,31.0,31.0,8.84,68.5,46.5,36.02,True,T20I
+27504,Dushan Hemantha,5,5,120,15,130,0,0,51,20.0,20.0,6.5,8.67,8.0,42.5,False,T20
+27504,Dushan Hemantha,3,3,68,4,89,2,0,21,11.2,11.333,7.85,22.25,17.0,30.88,True,T20I
+27516,Ihsanullah Ihsanullah,4,4,89,6,108,5,2,34,14.5,14.833,7.28,18.0,14.83,38.2,True,T20I
+27743,DT Doram,9,9,192,9,238,0,0,70,32.0,32.0,7.44,26.44,21.33,36.46,False,T20I
+27956,Prashant Solanki,2,2,36,2,38,0,0,11,6.0,6.0,6.33,19.0,18.0,30.56,False,T20
+27959,Hrithik Shokeen,13,13,204,5,310,7,2,78,34.0,34.0,9.12,62.0,40.8,38.24,True,T20
+27960,Mayank Yadav,10,10,217,9,367,12,1,92,36.1,36.167,10.15,40.78,24.11,42.4,True,T20
+27960,Mayank Yadav,12,12,276,17,400,14,6,123,46.0,46.0,8.7,23.53,16.24,44.57,True,T20I
+27964,Anshul Kamboj,28,28,545,35,906,15,7,206,90.5,90.833,9.97,25.89,15.57,37.8,True,T20
+27970,Gurnoor Brar,1,1,18,0,42,1,2,7,3.0,3.0,14.0,,,38.89,True,T20
+28018,Ashok Sharma,6,6,126,6,227,9,1,48,21.0,21.0,10.81,37.83,21.0,38.1,True,T20
+28018,Ashok Sharma,2,2,48,1,49,3,0,24,8.0,8.0,6.12,49.0,48.0,50.0,True,T20I
+28021,Saurabh Dubey,4,4,77,5,102,10,0,37,12.5,12.833,7.95,20.4,15.4,48.05,True,T20
+28655,Muhammad Rohid,3,3,66,4,96,2,0,28,11.0,11.0,8.73,24.0,16.5,42.42,True,T20
+28655,Muhammad Rohid,6,6,112,4,159,9,0,52,18.4,18.667,8.52,39.75,28.0,46.43,True,T20I
+28664,Zahid Ali,1,1,12,0,22,6,0,5,2.0,2.0,11.0,,,41.67,True,T20
+28756,Haider Ali,12,12,270,15,288,3,0,117,45.0,45.0,6.4,19.2,18.0,43.33,True,T20I
+28908,Vincent Masekesa,2,2,19,1,27,0,0,6,3.1,3.167,8.53,27.0,19.0,31.58,False,T20I
+28911,John Masara,1,1,6,0,5,0,0,1,1.0,1.0,5.0,,,16.67,False,T20I
+28915,Trevor Gwandu,8,8,150,9,219,11,1,47,25.0,25.0,8.76,24.33,16.67,31.33,True,T20I
+29066,Zakary Foulkes,18,18,364,20,572,30,7,142,60.4,60.667,9.43,28.6,18.2,39.01,True,T20I
+29075,Aadil Ansari,2,2,36,4,48,2,0,11,6.0,6.0,8.0,12.0,9.0,30.56,True,T20I
+29080,Muhammad Khan,4,4,96,9,168,10,1,29,16.0,16.0,10.5,18.67,10.67,30.21,True,T20I
+29558,Muhammad Arfan,3,3,54,2,89,6,0,18,9.0,9.0,9.89,44.5,27.0,33.33,True,T20
+29558,Muhammad Arfan,2,2,48,3,43,1,0,18,8.0,8.0,5.38,14.33,16.0,37.5,True,T20I
+29699,Ibrahim Takahashi,1,1,12,1,13,1,0,4,2.0,2.0,6.5,13.0,12.0,33.33,True,T20I
+29833,Bashir Ahmad,1,1,18,0,38,2,0,4,3.0,3.0,12.67,,,22.22,True,T20I
+29888,Harshit Rana,32,32,649,40,1029,26,4,247,108.1,108.167,9.51,25.72,16.23,38.06,True,T20
+29888,Harshit Rana,12,12,252,16,408,8,1,99,42.0,42.0,9.71,25.5,15.75,39.29,True,T20I
+30925,Bradley Currie,5,5,108,8,125,4,0,43,18.0,18.0,6.94,15.62,13.5,39.81,True,T20I
+31107,Yasin Patel,3,3,72,4,77,0,0,30,12.0,12.0,6.42,19.25,18.0,41.67,False,T20I
+31227,Vidhwath Kaverappa,1,1,24,2,36,0,0,11,4.0,4.0,9.0,18.0,12.0,45.83,False,T20
+31513,Ethan Dsouza,1,1,18,1,31,0,1,6,3.0,3.0,10.33,31.0,18.0,33.33,False,T20
+31513,Ethan Dsouza,1,1,6,0,5,0,0,2,1.0,1.0,5.0,,,33.33,False,T20I
+31835,Akshay Roopak Puri,3,3,60,4,76,0,0,19,10.0,10.0,7.6,19.0,15.0,31.67,False,T20I
+32244,Tripurana Vijay,1,1,12,0,29,0,0,2,2.0,2.0,14.5,,,16.67,False,T20
+32401,Akhil Kumar,2,2,24,0,27,0,0,11,4.0,4.0,6.75,,,45.83,False,T20I
+32705,Faridoon Dawoodzai,4,4,75,5,108,3,0,33,12.3,12.5,8.64,21.6,15.0,44.0,True,T20
+32862,Allah Ghazanfar,18,18,389,27,527,5,0,156,64.5,64.833,8.13,19.52,14.41,40.1,True,T20
+32862,Allah Ghazanfar,4,4,72,1,86,1,0,35,12.0,12.0,7.17,86.0,72.0,48.61,True,T20I
+33009,John Turner,2,2,36,1,64,1,0,13,6.0,6.0,10.67,64.0,36.0,36.11,True,T20I
+33114,Milan Rathnayake,4,4,78,4,117,3,0,28,13.0,13.0,9.0,29.25,19.5,35.9,True,T20
+33440,Adwitya Bhargava,1,1,12,1,14,1,0,7,2.0,2.0,7.0,14.0,12.0,58.33,True,T20I
+33443,Sabir Ali,3,3,48,3,70,3,1,23,8.0,8.0,8.75,23.33,16.0,47.92,True,T20I
+33969,Tinotenda Maposa,12,12,176,4,288,9,2,57,29.2,29.333,9.82,72.0,44.0,32.39,True,T20I
+34466,Arafat Minhas,6,6,90,6,70,1,1,44,15.0,15.0,4.67,11.67,15.0,48.89,True,T20
+34466,Arafat Minhas,2,2,42,1,43,0,0,16,7.0,7.0,6.14,43.0,42.0,38.1,False,T20I
+34485,Sufiyan Muqeem,8,8,174,16,146,0,0,77,29.0,29.0,5.03,9.12,10.88,44.25,False,T20
+34485,Sufiyan Muqeem,17,17,344,23,372,6,1,150,57.2,57.333,6.49,16.17,14.96,43.6,True,T20I
+34522,Brandon McMullen,3,3,48,1,65,2,2,29,8.0,8.0,8.12,65.0,48.0,60.42,True,T20I
+34527,Jasper John Davidson,1,1,6,0,15,0,0,0,1.0,1.0,15.0,,,0.0,False,T20I
+34546,Aryan Bisht,1,1,23,1,24,0,0,7,3.5,3.833,6.26,24.0,23.0,30.43,False,T20
+34880,Saad Masood,4,4,90,8,109,2,1,43,15.0,15.0,7.27,13.62,11.25,47.78,True,T20
+34969,Manav Suthar,4,4,48,2,94,2,0,17,8.0,8.0,11.75,47.0,24.0,35.42,True,T20
+35072,Ramakrishna Ghosh,1,1,18,1,24,0,0,6,3.0,3.0,8.0,24.0,18.0,33.33,False,T20
+35102,Zikria Islam,2,2,12,0,30,0,0,1,2.0,2.0,15.0,,,8.33,False,T20
+35102,Zikria Islam,1,1,18,0,21,1,0,5,3.0,3.0,7.0,,,27.78,True,T20I
+35120,Narayan Saishiv,1,1,6,0,20,0,0,1,1.0,1.0,20.0,,,16.67,False,T20
+35122,Shah Faisal,3,3,72,5,101,6,0,34,12.0,12.0,8.42,20.2,14.4,47.22,True,T20I
+35318,Sakib Hussain,11,11,252,15,393,21,1,86,42.0,42.0,9.36,26.2,16.8,34.13,True,T20
+36551,Zishan Motara,1,1,6,0,13,0,0,2,1.0,1.0,13.0,,,33.33,False,T20I
+36553,Jediah Blades,6,6,119,6,177,11,1,53,19.5,19.833,8.92,29.5,19.83,44.54,True,T20I
+36981,Himanshu Sharma,2,2,30,0,57,0,0,2,5.0,5.0,11.4,,,6.67,False,T20
+36982,Suyash Sharma,43,43,899,31,1293,25,1,291,149.5,149.833,8.63,41.71,29.0,32.37,True,T20
+36983,Mohit Rathee,1,1,12,0,29,0,0,3,2.0,2.0,14.5,,,25.0,False,T20
+36984,Raghav Goyal,1,1,24,0,33,0,0,6,4.0,4.0,8.25,,,25.0,False,T20
+37052,Naman Dhir,9,9,90,2,146,4,0,26,15.0,15.0,9.73,73.0,45.0,28.89,True,T20
+37052,Naman Dhir,6,6,72,5,137,3,0,21,12.0,12.0,11.42,27.4,14.4,29.17,True,T20I
+37572,Shafiq Jan,3,3,72,4,111,2,1,25,12.0,12.0,9.25,27.75,18.0,34.72,True,T20
+37731,Musheer Khan,1,1,12,1,27,0,0,1,2.0,2.0,13.5,27.0,12.0,8.33,False,T20
+37939,Nahid Rana,5,5,93,8,143,5,3,41,15.3,15.5,9.23,17.88,11.62,44.09,True,T20I
+38044,Mahli Beardman,1,1,24,2,33,1,1,8,4.0,4.0,8.25,16.5,12.0,33.33,True,T20I
+38050,Isitha Wijesundera,2,2,30,1,60,2,0,9,5.0,5.0,12.0,60.0,30.0,30.0,True,T20
+38855,Mohammad Saifuddin,21,21,442,26,657,28,5,149,73.4,73.667,8.92,25.27,17.0,33.71,True,T20I
+39444,Basil Hameed,3,3,30,0,58,0,0,4,5.0,5.0,11.6,,,13.33,False,T20
+39637,Garuka Sanketh,4,4,78,2,117,9,0,20,13.0,13.0,9.0,58.5,39.0,25.64,True,T20
+39638,Vishen Halambage,1,1,6,0,8,1,0,2,1.0,1.0,8.0,,,33.33,True,T20
+39657,Eshan Malinga,27,27,601,39,867,36,0,209,100.1,100.167,8.66,22.23,15.41,34.78,True,T20
+39657,Eshan Malinga,17,17,321,16,520,29,2,103,53.3,53.5,9.72,32.5,20.06,32.09,True,T20I
+39991,Parveen Kumar,2,2,48,2,32,1,0,29,8.0,8.0,4.0,16.0,24.0,60.42,True,T20I
+41503,Yash Punja,8,8,180,9,279,6,0,47,30.0,30.0,9.3,31.0,20.0,26.11,True,T20
+42548,Muhammad Jawadullah,4,4,67,3,124,4,0,22,11.1,11.167,11.1,41.33,22.33,32.84,True,T20
+42548,Muhammad Jawadullah,9,9,204,13,280,8,2,77,34.0,34.0,8.24,21.54,15.69,37.75,True,T20I
+43917,Krish Bhagat,3,3,36,0,63,0,0,15,6.0,6.0,10.5,,,41.67,False,T20
+45381,PV Satyanarayan Raju,2,2,24,1,53,5,0,3,4.0,4.0,13.25,53.0,24.0,12.5,True,T20
+45457,Zach Lion Cachet,4,4,70,4,80,0,0,24,11.4,11.667,6.86,20.0,17.5,34.29,False,T20I
+45966,Prashant Veer,1,1,12,0,25,0,0,5,2.0,2.0,12.5,,,41.67,False,T20
+46066,Vipraj Nigam,18,18,288,13,468,8,5,85,48.0,48.0,9.75,36.0,22.15,29.51,True,T20
+46378,Kyle Klein,8,8,163,14,236,9,1,75,27.1,27.167,8.69,16.86,11.64,46.01,True,T20I
+46929,Dian Forrester,1,1,6,0,4,0,0,3,1.0,1.0,4.0,,,50.0,False,T20I
+46982,Shahid Aziz,4,4,78,5,117,6,0,35,13.0,13.0,9.0,23.4,15.6,44.87,True,T20
+47017,Mohammad Jnr,3,3,63,2,98,5,0,28,10.3,10.5,9.33,49.0,31.5,44.44,True,T20
+47050,Shamar Joseph,1,1,24,0,43,3,3,9,4.0,4.0,10.75,,,37.5,True,T20
+47050,Shamar Joseph,23,23,447,31,749,32,6,149,74.3,74.5,10.05,24.16,14.42,33.33,True,T20I
+47371,Zuhaid Zubair,1,1,18,1,36,1,0,7,3.0,3.0,12.0,36.0,18.0,38.89,True,T20I
+47403,Newman Nyamhuri,5,5,83,5,125,13,0,39,13.5,13.833,9.04,25.0,16.6,46.99,True,T20I
+47542,Charles Hinze,1,1,12,2,16,1,0,6,2.0,2.0,8.0,8.0,6.0,50.0,True,T20I
+47694,Omid Rahman,3,3,60,2,106,0,0,20,10.0,10.0,10.6,53.0,30.0,33.33,False,T20
+47724,Jahandad Khan,8,8,108,7,211,2,1,38,18.0,18.0,11.72,30.14,15.43,35.19,True,T20I
+48278,Ubaid Shah,4,4,72,5,101,9,0,34,12.0,12.0,8.42,20.2,14.4,47.22,True,T20
+48557,Vignesh Puthur,5,5,72,6,109,1,0,24,12.0,12.0,9.08,18.17,12.0,33.33,True,T20
+48616,Abdul Saqlain,5,5,114,5,125,0,0,45,19.0,19.0,6.58,25.0,22.8,39.47,False,T20
+48616,Abdul Saqlain,3,3,68,4,116,2,1,17,11.2,11.333,10.24,29.0,17.0,25.0,True,T20I
+50062,Nqobani Mokoena,3,3,63,3,72,4,0,24,10.3,10.5,6.86,24.0,21.0,38.1,True,T20I
+52338,Usman Tariq,3,3,64,8,60,2,0,26,10.4,10.667,5.62,7.5,8.0,40.62,True,T20I
+54404,Benjamin Ito,1,1,6,1,2,0,0,5,1.0,1.0,2.0,2.0,6.0,83.33,False,T20I
+56685,Abdullah Ahmadzai,2,2,33,1,51,2,0,9,5.3,5.5,9.27,51.0,33.0,27.27,True,T20
+56685,Abdullah Ahmadzai,10,10,190,15,299,8,2,68,31.4,31.667,9.44,19.93,12.67,35.79,True,T20I
+56817,Shivang Kumar,13,13,234,9,375,6,0,62,39.0,39.0,9.62,41.67,26.0,26.5,True,T20
+56830,Madhav Tiwari,4,4,66,4,101,9,0,19,11.0,11.0,9.18,25.25,16.5,28.79,True,T20
+57747,Charlie Cassell,1,1,6,0,19,0,0,1,1.0,1.0,19.0,,,16.67,False,T20I
+58134,Digvesh Rathi,23,23,546,19,822,13,2,149,91.0,91.0,9.03,43.26,28.74,27.29,True,T20
+58246,Prince Yadav,20,20,449,19,683,25,0,156,74.5,74.833,9.13,35.95,23.63,34.74,True,T20
+58246,Prince Yadav,12,12,260,12,400,11,2,72,43.2,43.333,9.23,33.33,21.67,27.69,True,T20I
+58727,Abhinandan Singh,3,3,58,3,122,2,0,15,9.4,9.667,12.62,40.67,19.33,25.86,True,T20
+59045,Jai Moondra,2,2,48,5,58,2,0,19,8.0,8.0,7.25,11.6,9.6,39.58,True,T20I
+60609,Navin Bidaisee,3,3,48,3,62,5,0,17,8.0,8.0,7.75,20.67,16.0,35.42,True,T20I
+67036,Brijesh Sharma,13,13,273,14,449,20,4,84,45.3,45.5,9.87,32.07,19.5,30.77,True,T20
+67864,Matt Hollard,2,2,48,6,54,3,1,20,8.0,8.0,6.75,9.0,8.0,41.67,True,T20I
+69806,Mohammad Salman,1,1,18,0,32,0,0,6,3.0,3.0,10.67,,,33.33,False,T20
+71727,Razaullah Razaullah,2,2,37,1,67,1,1,10,6.1,6.167,10.86,67.0,37.0,27.03,True,T20I
