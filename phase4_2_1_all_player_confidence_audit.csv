@@ -1,0 +1,959 @@
+player_id,player_name,assigned_role,bat_sample_balls,bat_confidence_tier,bat_w_conf,stored_bat_apr,recalc_bat_apr,bowl_sample_balls,bowl_confidence_tier,bowl_w_conf,stored_bowl_apr,recalc_bowl_apr,effective_comp_index,stored_rr_auction_tier,recalc_rr_auction_tier,tier_match
+8,Mahendra Singh Dhoni,Designated Finisher,362,High (100+),1.0,92.43,92.43,0,Did Not Bowl,0.0,,,92.43,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+23,Piyush Chawla,Middle-Overs Enforcer,35,Low (20-49),0.6,31.44,31.44,40,Medium (36-74),0.85,47.03,47.03,47.03,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+28,Ishant Sharma,Powerplay Bowler,8,Insufficient (<20),0.3,13.16,13.16,56,Medium (36-74),0.85,65.82,65.82,65.82,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+47,Virat Kohli,Top-Order Batter,84,Medium (50-99),0.85,61.5,61.5,0,Insufficient (<18),0.3,14.69,14.69,61.5,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+88,Faf du Plessis,Top-Order Batter,61,Medium (50-99),0.85,39.18,39.18,0,Did Not Bowl,0.0,,,39.18,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+109,Wriddhiman Saha,Top-Order Batter,11,Insufficient (<20),0.3,21.03,21.03,0,Did Not Bowl,0.0,,,21.03,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+126,Rohit Sharma,Top-Order Batter,59,Medium (50-99),0.85,83.09,83.09,0,Did Not Bowl,0.0,,,83.09,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+142,Shikhar Dhawan,Top-Order Batter,46,Low (20-49),0.6,51.17,51.17,0,Did Not Bowl,0.0,,,51.17,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+143,Dinesh Karthik,Designated Finisher,418,High (100+),1.0,92.09,92.09,0,Insufficient (<18),0.3,14.69,14.69,92.09,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+147,Pradeep Sangwan,Powerplay Bowler,5,Insufficient (<20),0.3,12.45,12.45,10,Insufficient (<18),0.3,12.77,12.77,12.77,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+152,Ravindra Jadeja,Genuine All-Rounder,517,High (100+),1.0,86.65,86.65,53,Medium (36-74),0.85,39.4,39.4,63.03,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+158,Amit Mishra,Middle-Overs Enforcer,28,Low (20-49),0.6,30.67,30.67,11,Insufficient (<18),0.3,13.8,13.8,13.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+161,Dwayne Bravo,Death-Overs Specialist,22,Low (20-49),0.6,20.68,20.68,38,Medium (36-74),0.85,50.51,50.51,50.51,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+167,Ajinkya Rahane,Top-Order Batter,42,Low (20-49),0.6,32.16,32.16,0,Did Not Bowl,0.0,,,32.16,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+169,Robin Uthappa,Top-Order Batter,1,Insufficient (<20),0.3,10.4,10.4,0,Did Not Bowl,0.0,,,10.4,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+198,Manish Pandey,Middle-Order Batter,135,High (100+),1.0,56.43,56.43,0,Did Not Bowl,0.0,,,56.43,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+220,David Warner,Top-Order Batter,116,High (100+),1.0,54.04,54.04,0,Did Not Bowl,0.0,,,54.04,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+223,Steven Smith,Middle-Order Batter,30,Low (20-49),0.6,44.7,44.7,0,Did Not Bowl,0.0,,,44.7,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+232,Tom Cooper,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+250,Aaron Finch,Top-Order Batter,29,Low (20-49),0.6,37.48,37.48,0,Did Not Bowl,0.0,,,37.48,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+274,Martin Guptill,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+278,Tim Southee,Powerplay Bowler,48,Low (20-49),0.6,29.33,29.33,122,High (75+),1.0,81.9,81.9,81.9,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+286,Kane Richardson,Death-Overs Specialist,1,Insufficient (<20),0.3,15.21,15.21,21,Low (18-35),0.6,49.11,49.11,49.11,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+295,Wayne Parnell,Powerplay Bowler,57,Medium (50-99),0.85,42.95,42.95,44,Medium (36-74),0.85,33.95,33.95,33.95,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+305,Ravichandran Ashwin,Genuine All-Rounder,118,High (100+),1.0,74.04,74.04,155,High (75+),1.0,66.43,66.43,70.24,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+332,Angelo Mathews,Genuine All-Rounder,71,Medium (50-99),0.85,74.2,74.2,4,Insufficient (<18),0.3,6.9,6.9,40.55,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+344,Sheldon Jackson,Lower-Order Batter,12,Insufficient (<20),0.3,10.25,10.25,0,Did Not Bowl,0.0,,,10.25,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+360,Bhuvneshwar Kumar,Bowling All-Rounder,159,High (100+),1.0,42.98,42.98,328,High (75+),1.0,52.12,52.12,47.55,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+393,Kedar Jadhav,Lower-Order Batter,5,Insufficient (<20),0.3,12.27,12.27,0,Did Not Bowl,0.0,,,12.27,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+395,Karn Sharma,Middle-Overs Enforcer,21,Low (20-49),0.6,32.44,32.44,30,Low (18-35),0.6,51.3,51.3,51.3,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+403,Umesh Yadav,Bowling All-Rounder,81,Medium (50-99),0.85,52.28,52.28,32,Low (18-35),0.6,36.78,36.78,44.53,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+418,Richard Berrington,Middle-Order Batter,12,Insufficient (<20),0.3,20.66,20.66,0,Did Not Bowl,0.0,,,20.66,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+443,Paul Stirling,Top-Order Batter,2,Insufficient (<20),0.3,9.93,9.93,0,Did Not Bowl,0.0,,,9.93,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+470,Mohammad Amir,Death-Overs Specialist,4,Insufficient (<20),0.3,14.53,14.53,24,Low (18-35),0.6,48.4,48.4,48.4,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+478,Eoin Morgan,Middle-Order Batter,30,Low (20-49),0.6,15.51,15.51,0,Did Not Bowl,0.0,,,15.51,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+479,Adil Rashid,Bowling All-Rounder,112,High (100+),1.0,33.04,33.04,101,High (75+),1.0,61.97,61.97,47.5,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+492,Andre Fletcher,Lower-Order Batter,7,Insufficient (<20),0.3,10.1,10.1,0,Did Not Bowl,0.0,,,10.1,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+494,Kieron Pollard,Genuine All-Rounder,127,High (100+),1.0,83.21,83.21,23,Low (18-35),0.6,22.54,22.54,52.88,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+499,Shakib Al Hasan,Genuine All-Rounder,98,Medium (50-99),0.85,60.35,60.35,62,Medium (36-74),0.85,41.59,41.59,50.97,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+505,Mushfiqur Rahim,Lower-Order Batter,1,Insufficient (<20),0.3,18.69,18.69,0,Did Not Bowl,0.0,,,18.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+507,Mohammad Mahmudullah,Middle-Order Batter,94,Medium (50-99),0.85,35.71,35.71,0,Insufficient (<18),0.3,14.69,14.69,35.71,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+535,Ambati Rayudu,Designated Finisher,71,Medium (50-99),0.85,65.35,65.35,0,Did Not Bowl,0.0,,,65.35,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+722,Liam Dawson,Middle-Overs Enforcer,33,Low (20-49),0.6,36.03,36.03,28,Low (18-35),0.6,27.73,27.73,27.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+728,Dawid Malan,Top-Order Batter,21,Low (20-49),0.6,42.07,42.07,0,Did Not Bowl,0.0,,,42.07,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+757,Sybrand Engelbrecht,Lower-Order Batter,1,Insufficient (<20),0.3,10.4,10.4,0,Did Not Bowl,0.0,,,10.4,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+768,Reeza Hendricks,Top-Order Batter,112,High (100+),1.0,96.94,96.94,0,Insufficient (<18),0.3,14.69,14.69,96.94,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+772,Rilee Rossouw,Top-Order Batter,39,Low (20-49),0.6,25.58,25.58,0,Did Not Bowl,0.0,,,25.58,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+773,Shadley Van Schalkwyk,Death-Overs Specialist,11,Insufficient (<20),0.3,22.31,22.31,10,Insufficient (<18),0.3,14.55,14.55,14.55,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+778,Darren Bravo,Lower-Order Batter,9,Insufficient (<20),0.3,8.26,8.26,0,Did Not Bowl,0.0,,,8.26,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+781,Sunil Narine,Genuine All-Rounder,67,Medium (50-99),0.85,38.24,38.24,157,High (75+),1.0,88.14,88.14,63.19,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+786,Chris Jordan,Bowling All-Rounder,101,High (100+),1.0,51.19,51.19,101,High (75+),1.0,32.67,32.67,41.93,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+796,Matthew Wade,Designated Finisher,246,High (100+),1.0,93.19,93.19,0,Did Not Bowl,0.0,,,93.19,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+813,Jos Buttler,Top-Order Batter,170,High (100+),1.0,86.46,86.46,0,Did Not Bowl,0.0,,,86.46,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+818,Mitchell Marsh,Genuine All-Rounder,122,High (100+),1.0,70.44,70.44,32,Low (18-35),0.6,28.76,28.76,49.6,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+820,Nathan Coulter Nile,Supporting Bowler,2,Insufficient (<20),0.3,15.22,15.22,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+829,Mitchell Starc,Powerplay Bowler,28,Low (20-49),0.6,15.12,15.12,92,High (75+),1.0,57.3,57.3,57.3,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+830,Josh Hazlewood,Powerplay Bowler,28,Low (20-49),0.6,28.53,28.53,135,High (75+),1.0,67.69,67.69,67.69,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+838,Glenn Maxwell,Genuine All-Rounder,186,High (100+),1.0,72.95,72.95,17,Insufficient (<18),0.3,9.61,9.61,41.28,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+914,Krishnappa Gowtham,Middle-Overs Enforcer,37,Low (20-49),0.6,41.65,41.65,6,Insufficient (<18),0.3,11.59,11.59,11.59,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+930,Karun Nair,Top-Order Batter,20,Low (20-49),0.6,45.14,45.14,0,Did Not Bowl,0.0,,,45.14,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+953,Lokesh Rahul,Top-Order Batter,183,High (100+),1.0,71.05,71.05,0,Did Not Bowl,0.0,,,71.05,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+985,Brendan Taylor,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+988,Graeme Cremer,Middle-Overs Enforcer,4,Insufficient (<20),0.3,15.25,15.25,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+992,Mayank Agarwal,Top-Order Batter,35,Low (20-49),0.6,23.69,23.69,0,Did Not Bowl,0.0,,,23.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1028,Varun Aaron,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1039,Mandeep Singh,Lower-Order Batter,3,Insufficient (<20),0.3,12.73,12.73,0,Did Not Bowl,0.0,,,12.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1040,Harpreet Bhatia,Middle-Order Batter,38,Low (20-49),0.6,25.81,25.81,0,Did Not Bowl,0.0,,,25.81,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1045,David Wiese,Supporting Bowler,11,Insufficient (<20),0.3,17.33,17.33,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1071,Jaydev Unadkat,Multi-Phase Bowler,59,Medium (50-99),0.85,64.04,64.04,70,Medium (36-74),0.85,31.07,31.07,31.07,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1077,David Miller,Designated Finisher,630,High (100+),1.0,94.13,94.13,0,Did Not Bowl,0.0,,,94.13,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+1100,Dinesh Chandimal,Middle-Order Batter,24,Low (20-49),0.6,34.84,34.84,0,Did Not Bowl,0.0,,,34.84,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1101,George Dockrell,Batting All-Rounder,246,High (100+),1.0,82.33,82.33,23,Low (18-35),0.6,32.25,32.25,57.29,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1107,Mohammad Nabi,Genuine All-Rounder,277,High (100+),1.0,81.43,81.43,48,Medium (36-74),0.85,43.78,43.78,62.6,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1116,Craig Ervine,Top-Order Batter,10,Insufficient (<20),0.3,16.85,16.85,0,Did Not Bowl,0.0,,,16.85,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1159,Tendai Chatara,Powerplay Bowler,21,Low (20-49),0.6,34.69,34.69,29,Low (18-35),0.6,32.65,32.65,32.65,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1171,Chris Woakes,Powerplay Bowler,46,Low (20-49),0.6,29.02,29.02,8,Insufficient (<18),0.3,12.62,12.62,12.62,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1183,Alex Hales,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1187,Jason Roy,Top-Order Batter,23,Low (20-49),0.6,49.31,49.31,0,Did Not Bowl,0.0,,,49.31,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1195,Ben Stokes,Middle-Order Batter,4,Insufficient (<20),0.3,17.53,17.53,0,Insufficient (<18),0.3,14.69,14.69,17.53,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1205,Jonny Bairstow,Top-Order Batter,76,Medium (50-99),0.85,51.57,51.57,0,Did Not Bowl,0.0,,,51.57,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1210,James Vince,Top-Order Batter,12,Insufficient (<20),0.3,11.3,11.3,0,Did Not Bowl,0.0,,,11.3,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1219,David Willey,Bowling All-Rounder,78,Medium (50-99),0.85,59.09,59.09,47,Medium (36-74),0.85,39.99,39.99,49.54,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1233,Gary Ballance,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1318,Andre Russell,Genuine All-Rounder,428,High (100+),1.0,86.14,86.14,152,High (75+),1.0,42.35,42.35,64.24,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1327,Johnson Charles,Top-Order Batter,13,Insufficient (<20),0.3,9.95,9.95,0,Did Not Bowl,0.0,,,9.95,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1389,Sean Abbott,Multi-Phase Bowler,32,Low (20-49),0.6,18.58,18.58,37,Medium (36-74),0.85,35.26,35.26,35.26,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1440,Rahul Tripathi,Top-Order Batter,53,Medium (50-99),0.85,35.74,35.74,0,Did Not Bowl,0.0,,,35.74,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1481,Kusal Perera,Top-Order Batter,43,Low (20-49),0.6,46.45,46.45,0,Did Not Bowl,0.0,,,46.45,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1487,Adam Milne,Powerplay Bowler,46,Low (20-49),0.6,30.23,30.23,76,High (75+),1.0,60.27,60.27,60.27,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1541,Sean Williams,Genuine All-Rounder,15,Insufficient (<20),0.3,7.37,7.37,18,Low (18-35),0.6,25.99,25.99,16.68,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1556,David Payne,Supporting Bowler,5,Insufficient (<20),0.3,16.18,16.18,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1566,Mohammed Shami,Powerplay Bowler,46,Low (20-49),0.6,25.3,25.3,143,High (75+),1.0,83.18,83.18,83.18,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+1568,Kane Williamson,Top-Order Batter,46,Low (20-49),0.6,36.33,36.33,0,Did Not Bowl,0.0,,,36.33,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1596,Moeen Ali,Genuine All-Rounder,229,High (100+),1.0,83.18,83.18,57,Medium (36-74),0.85,56.57,56.57,69.88,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1612,Yuzvendra Chahal,Middle-Overs Enforcer,10,Insufficient (<20),0.3,12.04,12.04,277,High (75+),1.0,66.64,66.64,66.64,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1617,Rishi Dhawan,Powerplay Bowler,45,Low (20-49),0.6,19.98,19.98,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1649,Regis Chakabva,Top-Order Batter,6,Insufficient (<20),0.3,16.84,16.84,0,Did Not Bowl,0.0,,,16.84,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1699,Suryakumar Yadav,Middle-Order Batter,457,High (100+),1.0,94.05,94.05,3,Insufficient (<18),0.3,22.8,22.8,94.05,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+1701,Swapnil Singh,Powerplay Bowler,25,Low (20-49),0.6,35.58,35.58,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1758,Patrick Cummins,Bowling All-Rounder,206,High (100+),1.0,72.46,72.46,183,High (75+),1.0,42.11,42.11,57.28,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1772,Sheldon Cottrell,Powerplay Bowler,0,Did Not Bat,0.0,,,37,Medium (36-74),0.85,30.24,30.24,30.24,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+1791,Wesley Barresi,Lower-Order Batter,7,Insufficient (<20),0.3,17.02,17.02,0,Did Not Bowl,0.0,,,17.02,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1801,Nitish Kumar,Lower-Order Batter,5,Insufficient (<20),0.3,17.48,17.48,0,Did Not Bowl,0.0,,,17.48,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1810,Devon Thomas,Top-Order Batter,7,Insufficient (<20),0.3,8.24,8.24,0,Did Not Bowl,0.0,,,8.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+1813,Deepak Chahar,Powerplay Bowler,65,Medium (50-99),0.85,54.01,54.01,90,High (75+),1.0,52.05,52.05,52.05,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1924,Sam Billings,Designated Finisher,67,Medium (50-99),0.85,60.34,60.34,0,Did Not Bowl,0.0,,,60.34,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1941,Devon Conway,Top-Order Batter,32,Low (20-49),0.6,50.08,50.08,0,Did Not Bowl,0.0,,,50.08,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+1944,Keshav Maharaj,Bowling All-Rounder,75,Medium (50-99),0.85,20.48,20.48,18,Low (18-35),0.6,20.89,20.89,20.68,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2001,Yashodha Lanka,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2003,Bhanuka Rajapaksa,Middle-Order Batter,96,Medium (50-99),0.85,67.71,67.71,0,Did Not Bowl,0.0,,,67.71,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2054,Jason Behrendorff,Powerplay Bowler,11,Insufficient (<20),0.3,14.63,14.63,30,Low (18-35),0.6,27.18,27.18,27.18,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2101,Quinton de Kock,Top-Order Batter,81,Medium (50-99),0.85,50.11,50.11,0,Did Not Bowl,0.0,,,50.11,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2210,Sabbir Rahman,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2213,Soumya Sarkar,Top-Order Batter,8,Insufficient (<20),0.3,10.88,10.88,1,Insufficient (<18),0.3,13.61,13.61,10.88,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2214,Gulbadin Naib,Designated Finisher,63,Medium (50-99),0.85,69.12,69.12,0,Insufficient (<18),0.3,14.69,14.69,69.12,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2218,Anamul Haque,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2246,Tom Latham,Top-Order Batter,6,Insufficient (<20),0.3,9.44,9.44,0,Did Not Bowl,0.0,,,9.44,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2258,Sanju Samson,Top-Order Batter,144,High (100+),1.0,81.18,81.18,0,Did Not Bowl,0.0,,,81.18,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2261,Harshal Patel,Bowling All-Rounder,135,High (100+),1.0,31.0,31.0,258,High (75+),1.0,52.24,52.24,41.62,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2296,Safyaan Sharif,Supporting Bowler,6,Insufficient (<20),0.3,14.84,14.84,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2304,Tymal Mills,Death-Overs Specialist,13,Insufficient (<20),0.3,10.78,10.78,31,Low (18-35),0.6,13.47,13.47,13.47,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2315,Reece Topley,Powerplay Bowler,21,Low (20-49),0.6,24.02,24.02,86,High (75+),1.0,44.95,44.95,44.95,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2320,Trent Boult,Powerplay Bowler,67,Medium (50-99),0.85,40.79,40.79,186,High (75+),1.0,66.44,66.44,66.44,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2321,Olly Stone,Supporting Bowler,1,Insufficient (<20),0.3,13.4,13.4,6,Insufficient (<18),0.3,10.8,10.8,10.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2334,Dwaine Pretorius,Bowling All-Rounder,42,Low (20-49),0.6,44.35,44.35,47,Medium (36-74),0.85,35.43,35.43,39.89,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2351,Danushka Gunathilaka,Top-Order Batter,13,Insufficient (<20),0.3,16.83,16.83,0,Insufficient (<18),0.3,14.69,14.69,16.83,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2359,Prenelan Subrayen,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2361,Temba Bavuma,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2364,Ashton Agar,Middle-Overs Enforcer,3,Insufficient (<20),0.3,17.16,17.16,6,Insufficient (<18),0.3,22.25,22.25,22.25,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2367,Travis Head,Top-Order Batter,14,Insufficient (<20),0.3,11.01,11.01,0,Insufficient (<18),0.3,14.69,14.69,11.01,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2373,Ashton Turner,Lower-Order Batter,9,Insufficient (<20),0.3,19.29,19.29,0,Did Not Bowl,0.0,,,19.29,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2379,Ben Duckett,Middle-Order Batter,28,Low (20-49),0.6,34.15,34.15,0,Did Not Bowl,0.0,,,34.15,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2382,Jamie Overton,Bowling All-Rounder,120,High (100+),1.0,78.42,78.42,25,Low (18-35),0.6,9.76,9.76,44.09,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2399,Dushmantha Chameera,Bowling All-Rounder,90,Medium (50-99),0.85,40.09,40.09,191,High (75+),1.0,62.05,62.05,51.07,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2407,Dhananjaya de Silva,Top-Order Batter,7,Insufficient (<20),0.3,7.97,7.97,0,Insufficient (<18),0.3,14.69,14.69,7.97,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2411,Sandeep Sharma,Death-Overs Specialist,11,Insufficient (<20),0.3,14.63,14.63,176,High (75+),1.0,43.47,43.47,43.47,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2416,Kyle Mayers,Batting All-Rounder,3,Insufficient (<20),0.3,15.17,15.17,19,Low (18-35),0.6,20.6,20.6,17.89,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2417,Akeal Hosein,Bowling All-Rounder,198,High (100+),1.0,68.82,68.82,86,High (75+),1.0,71.98,71.98,70.4,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2418,Justin Greaves,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2436,Dasun Shanaka,Genuine All-Rounder,388,High (100+),1.0,85.7,85.7,41,Medium (36-74),0.85,43.01,43.01,64.36,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2439,Akila Dananjaya,Supporting Bowler,1,Insufficient (<20),0.3,17.13,17.13,6,Insufficient (<18),0.3,9.32,9.32,9.32,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2463,Ryan Burl,Genuine All-Rounder,310,High (100+),1.0,78.4,78.4,49,Medium (36-74),0.85,50.41,50.41,64.4,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2483,Lizaad Williams,Powerplay Bowler,21,Low (20-49),0.6,20.77,20.77,29,Low (18-35),0.6,22.89,22.89,22.89,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2485,Babar Azam,Top-Order Batter,103,High (100+),1.0,100.0,100.0,0,Did Not Bowl,0.0,,,100.0,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2490,Mohammad Nawaz,Genuine All-Rounder,295,High (100+),1.0,73.54,73.54,120,High (75+),1.0,95.83,95.83,84.68,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2523,Will Young,Top-Order Batter,11,Insufficient (<20),0.3,8.49,8.49,0,Did Not Bowl,0.0,,,8.49,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2526,Ish Sodhi,Bowling All-Rounder,117,High (100+),1.0,55.87,55.87,31,Low (18-35),0.6,39.12,39.12,47.5,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2531,Joe Root,Lower-Order Batter,14,Insufficient (<20),0.3,8.74,8.74,0,Insufficient (<18),0.3,14.69,14.69,8.74,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2533,Najibullah Zadran,Designated Finisher,109,High (100+),1.0,91.44,91.44,0,Did Not Bowl,0.0,,,91.44,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2534,Rahmat Shah,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2573,Evin Lewis,Top-Order Batter,29,Low (20-49),0.6,56.4,56.4,0,Did Not Bowl,0.0,,,56.4,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2633,Jason Holder,Genuine All-Rounder,312,High (100+),1.0,75.46,75.46,277,High (75+),1.0,53.67,53.67,64.56,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2636,Adam Zampa,Middle-Overs Enforcer,47,Low (20-49),0.6,16.86,16.86,94,High (75+),1.0,80.93,80.93,80.93,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2639,Marcus Stoinis,Genuine All-Rounder,430,High (100+),1.0,86.04,86.04,54,Medium (36-74),0.85,20.62,20.62,53.33,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2650,Raymon Reifer,Middle-Order Batter,7,Insufficient (<20),0.3,22.33,22.33,6,Insufficient (<18),0.3,5.99,5.99,22.33,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2661,Shamarh Brooks,Top-Order Batter,12,Insufficient (<20),0.3,8.69,8.69,0,Did Not Bowl,0.0,,,8.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2671,Liton Das,Top-Order Batter,39,Low (20-49),0.6,45.61,45.61,0,Did Not Bowl,0.0,,,45.61,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2680,Nurul Hasan,Designated Finisher,152,High (100+),1.0,84.09,84.09,0,Did Not Bowl,0.0,,,84.09,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2681,Taskin Ahmed,Bowling All-Rounder,84,Medium (50-99),0.85,41.74,41.74,153,High (75+),1.0,75.48,75.48,58.61,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2687,Roston Chase,Genuine All-Rounder,185,High (100+),1.0,72.78,72.78,57,Medium (36-74),0.85,59.32,59.32,66.05,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2750,Alex Carey,Lower-Order Batter,18,Insufficient (<20),0.3,19.38,19.38,0,Did Not Bowl,0.0,,,19.38,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2756,Shashank Singh,Batting All-Rounder,340,High (100+),1.0,100.0,100.0,24,Low (18-35),0.6,26.53,26.53,63.26,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2790,Praveen Dubey,Supporting Bowler,18,Insufficient (<20),0.3,9.2,9.2,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2847,Shardul Thakur,Bowling All-Rounder,175,High (100+),1.0,42.29,42.29,149,High (75+),1.0,42.47,42.47,42.38,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2852,Jagadeesha Suchith,Middle-Overs Enforcer,8,Insufficient (<20),0.3,10.88,10.88,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2860,KS Bharat,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2863,Sandeep Warrier,Powerplay Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2872,Siddarth Kaul,Supporting Bowler,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,19.94,19.94,19.94,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2876,Axar Patel,Genuine All-Rounder,746,High (100+),1.0,68.7,68.7,144,High (75+),1.0,70.46,70.46,69.58,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+2877,Vijay Shankar,Designated Finisher,128,High (100+),1.0,90.08,90.08,0,Insufficient (<18),0.3,14.69,14.69,90.08,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2878,Mohit Sharma,Death-Overs Specialist,8,Insufficient (<20),0.3,13.27,13.27,125,High (75+),1.0,36.0,36.0,36.0,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2884,Manan Vohra,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2887,Harmeet Singh,Middle-Overs Enforcer,18,Insufficient (<20),0.3,8.94,8.94,12,Insufficient (<18),0.3,11.3,11.3,11.3,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2892,Asif Ali,Designated Finisher,41,Low (20-49),0.6,24.68,24.68,0,Did Not Bowl,0.0,,,24.68,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2921,Fakhar Zaman,Top-Order Batter,88,Medium (50-99),0.85,71.21,71.21,0,Did Not Bowl,0.0,,,71.21,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2930,Rassie van der Dussen,Middle-Order Batter,106,High (100+),1.0,86.3,86.3,0,Did Not Bowl,0.0,,,86.3,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2933,Jasprit Bumrah,Death-Overs Specialist,31,Low (20-49),0.6,20.89,20.89,220,High (75+),1.0,75.01,75.01,75.01,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2972,Yasim Murtaza,Genuine All-Rounder,81,Medium (50-99),0.85,37.84,37.84,55,Medium (36-74),0.85,52.9,52.9,45.37,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2984,Sikandar Raza,Genuine All-Rounder,301,High (100+),1.0,84.0,84.0,169,High (75+),1.0,83.45,83.45,83.72,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+2985,Mark Wood,Multi-Phase Bowler,20,Low (20-49),0.6,31.6,31.6,29,Low (18-35),0.6,34.44,34.44,34.44,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+2996,Stephanus Myburgh,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+2997,Paul van Meekeren,Middle-Overs Enforcer,11,Insufficient (<20),0.3,14.77,14.77,6,Insufficient (<18),0.3,10.38,10.38,10.38,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3024,Mohammad Rizwan,Top-Order Batter,97,Medium (50-99),0.85,83.09,83.09,0,Did Not Bowl,0.0,,,83.09,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3033,Usman Qadir,Middle-Overs Enforcer,7,Insufficient (<20),0.3,11.57,11.57,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3038,Hussain Talat,Middle-Order Batter,10,Insufficient (<20),0.3,11.15,11.15,0,Insufficient (<18),0.3,14.69,14.69,11.15,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3040,Kashif Daud,Supporting Bowler,2,Insufficient (<20),0.3,13.36,13.36,1,Insufficient (<18),0.3,13.75,13.75,13.75,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3056,Iftikhar Ahmed,Batting All-Rounder,155,High (100+),1.0,76.9,76.9,49,Medium (36-74),0.85,76.82,76.82,76.86,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3077,Usama Mir,Middle-Overs Enforcer,7,Insufficient (<20),0.3,12.77,12.77,30,Low (18-35),0.6,44.35,44.35,44.35,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3091,Sahibzada Farhan,Top-Order Batter,20,Low (20-49),0.6,40.57,40.57,0,Did Not Bowl,0.0,,,40.57,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3097,Shan Masood,Top-Order Batter,53,Medium (50-99),0.85,72.26,72.26,0,Did Not Bowl,0.0,,,72.26,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3125,Nicholas Pooran,Middle-Order Batter,490,High (100+),1.0,99.34,99.34,0,Did Not Bowl,0.0,,,99.34,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3135,Yannic Cariah,Supporting Bowler,4,Insufficient (<20),0.3,15.25,15.25,23,Low (18-35),0.6,54.45,54.45,54.45,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3174,Matt Henry,Powerplay Bowler,21,Low (20-49),0.6,26.53,26.53,44,Medium (36-74),0.85,34.16,34.16,34.16,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3253,Rohan Mustafa,Supporting Bowler,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,22.58,22.58,22.58,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3255,Ahmed Raza 1,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3260,Hashmatullah Shahidi,Top-Order Batter,2,Insufficient (<20),0.3,20.12,20.12,0,Did Not Bowl,0.0,,,20.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3272,Fabian Allen,Middle-Overs Enforcer,46,Low (20-49),0.6,32.01,32.01,1,Insufficient (<18),0.3,13.75,13.75,13.75,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3275,Alzarri Joseph,Bowling All-Rounder,127,High (100+),1.0,51.83,51.83,221,High (75+),1.0,72.37,72.37,62.1,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3276,Gudakesh Motie,Bowling All-Rounder,100,High (100+),1.0,44.87,44.87,76,High (75+),1.0,48.57,48.57,46.72,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3280,Nazmul Hossain Shanto,Top-Order Batter,49,Low (20-49),0.6,41.11,41.11,6,Insufficient (<18),0.3,7.41,7.41,41.11,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3281,Mosaddek Hossain,Genuine All-Rounder,69,Medium (50-99),0.85,61.78,61.78,18,Low (18-35),0.6,49.16,49.16,55.47,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3282,Mehidy Hasan Miraz,Batting All-Rounder,57,Medium (50-99),0.85,39.94,39.94,24,Low (18-35),0.6,42.4,42.4,41.17,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3285,Abu Haider,Multi-Phase Bowler,25,Low (20-49),0.6,51.9,51.9,18,Low (18-35),0.6,10.74,10.74,10.74,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3297,Shimron Hetmyer,Designated Finisher,515,High (100+),1.0,82.61,82.61,0,Did Not Bowl,0.0,,,82.61,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3298,Jofra Archer,Bowling All-Rounder,131,High (100+),1.0,46.53,46.53,189,High (75+),1.0,52.63,52.63,49.58,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3299,Andrew Tye,Death-Overs Specialist,0,Did Not Bat,0.0,,,14,Insufficient (<18),0.3,12.03,12.03,12.03,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3304,Munim Shahriar,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3306,Afsar Zazai,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3320,Jayant Yadav,Supporting Bowler,0,Did Not Bat,0.0,,,13,Insufficient (<18),0.3,13.16,13.16,13.16,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3323,Jimmy Neesham,Genuine All-Rounder,245,High (100+),1.0,68.17,68.17,58,Medium (36-74),0.85,23.56,23.56,45.86,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3330,Hardik Pandya,Genuine All-Rounder,577,High (100+),1.0,87.38,87.38,132,High (75+),1.0,44.59,44.59,65.98,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3337,Jeremy Gordon,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3361,Michael Leask,Middle-Order Batter,8,Insufficient (<20),0.3,12.04,12.04,0,Insufficient (<18),0.3,14.69,14.69,12.04,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3373,Aizaz Khan,Middle-Overs Enforcer,55,Medium (50-99),0.85,36.54,36.54,36,Medium (36-74),0.85,34.56,34.56,34.56,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3374,Mark Chapman,Middle-Order Batter,187,High (100+),1.0,91.33,91.33,0,Insufficient (<18),0.3,14.69,14.69,91.33,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3377,Babar Hayat,Top-Order Batter,68,Medium (50-99),0.85,60.27,60.27,0,Did Not Bowl,0.0,,,60.27,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3382,Nizakat Khan,Top-Order Batter,17,Insufficient (<20),0.3,21.15,21.15,0,Did Not Bowl,0.0,,,21.15,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3383,Kinchit Shah,Middle-Order Batter,47,Low (20-49),0.6,37.59,37.59,18,Low (18-35),0.6,32.9,32.9,37.59,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3415,Matthew Cross,Middle-Order Batter,27,Low (20-49),0.6,42.61,42.61,0,Did Not Bowl,0.0,,,42.61,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3451,Baba Indrajith,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3469,Shreyas Gopal,Middle-Overs Enforcer,7,Insufficient (<20),0.3,16.66,16.66,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3489,Salman Agha,Batting All-Rounder,129,High (100+),1.0,63.57,63.57,14,Insufficient (<18),0.3,12.97,12.97,38.27,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3539,Ben McDermott,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3543,Shahidullah Kamal,Middle-Order Batter,34,Low (20-49),0.6,16.71,16.71,0,Insufficient (<18),0.3,14.69,14.69,16.71,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3544,Usman Ghani,Top-Order Batter,10,Insufficient (<20),0.3,7.9,7.9,0,Did Not Bowl,0.0,,,7.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3545,Ihsanullah Janat,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3550,Sharafuddin Ashraf,Middle-Overs Enforcer,26,Low (20-49),0.6,39.72,39.72,45,Medium (36-74),0.85,55.95,55.95,55.95,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3578,Imad Wasim,Genuine All-Rounder,93,Medium (50-99),0.85,61.71,61.71,20,Low (18-35),0.6,40.36,40.36,51.04,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3595,Andy McBrine,Powerplay Bowler,8,Insufficient (<20),0.3,15.17,15.17,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3605,Aiden Markram,Genuine All-Rounder,217,High (100+),1.0,87.12,87.12,25,Low (18-35),0.6,36.99,36.99,62.06,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3613,Shakeel Ahmed,Supporting Bowler,40,Low (20-49),0.6,26.78,26.78,12,Insufficient (<18),0.3,14.49,14.49,14.49,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3622,Hayden Walsh,Middle-Overs Enforcer,15,Insufficient (<20),0.3,14.06,14.06,5,Insufficient (<18),0.3,18.06,18.06,18.06,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3623,Hasan Ali,Death-Overs Specialist,17,Insufficient (<20),0.3,15.59,15.59,36,Medium (36-74),0.85,42.93,42.93,42.93,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3627,Andile Phehlukwayo,Middle-Overs Enforcer,41,Low (20-49),0.6,22.94,22.94,14,Insufficient (<18),0.3,3.3,3.3,3.3,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3628,Kagiso Rabada,Bowling All-Rounder,121,High (100+),1.0,59.94,59.94,214,High (75+),1.0,43.52,43.52,51.73,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3629,Corbin Bosch,Bowling All-Rounder,99,Medium (50-99),0.85,62.17,62.17,63,Medium (36-74),0.85,54.11,54.11,58.14,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3635,Jason Smith,Designated Finisher,19,Insufficient (<20),0.3,17.79,17.79,0,Did Not Bowl,0.0,,,17.79,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3637,Dayyaan Galiem,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3639,Brandon King,Top-Order Batter,35,Low (20-49),0.6,49.3,49.3,0,Did Not Bowl,0.0,,,49.3,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3641,Ben Dwarshuis,Powerplay Bowler,58,Medium (50-99),0.85,28.39,28.39,39,Medium (36-74),0.85,39.55,39.55,39.55,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3644,Kuldeep Yadav,Bowling All-Rounder,176,High (100+),1.0,17.81,17.81,200,High (75+),1.0,57.67,57.67,37.74,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3645,Sarfaraz Khan,Middle-Order Batter,47,Low (20-49),0.6,48.99,48.99,0,Did Not Bowl,0.0,,,48.99,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3647,Shreyas Iyer,Middle-Order Batter,253,High (100+),1.0,88.04,88.04,0,Insufficient (<18),0.3,14.69,14.69,88.04,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3648,Deepak Hooda,Batting All-Rounder,190,High (100+),1.0,57.0,57.0,4,Insufficient (<18),0.3,5.79,5.79,31.4,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3651,Ricky Bhui,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3653,Avesh Khan,Death-Overs Specialist,53,Medium (50-99),0.85,43.96,43.96,290,High (75+),1.0,54.42,54.42,54.42,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+3660,Luke Wood,Powerplay Bowler,8,Insufficient (<20),0.3,15.56,15.56,44,Medium (36-74),0.85,29.61,29.61,29.61,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3664,Binura Fernando,Powerplay Bowler,25,Low (20-49),0.6,20.46,20.46,39,Medium (36-74),0.85,43.83,43.83,43.83,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3669,Sadeera Samarawickrama,Middle-Order Batter,25,Low (20-49),0.6,40.97,40.97,0,Did Not Bowl,0.0,,,40.97,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3672,Kusal Mendis,Top-Order Batter,29,Low (20-49),0.6,29.29,29.29,0,Did Not Bowl,0.0,,,29.29,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3673,Ramesh Mendis,Middle-Overs Enforcer,40,Low (20-49),0.6,34.84,34.84,28,Low (18-35),0.6,44.41,44.41,44.41,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3683,Gavin Main,Supporting Bowler,1,Insufficient (<20),0.3,13.4,13.4,3,Insufficient (<18),0.3,22.41,22.41,22.41,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3686,CB Sole,Multi-Phase Bowler,22,Low (20-49),0.6,22.12,22.12,12,Insufficient (<18),0.3,13.48,13.48,13.48,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3689,Mark Watt,Middle-Overs Enforcer,47,Low (20-49),0.6,18.89,18.89,12,Insufficient (<18),0.3,9.16,9.16,9.16,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3697,Kyle Jamieson,Powerplay Bowler,55,Medium (50-99),0.85,46.94,46.94,60,Medium (36-74),0.85,27.8,27.8,27.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3700,Tim Seifert,Top-Order Batter,12,Insufficient (<20),0.3,9.01,9.01,0,Did Not Bowl,0.0,,,9.01,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3720,Craig Young,Multi-Phase Bowler,30,Low (20-49),0.6,19.79,19.79,75,High (75+),1.0,84.18,84.18,84.18,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3727,Matthew Short,Batting All-Rounder,78,Medium (50-99),0.85,33.33,33.33,18,Low (18-35),0.6,15.65,15.65,24.49,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3771,Vivian Kingma,Powerplay Bowler,1,Insufficient (<20),0.3,13.4,13.4,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3772,Logan van Beek,Death-Overs Specialist,32,Low (20-49),0.6,20.48,20.48,2,Insufficient (<18),0.3,22.24,22.24,22.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3775,Sompal Kami,Powerplay Bowler,9,Insufficient (<20),0.3,13.97,13.97,5,Insufficient (<18),0.3,18.79,18.79,18.79,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3782,M Shahrukh Khan,Designated Finisher,174,High (100+),1.0,82.74,82.74,0,Insufficient (<18),0.3,14.69,14.69,82.74,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3802,Anshuman Rath,Top-Order Batter,8,Insufficient (<20),0.3,20.56,20.56,0,Insufficient (<18),0.3,14.69,14.69,20.56,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3832,Rezza Gaznavi,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3839,Amjad Mahboob,Death-Overs Specialist,18,Insufficient (<20),0.3,14.56,14.56,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3858,Jatinder Singh,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3871,Aamir Kaleem,Genuine All-Rounder,23,Low (20-49),0.6,48.65,48.65,0,Insufficient (<18),0.3,14.69,14.69,31.67,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3876,Sufyan Mehmood,Middle-Overs Enforcer,19,Insufficient (<20),0.3,17.29,17.29,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3916,Jitesh Sharma,Designated Finisher,322,High (100+),1.0,88.77,88.77,0,Did Not Bowl,0.0,,,88.77,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3926,Rahul Tewatia,Designated Finisher,412,High (100+),1.0,81.09,81.09,0,Insufficient (<18),0.3,14.69,14.69,81.09,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+3954,Andrew Balbirnie,Top-Order Batter,46,Low (20-49),0.6,44.6,44.6,0,Did Not Bowl,0.0,,,44.6,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3967,Tom Kohler,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+3986,Matthew Renshaw,Middle-Order Batter,20,Low (20-49),0.6,49.28,49.28,0,Insufficient (<18),0.3,14.69,14.69,49.28,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+3995,Donald Tiripano,Supporting Bowler,3,Insufficient (<20),0.3,12.9,12.9,6,Insufficient (<18),0.3,7.41,7.41,7.41,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4007,Ryan Rickelton,Top-Order Batter,23,Low (20-49),0.6,47.99,47.99,0,Did Not Bowl,0.0,,,47.99,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4101,Mitchell Santner,Genuine All-Rounder,328,High (100+),1.0,65.73,65.73,138,High (75+),1.0,64.78,64.78,65.26,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4102,George Munsey,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4106,Daryl Mitchell,Designated Finisher,279,High (100+),1.0,75.06,75.06,19,Low (18-35),0.6,46.23,46.23,75.06,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4111,Khushdil Shah,Middle-Order Batter,89,Medium (50-99),0.85,17.21,17.21,0,Insufficient (<18),0.3,14.69,14.69,17.21,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4117,Ishan Kishan,Top-Order Batter,106,High (100+),1.0,92.04,92.04,0,Insufficient (<18),0.3,14.69,14.69,92.04,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4201,Fareed Malik,Multi-Phase Bowler,20,Low (20-49),0.6,19.39,19.39,67,Medium (36-74),0.85,40.85,40.85,40.85,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4211,Vishnu Vinod,Lower-Order Batter,19,Insufficient (<20),0.3,10.2,10.2,0,Did Not Bowl,0.0,,,10.2,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4219,Krunal Pandya,Genuine All-Rounder,252,High (100+),1.0,69.02,69.02,57,Medium (36-74),0.85,39.19,39.19,54.1,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4221,Chris Green,Supporting Bowler,3,Insufficient (<20),0.3,15.23,15.23,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4229,George Linde,Bowling All-Rounder,106,High (100+),1.0,75.74,75.74,36,Medium (36-74),0.85,73.63,73.63,74.68,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4235,Sisanda Magala,Death-Overs Specialist,5,Insufficient (<20),0.3,20.93,20.93,14,Insufficient (<18),0.3,10.28,10.28,10.28,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4237,Tabraiz Shamsi,Middle-Overs Enforcer,7,Insufficient (<20),0.3,12.17,12.17,17,Insufficient (<18),0.3,9.85,9.85,9.85,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4246,Nitish Rana,Batting All-Rounder,140,High (100+),1.0,87.08,87.08,11,Insufficient (<18),0.3,14.51,14.51,50.8,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4260,Heinrich Klaasen,Designated Finisher,394,High (100+),1.0,84.33,84.33,0,Did Not Bowl,0.0,,,84.33,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4265,T Natarajan,Death-Overs Specialist,2,Insufficient (<20),0.3,15.22,15.22,204,High (75+),1.0,37.39,37.39,37.39,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4276,Basil Thampi,Powerplay Bowler,0,Did Not Bat,0.0,,,18,Low (18-35),0.6,25.98,25.98,25.98,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4288,Navdeep Saini,Middle-Overs Enforcer,2,Insufficient (<20),0.3,13.78,13.78,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4369,Shai Hope,Top-Order Batter,63,Medium (50-99),0.85,67.23,67.23,0,Did Not Bowl,0.0,,,67.23,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4372,Rony Talukder,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4373,Mustafizur Rahman,Death-Overs Specialist,59,Medium (50-99),0.85,31.13,31.13,308,High (75+),1.0,61.67,61.67,61.67,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4391,Liam Livingstone,Genuine All-Rounder,276,High (100+),1.0,83.57,83.57,54,Medium (36-74),0.85,44.24,44.24,63.9,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4409,Sam Curran,Genuine All-Rounder,345,High (100+),1.0,73.66,73.66,226,High (75+),1.0,49.15,49.15,61.4,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4412,Max ODowd,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,7,Insufficient (<18),0.3,21.73,21.73,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4417,Karan KC,Powerplay Bowler,2,Insufficient (<20),0.3,12.76,12.76,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4438,Jasdeep Singh,Death-Overs Specialist,19,Insufficient (<20),0.3,10.02,10.02,18,Low (18-35),0.6,38.9,38.9,38.9,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4450,Mehran Khan,Supporting Bowler,9,Insufficient (<20),0.3,11.39,11.39,9,Insufficient (<18),0.3,21.24,21.24,21.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4458,AHT Donald,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4460,Jeffrey Vandersay,Middle-Overs Enforcer,12,Insufficient (<20),0.3,16.06,16.06,26,Low (18-35),0.6,20.87,20.87,20.87,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4486,BR Sharath,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4487,Vyshak Kumar,Middle-Overs Enforcer,16,Insufficient (<20),0.3,12.28,12.28,62,Medium (36-74),0.85,19.77,19.77,19.77,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4489,Prasidh Krishna,Multi-Phase Bowler,22,Low (20-49),0.6,24.68,24.68,171,High (75+),1.0,65.52,65.52,65.52,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4494,Abhinav Manohar,Middle-Order Batter,90,Medium (50-99),0.85,51.89,51.89,0,Did Not Bowl,0.0,,,51.89,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4499,Saqib Mahmood,Powerplay Bowler,33,Low (20-49),0.6,20.74,20.74,15,Insufficient (<18),0.3,15.07,15.07,15.07,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4505,Jhye Richardson,Death-Overs Specialist,19,Insufficient (<20),0.3,7.26,7.26,24,Low (18-35),0.6,36.28,36.28,36.28,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4604,Mitchell Swepson,Supporting Bowler,1,Insufficient (<20),0.3,16.17,16.17,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4636,Bjorn Fortuin,Powerplay Bowler,45,Low (20-49),0.6,36.77,36.77,6,Insufficient (<18),0.3,9.32,9.32,9.32,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4639,Wellington Masakadza,Bowling All-Rounder,125,High (100+),1.0,57.05,57.05,84,High (75+),1.0,88.43,88.43,72.74,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4641,Lungi Ngidi,Powerplay Bowler,62,Medium (50-99),0.85,34.4,34.4,103,High (75+),1.0,62.74,62.74,62.74,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4658,Nasum Ahmed,Powerplay Bowler,58,Medium (50-99),0.85,29.26,29.26,32,Low (18-35),0.6,41.98,41.98,41.98,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4662,Cole McConchie,Genuine All-Rounder,55,Medium (50-99),0.85,64.02,64.02,6,Insufficient (<18),0.3,11.96,11.96,37.99,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4665,Tom Blundell,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4684,Dane Cleaver,Top-Order Batter,4,Insufficient (<20),0.3,19.63,19.63,0,Did Not Bowl,0.0,,,19.63,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4686,Joshua Clarkson,Designated Finisher,90,Medium (50-99),0.85,60.3,60.3,0,Insufficient (<18),0.3,14.69,14.69,60.3,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4692,Lockie Ferguson,Multi-Phase Bowler,30,Low (20-49),0.6,22.25,22.25,124,High (75+),1.0,39.04,39.04,39.04,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4695,Nick Kelly,Middle-Order Batter,21,Low (20-49),0.6,31.01,31.01,0,Did Not Bowl,0.0,,,31.01,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4703,Rishabh Pant,Middle-Order Batter,170,High (100+),1.0,86.27,86.27,0,Did Not Bowl,0.0,,,86.27,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4708,Rinku Singh,Designated Finisher,567,High (100+),1.0,93.23,93.23,0,Insufficient (<18),0.3,14.69,14.69,93.23,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4716,Mayank Dagar,Middle-Overs Enforcer,1,Insufficient (<20),0.3,15.21,15.21,4,Insufficient (<18),0.3,21.9,21.9,21.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4722,Rashid Khan,Genuine All-Rounder,443,High (100+),1.0,79.71,79.71,349,High (75+),1.0,82.37,82.37,81.04,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4736,Josh Inglis,Top-Order Batter,55,Medium (50-99),0.85,34.81,34.81,0,Did Not Bowl,0.0,,,34.81,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4755,Shivam Dube,Genuine All-Rounder,519,High (100+),1.0,88.2,88.2,21,Low (18-35),0.6,8.0,8.0,48.1,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4773,Jaker Ali Anik,Designated Finisher,224,High (100+),1.0,78.31,78.31,0,Did Not Bowl,0.0,,,78.31,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4779,Pieter Willem Mulder,Genuine All-Rounder,22,Low (20-49),0.6,32.64,32.64,15,Insufficient (<18),0.3,20.56,20.56,26.6,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4780,Mohammad Saif Hassan,Batting All-Rounder,30,Low (20-49),0.6,40.69,40.69,12,Insufficient (<18),0.3,19.4,19.4,30.04,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4784,Tony de Zorzi,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4790,Lutho Sipamla,Powerplay Bowler,14,Insufficient (<20),0.3,10.7,10.7,18,Low (18-35),0.6,21.71,21.71,21.71,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4793,Dean Foxcroft,Middle-Order Batter,10,Insufficient (<20),0.3,17.72,17.72,0,Insufficient (<18),0.3,14.69,14.69,17.72,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4802,Stephen Doheny,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4807,Joshua Little,Powerplay Bowler,19,Insufficient (<20),0.3,15.55,15.55,106,High (75+),1.0,79.34,79.34,79.34,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4812,Harry Tector,Batting All-Rounder,156,High (100+),1.0,83.42,83.42,30,Low (18-35),0.6,56.4,56.4,69.91,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4814,Lorcan Tucker,Top-Order Batter,79,Medium (50-99),0.85,41.63,41.63,0,Did Not Bowl,0.0,,,41.63,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4815,Benjamin White,Middle-Overs Enforcer,13,Insufficient (<20),0.3,7.78,7.78,83,High (75+),1.0,83.19,83.19,83.19,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4816,Khaleel Ahmed,Powerplay Bowler,5,Insufficient (<20),0.3,11.77,11.77,163,High (75+),1.0,49.82,49.82,49.82,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4817,Anmolpreet Singh,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4821,Mahipal Lomror,Designated Finisher,87,Medium (50-99),0.85,61.59,61.59,6,Insufficient (<18),0.3,19.94,19.94,61.59,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4823,Washington Sundar,Genuine All-Rounder,288,High (100+),1.0,70.93,70.93,57,Medium (36-74),0.85,48.87,48.87,59.9,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4824,Zeeshan Ansari,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,22,Low (18-35),0.6,20.81,20.81,20.81,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4826,George Garton,Supporting Bowler,4,Insufficient (<20),0.3,12.88,12.88,6,Insufficient (<18),0.3,7.92,7.92,7.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4830,Keacy Carty,Middle-Order Batter,15,Insufficient (<20),0.3,23.08,23.08,0,Did Not Bowl,0.0,,,23.08,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4837,Obed McCoy,Death-Overs Specialist,43,Low (20-49),0.6,23.03,23.03,105,High (75+),1.0,67.61,67.61,67.61,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4838,Keemo Paul,Middle-Overs Enforcer,29,Low (20-49),0.6,27.22,27.22,6,Insufficient (<18),0.3,15.35,15.35,15.35,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4840,Odean Smith,Bowling All-Rounder,108,High (100+),1.0,71.55,71.55,55,Medium (36-74),0.85,64.4,64.4,67.97,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4842,Shamar Springer,Middle-Overs Enforcer,58,Medium (50-99),0.85,75.2,75.2,25,Low (18-35),0.6,14.14,14.14,14.14,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4847,Finn Allen,Top-Order Batter,3,Insufficient (<20),0.3,15.46,15.46,0,Did Not Bowl,0.0,,,15.46,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4853,Glenn Phillips,Batting All-Rounder,169,High (100+),1.0,78.66,78.66,7,Insufficient (<18),0.3,17.09,17.09,47.88,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4854,Rachin Ravindra,Batting All-Rounder,83,Medium (50-99),0.85,49.87,49.87,6,Insufficient (<18),0.3,22.22,22.22,36.04,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4856,Benjamin Sears,Multi-Phase Bowler,33,Low (20-49),0.6,21.76,21.76,61,Medium (36-74),0.85,58.19,58.19,58.19,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4857,Nathan Smith,Death-Overs Specialist,7,Insufficient (<20),0.3,16.21,16.21,25,Low (18-35),0.6,24.68,24.68,24.68,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4867,Wesley Madhevere,Batting All-Rounder,70,Medium (50-99),0.85,58.06,58.06,3,Insufficient (<18),0.3,19.08,19.08,38.57,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4870,Kundai Matigimu,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4871,Brandon Mavuta,Middle-Overs Enforcer,15,Insufficient (<20),0.3,12.48,12.48,18,Low (18-35),0.6,46.41,46.41,46.41,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4874,Richard Ngarava,Death-Overs Specialist,60,Medium (50-99),0.85,42.1,42.1,217,High (75+),1.0,71.49,71.49,71.49,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+4876,Milton Shumba,Middle-Order Batter,32,Low (20-49),0.6,18.27,18.27,0,Insufficient (<18),0.3,14.69,14.69,18.27,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4880,Aarif Sheikh,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4881,Dipendra Airee,Supporting Bowler,7,Insufficient (<20),0.3,16.12,16.12,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4882,Kushal Bhurtel,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,1,Insufficient (<18),0.3,11.5,11.5,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4895,Charith Asalanka,Batting All-Rounder,123,High (100+),1.0,44.5,44.5,24,Low (18-35),0.6,51.19,51.19,47.84,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4900,Wanindu Hasaranga,Genuine All-Rounder,263,High (100+),1.0,30.81,30.81,176,High (75+),1.0,77.66,77.66,54.24,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4901,Asitha Fernando,Death-Overs Specialist,4,Insufficient (<20),0.3,21.02,21.02,20,Low (18-35),0.6,27.27,27.27,27.27,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4902,Avishka Fernando,Top-Order Batter,7,Insufficient (<20),0.3,10.99,10.99,0,Did Not Bowl,0.0,,,10.99,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4903,Lahiru Kumara,Powerplay Bowler,0,Did Not Bat,0.0,,,28,Low (18-35),0.6,50.58,50.58,50.58,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4904,Kamindu Mendis,Batting All-Rounder,138,High (100+),1.0,60.85,60.85,0,Insufficient (<18),0.3,14.69,14.69,37.77,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4926,Shadab Khan,Genuine All-Rounder,157,High (100+),1.0,66.99,66.99,69,Medium (36-74),0.85,62.93,62.93,64.96,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+4947,Kasun Rajitha,Death-Overs Specialist,9,Insufficient (<20),0.3,18.44,18.44,14,Insufficient (<18),0.3,13.26,13.26,13.26,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4974,Mohammad Nadeem,Middle-Order Batter,35,Low (20-49),0.6,31.3,31.3,6,Insufficient (<18),0.3,9.69,9.69,31.3,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+4983,Sikander Zulfiqar,Lower-Order Batter,3,Insufficient (<20),0.3,13.32,13.32,0,Did Not Bowl,0.0,,,13.32,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+4986,Rovman Powell,Designated Finisher,647,High (100+),1.0,88.16,88.16,13,Insufficient (<18),0.3,8.21,8.21,88.16,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+5029,Prerak Mankad,Top-Order Batter,18,Insufficient (<20),0.3,25.61,25.61,0,Did Not Bowl,0.0,,,25.61,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5034,Murugan Ashwin,Middle-Overs Enforcer,14,Insufficient (<20),0.3,11.63,11.63,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5039,Rajat Patidar,Middle-Order Batter,126,High (100+),1.0,76.07,76.07,0,Did Not Bowl,0.0,,,76.07,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+5041,Mukesh Kumar,Death-Overs Specialist,22,Low (20-49),0.6,28.81,28.81,197,High (75+),1.0,51.14,51.14,51.14,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5189,Faheem Ashraf,Bowling All-Rounder,173,High (100+),1.0,76.86,76.86,32,Low (18-35),0.6,50.2,50.2,63.53,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5231,Oshane Thomas,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5379,Mark Adair,Genuine All-Rounder,232,High (100+),1.0,71.89,71.89,157,High (75+),1.0,54.59,54.59,63.24,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5441,Barry McCarthy,Bowling All-Rounder,98,Medium (50-99),0.85,40.11,40.11,109,High (75+),1.0,67.37,67.37,53.74,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5547,Nosthush Kenjige,Powerplay Bowler,10,Insufficient (<20),0.3,11.04,11.04,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5553,Phil Salt,Top-Order Batter,65,Medium (50-99),0.85,70.92,70.92,0,Did Not Bowl,0.0,,,70.92,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+5561,Brad Wheal,Supporting Bowler,12,Insufficient (<20),0.3,13.93,13.93,12,Insufficient (<18),0.3,18.82,18.82,18.82,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5562,Richard Gleeson,Multi-Phase Bowler,6,Insufficient (<20),0.3,12.28,12.28,18,Low (18-35),0.6,15.11,15.11,15.11,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5577,Sai Kishore,Middle-Overs Enforcer,16,Insufficient (<20),0.3,12.38,12.38,48,Medium (36-74),0.85,34.19,34.19,34.19,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+5608,Narayan Jagadeesan,Top-Order Batter,15,Insufficient (<20),0.3,21.14,21.14,0,Did Not Bowl,0.0,,,21.14,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5665,Sanjay Yadav,Supporting Bowler,2,Insufficient (<20),0.3,12.93,12.93,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5738,Xavier Bartlett,Bowling All-Rounder,71,Medium (50-99),0.85,54.91,54.91,91,High (75+),1.0,61.41,61.41,58.16,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5750,Ehsan Khan,Death-Overs Specialist,33,Low (20-49),0.6,30.04,30.04,60,Medium (36-74),0.85,64.32,64.32,64.32,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5808,Karim Janat,Genuine All-Rounder,126,High (100+),1.0,52.27,52.27,57,Medium (36-74),0.85,38.68,38.68,45.48,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+5809,Naveen ul Haq,Death-Overs Specialist,65,Medium (50-99),0.85,35.14,35.14,95,High (75+),1.0,69.27,69.27,69.27,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5837,Mahedi Hasan,Genuine All-Rounder,150,High (100+),1.0,47.76,47.76,94,High (75+),1.0,82.2,82.2,64.98,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5839,Yasir Ali Chowdhury,Designated Finisher,104,High (100+),1.0,80.83,80.83,0,Did Not Bowl,0.0,,,80.83,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+5844,Ebadot Hossain,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,10,Insufficient (<18),0.3,12.36,12.36,12.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5866,Patrick Kruger,Middle-Overs Enforcer,41,Low (20-49),0.6,19.78,19.78,14,Insufficient (<18),0.3,11.11,11.11,11.11,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5877,Andries Gous,Top-Order Batter,8,Insufficient (<20),0.3,19.73,19.73,0,Did Not Bowl,0.0,,,19.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5882,Afif Hossain,Middle-Order Batter,82,Medium (50-99),0.85,52.4,52.4,0,Insufficient (<18),0.3,14.69,14.69,52.4,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5892,Blair Tickner,Death-Overs Specialist,5,Insufficient (<20),0.3,12.04,12.04,36,Medium (36-74),0.85,37.45,37.45,37.45,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+5928,Prithvi Shaw,Top-Order Batter,9,Insufficient (<20),0.3,16.35,16.35,0,Did Not Bowl,0.0,,,16.35,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+5939,Cameron Green,Genuine All-Rounder,194,High (100+),1.0,73.55,73.55,50,Medium (36-74),0.85,27.34,27.34,50.44,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5940,Riley Meredith,Death-Overs Specialist,3,Insufficient (<20),0.3,14.3,14.3,42,Medium (36-74),0.85,61.35,61.35,61.35,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+5944,Mohammed Siraj,Powerplay Bowler,69,Medium (50-99),0.85,34.16,34.16,179,High (75+),1.0,45.94,45.94,45.94,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+5977,Khary Pierre,Middle-Overs Enforcer,15,Insufficient (<20),0.3,11.69,11.69,18,Low (18-35),0.6,35.86,35.86,35.86,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+5979,Abrar Ahmed,Middle-Overs Enforcer,11,Insufficient (<20),0.3,10.92,10.92,64,Medium (36-74),0.85,66.83,66.83,66.83,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6025,Henry Shipley,Death-Overs Specialist,2,Insufficient (<20),0.3,15.69,15.69,21,Low (18-35),0.6,20.66,20.66,20.66,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6035,Chirag Suri,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6059,Ruturaj Gaikwad,Top-Order Batter,59,Medium (50-99),0.85,66.63,66.63,0,Did Not Bowl,0.0,,,66.63,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6097,Brydon Carse,Multi-Phase Bowler,17,Insufficient (<20),0.3,7.75,7.75,17,Insufficient (<18),0.3,16.47,16.47,16.47,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6160,Chamika Karunaratne,Bowling All-Rounder,116,High (100+),1.0,63.66,63.66,22,Low (18-35),0.6,33.27,33.27,48.46,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6161,Rahul Chahar,Bowling All-Rounder,85,Medium (50-99),0.85,48.83,48.83,95,High (75+),1.0,52.74,52.74,50.78,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6162,Kulwant Khejroliya,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,13,Insufficient (<18),0.3,10.01,10.01,10.01,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6166,Jack Edwards,Supporting Bowler,6,Insufficient (<20),0.3,13.24,13.24,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6172,Lasith Croospulle,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6179,Nipun Ransika,Powerplay Bowler,6,Insufficient (<20),0.3,13.64,13.64,6,Insufficient (<18),0.3,7.92,7.92,7.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6180,Praveen Jayawickrama,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,11.25,11.25,11.25,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6188,Simi Singh,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6196,Josh Tongue,Powerplay Bowler,0,Did Not Bat,0.0,,,5,Insufficient (<18),0.3,14.47,14.47,14.47,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6203,Surendran Chandramohan,Lower-Order Batter,5,Insufficient (<20),0.3,18.3,18.3,0,Did Not Bowl,0.0,,,18.3,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6237,Manimaran Siddharth,Multi-Phase Bowler,0,Did Not Bat,0.0,,,21,Low (18-35),0.6,31.63,31.63,31.63,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6256,Varun Chakravarthy,Middle-Overs Enforcer,40,Low (20-49),0.6,23.61,23.61,159,High (75+),1.0,52.94,52.94,52.94,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6272,William Jacks,Genuine All-Rounder,59,Medium (50-99),0.85,64.99,64.99,29,Low (18-35),0.6,37.92,37.92,51.46,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6273,Tom Banton,Designated Finisher,38,Low (20-49),0.6,51.46,51.46,0,Did Not Bowl,0.0,,,51.46,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6280,Harry Brook,Middle-Order Batter,98,Medium (50-99),0.85,49.39,49.39,0,Did Not Bowl,0.0,,,49.39,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6281,Abhishek Sharma,Genuine All-Rounder,79,Medium (50-99),0.85,52.38,52.38,6,Insufficient (<18),0.3,4.06,4.06,28.22,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6284,Anukul Roy,Middle-Overs Enforcer,51,Medium (50-99),0.85,52.35,52.35,15,Insufficient (<18),0.3,11.1,11.1,11.1,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6285,Kamlesh Nagarkoti,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6286,Shivam Mavi,Death-Overs Specialist,24,Low (20-49),0.6,35.42,35.42,26,Low (18-35),0.6,45.26,45.26,45.26,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6287,Yash Thakur,Death-Overs Specialist,4,Insufficient (<20),0.3,12.88,12.88,60,Medium (36-74),0.85,31.56,31.56,31.56,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6288,Shubman Gill,Top-Order Batter,140,High (100+),1.0,96.73,96.73,0,Did Not Bowl,0.0,,,96.73,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6297,Matthew Parkinson,Supporting Bowler,5,Insufficient (<20),0.3,11.46,11.46,4,Insufficient (<18),0.3,20.79,20.79,20.79,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6314,Devdutt Padikkal,Top-Order Batter,66,Medium (50-99),0.85,36.01,36.01,0,Did Not Bowl,0.0,,,36.01,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6342,Matthew Breetzke,Top-Order Batter,25,Low (20-49),0.6,31.53,31.53,0,Did Not Bowl,0.0,,,31.53,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6350,Matthew Kuhnemann,Middle-Overs Enforcer,12,Insufficient (<20),0.3,10.85,10.85,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6354,Spencer Johnson,Powerplay Bowler,10,Insufficient (<20),0.3,14.58,14.58,42,Medium (36-74),0.85,56.49,56.49,56.49,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6355,Shaheen Afridi,Bowling All-Rounder,147,High (100+),1.0,44.18,44.18,122,High (75+),1.0,91.38,91.38,67.78,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6356,Khaled Ahmed,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6359,Raghu Sharma,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6389,Tanvir Islam,Powerplay Bowler,16,Insufficient (<20),0.3,12.15,12.15,12,Insufficient (<18),0.3,18.24,18.24,18.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6395,Josh Philippe,Middle-Order Batter,23,Low (20-49),0.6,24.54,24.54,0,Did Not Bowl,0.0,,,24.54,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6396,Tim David,Designated Finisher,558,High (100+),1.0,96.78,96.78,0,Insufficient (<18),0.3,14.69,14.69,96.78,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6398,Aaron Hardie,Bowling All-Rounder,75,Medium (50-99),0.85,57.46,57.46,12,Insufficient (<18),0.3,5.68,5.68,31.57,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6423,Riyan Parag,Genuine All-Rounder,250,High (100+),1.0,78.14,78.14,25,Low (18-35),0.6,41.68,41.68,59.91,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6433,Darwish Rasooli,Middle-Order Batter,55,Medium (50-99),0.85,28.47,28.47,0,Did Not Bowl,0.0,,,28.47,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6436,Qais Ahmad,Middle-Overs Enforcer,30,Low (20-49),0.6,22.96,22.96,42,Medium (36-74),0.85,75.01,75.01,75.01,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6440,Omair Yousuf,Top-Order Batter,1,Insufficient (<20),0.3,10.4,10.4,0,Did Not Bowl,0.0,,,10.4,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6441,Abdullah Shafique,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6443,Rohail Nazir,Lower-Order Batter,14,Insufficient (<20),0.3,26.24,26.24,0,Did Not Bowl,0.0,,,26.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6448,Ibrahim Zadran,Top-Order Batter,134,High (100+),1.0,84.48,84.48,0,Did Not Bowl,0.0,,,84.48,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6449,Wafadar Momand,Supporting Bowler,0,Did Not Bat,0.0,,,3,Insufficient (<18),0.3,12.33,12.33,12.33,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6450,Mujeeb Ur Rahman,Powerplay Bowler,64,Medium (50-99),0.85,54.05,54.05,107,High (75+),1.0,87.73,87.73,87.73,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6457,Urvil Patel,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6460,Ayush Badoni,Designated Finisher,364,High (100+),1.0,82.85,82.85,8,Insufficient (<18),0.3,16.6,16.6,82.85,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6464,Arshdeep Singh,Bowling All-Rounder,119,High (100+),1.0,25.89,25.89,478,High (75+),1.0,60.82,60.82,43.36,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6466,Atharwa Taide,Top-Order Batter,23,Low (20-49),0.6,30.0,30.0,1,Insufficient (<18),0.3,10.3,10.3,30.0,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6467,Anuj Rawat,Middle-Order Batter,92,Medium (50-99),0.85,72.11,72.11,0,Did Not Bowl,0.0,,,72.11,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6473,Nuwanidu Fernando,Middle-Order Batter,4,Insufficient (<20),0.3,12.25,12.25,0,Did Not Bowl,0.0,,,12.25,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6483,Nishan Madushka,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6486,Tanush Kotian,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6487,Priyam Garg,Top-Order Batter,14,Insufficient (<20),0.3,13.33,13.33,0,Did Not Bowl,0.0,,,13.33,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6489,Darshan Nalkande,Middle-Overs Enforcer,1,Insufficient (<20),0.3,10.4,10.4,4,Insufficient (<18),0.3,20.79,20.79,20.79,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6494,Manoj Bhandage,Lower-Order Batter,4,Insufficient (<20),0.3,12.46,12.46,0,Did Not Bowl,0.0,,,12.46,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6503,Zahoor Khan,Death-Overs Specialist,2,Insufficient (<20),0.3,14.74,14.74,26,Low (18-35),0.6,40.44,40.44,40.44,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6506,Mohammad Imran Randhawa,Powerplay Bowler,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6512,Michael Bracewell,Genuine All-Rounder,157,High (100+),1.0,50.38,50.38,30,Low (18-35),0.6,31.07,31.07,40.72,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6514,Anil Nidamanuru,Middle-Order Batter,12,Insufficient (<20),0.3,17.8,17.8,0,Did Not Bowl,0.0,,,17.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6515,Benjamin Lister,Powerplay Bowler,6,Insufficient (<20),0.3,11.36,11.36,54,Medium (36-74),0.85,52.33,52.33,52.33,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6518,Daniel Sams,Powerplay Bowler,48,Low (20-49),0.6,34.23,34.23,41,Medium (36-74),0.85,37.16,37.16,37.16,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6523,Blessing Muzarabani,Powerplay Bowler,36,Low (20-49),0.6,28.13,28.13,204,High (75+),1.0,72.74,72.74,72.74,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6526,Himmat Singh,Designated Finisher,45,Low (20-49),0.6,39.83,39.83,0,Did Not Bowl,0.0,,,39.83,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6565,Katene Clarke,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6566,Matthew John Fisher,Multi-Phase Bowler,0,Did Not Bat,0.0,,,5,Insufficient (<18),0.3,12.6,12.6,12.6,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6574,Alick Athanaze,Top-Order Batter,7,Insufficient (<20),0.3,14.73,14.73,0,Insufficient (<18),0.3,14.69,14.69,14.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6591,KM Asif,Middle-Overs Enforcer,2,Insufficient (<20),0.3,12.93,12.93,12,Insufficient (<18),0.3,9.69,9.69,9.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6628,Gerald Coetzee,Bowling All-Rounder,76,Medium (50-99),0.85,50.55,50.55,112,High (75+),1.0,77.69,77.69,64.12,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6643,Hasan Mahmud,Multi-Phase Bowler,41,Low (20-49),0.6,41.44,41.44,80,High (75+),1.0,72.18,72.18,72.18,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6644,Mahidul Ankon,Middle-Order Batter,1,Insufficient (<20),0.3,10.4,10.4,0,Did Not Bowl,0.0,,,10.4,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6645,Mohammad Sheikh,Top-Order Batter,22,Low (20-49),0.6,34.3,34.3,0,Did Not Bowl,0.0,,,34.3,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6651,Towhid Hridoy,Middle-Order Batter,186,High (100+),1.0,91.29,91.29,0,Insufficient (<18),0.3,14.69,14.69,91.29,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6664,Dion Myers,Top-Order Batter,58,Medium (50-99),0.85,61.45,61.45,0,Insufficient (<18),0.3,14.69,14.69,61.45,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6669,Mohsin Khan,Powerplay Bowler,28,Low (20-49),0.6,23.32,23.32,82,High (75+),1.0,83.55,83.55,83.55,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6671,Lalit Yadav,Genuine All-Rounder,117,High (100+),1.0,65.29,65.29,8,Insufficient (<18),0.3,5.18,5.18,35.24,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6674,Rahmanullah Gurbaz,Top-Order Batter,20,Low (20-49),0.6,24.64,24.64,0,Did Not Bowl,0.0,,,24.64,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6676,Azmatullah Omarzai,Genuine All-Rounder,263,High (100+),1.0,76.94,76.94,125,High (75+),1.0,54.55,54.55,65.74,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6677,Mohammad Hasnain,Powerplay Bowler,13,Insufficient (<20),0.3,18.49,18.49,39,Medium (36-74),0.85,38.06,38.06,38.06,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6683,Mayank Markande,Middle-Overs Enforcer,13,Insufficient (<20),0.3,19.33,19.33,39,Medium (36-74),0.85,26.43,26.43,26.43,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6697,Shams Mulani,Supporting Bowler,1,Insufficient (<20),0.3,15.69,15.69,6,Insufficient (<18),0.3,7.92,7.92,7.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6705,Scott McKechnie,Lower-Order Batter,15,Insufficient (<20),0.3,17.64,17.64,0,Did Not Bowl,0.0,,,17.64,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6725,Sherfane Rutherford,Designated Finisher,399,High (100+),1.0,88.7,88.7,0,Insufficient (<18),0.3,14.69,14.69,88.7,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+6726,Romario Shepherd,Genuine All-Rounder,541,High (100+),1.0,90.86,90.86,182,High (75+),1.0,43.9,43.9,67.38,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6739,Amir Jangoo,Top-Order Batter,7,Insufficient (<20),0.3,13.0,13.0,0,Did Not Bowl,0.0,,,13.0,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6764,Bukkapatnam Siddharth,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6772,Chetan Sakariya,Powerplay Bowler,6,Insufficient (<20),0.3,12.84,12.84,21,Low (18-35),0.6,21.74,21.74,21.74,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6783,Azam Khan,Designated Finisher,21,Low (20-49),0.6,22.45,22.45,0,Did Not Bowl,0.0,,,22.45,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6784,Hassan Mohammad,Supporting Bowler,1,Insufficient (<20),0.3,15.69,15.69,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6795,Terrance Hinds,Supporting Bowler,3,Insufficient (<20),0.3,16.63,16.63,11,Insufficient (<18),0.3,13.21,13.21,13.21,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6797,Dominic Drakes,Death-Overs Specialist,12,Insufficient (<20),0.3,11.68,11.68,24,Low (18-35),0.6,22.58,22.58,22.58,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6806,Tushar Deshpande,Death-Overs Specialist,24,Low (20-49),0.6,30.58,30.58,171,High (75+),1.0,51.46,51.46,51.46,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6819,Yashasvi Jaiswal,Top-Order Batter,34,Low (20-49),0.6,43.19,43.19,0,Insufficient (<18),0.3,14.69,14.69,43.19,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6881,Scott Edwards,Middle-Order Batter,57,Medium (50-99),0.85,63.37,63.37,0,Did Not Bowl,0.0,,,63.37,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6900,Michael Jones,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6919,Tyrone Kane,Lower-Order Batter,6,Insufficient (<20),0.3,10.94,10.94,0,Did Not Bowl,0.0,,,10.94,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6922,Abdul Samad,Designated Finisher,55,Medium (50-99),0.85,68.83,68.83,0,Did Not Bowl,0.0,,,68.83,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6926,Matty Potts,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6931,Pathum Nissanka,Top-Order Batter,91,Medium (50-99),0.85,56.93,56.93,0,Did Not Bowl,0.0,,,56.93,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6932,Pramod Madushan,Multi-Phase Bowler,14,Insufficient (<20),0.3,10.7,10.7,26,Low (18-35),0.6,35.65,35.65,35.65,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+6984,Saqib Zulfiqar,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+6985,Bas de Leede,Middle-Order Batter,54,Medium (50-99),0.85,69.4,69.4,0,Insufficient (<18),0.3,14.69,14.69,69.4,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+6995,Saad Zafar,Middle-Overs Enforcer,23,Low (20-49),0.6,25.36,25.36,24,Low (18-35),0.6,56.08,56.08,56.08,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7001,Dilon Heyliger,Death-Overs Specialist,20,Low (20-49),0.6,39.84,39.84,13,Insufficient (<18),0.3,23.83,23.83,23.83,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7002,Nicholas Kirton,Middle-Order Batter,22,Low (20-49),0.6,42.71,42.71,0,Insufficient (<18),0.3,14.69,14.69,42.71,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7003,Rayyan Pathan,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7008,Gus Atkinson,Powerplay Bowler,10,Insufficient (<20),0.3,18.01,18.01,9,Insufficient (<18),0.3,10.98,10.98,10.98,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7044,Jamie Smith,Top-Order Batter,3,Insufficient (<20),0.3,11.76,11.76,0,Did Not Bowl,0.0,,,11.76,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7046,Tinashe Kamunhukamwe,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7049,Kamil Mishara,Top-Order Batter,18,Insufficient (<20),0.3,23.27,23.27,0,Insufficient (<18),0.3,14.69,14.69,23.27,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7052,Dunith Wellalage,Bowling All-Rounder,88,Medium (50-99),0.85,41.34,41.34,7,Insufficient (<18),0.3,19.44,19.44,30.39,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7059,Nehal Wadhera,Designated Finisher,199,High (100+),1.0,64.68,64.68,0,Insufficient (<18),0.3,14.69,14.69,64.68,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7060,Arjun Tendulkar,Powerplay Bowler,14,Insufficient (<20),0.3,15.01,15.01,6,Insufficient (<18),0.3,3.53,3.53,3.53,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7094,Curtis Campher,Genuine All-Rounder,163,High (100+),1.0,72.5,72.5,55,Medium (36-74),0.85,45.39,45.39,58.94,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7120,Rohit Paudel,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7140,Senuran Muthusamy,Middle-Overs Enforcer,9,Insufficient (<20),0.3,12.55,12.55,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7152,Hazratullah Zazai,Top-Order Batter,3,Insufficient (<20),0.3,9.9,9.9,0,Did Not Bowl,0.0,,,9.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7155,Sahan Arachchige,Middle-Order Batter,53,Medium (50-99),0.85,64.12,64.12,12,Insufficient (<18),0.3,21.37,21.37,64.12,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7201,Haroon Arshad,Death-Overs Specialist,18,Insufficient (<20),0.3,17.77,17.77,24,Low (18-35),0.6,20.62,20.62,20.62,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7216,Prabhsimran Singh,Top-Order Batter,51,Medium (50-99),0.85,67.76,67.76,0,Did Not Bowl,0.0,,,67.76,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7227,Nijat Masood,Death-Overs Specialist,5,Insufficient (<20),0.3,15.27,15.27,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7240,FazalHaq Farooqi,Death-Overs Specialist,45,Low (20-49),0.6,15.83,15.83,118,High (75+),1.0,40.23,40.23,40.23,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7241,Ziaur Rahman,Death-Overs Specialist,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7250,Mukesh Choudhary,Powerplay Bowler,4,Insufficient (<20),0.3,15.71,15.71,42,Medium (36-74),0.85,38.74,38.74,38.74,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7260,Dhruv Jurel,Designated Finisher,282,High (100+),1.0,89.87,89.87,0,Did Not Bowl,0.0,,,89.87,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+7269,Sushant Mishra,Supporting Bowler,3,Insufficient (<20),0.3,14.76,14.76,6,Insufficient (<18),0.3,12.43,12.43,12.43,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7270,Anrich Nortje,Death-Overs Specialist,63,Medium (50-99),0.85,35.57,35.57,166,High (75+),1.0,53.66,53.66,53.66,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7304,Sanvir Singh,Lower-Order Batter,19,Insufficient (<20),0.3,21.69,21.69,0,Did Not Bowl,0.0,,,21.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7312,Nandre Burger,Powerplay Bowler,24,Low (20-49),0.6,28.31,28.31,43,Medium (36-74),0.85,51.93,51.93,51.93,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7322,Yash Dayal,Powerplay Bowler,9,Insufficient (<20),0.3,11.09,11.09,110,High (75+),1.0,55.85,55.85,55.85,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7325,Harpreet Brar,Bowling All-Rounder,115,High (100+),1.0,60.87,60.87,86,High (75+),1.0,56.13,56.13,58.5,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7327,Rasikh Salam,Death-Overs Specialist,34,Low (20-49),0.6,33.2,33.2,72,Medium (36-74),0.85,46.39,46.39,46.39,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7338,Haider Ali,Middle-Order Batter,30,Low (20-49),0.6,52.51,52.51,0,Did Not Bowl,0.0,,,52.51,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7341,Jake McGurk,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7344,Shoriful Islam,Powerplay Bowler,54,Medium (50-99),0.85,49.66,49.66,125,High (75+),1.0,75.78,75.78,75.78,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+7354,Al Alis,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7355,Tayyab Tahir,Middle-Order Batter,39,Low (20-49),0.6,44.77,44.77,0,Did Not Bowl,0.0,,,44.77,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7364,Haris Rauf,Bowling All-Rounder,103,High (100+),1.0,56.59,56.59,175,High (75+),1.0,67.06,67.06,61.82,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7403,Lalit Rajbanshi,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7406,Rizwan CP,Middle-Order Batter,46,Low (20-49),0.6,51.3,51.3,0,Did Not Bowl,0.0,,,51.3,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7409,Sundeep Jora,Designated Finisher,13,Insufficient (<20),0.3,13.12,13.12,0,Did Not Bowl,0.0,,,13.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7446,Abdul Samad,Designated Finisher,263,High (100+),1.0,72.63,72.63,0,Insufficient (<18),0.3,14.69,14.69,72.63,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+7472,Shahbaz Ahmed,Genuine All-Rounder,230,High (100+),1.0,77.71,77.71,18,Low (18-35),0.6,17.16,17.16,47.43,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7473,Akash Deep,Powerplay Bowler,14,Insufficient (<20),0.3,15.15,15.15,21,Low (18-35),0.6,9.32,9.32,9.32,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7498,Abhijeet Tomar,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7503,Ravi Bishnoi,Bowling All-Rounder,104,High (100+),1.0,48.25,48.25,205,High (75+),1.0,61.57,61.57,54.91,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7533,Simarjeet Singh,Powerplay Bowler,12,Insufficient (<20),0.3,11.13,11.13,24,Low (18-35),0.6,20.8,20.8,20.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7544,Venkatesh Iyer,Top-Order Batter,195,High (100+),1.0,74.49,74.49,8,Insufficient (<18),0.3,12.76,12.76,74.49,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+7545,Kuldeep Sen,Middle-Overs Enforcer,3,Insufficient (<20),0.3,14.3,14.3,31,Low (18-35),0.6,29.65,29.65,29.65,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7566,Ben Curran,Top-Order Batter,7,Insufficient (<20),0.3,10.99,10.99,0,Did Not Bowl,0.0,,,10.99,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7574,Kumar Kartikeya Singh,Middle-Overs Enforcer,17,Insufficient (<20),0.3,10.49,10.49,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7625,Suryansh Shedge,Designated Finisher,53,Medium (50-99),0.85,44.74,44.74,6,Insufficient (<18),0.3,4.25,4.25,44.74,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7634,Aaron Jones,Middle-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,6,Insufficient (<18),0.3,19.94,19.94,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7689,Dilshan Madushanka,Powerplay Bowler,11,Insufficient (<20),0.3,6.52,6.52,39,Medium (36-74),0.85,38.76,38.76,38.76,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7690,Saim Ayub,Genuine All-Rounder,14,Insufficient (<20),0.3,22.69,22.69,66,Medium (36-74),0.85,79.4,79.4,51.04,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7692,Qasim Akram,Middle-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7696,Mohammad Wasim,Death-Overs Specialist,29,Low (20-49),0.6,36.43,36.43,74,Medium (36-74),0.85,43.12,43.12,43.12,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7699,Abbas Afridi,Bowling All-Rounder,87,Medium (50-99),0.85,52.5,52.5,68,Medium (36-74),0.85,57.38,57.38,54.94,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7702,Chamindu Wickramasinghe,Powerplay Bowler,35,Low (20-49),0.6,35.66,35.66,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7704,Pavan Rathnayake,Middle-Order Batter,14,Insufficient (<20),0.3,19.47,19.47,0,Insufficient (<18),0.3,14.69,14.69,19.47,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7709,Ainsley Ndlovu,Middle-Overs Enforcer,32,Low (20-49),0.6,34.53,34.53,14,Insufficient (<18),0.3,14.01,14.01,14.01,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7710,Brandon Glover,Supporting Bowler,1,Insufficient (<20),0.3,17.13,17.13,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7741,Gareth Delany,Genuine All-Rounder,175,High (100+),1.0,84.36,84.36,61,Medium (36-74),0.85,47.35,47.35,65.86,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7744,Jordan Cox,Designated Finisher,4,Insufficient (<20),0.3,12.51,12.51,0,Did Not Bowl,0.0,,,12.51,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7755,Harsh Thaker,Middle-Order Batter,13,Insufficient (<20),0.3,16.19,16.19,12,Insufficient (<18),0.3,19.62,19.62,16.19,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7756,Kaleem Sana,Powerplay Bowler,4,Insufficient (<20),0.3,18.02,18.02,24,Low (18-35),0.6,38.68,38.68,38.68,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7761,Ravinderpal Singh,Lower-Order Batter,18,Insufficient (<20),0.3,20.44,20.44,0,Did Not Bowl,0.0,,,20.44,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7808,Marco Jansen,Genuine All-Rounder,209,High (100+),1.0,69.07,69.07,161,High (75+),1.0,50.32,50.32,59.69,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7894,Tony Munyonga,Middle-Order Batter,51,Medium (50-99),0.85,64.77,64.77,0,Did Not Bowl,0.0,,,64.77,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7896,Akash Singh,Powerplay Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7897,Namboori Tilak Varma,Designated Finisher,727,High (100+),1.0,96.02,96.02,0,Insufficient (<18),0.3,14.69,14.69,96.02,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+7900,Tanzid Hasan,Top-Order Batter,24,Low (20-49),0.6,40.05,40.05,0,Did Not Bowl,0.0,,,40.05,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7901,Parvez Emon,Top-Order Batter,17,Insufficient (<20),0.3,20.18,20.18,0,Did Not Bowl,0.0,,,20.18,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7903,Shamim Hossain,Batting All-Rounder,178,High (100+),1.0,76.36,76.36,6,Insufficient (<18),0.3,12.99,12.99,44.68,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7904,Mohammad Chowdhury,Lower-Order Batter,2,Insufficient (<20),0.3,12.93,12.93,0,Did Not Bowl,0.0,,,12.93,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7905,Tanzim Sakib,Bowling All-Rounder,150,High (100+),1.0,60.1,60.1,134,High (75+),1.0,59.64,59.64,59.87,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7906,Rakibul Hasan,Middle-Overs Enforcer,24,Low (20-49),0.6,25.29,25.29,1,Insufficient (<18),0.3,21.65,21.65,21.65,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7908,Mohammad Akbar Ali,Designated Finisher,5,Insufficient (<20),0.3,11.36,11.36,0,Did Not Bowl,0.0,,,11.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7911,Oliver Hairs,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7912,Vikramjit Singh,Top-Order Batter,3,Insufficient (<20),0.3,18.0,18.0,0,Insufficient (<18),0.3,14.69,14.69,18.0,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7914,Clayton Floyd,Supporting Bowler,1,Insufficient (<20),0.3,15.69,15.69,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7915,Monank Patel,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7916,Karima Gore,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7920,Nathan Ellis,Death-Overs Specialist,42,Low (20-49),0.6,23.55,23.55,138,High (75+),1.0,71.32,71.32,71.32,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+7924,Kushal Malla,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7925,Rohan Rangarajan,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7926,Manpreet Singh,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7927,Janak Prakash,Middle-Order Batter,9,Insufficient (<20),0.3,15.04,15.04,0,Insufficient (<18),0.3,14.69,14.69,15.04,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7928,Vinoth Baskaran,Middle-Overs Enforcer,5,Insufficient (<20),0.3,14.35,14.35,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7929,Aryaman Sunil Uchil,Death-Overs Specialist,10,Insufficient (<20),0.3,16.95,16.95,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7931,Aritra Dutta,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7935,Mohammad Ghazanfar,Middle-Overs Enforcer,4,Insufficient (<20),0.3,13.29,13.29,24,Low (18-35),0.6,46.31,46.31,46.31,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7937,Wasim Ali,Middle-Order Batter,47,Low (20-49),0.6,41.37,41.37,6,Insufficient (<18),0.3,9.32,9.32,41.37,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7938,Sandeep Goud 1,Lower-Order Batter,2,Insufficient (<20),0.3,17.12,17.12,0,Did Not Bowl,0.0,,,17.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7942,Jay Odedara,Powerplay Bowler,1,Insufficient (<20),0.3,13.4,13.4,18,Low (18-35),0.6,50.8,50.8,50.8,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7945,Nasrulla Rana,Middle-Overs Enforcer,12,Insufficient (<20),0.3,12.01,12.01,6,Insufficient (<18),0.3,14.66,14.66,14.66,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+7966,Farmanullah Safi,Supporting Bowler,18,Insufficient (<20),0.3,19.67,19.67,18,Low (18-35),0.6,44.9,44.9,44.9,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7967,Noor Ahmad,Bowling All-Rounder,104,High (100+),1.0,43.8,43.8,128,High (75+),1.0,75.24,75.24,59.52,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+7978,Johnathan Campbell,Middle-Order Batter,37,Low (20-49),0.6,34.81,34.81,0,Did Not Bowl,0.0,,,34.81,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+7981,Imran Mir,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8005,Zawar Farid,Supporting Bowler,23,Low (20-49),0.6,17.9,17.9,18,Low (18-35),0.6,45.28,45.28,45.28,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8009,Junaid Siddique,Death-Overs Specialist,35,Low (20-49),0.6,28.21,28.21,56,Medium (36-74),0.85,42.49,42.49,42.49,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8014,Avi Dixit,Lower-Order Batter,18,Insufficient (<20),0.3,16.22,16.22,0,Did Not Bowl,0.0,,,16.22,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8033,Abdul Rahmani,Death-Overs Specialist,4,Insufficient (<20),0.3,14.53,14.53,17,Insufficient (<18),0.3,24.25,24.25,24.25,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8040,Ripal Patel,Middle-Order Batter,39,Low (20-49),0.6,28.09,28.09,0,Did Not Bowl,0.0,,,28.09,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8049,Naseem Shah,Powerplay Bowler,36,Low (20-49),0.6,31.72,31.72,75,High (75+),1.0,56.23,56.23,56.23,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8085,Suyash Prabhudessai,Middle-Order Batter,57,Medium (50-99),0.85,42.11,42.11,0,Did Not Bowl,0.0,,,42.11,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8093,Nikhil Chaudhary,Middle-Overs Enforcer,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8101,Ashutosh Sharma,Designated Finisher,293,High (100+),1.0,88.91,88.91,0,Did Not Bowl,0.0,,,88.91,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+8141,Auqib Nabi,Powerplay Bowler,4,Insufficient (<20),0.3,17.84,17.84,5,Insufficient (<18),0.3,15.75,15.75,15.75,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8177,Akash Madhwal,Death-Overs Specialist,14,Insufficient (<20),0.3,13.57,13.57,84,High (75+),1.0,44.84,44.84,44.84,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8182,Donovan Ferreira,Batting All-Rounder,170,High (100+),1.0,91.88,91.88,30,Low (18-35),0.6,32.31,32.31,62.1,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8217,Ansh Tandon,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8221,Nitish Reddy,Genuine All-Rounder,161,High (100+),1.0,81.89,81.89,50,Medium (36-74),0.85,17.02,17.02,49.46,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8238,Sameer Rizvi,Designated Finisher,91,Medium (50-99),0.85,78.7,78.7,0,Did Not Bowl,0.0,,,78.7,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+8241,Lokesh Bam,Lower-Order Batter,10,Insufficient (<20),0.3,13.19,13.19,0,Did Not Bowl,0.0,,,13.19,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8251,Kumar Kushagra,Lower-Order Batter,4,Insufficient (<20),0.3,9.51,9.51,0,Did Not Bowl,0.0,,,9.51,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8266,Sumit Kumar 1,Lower-Order Batter,15,Insufficient (<20),0.3,7.37,7.37,6,Insufficient (<18),0.3,17.33,17.33,7.37,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8295,Matthew Forde,Bowling All-Rounder,85,Medium (50-99),0.85,63.91,63.91,54,Medium (36-74),0.85,52.26,52.26,58.08,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8298,Ramon Simmonds,Multi-Phase Bowler,2,Insufficient (<20),0.3,13.36,13.36,12,Insufficient (<18),0.3,18.92,18.92,18.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8301,Asif Khan,Designated Finisher,83,Medium (50-99),0.85,71.82,71.82,0,Did Not Bowl,0.0,,,71.82,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+8311,Dan Mousley,Death-Overs Specialist,0,Insufficient (<20),0.3,15.7,15.7,5,Insufficient (<18),0.3,7.88,7.88,7.88,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8326,Jayden Seales,Powerplay Bowler,6,Insufficient (<20),0.3,14.04,14.04,31,Low (18-35),0.6,33.44,33.44,33.44,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8380,Mohammad Rishad Hossain,Bowling All-Rounder,133,High (100+),1.0,54.2,54.2,105,High (75+),1.0,81.16,81.16,67.68,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8388,Ahan Wickramasinghe,Middle-Order Batter,21,Low (20-49),0.6,37.44,37.44,0,Did Not Bowl,0.0,,,37.44,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8389,Jayden Lennox,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8405,Kanwarpal Tathgur,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8408,Shreyas Movva,Middle-Order Batter,33,Low (20-49),0.6,34.16,34.16,0,Did Not Bowl,0.0,,,34.16,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8424,Tanveer Sangha,Middle-Overs Enforcer,4,Insufficient (<20),0.3,14.79,14.79,12,Insufficient (<18),0.3,23.64,23.64,23.64,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8530,Kartik Tyagi,Death-Overs Specialist,16,Insufficient (<20),0.3,12.38,12.38,68,Medium (36-74),0.85,46.95,46.95,46.95,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8580,Yudhvir Singh,Powerplay Bowler,16,Insufficient (<20),0.3,13.42,13.42,12,Insufficient (<18),0.3,15.6,15.6,15.6,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8600,Tadiwanashe Marumani,Top-Order Batter,43,Low (20-49),0.6,28.21,28.21,0,Did Not Bowl,0.0,,,28.21,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8611,Adithya Ashok,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8614,William ORourke,Powerplay Bowler,0,Did Not Bat,0.0,,,23,Low (18-35),0.6,35.76,35.76,35.76,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8623,Kristian Clarke,Supporting Bowler,1,Insufficient (<20),0.3,13.4,13.4,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8632,Aaqib Khan,Death-Overs Specialist,0,Did Not Bat,0.0,,,18,Low (18-35),0.6,18.24,18.24,18.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8634,Ashwani Kumar,Middle-Overs Enforcer,6,Insufficient (<20),0.3,13.49,13.49,26,Low (18-35),0.6,11.58,11.58,11.58,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8637,Vriitya Aravind,Top-Order Batter,5,Insufficient (<20),0.3,10.92,10.92,0,Did Not Bowl,0.0,,,10.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8638,Basil Hameed,Genuine All-Rounder,70,Medium (50-99),0.85,41.01,41.01,21,Low (18-35),0.6,30.66,30.66,35.84,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8639,Kartik Meiyappan,Middle-Overs Enforcer,13,Insufficient (<20),0.3,13.56,13.56,22,Low (18-35),0.6,34.34,34.34,34.34,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8647,Sediqullah Atal,Top-Order Batter,39,Low (20-49),0.6,55.78,55.78,0,Did Not Bowl,0.0,,,55.78,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8652,Mohammad Ishaq,Middle-Order Batter,47,Low (20-49),0.6,47.95,47.95,0,Did Not Bowl,0.0,,,47.95,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8654,Cooper Connolly,Batting All-Rounder,61,Medium (50-99),0.85,80.57,80.57,6,Insufficient (<18),0.3,11.59,11.59,46.08,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+8661,Matheesha Pathirana,Death-Overs Specialist,19,Insufficient (<20),0.3,13.37,13.37,183,High (75+),1.0,58.7,58.7,58.7,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8664,Victor Nyauchi,Supporting Bowler,3,Insufficient (<20),0.3,14.76,14.76,8,Insufficient (<18),0.3,12.13,12.13,12.13,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8719,Aryan Lakra,Top-Order Batter,11,Insufficient (<20),0.3,12.06,12.06,0,Insufficient (<18),0.3,14.69,14.69,12.06,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8723,Mohammed Faraazuddin,Middle-Overs Enforcer,22,Low (20-49),0.6,23.68,23.68,6,Insufficient (<18),0.3,2.85,2.85,2.85,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8726,Alishan Sharafu,Top-Order Batter,51,Medium (50-99),0.85,67.45,67.45,0,Insufficient (<18),0.3,14.69,14.69,67.45,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8727,Sanchit Sharma,Supporting Bowler,10,Insufficient (<20),0.3,7.44,7.44,6,Insufficient (<18),0.3,7.92,7.92,7.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8729,Haider Shah,Designated Finisher,22,Low (20-49),0.6,22.39,22.39,0,Did Not Bowl,0.0,,,22.39,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8739,Muhammad Irfan,Designated Finisher,69,Medium (50-99),0.85,69.94,69.94,0,Did Not Bowl,0.0,,,69.94,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8741,Mohammad Haris,Top-Order Batter,43,Low (20-49),0.6,26.27,26.27,0,Did Not Bowl,0.0,,,26.27,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8743,Muhammad Shehzad,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8746,Vaibhav Arora,Powerplay Bowler,27,Low (20-49),0.6,17.19,17.19,106,High (75+),1.0,59.68,59.68,59.68,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+8763,Duan Jansen,Supporting Bowler,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,15.93,15.93,15.93,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8771,Rubin Hermann,Middle-Order Batter,8,Insufficient (<20),0.3,12.8,12.8,0,Did Not Bowl,0.0,,,12.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+8805,Ottneil Baartman,Multi-Phase Bowler,24,Low (20-49),0.6,10.83,10.83,31,Low (18-35),0.6,18.73,18.73,18.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15269,Mohammed Aslam,Middle-Overs Enforcer,22,Low (20-49),0.6,40.03,40.03,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15271,Usmangani Ibrahim Patel,Lower-Order Batter,8,Insufficient (<20),0.3,9.42,9.42,0,Did Not Bowl,0.0,,,9.42,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15274,Ravija Sandaruwan,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15279,Shiraz Khan,Middle-Overs Enforcer,5,Insufficient (<20),0.3,9.04,9.04,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15280,Sayed Monib,Death-Overs Specialist,15,Insufficient (<20),0.3,17.18,17.18,12,Insufficient (<18),0.3,16.74,16.74,16.74,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15303,Bilal Tahir,Lower-Order Batter,7,Insufficient (<20),0.3,18.21,18.21,0,Did Not Bowl,0.0,,,18.21,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15551,Ackeem Auguste,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+15629,Shayan Jahangir,Middle-Order Batter,28,Low (20-49),0.6,42.68,42.68,0,Did Not Bowl,0.0,,,42.68,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+16284,Habibur Rahman Sohan,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+16498,Sultan Ahmad,Powerplay Bowler,4,Insufficient (<20),0.3,12.19,12.19,24,Low (18-35),0.6,43.0,43.0,43.0,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+16559,Alexander Patmore,Lower-Order Batter,3,Insufficient (<20),0.3,15.23,15.23,0,Did Not Bowl,0.0,,,15.23,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17413,Neil Rock,Middle-Order Batter,11,Insufficient (<20),0.3,7.93,7.93,0,Did Not Bowl,0.0,,,7.93,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17419,Tim Tector,Top-Order Batter,9,Insufficient (<20),0.3,9.81,9.81,0,Did Not Bowl,0.0,,,9.81,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17424,Graham Hume,Powerplay Bowler,24,Low (20-49),0.6,39.23,39.23,39,Medium (36-74),0.85,69.92,69.92,69.92,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+17430,Conor Olphert,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17432,Ross Adair,Top-Order Batter,4,Insufficient (<20),0.3,9.46,9.46,0,Did Not Bowl,0.0,,,9.46,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17898,Bilal Sami,Death-Overs Specialist,3,Insufficient (<20),0.3,14.3,14.3,42,Medium (36-74),0.85,57.62,57.62,57.62,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+17910,Mohammad Akram,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17911,Nangeyalia Kharote,Middle-Overs Enforcer,29,Low (20-49),0.6,25.3,25.3,18,Low (18-35),0.6,40.93,40.93,40.93,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+17918,Abdullah Tarakhail,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17919,Mohammad Saleem Safi,Supporting Bowler,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,6.36,6.36,6.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+17937,Zubaid Akbari,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,12,Insufficient (<18),0.3,12.14,12.14,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19012,Zeeshan Ali,Top-Order Batter,22,Low (20-49),0.6,40.71,40.71,0,Did Not Bowl,0.0,,,40.71,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+19020,Ateeq Iqbal,Powerplay Bowler,5,Insufficient (<20),0.3,14.81,14.81,30,Low (18-35),0.6,40.69,40.69,40.69,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+19124,Anas Khan,Supporting Bowler,0,Did Not Bat,0.0,,,5,Insufficient (<18),0.3,23.44,23.44,23.44,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19125,Ayush Shukla,Powerplay Bowler,7,Insufficient (<20),0.3,11.63,11.63,29,Low (18-35),0.6,22.18,22.18,22.18,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19145,Aamer Jamal,Middle-Overs Enforcer,15,Insufficient (<20),0.3,18.01,18.01,20,Low (18-35),0.6,44.25,44.25,44.25,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+19147,Faraz Akram,Middle-Overs Enforcer,42,Low (20-49),0.6,47.68,47.68,1,Insufficient (<18),0.3,8.05,8.05,8.05,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19307,Tharindu Rathnayake,Supporting Bowler,11,Insufficient (<20),0.3,9.97,9.97,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19309,Lahiru Udara,Top-Order Batter,10,Insufficient (<20),0.3,18.15,18.15,0,Did Not Bowl,0.0,,,18.15,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19312,Nuwan Thushara,Powerplay Bowler,20,Low (20-49),0.6,23.04,23.04,128,High (75+),1.0,59.44,59.44,59.44,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+19315,Vijayakanth Viyaskanth,Middle-Overs Enforcer,11,Insufficient (<20),0.3,15.06,15.06,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19316,Maheesh Theekshana,Bowling All-Rounder,192,High (100+),1.0,35.0,35.0,265,High (75+),1.0,59.36,59.36,47.18,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+19530,Shahnawaz Dhani,Powerplay Bowler,7,Insufficient (<20),0.3,17.19,17.19,38,Medium (36-74),0.85,33.94,33.94,33.94,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+19535,Rejaur Rahman Raja,Death-Overs Specialist,6,Insufficient (<20),0.3,15.29,15.29,18,Low (18-35),0.6,20.71,20.71,20.71,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19714,Abishek Porel,Top-Order Batter,86,Medium (50-99),0.85,49.96,49.96,0,Did Not Bowl,0.0,,,49.96,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+19754,Raja Khan,Death-Overs Specialist,2,Insufficient (<20),0.3,12.93,12.93,18,Low (18-35),0.6,20.86,20.86,20.86,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19781,Mitchell Owen,Designated Finisher,38,Low (20-49),0.6,17.32,17.32,12,Insufficient (<18),0.3,9.89,9.89,17.32,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19892,Theo van Woerkom,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19894,Mitchell Hay,Designated Finisher,25,Low (20-49),0.6,50.97,50.97,0,Did Not Bowl,0.0,,,50.97,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+19902,Tim Pringle,Middle-Overs Enforcer,36,Low (20-49),0.6,43.13,43.13,12,Insufficient (<18),0.3,16.7,16.7,16.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19969,Mubasir Khan,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+19998,Rajvardhan Hangargekar,Supporting Bowler,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,21.6,21.6,21.6,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20005,Arshad Khan,Bowling All-Rounder,81,Medium (50-99),0.85,61.5,61.5,43,Medium (36-74),0.85,33.28,33.28,47.39,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+20006,Ramandeep Singh,Batting All-Rounder,177,High (100+),1.0,81.17,81.17,18,Low (18-35),0.6,31.83,31.83,56.5,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+20023,Karan Sharma,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20163,Aasif Sheikh,Top-Order Batter,3,Insufficient (<20),0.3,20.57,20.57,0,Did Not Bowl,0.0,,,20.57,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20175,Nandan Yadav,Supporting Bowler,2,Insufficient (<20),0.3,18.06,18.06,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20229,Mohammad Ali,Powerplay Bowler,1,Insufficient (<20),0.3,15.69,15.69,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20310,Ahmed Daniyal,Death-Overs Specialist,22,Low (20-49),0.6,38.94,38.94,14,Insufficient (<18),0.3,26.29,26.29,26.29,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20316,Shahab Alam,Supporting Bowler,1,Insufficient (<20),0.3,15.21,15.21,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20327,Usman Khan,Middle-Order Batter,56,Medium (50-99),0.85,63.03,63.03,0,Did Not Bowl,0.0,,,63.03,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+20693,Kuldip Yadav,Multi-Phase Bowler,0,Did Not Bat,0.0,,,3,Insufficient (<18),0.3,13.1,13.1,13.1,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20702,Tristan Stubbs,Designated Finisher,480,High (100+),1.0,100.0,100.0,6,Insufficient (<18),0.3,9.75,9.75,100.0,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+20704,Salman Mirza,Powerplay Bowler,5,Insufficient (<20),0.3,13.64,13.64,7,Insufficient (<18),0.3,12.9,12.9,12.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20802,Abdul Basith,Lower-Order Batter,1,Insufficient (<20),0.3,15.69,15.69,0,Did Not Bowl,0.0,,,15.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+20894,Aman Khan,Middle-Order Batter,84,Medium (50-99),0.85,36.3,36.3,0,Insufficient (<18),0.3,14.69,14.69,36.3,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+20989,Vivrant Sharma,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+21196,Mohammad Waheed,Supporting Bowler,1,Insufficient (<20),0.3,15.69,15.69,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+21388,Martin Coetzee,Lower-Order Batter,8,Insufficient (<20),0.3,19.73,19.73,0,Did Not Bowl,0.0,,,19.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+21777,Tafadzwa Tsiga,Lower-Order Batter,24,Low (20-49),0.6,34.71,34.71,0,Did Not Bowl,0.0,,,34.71,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+21780,Ernest Masuku,Powerplay Bowler,1,Insufficient (<20),0.3,10.4,10.4,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+21781,Clive Madande,Middle-Order Batter,160,High (100+),1.0,56.08,56.08,0,Did Not Bowl,0.0,,,56.08,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+21784,Brad Evans,Bowling All-Rounder,121,High (100+),1.0,46.19,46.19,106,High (75+),1.0,50.56,50.56,48.38,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+21786,Tanaka Chivanga,Supporting Bowler,0,Did Not Bat,0.0,,,4,Insufficient (<18),0.3,8.83,8.83,8.83,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+21790,Tashinga Musekiwa,Middle-Order Batter,163,High (100+),1.0,35.48,35.48,0,Did Not Bowl,0.0,,,35.48,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+21791,J Gumbie,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+22134,Luke Jongwe,Bowling All-Rounder,107,High (100+),1.0,41.09,41.09,125,High (75+),1.0,50.02,50.02,45.56,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+22137,Fionn Hand,Middle-Overs Enforcer,35,Low (20-49),0.6,21.9,21.9,6,Insufficient (<18),0.3,23.61,23.61,23.61,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+22187,Ryan Klein,Middle-Order Batter,51,Medium (50-99),0.85,39.22,39.22,0,Insufficient (<18),0.3,14.69,14.69,39.22,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+22188,Aryan Dutt,Powerplay Bowler,33,Low (20-49),0.6,37.79,37.79,15,Insufficient (<18),0.3,12.82,12.82,12.82,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+22471,Matthew Humphreys,Powerplay Bowler,10,Insufficient (<20),0.3,10.65,10.65,16,Insufficient (<18),0.3,24.03,24.03,24.03,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+22565,Muhammad Waseem,Top-Order Batter,13,Insufficient (<20),0.3,19.12,19.12,6,Insufficient (<18),0.3,9.32,9.32,19.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+22920,Jacob Duffy,Powerplay Bowler,27,Low (20-49),0.6,34.68,34.68,88,High (75+),1.0,67.49,67.49,67.49,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+23311,Jacob Bethell,Top-Order Batter,41,Low (20-49),0.6,48.26,48.26,12,Insufficient (<18),0.3,24.94,24.94,48.26,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+23450,Sai Sudharsan,Top-Order Batter,96,Medium (50-99),0.85,57.43,57.43,0,Did Not Bowl,0.0,,,57.43,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+23467,Gurjapneet Singh,Multi-Phase Bowler,1,Insufficient (<20),0.3,15.69,15.69,28,Low (18-35),0.6,42.18,42.18,42.18,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+24017,Brian Bennett,Batting All-Rounder,39,Low (20-49),0.6,38.63,38.63,6,Insufficient (<18),0.3,10.72,10.72,24.68,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24346,Mohamed Shafeeq,Death-Overs Specialist,6,Insufficient (<20),0.3,15.25,15.25,12,Insufficient (<18),0.3,12.95,12.95,12.95,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24372,Muzahir Raza,Powerplay Bowler,27,Low (20-49),0.6,38.38,38.38,21,Low (18-35),0.6,23.8,23.8,23.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24381,Shariz Ahmad,Supporting Bowler,7,Insufficient (<20),0.3,16.08,16.08,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24473,Sonny Baker,Powerplay Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24475,Rehan Ahmed,Middle-Overs Enforcer,27,Low (20-49),0.6,32.01,32.01,13,Insufficient (<18),0.3,15.51,15.51,15.51,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24767,Ripon Mondol,Death-Overs Specialist,9,Insufficient (<20),0.3,19.7,19.7,38,Medium (36-74),0.85,58.95,58.95,58.95,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+24779,Ijaz Ahmadzai,Designated Finisher,66,Medium (50-99),0.85,50.07,50.07,0,Insufficient (<18),0.3,14.69,14.69,50.07,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+24803,Gulshan Jha,Lower-Order Batter,9,Insufficient (<20),0.3,16.55,16.55,0,Did Not Bowl,0.0,,,16.55,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24812,Chris Greaves,Middle-Overs Enforcer,22,Low (20-49),0.6,16.6,16.6,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24887,Innocent Kaia,Top-Order Batter,28,Low (20-49),0.6,33.28,33.28,0,Insufficient (<18),0.3,14.69,14.69,33.28,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+24978,Jack Jarvis,Supporting Bowler,8,Insufficient (<20),0.3,9.07,9.07,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+24982,Charlie Tear,Lower-Order Batter,1,Insufficient (<20),0.3,12.21,12.21,0,Did Not Bowl,0.0,,,12.21,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25011,Liam Mccarthy,Middle-Overs Enforcer,24,Low (20-49),0.6,27.76,27.76,12,Insufficient (<18),0.3,14.39,14.39,14.39,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25030,Zaman Khan,Powerplay Bowler,8,Insufficient (<20),0.3,10.6,10.6,35,Low (18-35),0.6,26.74,26.74,26.74,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25048,Umran Malik,Middle-Overs Enforcer,18,Insufficient (<20),0.3,17.07,17.07,44,Medium (36-74),0.85,44.89,44.89,44.89,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+25128,Nqabayomzi Peter,Middle-Overs Enforcer,13,Insufficient (<20),0.3,18.76,18.76,12,Insufficient (<18),0.3,19.48,19.48,19.48,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25132,Praful Hinge,Death-Overs Specialist,9,Insufficient (<20),0.3,11.26,11.26,36,Medium (36-74),0.85,41.77,41.77,41.77,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+25138,Harsh Dubey,Middle-Overs Enforcer,20,Low (20-49),0.6,35.6,35.6,14,Insufficient (<18),0.3,6.92,6.92,6.92,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25139,Shubham Dubey,Designated Finisher,113,High (100+),1.0,80.84,80.84,0,Did Not Bowl,0.0,,,80.84,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+25213,Dewald Brevis,Middle-Order Batter,127,High (100+),1.0,80.75,80.75,0,Insufficient (<18),0.3,14.69,14.69,80.75,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+25216,Andile Simelane,Middle-Overs Enforcer,22,Low (20-49),0.6,32.0,32.0,17,Insufficient (<18),0.3,15.7,15.7,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25231,Samay Shrivastava,Middle-Overs Enforcer,26,Low (20-49),0.6,23.16,23.16,17,Insufficient (<18),0.3,10.15,10.15,10.15,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25341,Mahfuzur Rabby,Middle-Overs Enforcer,15,Insufficient (<20),0.3,6.58,6.58,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25353,Numan Shah,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25501,Meet Bhavsar,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25502,Adnan Idrees,Supporting Bowler,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25507,Edson Silva,Designated Finisher,23,Low (20-49),0.6,46.56,46.56,6,Insufficient (<18),0.3,17.49,17.49,46.56,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+25534,Chad Bowes,Top-Order Batter,4,Insufficient (<20),0.3,19.63,19.63,0,Did Not Bowl,0.0,,,19.63,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25669,Priyansh Arya,Top-Order Batter,14,Insufficient (<20),0.3,26.53,26.53,0,Did Not Bowl,0.0,,,26.53,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+25679,Salil Arora,Designated Finisher,56,Medium (50-99),0.85,70.26,70.26,0,Did Not Bowl,0.0,,,70.26,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+25809,Juanoy Drysdale,Middle-Overs Enforcer,2,Insufficient (<20),0.3,15.22,15.22,12,Insufficient (<18),0.3,11.18,11.18,11.18,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26514,Nimesh Vimukthi,Powerplay Bowler,4,Insufficient (<20),0.3,10.7,10.7,20,Low (18-35),0.6,33.74,33.74,33.74,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+26519,Janith Liyanage,Middle-Order Batter,46,Low (20-49),0.6,51.17,51.17,0,Insufficient (<18),0.3,14.69,14.69,51.17,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+26530,Treveen Mathew,Powerplay Bowler,12,Insufficient (<20),0.3,12.58,12.58,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26646,Rahul Chopra,Middle-Order Batter,82,Medium (50-99),0.85,43.92,43.92,0,Did Not Bowl,0.0,,,43.92,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+26663,Kwena Maphaka,Multi-Phase Bowler,25,Low (20-49),0.6,31.48,31.48,30,Low (18-35),0.6,16.79,16.79,16.79,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26795,Joel Davies,Middle-Overs Enforcer,8,Insufficient (<20),0.3,21.0,21.0,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26830,Nishant Kumar Sindhu,Designated Finisher,17,Insufficient (<20),0.3,19.2,19.2,0,Insufficient (<18),0.3,14.69,14.69,19.2,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26834,Raj Bawa,Lower-Order Batter,15,Insufficient (<20),0.3,18.36,18.36,3,Insufficient (<18),0.3,19.08,19.08,18.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26839,Haseebullah Khan,Lower-Order Batter,8,Insufficient (<20),0.3,18.17,18.17,0,Did Not Bowl,0.0,,,18.17,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26843,Maaz Sadaqat,Top-Order Batter,6,Insufficient (<20),0.3,23.93,23.93,0,Insufficient (<18),0.3,14.69,14.69,23.93,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26848,Ghazi Ghouri,Middle-Order Batter,23,Low (20-49),0.6,26.88,26.88,0,Did Not Bowl,0.0,,,26.88,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26854,SM Meherob Hasan,Middle-Overs Enforcer,43,Low (20-49),0.6,56.4,56.4,10,Insufficient (<18),0.3,22.45,22.45,22.45,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26906,Angkrish Raghuvanshi,Middle-Order Batter,56,Medium (50-99),0.85,40.38,40.38,0,Did Not Bowl,0.0,,,40.38,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+26909,Yash Dhull,Lower-Order Batter,7,Insufficient (<20),0.3,8.63,8.63,0,Did Not Bowl,0.0,,,8.63,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26913,Shaik Rasheed,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26916,Yasir Mohammad,Middle-Overs Enforcer,9,Insufficient (<20),0.3,11.68,11.68,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+26988,Jitenkumar Ramanandi,Death-Overs Specialist,14,Insufficient (<20),0.3,17.56,17.56,6,Insufficient (<18),0.3,11.62,11.62,11.62,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27004,Hassnain Shah,Middle-Overs Enforcer,5,Insufficient (<20),0.3,11.77,11.77,4,Insufficient (<18),0.3,16.46,16.46,16.46,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27059,Karan Sonavale,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27071,Vinayak Shukla,Lower-Order Batter,19,Insufficient (<20),0.3,15.88,15.88,0,Did Not Bowl,0.0,,,15.88,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27137,Hammad Mirza,Top-Order Batter,61,Medium (50-99),0.85,36.82,36.82,0,Did Not Bowl,0.0,,,36.82,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+27259,Jishan Alam,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27364,Simranjeet Kang,Middle-Overs Enforcer,9,Insufficient (<20),0.3,10.51,10.51,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27373,Muhammad Farooq,Middle-Overs Enforcer,18,Insufficient (<20),0.3,5.71,5.71,3,Insufficient (<18),0.3,22.41,22.41,22.41,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27380,Harshit Kaushik,Supporting Bowler,29,Low (20-49),0.6,15.04,15.04,12,Insufficient (<18),0.3,12.65,12.65,12.65,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27390,Matiullah Khan,Powerplay Bowler,5,Insufficient (<20),0.3,13.9,13.9,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27391,Vishnu Sukumaran,Lower-Order Batter,1,Insufficient (<20),0.3,10.4,10.4,0,Insufficient (<18),0.3,14.69,14.69,10.4,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27460,Ali Naseer,Supporting Bowler,10,Insufficient (<20),0.3,17.72,17.72,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27464,Aayan Afzal Khan,Powerplay Bowler,64,Medium (50-99),0.85,57.87,57.87,6,Insufficient (<18),0.3,14.42,14.42,14.42,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27465,Nilansh Keswani,Lower-Order Batter,9,Insufficient (<20),0.3,19.26,19.26,0,Insufficient (<18),0.3,14.69,14.69,19.26,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27466,Dhruv Parashar,Genuine All-Rounder,65,Medium (50-99),0.85,34.28,34.28,0,Insufficient (<18),0.3,14.69,14.69,24.48,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27469,Aryansh Sharma,Top-Order Batter,9,Insufficient (<20),0.3,16.35,16.35,0,Did Not Bowl,0.0,,,16.35,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27504,Dushan Hemantha,Middle-Overs Enforcer,17,Insufficient (<20),0.3,17.56,17.56,51,Medium (36-74),0.85,65.33,65.33,65.33,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+27516,Ihsanullah Ihsanullah,Multi-Phase Bowler,8,Insufficient (<20),0.3,14.92,14.92,12,Insufficient (<18),0.3,14.89,14.89,14.89,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27517,Yasir Khan,Top-Order Batter,3,Insufficient (<20),0.3,19.63,19.63,0,Did Not Bowl,0.0,,,19.63,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27743,DT Doram,Middle-Overs Enforcer,2,Insufficient (<20),0.3,18.69,18.69,11,Insufficient (<18),0.3,19.55,19.55,19.55,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27956,Prashant Solanki,Supporting Bowler,0,Did Not Bat,0.0,,,5,Insufficient (<18),0.3,20.14,20.14,20.14,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27959,Hrithik Shokeen,Middle-Overs Enforcer,20,Low (20-49),0.6,26.43,26.43,6,Insufficient (<18),0.3,8.45,8.45,8.45,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27960,Mayank Yadav,Multi-Phase Bowler,12,Insufficient (<20),0.3,11.4,11.4,33,Low (18-35),0.6,14.36,14.36,14.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27962,Saurav Chauhan,Lower-Order Batter,8,Insufficient (<20),0.3,11.58,11.58,0,Did Not Bowl,0.0,,,11.58,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+27964,Anshul Kamboj,Powerplay Bowler,51,Medium (50-99),0.85,59.9,59.9,42,Medium (36-74),0.85,30.76,30.76,30.76,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+27970,Gurnoor Brar,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28018,Ashok Sharma,Death-Overs Specialist,4,Insufficient (<20),0.3,14.32,14.32,24,Low (18-35),0.6,23.23,23.23,23.23,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28021,Saurabh Dubey,Death-Overs Specialist,2,Insufficient (<20),0.3,16.64,16.64,10,Insufficient (<18),0.3,11.72,11.72,11.72,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28185,Kamil Pooran,Top-Order Batter,5,Insufficient (<20),0.3,21.35,21.35,0,Did Not Bowl,0.0,,,21.35,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28655,Muhammad Rohid,Powerplay Bowler,1,Insufficient (<20),0.3,17.26,17.26,27,Low (18-35),0.6,23.22,23.22,23.22,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28664,Zahid Ali,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28756,Haider Ali,Powerplay Bowler,38,Low (20-49),0.6,30.69,30.69,10,Insufficient (<18),0.3,7.46,7.46,7.46,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28788,Tanish Suri,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28908,Vincent Masekesa,Supporting Bowler,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28911,John Masara,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28915,Trevor Gwandu,Powerplay Bowler,26,Low (20-49),0.6,22.52,22.52,11,Insufficient (<18),0.3,20.78,20.78,20.78,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+28967,Tim Robinson,Top-Order Batter,30,Low (20-49),0.6,55.25,55.25,0,Did Not Bowl,0.0,,,55.25,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+28970,Connor Esterhuizen,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+29066,Zakary Foulkes,Powerplay Bowler,61,Medium (50-99),0.85,60.55,60.55,42,Medium (36-74),0.85,66.37,66.37,66.37,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+29075,Aadil Ansari,Supporting Bowler,5,Insufficient (<20),0.3,19.12,19.12,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+29080,Muhammad Khan,Death-Overs Specialist,12,Insufficient (<20),0.3,14.17,14.17,15,Insufficient (<18),0.3,12.84,12.84,12.84,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+29558,Muhammad Arfan,Death-Overs Specialist,69,Medium (50-99),0.85,45.52,45.52,22,Low (18-35),0.6,20.53,20.53,20.53,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+29699,Ibrahim Takahashi,Supporting Bowler,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+29833,Bashir Ahmad,Supporting Bowler,5,Insufficient (<20),0.3,14.36,14.36,16,Insufficient (<18),0.3,16.08,16.08,16.08,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+29888,Harshit Rana,Bowling All-Rounder,125,High (100+),1.0,48.91,48.91,68,Medium (36-74),0.85,47.46,47.46,48.18,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+30925,Bradley Currie,Powerplay Bowler,9,Insufficient (<20),0.3,12.81,12.81,6,Insufficient (<18),0.3,11.96,11.96,11.96,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+30927,Saiteja Mukkamalla,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31107,Yasin Patel,Powerplay Bowler,7,Insufficient (<20),0.3,16.66,16.66,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31227,Vidhwath Kaverappa,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31513,Ethan Dsouza,Lower-Order Batter,2,Insufficient (<20),0.3,10.36,10.36,0,Insufficient (<18),0.3,14.69,14.69,10.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31518,Akshat Raghuwanshi,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31529,Robin Minz,Lower-Order Batter,10,Insufficient (<20),0.3,15.15,15.15,0,Did Not Bowl,0.0,,,15.15,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31835,Akshay Roopak Puri,Middle-Overs Enforcer,5,Insufficient (<20),0.3,12.04,12.04,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+31836,Aman Desai,Lower-Order Batter,7,Insufficient (<20),0.3,9.43,9.43,0,Did Not Bowl,0.0,,,9.43,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+32244,Tripurana Vijay,Supporting Bowler,0,Did Not Bat,0.0,,,6,Insufficient (<18),0.3,12.94,12.94,12.94,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+32399,Aaron Johnson,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+32401,Akhil Kumar,Supporting Bowler,12,Insufficient (<20),0.3,15.05,15.05,9,Insufficient (<18),0.3,15.12,15.12,15.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+32705,Faridoon Dawoodzai,Powerplay Bowler,1,Insufficient (<20),0.3,15.69,15.69,39,Medium (36-74),0.85,58.38,58.38,58.38,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+32862,Allah Ghazanfar,Powerplay Bowler,12,Insufficient (<20),0.3,14.4,14.4,69,Medium (36-74),0.85,62.7,62.7,62.7,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+33009,John Turner,Supporting Bowler,0,Did Not Bat,0.0,,,3,Insufficient (<18),0.3,19.08,19.08,19.08,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+33067,Ravichandran Smaran,Lower-Order Batter,11,Insufficient (<20),0.3,7.54,7.54,0,Did Not Bowl,0.0,,,7.54,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+33114,Milan Rathnayake,Supporting Bowler,42,Low (20-49),0.6,39.27,39.27,6,Insufficient (<18),0.3,15.73,15.73,15.73,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+33440,Adwitya Bhargava,Supporting Bowler,6,Insufficient (<20),0.3,16.2,16.2,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+33443,Sabir Ali,Powerplay Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+33675,Mohammad Naeem,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+33969,Tinotenda Maposa,Powerplay Bowler,45,Low (20-49),0.6,31.23,31.23,22,Low (18-35),0.6,25.25,25.25,25.25,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34466,Arafat Minhas,Genuine All-Rounder,66,Medium (50-99),0.85,83.09,83.09,8,Insufficient (<18),0.3,24.2,24.2,53.64,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+34485,Sufiyan Muqeem,Middle-Overs Enforcer,32,Low (20-49),0.6,25.82,25.82,68,Medium (36-74),0.85,83.09,83.09,83.09,Tier 1: Priority RR Auction Target,Tier 1: Priority RR Auction Target,True
+34522,Brandon McMullen,Top-Order Batter,12,Insufficient (<20),0.3,19.89,19.89,0,Insufficient (<18),0.3,14.69,14.69,19.89,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34527,Jasper John Davidson,Supporting Bowler,4,Insufficient (<20),0.3,15.25,15.25,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34546,Aryan Bisht,Middle-Order Batter,45,Low (20-49),0.6,20.8,20.8,0,Insufficient (<18),0.3,14.69,14.69,20.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34880,Saad Masood,Middle-Overs Enforcer,32,Low (20-49),0.6,51.91,51.91,12,Insufficient (<18),0.3,15.18,15.18,15.18,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34928,Kendel Fleming,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34929,Lachlan Lake,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+34969,Manav Suthar,Death-Overs Specialist,2,Insufficient (<20),0.3,13.36,13.36,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+35071,Kunal Rathore,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+35072,Ramakrishna Ghosh,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+35102,Zikria Islam,Designated Finisher,38,Low (20-49),0.6,43.67,43.67,0,Insufficient (<18),0.3,14.69,14.69,43.67,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+35120,Narayan Saishiv,Middle-Order Batter,4,Insufficient (<20),0.3,11.32,11.32,6,Insufficient (<18),0.3,9.82,9.82,11.32,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+35122,Shah Faisal,Death-Overs Specialist,12,Insufficient (<20),0.3,7.2,7.2,16,Insufficient (<18),0.3,12.99,12.99,12.99,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+35133,Sufyan Yousuf,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+35318,Sakib Hussain,Multi-Phase Bowler,7,Insufficient (<20),0.3,14.88,14.88,45,Medium (36-74),0.85,49.34,49.34,49.34,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+35506,Quentin Sampson,Middle-Order Batter,42,Low (20-49),0.6,35.05,35.05,0,Did Not Bowl,0.0,,,35.05,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+36153,Syed Haider,Middle-Order Batter,20,Low (20-49),0.6,39.5,39.5,0,Did Not Bowl,0.0,,,39.5,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+36551,Zishan Motara,Supporting Bowler,4,Insufficient (<20),0.3,13.29,13.29,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+36553,Jediah Blades,Powerplay Bowler,13,Insufficient (<20),0.3,12.66,12.66,6,Insufficient (<18),0.3,15.6,15.6,15.6,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+36981,Himanshu Sharma,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+36982,Suyash Sharma,Middle-Overs Enforcer,2,Insufficient (<20),0.3,12.93,12.93,48,Medium (36-74),0.85,40.34,40.34,40.34,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+36983,Mohit Rathee,Supporting Bowler,2,Insufficient (<20),0.3,15.22,15.22,10,Insufficient (<18),0.3,15.91,15.91,15.91,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+36984,Raghav Goyal,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+37052,Naman Dhir,Batting All-Rounder,213,High (100+),1.0,90.93,90.93,6,Insufficient (<18),0.3,5.65,5.65,48.29,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+37201,Jewel Andrew,Top-Order Batter,3,Insufficient (<20),0.3,9.9,9.9,0,Did Not Bowl,0.0,,,9.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+37311,Shiv Mathur,Middle-Order Batter,24,Low (20-49),0.6,21.76,21.76,0,Did Not Bowl,0.0,,,21.76,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+37572,Shafiq Jan,Death-Overs Specialist,3,Insufficient (<20),0.3,14.58,14.58,28,Low (18-35),0.6,21.54,21.54,21.54,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+37731,Musheer Khan,Supporting Bowler,3,Insufficient (<20),0.3,12.48,12.48,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+37879,Khawaja Nafay,Lower-Order Batter,4,Insufficient (<20),0.3,15.13,15.13,0,Did Not Bowl,0.0,,,15.13,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+37939,Nahid Rana,Death-Overs Specialist,5,Insufficient (<20),0.3,11.63,11.63,14,Insufficient (<18),0.3,21.3,21.3,21.3,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+38044,Mahli Beardman,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+38050,Isitha Wijesundera,Supporting Bowler,10,Insufficient (<20),0.3,12.78,12.78,4,Insufficient (<18),0.3,5.06,5.06,5.06,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+38855,Mohammad Saifuddin,Death-Overs Specialist,77,Medium (50-99),0.85,63.13,63.13,71,Medium (36-74),0.85,40.01,40.01,40.01,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+39374,Muhammad Zohaib,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+39444,Basil Hameed,Lower-Order Batter,18,Insufficient (<20),0.3,17.84,17.84,0,Insufficient (<18),0.3,14.69,14.69,17.84,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+39637,Garuka Sanketh,Death-Overs Specialist,2,Insufficient (<20),0.3,15.22,15.22,17,Insufficient (<18),0.3,13.28,13.28,13.28,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+39638,Vishen Halambage,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Insufficient (<18),0.3,14.69,14.69,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+39640,Sineth Jayawardena,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+39657,Eshan Malinga,Death-Overs Specialist,38,Low (20-49),0.6,19.28,19.28,136,High (75+),1.0,68.74,68.74,68.74,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+39991,Parveen Kumar,Middle-Overs Enforcer,1,Insufficient (<20),0.3,12.21,12.21,24,Low (18-35),0.6,56.4,56.4,56.4,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+41110,Mayank Kumar,Top-Order Batter,7,Insufficient (<20),0.3,9.03,9.03,0,Did Not Bowl,0.0,,,9.03,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+41503,Yash Punja,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,23,Low (18-35),0.6,32.6,32.6,32.6,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+41509,Yayin Rai,Lower-Order Batter,13,Insufficient (<20),0.3,19.14,19.14,0,Did Not Bowl,0.0,,,19.14,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+42548,Muhammad Jawadullah,Death-Overs Specialist,19,Insufficient (<20),0.3,13.0,13.0,30,Low (18-35),0.6,23.97,23.97,23.97,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+42810,Noah Croes,Middle-Order Batter,24,Low (20-49),0.6,41.66,41.66,0,Did Not Bowl,0.0,,,41.66,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+42811,Michael Levitt,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+42845,Arshin Kulkarni,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+43250,Dilpreet Singh Bajwa,Top-Order Batter,6,Insufficient (<20),0.3,19.64,19.64,0,Did Not Bowl,0.0,,,19.64,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+43774,Shivam Singh,Lower-Order Batter,3,Insufficient (<20),0.3,15.23,15.23,0,Did Not Bowl,0.0,,,15.23,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+43798,Lhuan Pretorius,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+43917,Krish Bhagat,Supporting Bowler,21,Low (20-49),0.6,22.55,22.55,6,Insufficient (<18),0.3,11.59,11.59,11.59,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+45381,PV Satyanarayan Raju,Supporting Bowler,1,Insufficient (<20),0.3,15.69,15.69,6,Insufficient (<18),0.3,6.36,6.36,6.36,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+45457,Zach Lion Cachet,Supporting Bowler,3,Insufficient (<20),0.3,9.48,9.48,12,Insufficient (<18),0.3,10.59,10.59,10.59,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+45749,Mukul Choudhary,Designated Finisher,76,Medium (50-99),0.85,67.87,67.87,0,Did Not Bowl,0.0,,,67.87,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+45966,Prashant Veer,Designated Finisher,67,Medium (50-99),0.85,59.3,59.3,0,Insufficient (<18),0.3,14.69,14.69,59.3,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+46066,Vipraj Nigam,Bowling All-Rounder,86,Medium (50-99),0.85,78.56,78.56,19,Low (18-35),0.6,20.6,20.6,49.58,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+46137,Kartik Sharma,Designated Finisher,34,Low (20-49),0.6,20.94,20.94,0,Did Not Bowl,0.0,,,20.94,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+46378,Kyle Klein,Powerplay Bowler,15,Insufficient (<20),0.3,8.77,8.77,11,Insufficient (<18),0.3,10.9,10.9,10.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+46929,Dian Forrester,Middle-Order Batter,20,Low (20-49),0.6,26.67,26.67,0,Insufficient (<18),0.3,14.69,14.69,26.67,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+46982,Shahid Aziz,Death-Overs Specialist,9,Insufficient (<20),0.3,16.55,16.55,7,Insufficient (<18),0.3,15.47,15.47,15.47,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+46996,Mohammad Faiq,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47017,Mohammad Jnr,Death-Overs Specialist,12,Insufficient (<20),0.3,13.93,13.93,12,Insufficient (<18),0.3,12.78,12.78,12.78,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47050,Shamar Joseph,Death-Overs Specialist,29,Low (20-49),0.6,39.2,39.2,75,High (75+),1.0,53.36,53.36,53.36,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+47314,Wafiullah Tarakhil,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47370,Aniket Verma,Designated Finisher,72,Medium (50-99),0.85,45.98,45.98,0,Did Not Bowl,0.0,,,45.98,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+47371,Zuhaid Zubair,Supporting Bowler,2,Insufficient (<20),0.3,12.93,12.93,2,Insufficient (<18),0.3,14.72,14.72,14.72,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47403,Newman Nyamhuri,Powerplay Bowler,19,Insufficient (<20),0.3,13.96,13.96,6,Insufficient (<18),0.3,21.87,21.87,21.87,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47542,Charles Hinze,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47694,Omid Rahman,Powerplay Bowler,3,Insufficient (<20),0.3,14.3,14.3,12,Insufficient (<18),0.3,21.28,21.28,21.28,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+47724,Jahandad Khan,Powerplay Bowler,17,Insufficient (<20),0.3,8.1,8.1,15,Insufficient (<18),0.3,11.14,11.14,11.14,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+48278,Ubaid Shah,Powerplay Bowler,3,Insufficient (<20),0.3,12.31,12.31,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+48504,Ayush Mhatre,Top-Order Batter,15,Insufficient (<20),0.3,13.8,13.8,0,Did Not Bowl,0.0,,,13.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+48557,Vignesh Puthur,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,8,Insufficient (<18),0.3,18.1,18.1,18.1,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+48575,Sahil Parakh,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+48616,Abdul Saqlain,Middle-Overs Enforcer,25,Low (20-49),0.6,51.16,51.16,12,Insufficient (<18),0.3,21.94,21.94,21.94,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+48953,Danish Malewar,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+49003,Hasan Nawaz,Designated Finisher,30,Low (20-49),0.6,18.39,18.39,0,Did Not Bowl,0.0,,,18.39,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+49027,Bevon Jacobs,Designated Finisher,55,Medium (50-99),0.85,55.66,55.66,0,Did Not Bowl,0.0,,,55.66,Tier 2: Core Squad Target,Tier 2: Core Squad Target,True
+49265,Ahmed Tariq,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+49268,Sohaib Khan,Top-Order Batter,18,Insufficient (<20),0.3,21.12,21.12,0,Did Not Bowl,0.0,,,21.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+50062,Nqobani Mokoena,Multi-Phase Bowler,18,Insufficient (<20),0.3,10.94,10.94,11,Insufficient (<18),0.3,11.87,11.87,11.87,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+50284,Vaibhav Sooryavanshi,Top-Order Batter,6,Insufficient (<20),0.3,21.35,21.35,0,Did Not Bowl,0.0,,,21.35,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+52338,Usman Tariq,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+54404,Benjamin Ito,Lower-Order Batter,3,Insufficient (<20),0.3,12.23,12.23,0,Insufficient (<18),0.3,14.69,14.69,12.23,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+55747,Benjamin Calitz,Designated Finisher,12,Insufficient (<20),0.3,13.37,13.37,0,Did Not Bowl,0.0,,,13.37,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+56685,Abdullah Ahmadzai,Middle-Overs Enforcer,13,Insufficient (<20),0.3,13.5,13.5,27,Low (18-35),0.6,25.24,25.24,25.24,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+56817,Shivang Kumar,Middle-Overs Enforcer,46,Low (20-49),0.6,25.3,25.3,6,Insufficient (<18),0.3,8.97,8.97,8.97,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+56830,Madhav Tiwari,Middle-Overs Enforcer,12,Insufficient (<20),0.3,16.91,16.91,9,Insufficient (<18),0.3,10.12,10.12,10.12,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+57747,Charlie Cassell,Supporting Bowler,3,Insufficient (<20),0.3,12.9,12.9,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+58134,Digvesh Rathi,Middle-Overs Enforcer,8,Insufficient (<20),0.3,11.64,11.64,35,Low (18-35),0.6,46.09,46.09,46.09,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+58135,Tejasvi Dahiya,Lower-Order Batter,3,Insufficient (<20),0.3,9.9,9.9,0,Did Not Bowl,0.0,,,9.9,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+58246,Prince Yadav,Multi-Phase Bowler,39,Low (20-49),0.6,34.15,34.15,105,High (75+),1.0,49.62,49.62,49.62,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+58727,Abhinandan Singh,Powerplay Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+59045,Jai Moondra,Death-Overs Specialist,3,Insufficient (<20),0.3,15.7,15.7,6,Insufficient (<18),0.3,19.41,19.41,19.41,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+60609,Navin Bidaisee,Middle-Overs Enforcer,19,Insufficient (<20),0.3,15.24,15.24,5,Insufficient (<18),0.3,17.8,17.8,17.8,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+60689,Zawad Abrar,Top-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+60700,Ravi Singh,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+64604,Kalhan Challu,Lower-Order Batter,11,Insufficient (<20),0.3,12.43,12.43,0,Did Not Bowl,0.0,,,12.43,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+66103,Noor Rahman,Lower-Order Batter,4,Insufficient (<20),0.3,18.71,18.71,0,Did Not Bowl,0.0,,,18.71,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+67036,Brijesh Sharma,Death-Overs Specialist,4,Insufficient (<20),0.3,14.79,14.79,65,Medium (36-74),0.85,39.92,39.92,39.92,Tier 3: Tactical / Backup Option,Tier 3: Tactical / Backup Option,True
+67864,Matt Hollard,Middle-Overs Enforcer,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+68410,Rahmatullah Zadran,Lower-Order Batter,0,Insufficient (<20),0.3,15.7,15.7,0,Did Not Bowl,0.0,,,15.7,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+69806,Mohammad Salman,Supporting Bowler,0,Did Not Bat,0.0,,,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True
+71727,Razaullah Razaullah,Supporting Bowler,1,Insufficient (<20),0.3,13.4,13.4,0,Insufficient (<18),0.3,14.69,14.69,14.69,Tier 4: Speculative / High-Risk,Tier 4: Speculative / High-Risk,True

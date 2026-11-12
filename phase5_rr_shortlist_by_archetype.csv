@@ -1,0 +1,880 @@
+player_id,player_name,tactical_archetype,distinct_matches_played,pressure_sample_size,phase_balls,confidence_tier,confidence_multiplier_w_conf,phase_exposure_share,phase_specific_metric,phase_metric_name,shrunk_pressure_metric,pressure_differential,stored_apr,composite_role_suitability_score,rr_auction_valuation_tier
+470,Mohammad Amir,Death-Overs Bowlers,7,24.0,62,Low (18-35),0.6,42.5,6.25,Death Pressure Economy,8.12,-2.95,48.4,74.09,Tier 3: Tactical / Backup Option
+8005,Zawar Farid,Death-Overs Bowlers,5,18.0,36,Low (18-35),0.6,46.2,5.0,Death Pressure Economy,8.47,-1.93,45.28,73.07,Tier 3: Tactical / Backup Option
+286,Kane Richardson,Death-Overs Bowlers,9,21.0,78,Low (18-35),0.6,39.4,6.57,Death Pressure Economy,8.34,-2.55,49.11,73.04,Tier 3: Tactical / Backup Option
+6503,Zahoor Khan,Death-Overs Bowlers,5,26.0,66,Low (18-35),0.6,55.0,7.38,Death Pressure Economy,8.54,-0.92,40.44,72.37,Tier 3: Tactical / Backup Option
+6355,Shaheen Afridi,Death-Overs Bowlers,47,122.0,274,High (75+),1.0,27.7,8.08,Death Pressure Economy,7.15,-1.29,91.38,71.42,Tier 2: Core Squad Target
+4840,Odean Smith,Death-Overs Bowlers,25,55.0,96,Medium (36-74),0.85,25.0,7.75,Death Pressure Economy,8.45,-2.53,64.4,69.43,Tier 2: Core Squad Target
+24767,Ripon Mondol,Death-Overs Bowlers,10,38.0,96,Medium (36-74),0.85,42.1,7.26,Death Pressure Economy,8.29,-0.1,58.95,69.38,Tier 2: Core Squad Target
+5750,Ehsan Khan,Death-Overs Bowlers,14,60.0,126,Medium (36-74),0.85,39.0,6.84,Death Pressure Economy,7.89,0.16,64.32,68.7,Tier 2: Core Squad Target
+6286,Shivam Mavi,Death-Overs Bowlers,12,26.0,84,Low (18-35),0.6,38.9,7.62,Death Pressure Economy,8.64,-1.54,45.26,68.19,Tier 3: Tactical / Backup Option
+4438,Jasdeep Singh,Death-Overs Bowlers,4,18.0,42,Low (18-35),0.6,46.7,7.67,Death Pressure Economy,8.81,-1.0,38.9,67.76,Tier 3: Tactical / Backup Option
+2933,Jasprit Bumrah,Death-Overs Bowlers,75,220.0,550,High (75+),1.0,32.2,7.59,Death Pressure Economy,7.67,0.63,75.01,66.64,Tier 1: Priority RR Auction Target
+5940,Riley Meredith,Death-Overs Bowlers,14,42.0,118,Medium (36-74),0.85,38.1,8.0,Death Pressure Economy,8.63,-0.62,61.35,66.59,Tier 2: Core Squad Target
+17424,Graham Hume,Death-Overs Bowlers,10,39.0,56,Medium (36-74),0.85,29.8,8.67,Death Pressure Economy,8.26,-2.51,69.92,66.59,Tier 2: Core Squad Target
+6669,Mohsin Khan,Death-Overs Bowlers,30,82.0,168,High (75+),1.0,25.7,8.49,Death Pressure Economy,8.0,-0.87,83.55,64.67,Tier 1: Priority RR Auction Target
+27504,Dushan Hemantha,Death-Overs Bowlers,8,51.0,48,Medium (36-74),0.85,25.5,7.44,Death Pressure Economy,8.02,0.18,65.33,63.51,Tier 2: Core Squad Target
+4505,Jhye Richardson,Death-Overs Bowlers,5,24.0,48,Low (18-35),0.6,40.0,7.75,Death Pressure Economy,8.72,-0.56,36.28,62.58,Tier 3: Tactical / Backup Option
+3275,Alzarri Joseph,Death-Overs Bowlers,53,221.0,390,High (75+),1.0,33.8,9.05,Death Pressure Economy,8.62,-0.9,72.37,61.49,Tier 2: Core Squad Target
+6932,Pramod Madushan,Death-Overs Bowlers,7,26.0,43,Low (18-35),0.6,29.7,7.09,Death Pressure Economy,8.54,-0.59,35.65,60.04,Tier 3: Tactical / Backup Option
+7699,Abbas Afridi,Death-Overs Bowlers,26,68.0,127,Medium (36-74),0.85,28.0,8.13,Death Pressure Economy,8.32,-0.34,57.38,59.88,Tier 2: Core Squad Target
+7920,Nathan Ellis,Death-Overs Bowlers,43,138.0,354,High (75+),1.0,38.6,8.97,Death Pressure Economy,8.56,0.51,71.32,59.46,Tier 1: Priority RR Auction Target
+4837,Obed McCoy,Death-Overs Bowlers,32,105.0,245,High (75+),1.0,38.2,9.17,Death Pressure Economy,8.9,-0.17,67.61,59.07,Tier 2: Core Squad Target
+6628,Gerald Coetzee,Death-Overs Bowlers,29,112.0,196,High (75+),1.0,33.1,9.78,Death Pressure Economy,8.24,-1.23,77.69,58.66,Tier 2: Core Squad Target
+39657,Eshan Malinga,Death-Overs Bowlers,44,136.0,297,High (75+),1.0,32.2,8.95,Death Pressure Economy,8.63,-0.18,68.74,58.44,Tier 2: Core Squad Target
+7364,Haris Rauf,Death-Overs Bowlers,48,175.0,373,High (75+),1.0,36.3,8.8,Death Pressure Economy,8.94,0.57,67.06,58.42,Tier 2: Core Squad Target
+5809,Naveen ul Haq,Death-Overs Bowlers,37,95.0,306,High (75+),1.0,38.9,9.55,Death Pressure Economy,8.71,0.01,69.27,56.69,Tier 2: Core Squad Target
+4856,Benjamin Sears,Death-Overs Bowlers,22,61.0,120,Medium (36-74),0.85,26.5,8.51,Death Pressure Economy,8.55,0.17,58.19,55.4,Tier 2: Core Squad Target
+2681,Taskin Ahmed,Death-Overs Bowlers,46,153.0,267,High (75+),1.0,25.7,9.13,Death Pressure Economy,8.13,0.2,75.48,55.17,Tier 2: Core Squad Target
+278,Tim Southee,Death-Overs Bowlers,36,122.0,256,High (75+),1.0,31.0,9.97,Death Pressure Economy,8.17,-0.29,81.9,54.78,Tier 1: Priority RR Auction Target
+3629,Corbin Bosch,Death-Overs Bowlers,20,63.0,103,Medium (36-74),0.85,28.1,8.25,Death Pressure Economy,9.22,0.97,54.11,54.34,Tier 2: Core Squad Target
+35318,Sakib Hussain,Death-Overs Bowlers,11,45.0,78,Medium (36-74),0.85,31.0,8.57,Death Pressure Economy,9.28,0.56,49.34,53.4,Tier 3: Tactical / Backup Option
+161,Dwayne Bravo,Death-Overs Bowlers,10,38.0,98,Medium (36-74),0.85,47.6,9.53,Death Pressure Economy,9.02,0.82,50.51,53.16,Tier 2: Core Squad Target
+8661,Matheesha Pathirana,Death-Overs Bowlers,54,183.0,539,High (75+),1.0,47.6,9.65,Death Pressure Economy,9.24,1.71,58.7,51.76,Tier 2: Core Squad Target
+6643,Hasan Mahmud,Death-Overs Bowlers,20,80.0,108,High (75+),1.0,27.3,9.41,Death Pressure Economy,8.5,0.79,72.18,51.35,Tier 1: Priority RR Auction Target
+830,Josh Hazlewood,Death-Overs Bowlers,65,135.0,401,High (75+),1.0,27.2,9.32,Death Pressure Economy,8.92,0.76,67.69,50.88,Tier 2: Core Squad Target
+4874,Richard Ngarava,Death-Overs Bowlers,39,217.0,292,High (75+),1.0,34.5,10.04,Death Pressure Economy,8.33,0.63,71.49,50.36,Tier 1: Priority RR Auction Target
+6515,Benjamin Lister,Death-Overs Bowlers,12,54.0,71,Medium (36-74),0.85,29.0,8.86,Death Pressure Economy,9.02,1.05,52.33,49.96,Tier 2: Core Squad Target
+4373,Mustafizur Rahman,Death-Overs Bowlers,71,308.0,634,High (75+),1.0,40.2,9.64,Death Pressure Economy,8.85,1.67,61.67,49.73,Tier 2: Core Squad Target
+6464,Arshdeep Singh,Death-Overs Bowlers,147,478.0,1085,High (75+),1.0,33.9,9.64,Death Pressure Economy,9.27,0.76,60.82,49.71,Tier 3: Tactical / Backup Option
+47050,Shamar Joseph,Death-Overs Bowlers,24,75.0,159,High (75+),1.0,33.8,9.58,Death Pressure Economy,9.63,0.37,53.36,49.37,Tier 2: Core Squad Target
+6523,Blessing Muzarabani,Death-Overs Bowlers,37,204.0,259,High (75+),1.0,31.6,9.86,Death Pressure Economy,8.28,1.15,72.74,49.14,Tier 1: Priority RR Auction Target
+4489,Prasidh Krishna,Death-Overs Bowlers,52,171.0,357,High (75+),1.0,30.4,9.86,Death Pressure Economy,9.16,0.44,65.52,49.0,Tier 2: Core Squad Target
+5441,Barry McCarthy,Death-Overs Bowlers,29,109.0,193,High (75+),1.0,31.2,10.03,Death Pressure Economy,8.7,0.41,67.37,48.72,Tier 2: Core Squad Target
+7322,Yash Dayal,Death-Overs Bowlers,43,110.0,228,High (75+),1.0,26.2,9.25,Death Pressure Economy,9.66,0.76,55.85,47.99,Tier 2: Core Squad Target
+7327,Rasikh Salam,Death-Overs Bowlers,28,72.0,176,Medium (36-74),0.85,32.5,9.48,Death Pressure Economy,9.62,0.62,46.39,47.03,Tier 3: Tactical / Backup Option
+4641,Lungi Ngidi,Death-Overs Bowlers,39,103.0,244,High (75+),1.0,30.6,9.94,Death Pressure Economy,9.33,0.82,62.74,46.69,Tier 2: Core Squad Target
+19312,Nuwan Thushara,Death-Overs Bowlers,38,128.0,228,High (75+),1.0,29.4,9.66,Death Pressure Economy,9.3,1.03,59.44,46.64,Tier 2: Core Squad Target
+3653,Avesh Khan,Death-Overs Bowlers,79,290.0,599,High (75+),1.0,35.8,10.12,Death Pressure Economy,9.83,0.77,54.42,45.66,Tier 2: Core Squad Target
+17898,Bilal Sami,Death-Overs Bowlers,7,42.0,51,Medium (36-74),0.85,36.2,10.75,Death Pressure Economy,8.71,-0.1,57.62,45.01,Tier 2: Core Squad Target
+2261,Harshal Patel,Death-Overs Bowlers,79,258.0,665,High (75+),1.0,40.5,10.25,Death Pressure Economy,9.82,1.39,52.24,44.25,Tier 3: Tactical / Backup Option
+2633,Jason Holder,Death-Overs Bowlers,88,277.0,629,High (75+),1.0,32.6,9.86,Death Pressure Economy,9.72,1.35,53.67,44.18,Tier 2: Core Squad Target
+8009,Junaid Siddique,Death-Overs Bowlers,15,56.0,144,Medium (36-74),0.85,43.6,9.68,Death Pressure Economy,9.8,2.32,42.49,44.08,Tier 3: Tactical / Backup Option
+20006,Ramandeep Singh,Death-Overs Bowlers,37,18.0,58,Low (18-35),0.6,39.2,9.67,Death Pressure Economy,9.47,1.13,31.83,43.28,Tier 2: Core Squad Target
+360,Bhuvneshwar Kumar,Death-Overs Bowlers,101,328.0,703,High (75+),1.0,31.7,9.66,Death Pressure Economy,9.51,1.84,52.12,43.27,Tier 3: Tactical / Backup Option
+5041,Mukesh Kumar,Death-Overs Bowlers,59,197.0,408,High (75+),1.0,35.5,10.3,Death Pressure Economy,10.21,0.93,51.14,43.04,Tier 2: Core Squad Target
+2399,Dushmantha Chameera,Death-Overs Bowlers,53,191.0,335,High (75+),1.0,29.1,10.33,Death Pressure Economy,9.31,0.99,62.05,42.82,Tier 2: Core Squad Target
+25132,Praful Hinge,Death-Overs Bowlers,7,36.0,54,Medium (36-74),0.85,34.6,10.0,Death Pressure Economy,10.52,0.82,41.77,42.66,Tier 3: Tactical / Backup Option
+8746,Vaibhav Arora,Death-Overs Bowlers,44,106.0,236,High (75+),1.0,26.3,10.32,Death Pressure Economy,9.65,0.67,59.68,42.15,Tier 2: Core Squad Target
+2985,Mark Wood,Death-Overs Bowlers,13,29.0,78,Low (18-35),0.6,27.8,9.1,Death Pressure Economy,9.25,1.5,34.44,42.05,Tier 3: Tactical / Backup Option
+8530,Kartik Tyagi,Death-Overs Bowlers,19,68.0,145,Medium (36-74),0.85,34.9,10.44,Death Pressure Economy,9.99,0.53,46.95,42.02,Tier 3: Tactical / Backup Option
+5379,Mark Adair,Death-Overs Bowlers,40,157.0,317,High (75+),1.0,37.5,10.51,Death Pressure Economy,9.74,2.04,54.59,39.97,Tier 2: Core Squad Target
+8049,Naseem Shah,Death-Overs Bowlers,27,75.0,168,High (75+),1.0,29.2,10.42,Death Pressure Economy,9.58,1.57,56.23,39.05,Tier 2: Core Squad Target
+38855,Mohammad Saifuddin,Death-Overs Bowlers,21,71.0,184,Medium (36-74),0.85,41.6,10.52,Death Pressure Economy,9.83,1.97,40.01,38.11,Tier 3: Tactical / Backup Option
+1487,Adam Milne,Death-Overs Bowlers,26,76.0,149,High (75+),1.0,27.3,10.92,Death Pressure Economy,9.6,0.9,60.27,38.0,Tier 2: Core Squad Target
+3298,Jofra Archer,Death-Overs Bowlers,56,189.0,353,High (75+),1.0,28.0,10.41,Death Pressure Economy,9.87,1.62,52.63,37.61,Tier 3: Tactical / Backup Option
+23467,Gurjapneet Singh,Death-Overs Bowlers,12,28.0,73,Low (18-35),0.6,30.3,11.4,Death Pressure Economy,8.46,-0.96,42.18,37.04,Tier 3: Tactical / Backup Option
+21784,Brad Evans,Death-Overs Bowlers,21,106.0,156,High (75+),1.0,35.6,10.75,Death Pressure Economy,9.98,1.95,50.56,36.87,Tier 3: Tactical / Backup Option
+4409,Sam Curran,Death-Overs Bowlers,75,226.0,426,High (75+),1.0,31.6,10.75,Death Pressure Economy,10.24,1.37,49.15,36.63,Tier 2: Core Squad Target
+58246,Prince Yadav,Death-Overs Bowlers,32,105.0,209,High (75+),1.0,29.5,10.77,Death Pressure Economy,9.97,1.61,49.62,35.07,Tier 3: Tactical / Backup Option
+4857,Nathan Smith,Death-Overs Bowlers,6,25.0,42,Low (18-35),0.6,41.2,10.8,Death Pressure Economy,9.96,1.14,24.68,34.72,Tier 4: Speculative / High-Risk
+8177,Akash Madhwal,Death-Overs Bowlers,17,84.0,136,High (75+),1.0,38.6,11.0,Death Pressure Economy,10.51,2.31,44.84,33.9,Tier 3: Tactical / Backup Option
+67036,Brijesh Sharma,Death-Overs Bowlers,13,65.0,93,Medium (36-74),0.85,34.1,10.76,Death Pressure Economy,10.18,1.85,39.92,33.82,Tier 3: Tactical / Backup Option
+7270,Anrich Nortje,Death-Overs Bowlers,39,166.0,284,High (75+),1.0,34.0,11.81,Death Pressure Economy,10.28,0.87,53.66,33.16,Tier 2: Core Squad Target
+6806,Tushar Deshpande,Death-Overs Bowlers,50,171.0,347,High (75+),1.0,33.5,11.51,Death Pressure Economy,10.35,1.35,51.46,32.97,Tier 2: Core Squad Target
+5892,Blair Tickner,Death-Overs Bowlers,11,36.0,83,Medium (36-74),0.85,38.6,11.0,Death Pressure Economy,10.19,2.15,37.45,32.52,Tier 3: Tactical / Backup Option
+4460,Jeffrey Vandersay,Death-Overs Bowlers,5,26.0,30,Low (18-35),0.6,25.0,9.43,Death Pressure Economy,9.99,3.25,20.87,32.35,Tier 4: Speculative / High-Risk
+22134,Luke Jongwe,Death-Overs Bowlers,20,125.0,138,High (75+),1.0,41.8,11.82,Death Pressure Economy,9.84,1.96,50.02,32.05,Tier 3: Tactical / Backup Option
+2411,Sandeep Sharma,Death-Overs Bowlers,43,176.0,337,High (75+),1.0,35.1,11.0,Death Pressure Economy,10.37,2.35,43.47,32.01,Tier 3: Tactical / Backup Option
+6726,Romario Shepherd,Death-Overs Bowlers,96,182.0,419,High (75+),1.0,27.2,11.06,Death Pressure Economy,10.8,1.25,43.9,31.88,Tier 2: Core Squad Target
+7696,Mohammad Wasim,Death-Overs Bowlers,17,74.0,118,Medium (36-74),0.85,33.2,11.03,Death Pressure Economy,9.83,2.24,43.12,31.32,Tier 3: Tactical / Backup Option
+1318,Andre Russell,Death-Overs Bowlers,64,152.0,281,High (75+),1.0,37.3,11.73,Death Pressure Economy,10.96,1.17,42.35,31.28,Tier 2: Core Squad Target
+4265,T Natarajan,Death-Overs Bowlers,49,204.0,442,High (75+),1.0,42.0,11.34,Death Pressure Economy,10.96,2.43,37.39,30.76,Tier 3: Tactical / Backup Option
+2334,Dwaine Pretorius,Death-Overs Bowlers,14,47.0,134,Medium (36-74),0.85,43.5,11.36,Death Pressure Economy,10.5,2.88,35.43,30.53,Tier 3: Tactical / Backup Option
+2878,Mohit Sharma,Death-Overs Bowlers,34,125.0,289,High (75+),1.0,44.5,11.47,Death Pressure Economy,11.0,2.7,36.0,30.35,Tier 3: Tactical / Backup Option
+2847,Shardul Thakur,Death-Overs Bowlers,52,149.0,337,High (75+),1.0,34.9,11.43,Death Pressure Economy,10.97,1.89,42.47,30.2,Tier 3: Tactical / Backup Option
+3664,Binura Fernando,Death-Overs Bowlers,16,39.0,90,Medium (36-74),0.85,26.3,11.0,Death Pressure Economy,9.7,1.86,43.83,30.07,Tier 3: Tactical / Backup Option
+7905,Tanzim Sakib,Death-Overs Bowlers,31,134.0,179,High (75+),1.0,26.4,11.92,Death Pressure Economy,9.5,1.23,59.64,29.83,Tier 2: Core Squad Target
+42548,Muhammad Jawadullah,Death-Overs Bowlers,13,30.0,102,Low (18-35),0.6,37.6,10.8,Death Pressure Economy,10.02,2.48,23.97,29.11,Tier 4: Speculative / High-Risk
+3641,Ben Dwarshuis,Death-Overs Bowlers,14,39.0,90,Medium (36-74),0.85,27.8,10.92,Death Pressure Economy,10.18,2.23,39.55,29.01,Tier 3: Tactical / Backup Option
+4901,Asitha Fernando,Death-Overs Bowlers,6,20.0,42,Low (18-35),0.6,35.0,11.4,Death Pressure Economy,10.1,1.44,27.27,28.0,Tier 4: Speculative / High-Risk
+7240,FazalHaq Farooqi,Death-Overs Bowlers,50,118.0,337,High (75+),1.0,32.8,11.35,Death Pressure Economy,10.64,3.51,40.23,27.52,Tier 3: Tactical / Backup Option
+2315,Reece Topley,Death-Overs Bowlers,29,86.0,173,High (75+),1.0,28.1,11.4,Death Pressure Economy,10.39,2.58,44.95,26.49,Tier 3: Tactical / Backup Option
+1758,Patrick Cummins,Death-Overs Bowlers,54,183.0,333,High (75+),1.0,27.4,11.41,Death Pressure Economy,10.56,2.23,42.11,26.23,Tier 2: Core Squad Target
+786,Chris Jordan,Death-Overs Bowlers,27,101.0,256,High (75+),1.0,46.5,12.18,Death Pressure Economy,11.44,3.33,32.67,25.59,Tier 3: Tactical / Backup Option
+4692,Lockie Ferguson,Death-Overs Bowlers,53,124.0,324,High (75+),1.0,30.1,11.68,Death Pressure Economy,11.22,3.83,39.04,23.94,Tier 3: Tactical / Backup Option
+25030,Zaman Khan,Death-Overs Bowlers,12,35.0,69,Low (18-35),0.6,29.9,11.38,Death Pressure Economy,9.74,3.38,26.74,22.77,Tier 4: Speculative / High-Risk
+3623,Hasan Ali,Death-Overs Bowlers,8,36.0,56,Medium (36-74),0.85,35.4,13.0,Death Pressure Economy,10.35,1.25,42.93,21.99,Tier 3: Tactical / Backup Option
+4201,Fareed Malik,Death-Overs Bowlers,17,67.0,82,Medium (36-74),0.85,26.6,12.42,Death Pressure Economy,10.15,1.21,40.85,21.93,Tier 3: Tactical / Backup Option
+6287,Yash Thakur,Death-Overs Bowlers,27,60.0,205,Medium (36-74),0.85,36.0,12.12,Death Pressure Economy,10.95,2.39,31.56,21.83,Tier 3: Tactical / Backup Option
+2483,Lizaad Williams,Death-Overs Bowlers,14,29.0,79,Low (18-35),0.6,30.5,11.74,Death Pressure Economy,10.45,2.03,22.89,21.07,Tier 4: Speculative / High-Risk
+37572,Shafiq Jan,Death-Overs Bowlers,3,28.0,30,Low (18-35),0.6,41.7,12.38,Death Pressure Economy,10.8,5.96,21.54,19.52,Tier 4: Speculative / High-Risk
+1389,Sean Abbott,Death-Overs Bowlers,21,37.0,130,Medium (36-74),0.85,29.4,12.16,Death Pressure Economy,10.79,3.21,35.26,19.51,Tier 3: Tactical / Backup Option
+6025,Henry Shipley,Death-Overs Bowlers,4,21.0,30,Low (18-35),0.6,38.5,12.29,Death Pressure Economy,10.45,2.5,20.66,18.62,Tier 4: Speculative / High-Risk
+6772,Chetan Sakariya,Death-Overs Bowlers,6,21.0,36,Low (18-35),0.6,27.3,11.71,Death Pressure Economy,10.23,3.33,21.74,18.28,Tier 4: Speculative / High-Risk
+20005,Arshad Khan,Death-Overs Bowlers,25,43.0,94,Medium (36-74),0.85,25.0,12.15,Death Pressure Economy,11.03,2.29,33.28,17.95,Tier 3: Tactical / Backup Option
+8805,Ottneil Baartman,Death-Overs Bowlers,16,31.0,101,Low (18-35),0.6,31.3,12.0,Death Pressure Economy,11.04,4.65,18.73,17.19,Tier 4: Speculative / High-Risk
+56685,Abdullah Ahmadzai,Death-Overs Bowlers,12,27.0,58,Low (18-35),0.6,26.0,12.0,Death Pressure Economy,10.31,2.87,25.24,16.71,Tier 4: Speculative / High-Risk
+6797,Dominic Drakes,Death-Overs Bowlers,7,24.0,42,Low (18-35),0.6,33.3,12.5,Death Pressure Economy,10.62,5.38,22.58,15.64,Tier 4: Speculative / High-Risk
+28018,Ashok Sharma,Death-Overs Bowlers,8,24.0,60,Low (18-35),0.6,34.5,12.75,Death Pressure Economy,10.72,4.27,23.23,14.6,Tier 4: Speculative / High-Risk
+1071,Jaydev Unadkat,Death-Overs Bowlers,30,70.0,149,Medium (36-74),0.85,25.9,12.56,Death Pressure Economy,10.94,2.83,31.07,14.4,Tier 3: Tactical / Backup Option
+5808,Karim Janat,Death-Overs Bowlers,31,57.0,77,Medium (36-74),0.85,29.3,13.23,Death Pressure Economy,10.08,2.17,38.68,14.17,Tier 3: Tactical / Backup Option
+6677,Mohammad Hasnain,Death-Overs Bowlers,10,39.0,66,Medium (36-74),0.85,29.7,13.09,Death Pressure Economy,10.58,3.3,38.06,14.14,Tier 3: Tactical / Backup Option
+3697,Kyle Jamieson,Death-Overs Bowlers,30,60.0,157,Medium (36-74),0.85,25.0,12.71,Death Pressure Economy,11.45,3.68,27.8,12.23,Tier 4: Speculative / High-Risk
+7201,Haroon Arshad,Death-Overs Bowlers,5,24.0,30,Low (18-35),0.6,41.7,17.5,Death Pressure Economy,11.02,3.5,20.62,11.82,Tier 4: Speculative / High-Risk
+1159,Tendai Chatara,Death-Overs Bowlers,10,29.0,67,Low (18-35),0.6,30.9,13.85,Death Pressure Economy,9.44,3.01,32.65,10.51,Tier 3: Tactical / Backup Option
+7545,Kuldeep Sen,Death-Overs Bowlers,12,31.0,61,Low (18-35),0.6,25.3,13.89,Death Pressure Economy,9.96,1.82,29.65,9.58,Tier 4: Speculative / High-Risk
+27964,Anshul Kamboj,Death-Overs Bowlers,28,42.0,143,Medium (36-74),0.85,26.2,13.33,Death Pressure Economy,11.09,3.17,30.76,9.32,Tier 3: Tactical / Backup Option
+29558,Muhammad Arfan,Death-Overs Bowlers,5,22.0,36,Low (18-35),0.6,35.3,13.5,Death Pressure Economy,10.68,6.97,20.53,9.25,Tier 4: Speculative / High-Risk
+3660,Luke Wood,Death-Overs Bowlers,17,44.0,84,Medium (36-74),0.85,25.9,13.89,Death Pressure Economy,11.19,3.7,29.61,7.77,Tier 4: Speculative / High-Risk
+2304,Tymal Mills,Death-Overs Bowlers,12,31.0,79,Low (18-35),0.6,34.5,15.29,Death Pressure Economy,12.11,5.17,13.47,7.17,Tier 4: Speculative / High-Risk
+5562,Richard Gleeson,Death-Overs Bowlers,9,18.0,62,Low (18-35),0.6,32.0,14.67,Death Pressure Economy,11.14,6.35,15.11,6.56,Tier 4: Speculative / High-Risk
+4842,Shamar Springer,Death-Overs Bowlers,11,25.0,60,Low (18-35),0.6,30.6,15.36,Death Pressure Economy,11.83,6.73,14.14,5.78,Tier 4: Speculative / High-Risk
+3285,Abu Haider,Death-Overs Bowlers,7,18.0,41,Low (18-35),0.6,27.5,17.33,Death Pressure Economy,12.03,7.71,10.74,3.69,Tier 4: Speculative / High-Risk
+2382,Jamie Overton,Death-Overs Bowlers,32,25.0,136,Low (18-35),0.6,27.4,16.91,Death Pressure Economy,12.71,9.79,9.76,3.39,Tier 3: Tactical / Backup Option
+8101,Ashutosh Sharma,Death-Overs Finishers,28,293.0,223,High (100+),1.0,64.5,197.51,Death Pressure SR,172.1,65.47,88.91,91.9,Tier 1: Priority RR Auction Target
+143,Dinesh Karthik,Death-Overs Finishers,62,418.0,429,High (100+),1.0,67.1,191.88,Death Pressure SR,179.12,46.15,92.09,91.27,Tier 1: Priority RR Auction Target
+8,Mahendra Singh Dhoni,Death-Overs Finishers,48,362.0,350,High (100+),1.0,75.6,183.84,Death Pressure SR,161.96,67.33,92.43,90.93,Tier 1: Priority RR Auction Target
+4842,Shamar Springer,Death-Overs Finishers,11,58.0,46,Medium (50-99),0.85,66.7,220.51,Death Pressure SR,163.25,70.22,75.2,90.47,Tier 4: Speculative / High-Risk
+2756,Shashank Singh,Death-Overs Finishers,45,340.0,262,High (100+),1.0,46.8,201.99,Death Pressure SR,180.34,61.04,100.0,88.71,Tier 2: Core Squad Target
+6396,Tim David,Death-Overs Finishers,98,558.0,573,High (100+),1.0,46.7,204.85,Death Pressure SR,188.05,26.22,96.78,87.89,Tier 1: Priority RR Auction Target
+4708,Rinku Singh,Death-Overs Finishers,83,567.0,596,High (100+),1.0,46.4,200.48,Death Pressure SR,176.22,47.49,93.23,86.87,Tier 1: Priority RR Auction Target
+20702,Tristan Stubbs,Death-Overs Finishers,70,480.0,367,High (100+),1.0,34.0,213.45,Death Pressure SR,171.57,44.76,100.0,83.58,Tier 1: Priority RR Auction Target
+26854,SM Meherob Hasan,Death-Overs Finishers,5,43.0,32,Low (20-49),0.6,60.4,234.62,Death Pressure SR,160.55,119.07,56.4,83.25,Tier 4: Speculative / High-Risk
+8182,Donovan Ferreira,Death-Overs Finishers,31,170.0,125,High (100+),1.0,36.4,238.16,Death Pressure SR,176.96,44.85,91.88,82.55,Tier 2: Core Squad Target
+6726,Romario Shepherd,Death-Overs Finishers,96,541.0,396,High (100+),1.0,57.6,180.8,Death Pressure SR,160.12,34.84,90.86,82.24,Tier 2: Core Squad Target
+332,Angelo Mathews,Death-Overs Finishers,9,71.0,78,Medium (50-99),0.85,52.0,195.16,Death Pressure SR,163.07,73.53,74.2,82.2,Tier 3: Tactical / Backup Option
+3916,Jitesh Sharma,Death-Overs Finishers,73,322.0,332,High (100+),1.0,37.1,203.98,Death Pressure SR,179.11,45.48,88.77,82.05,Tier 1: Priority RR Auction Target
+2533,Najibullah Zadran,Death-Overs Finishers,23,109.0,104,High (100+),1.0,34.0,216.39,Death Pressure SR,168.12,62.66,91.44,81.45,Tier 1: Priority RR Auction Target
+20006,Ramandeep Singh,Death-Overs Finishers,37,177.0,150,High (100+),1.0,52.1,189.66,Death Pressure SR,157.41,19.58,81.17,81.37,Tier 2: Core Squad Target
+3926,Rahul Tewatia,Death-Overs Finishers,58,412.0,350,High (100+),1.0,66.8,175.8,Death Pressure SR,153.1,23.77,81.09,81.23,Tier 1: Priority RR Auction Target
+4722,Rashid Khan,Death-Overs Finishers,122,443.0,335,High (100+),1.0,66.1,175.73,Death Pressure SR,159.09,37.28,79.71,80.57,Tier 1: Priority RR Auction Target
+37052,Naman Dhir,Death-Overs Finishers,47,213.0,180,High (100+),1.0,30.6,219.73,Death Pressure SR,197.84,65.65,90.93,79.96,Tier 3: Tactical / Backup Option
+38855,Mohammad Saifuddin,Death-Overs Finishers,21,77.0,43,Medium (50-99),0.85,55.1,193.02,Death Pressure SR,141.98,140.26,63.13,79.73,Tier 3: Tactical / Backup Option
+25139,Shubham Dubey,Death-Overs Finishers,17,113.0,88,High (100+),1.0,61.5,177.03,Death Pressure SR,156.64,38.62,80.84,79.62,Tier 1: Priority RR Auction Target
+5189,Faheem Ashraf,Death-Overs Finishers,37,173.0,146,High (100+),1.0,71.6,169.92,Death Pressure SR,155.75,94.44,76.86,79.47,Tier 2: Core Squad Target
+19902,Tim Pringle,Death-Overs Finishers,7,36.0,31,Low (20-49),0.6,83.8,183.33,Death Pressure SR,152.69,63.89,43.13,78.37,Tier 4: Speculative / High-Risk
+1107,Mohammad Nabi,Death-Overs Finishers,56,277.0,231,High (100+),1.0,34.8,197.87,Death Pressure SR,158.81,53.86,81.43,78.35,Tier 2: Core Squad Target
+2877,Vijay Shankar,Death-Overs Finishers,26,128.0,93,High (100+),1.0,24.1,225.93,Death Pressure SR,174.9,77.42,90.08,77.52,Tier 1: Priority RR Auction Target
+1318,Andre Russell,Death-Overs Finishers,64,428.0,337,High (100+),1.0,46.0,190.31,Death Pressure SR,172.45,11.11,86.14,77.28,Tier 2: Core Squad Target
+4229,George Linde,Death-Overs Finishers,17,106.0,67,High (100+),1.0,47.9,193.44,Death Pressure SR,158.53,12.15,75.74,77.22,Tier 1: Priority RR Auction Target
+3782,M Shahrukh Khan,Death-Overs Finishers,43,174.0,181,High (100+),1.0,44.1,185.83,Death Pressure SR,167.55,38.97,82.74,77.05,Tier 1: Priority RR Auction Target
+8295,Matthew Forde,Death-Overs Finishers,21,85.0,58,Medium (50-99),0.85,50.9,190.2,Death Pressure SR,157.27,68.16,63.91,76.97,Tier 2: Core Squad Target
+6676,Azmatullah Omarzai,Death-Overs Finishers,68,263.0,238,High (100+),1.0,35.8,195.42,Death Pressure SR,150.26,23.22,76.94,76.52,Tier 2: Core Squad Target
+7741,Gareth Delany,Death-Overs Finishers,40,175.0,154,High (100+),1.0,52.0,176.56,Death Pressure SR,155.7,72.91,84.36,76.48,Tier 2: Core Squad Target
+8301,Asif Khan,Death-Overs Finishers,13,83.0,66,Medium (50-99),0.85,33.0,213.95,Death Pressure SR,171.66,62.31,71.82,76.16,Tier 1: Priority RR Auction Target
+1077,David Miller,Death-Overs Finishers,81,630.0,496,High (100+),1.0,38.8,182.25,Death Pressure SR,164.6,33.27,94.13,76.14,Tier 1: Priority RR Auction Target
+4986,Rovman Powell,Death-Overs Finishers,100,647.0,520,High (100+),1.0,33.4,190.52,Death Pressure SR,157.43,19.93,88.16,76.14,Tier 1: Priority RR Auction Target
+2639,Marcus Stoinis,Death-Overs Finishers,94,430.0,349,High (100+),1.0,28.0,200.99,Death Pressure SR,161.1,14.43,86.04,75.62,Tier 2: Core Squad Target
+46066,Vipraj Nigam,Death-Overs Finishers,19,86.0,48,Medium (50-99),0.85,53.9,175.0,Death Pressure SR,168.61,182.56,78.56,75.1,Tier 3: Tactical / Backup Option
+7897,Namboori Tilak Varma,Death-Overs Finishers,127,727.0,554,High (100+),1.0,22.0,190.69,Death Pressure SR,156.67,20.42,96.02,74.87,Tier 1: Priority RR Auction Target
+8739,Muhammad Irfan,Death-Overs Finishers,14,69.0,68,Medium (50-99),0.85,35.8,195.24,Death Pressure SR,154.88,49.92,69.94,74.69,Tier 2: Core Squad Target
+8238,Sameer Rizvi,Death-Overs Finishers,18,91.0,65,Medium (50-99),0.85,22.2,205.0,Death Pressure SR,163.34,41.95,78.7,74.68,Tier 1: Priority RR Auction Target
+2334,Dwaine Pretorius,Death-Overs Finishers,14,42.0,42,Low (20-49),0.6,51.2,195.24,Death Pressure SR,167.73,62.74,44.35,74.46,Tier 3: Tactical / Backup Option
+2417,Akeal Hosein,Death-Overs Finishers,79,198.0,131,High (100+),1.0,58.7,174.6,Death Pressure SR,137.22,63.35,68.82,74.41,Tier 1: Priority RR Auction Target
+2680,Nurul Hasan,Death-Overs Finishers,22,152.0,113,High (100+),1.0,47.5,175.28,Death Pressure SR,142.73,38.62,84.09,74.03,Tier 1: Priority RR Auction Target
+4840,Odean Smith,Death-Overs Finishers,25,108.0,104,High (100+),1.0,78.2,157.14,Death Pressure SR,144.5,60.44,71.55,73.84,Tier 2: Core Squad Target
+796,Matthew Wade,Death-Overs Finishers,30,246.0,191,High (100+),1.0,44.7,171.84,Death Pressure SR,148.08,23.92,93.19,73.67,Tier 1: Priority RR Auction Target
+6725,Sherfane Rutherford,Death-Overs Finishers,56,399.0,296,High (100+),1.0,36.2,179.79,Death Pressure SR,165.55,36.43,88.7,72.67,Tier 1: Priority RR Auction Target
+7155,Sahan Arachchige,Death-Overs Finishers,11,53.0,55,Medium (50-99),0.85,29.1,202.94,Death Pressure SR,145.93,30.99,64.12,72.67,Tier 2: Core Squad Target
+7260,Dhruv Jurel,Death-Overs Finishers,54,282.0,283,High (100+),1.0,35.5,179.79,Death Pressure SR,167.56,31.51,89.87,72.67,Tier 1: Priority RR Auction Target
+4391,Liam Livingstone,Death-Overs Finishers,72,276.0,270,High (100+),1.0,27.2,190.26,Death Pressure SR,170.95,30.18,83.57,72.43,Tier 2: Core Squad Target
+2633,Jason Holder,Death-Overs Finishers,88,312.0,221,High (100+),1.0,49.4,174.73,Death Pressure SR,152.85,39.36,75.46,72.41,Tier 2: Core Squad Target
+5379,Mark Adair,Death-Overs Finishers,40,232.0,180,High (100+),1.0,65.0,162.75,Death Pressure SR,144.79,31.5,71.89,72.41,Tier 2: Core Squad Target
+2436,Dasun Shanaka,Death-Overs Finishers,69,388.0,323,High (100+),1.0,41.7,175.57,Death Pressure SR,161.03,47.34,85.7,72.26,Tier 2: Core Squad Target
+4686,Joshua Clarkson,Death-Overs Finishers,11,90.0,71,Medium (50-99),0.85,62.3,171.19,Death Pressure SR,142.37,41.11,60.3,72.18,Tier 2: Core Squad Target
+45749,Mukul Choudhary,Death-Overs Finishers,10,76.0,77,Medium (50-99),0.85,64.2,165.0,Death Pressure SR,154.22,51.44,67.87,72.08,Tier 2: Core Squad Target
+25679,Salil Arora,Death-Overs Finishers,11,56.0,48,Medium (50-99),0.85,49.0,176.47,Death Pressure SR,159.73,32.73,70.26,71.7,Tier 1: Priority RR Auction Target
+494,Kieron Pollard,Death-Overs Finishers,19,127.0,131,High (100+),1.0,61.8,157.55,Death Pressure SR,147.07,80.97,83.21,71.65,Tier 2: Core Squad Target
+29066,Zakary Foulkes,Death-Overs Finishers,18,61.0,55,Medium (50-99),0.85,83.3,158.18,Death Pressure SR,149.83,54.1,60.55,71.55,Tier 2: Core Squad Target
+535,Ambati Rayudu,Death-Overs Finishers,23,71.0,75,Medium (50-99),0.85,22.3,225.0,Death Pressure SR,158.11,49.94,65.35,71.34,Tier 2: Core Squad Target
+34466,Arafat Minhas,Death-Overs Finishers,8,66.0,52,Medium (50-99),0.85,43.0,173.81,Death Pressure SR,161.47,86.97,83.09,71.32,Tier 2: Core Squad Target
+4260,Heinrich Klaasen,Death-Overs Finishers,72,394.0,393,High (100+),1.0,27.7,194.48,Death Pressure SR,170.79,10.18,84.33,71.04,Tier 1: Priority RR Auction Target
+6460,Ayush Badoni,Death-Overs Finishers,62,364.0,327,High (100+),1.0,36.4,178.93,Death Pressure SR,155.87,26.39,82.85,70.9,Tier 1: Priority RR Auction Target
+2490,Mohammad Nawaz,Death-Overs Finishers,54,295.0,283,High (100+),1.0,56.9,166.51,Death Pressure SR,148.49,17.96,73.54,70.51,Tier 1: Priority RR Auction Target
+3297,Shimron Hetmyer,Death-Overs Finishers,94,515.0,487,High (100+),1.0,39.1,180.73,Death Pressure SR,158.11,13.26,82.61,70.21,Tier 1: Priority RR Auction Target
+1071,Jaydev Unadkat,Death-Overs Finishers,30,59.0,65,Medium (50-99),0.85,89.0,152.54,Death Pressure SR,148.91,109.68,64.04,69.92,Tier 3: Tactical / Backup Option
+7903,Shamim Hossain,Death-Overs Finishers,39,178.0,171,High (100+),1.0,39.0,177.78,Death Pressure SR,144.43,29.05,76.36,69.8,Tier 3: Tactical / Backup Option
+33114,Milan Rathnayake,Death-Overs Finishers,4,42.0,32,Low (20-49),0.6,61.5,196.67,Death Pressure SR,150.34,-2.86,39.27,69.38,Tier 4: Speculative / High-Risk
+4773,Jaker Ali Anik,Death-Overs Finishers,34,224.0,188,High (100+),1.0,36.7,176.98,Death Pressure SR,147.2,31.45,78.31,69.03,Tier 1: Priority RR Auction Target
+3629,Corbin Bosch,Death-Overs Finishers,20,99.0,105,Medium (50-99),0.85,75.0,151.09,Death Pressure SR,146.52,86.49,62.17,68.8,Tier 2: Core Squad Target
+2382,Jamie Overton,Death-Overs Finishers,32,120.0,94,High (100+),1.0,64.4,150.59,Death Pressure SR,151.95,74.23,78.42,68.4,Tier 3: Tactical / Backup Option
+3056,Iftikhar Ahmed,Death-Overs Finishers,35,155.0,148,High (100+),1.0,32.5,179.78,Death Pressure SR,152.35,38.17,76.9,68.25,Tier 1: Priority RR Auction Target
+6467,Anuj Rawat,Death-Overs Finishers,21,92.0,81,Medium (50-99),0.85,29.2,184.85,Death Pressure SR,150.93,54.89,72.11,67.99,Tier 1: Priority RR Auction Target
+6273,Tom Banton,Death-Overs Finishers,19,38.0,35,Low (20-49),0.6,12.8,242.86,Death Pressure SR,173.08,59.26,51.46,67.87,Tier 2: Core Squad Target
+3330,Hardik Pandya,Death-Overs Finishers,129,577.0,659,High (100+),1.0,34.3,170.7,Death Pressure SR,160.18,28.42,87.38,67.52,Tier 2: Core Squad Target
+7446,Abdul Samad,Death-Overs Finishers,41,263.0,230,High (100+),1.0,54.2,169.64,Death Pressure SR,151.86,9.13,72.63,67.29,Tier 1: Priority RR Auction Target
+7472,Shahbaz Ahmed,Death-Overs Finishers,48,230.0,183,High (100+),1.0,42.1,167.38,Death Pressure SR,143.68,39.58,77.71,66.76,Tier 3: Tactical / Backup Option
+152,Ravindra Jadeja,Death-Overs Finishers,75,517.0,481,High (100+),1.0,50.2,154.64,Death Pressure SR,149.79,33.06,86.65,66.59,Tier 2: Core Squad Target
+7808,Marco Jansen,Death-Overs Finishers,60,209.0,160,High (100+),1.0,57.8,157.58,Death Pressure SR,141.82,52.91,69.07,66.52,Tier 2: Core Squad Target
+6450,Mujeeb Ur Rahman,Death-Overs Finishers,38,64.0,56,Medium (50-99),0.85,80.0,150.0,Death Pressure SR,135.36,28.12,54.05,66.29,Tier 1: Priority RR Auction Target
+5839,Yasir Ali Chowdhury,Death-Overs Finishers,12,104.0,85,High (100+),1.0,55.6,152.11,Death Pressure SR,145.01,20.7,80.83,66.15,Tier 1: Priority RR Auction Target
+4926,Shadab Khan,Death-Overs Finishers,43,157.0,135,High (100+),1.0,40.7,181.05,Death Pressure SR,147.5,10.7,66.99,66.1,Tier 2: Core Squad Target
+1758,Patrick Cummins,Death-Overs Finishers,54,206.0,174,High (100+),1.0,70.4,153.59,Death Pressure SR,155.98,7.52,72.46,65.99,Tier 2: Core Squad Target
+4821,Mahipal Lomror,Death-Overs Finishers,27,87.0,100,Medium (50-99),0.85,45.0,168.18,Death Pressure SR,159.35,19.67,61.59,64.15,Tier 2: Core Squad Target
+4639,Wellington Masakadza,Death-Overs Finishers,30,125.0,93,High (100+),1.0,61.6,155.29,Death Pressure SR,127.61,63.11,57.05,64.03,Tier 1: Priority RR Auction Target
+1924,Sam Billings,Death-Overs Finishers,12,67.0,46,Medium (50-99),0.85,25.4,184.85,Death Pressure SR,144.71,28.11,60.34,63.52,Tier 2: Core Squad Target
+1101,George Dockrell,Death-Overs Finishers,42,246.0,223,High (100+),1.0,44.8,154.14,Death Pressure SR,156.86,45.86,82.33,63.11,Tier 2: Core Squad Target
+3281,Mosaddek Hossain,Death-Overs Finishers,12,69.0,68,Medium (50-99),0.85,60.2,151.67,Death Pressure SR,146.48,36.47,61.78,63.04,Tier 2: Core Squad Target
+1596,Moeen Ali,Death-Overs Finishers,67,229.0,198,High (100+),1.0,26.2,169.34,Death Pressure SR,166.78,42.34,83.18,62.66,Tier 2: Core Squad Target
+5738,Xavier Bartlett,Death-Overs Finishers,31,71.0,58,Medium (50-99),0.85,64.4,148.98,Death Pressure SR,134.97,49.22,54.91,61.83,Tier 2: Core Squad Target
+305,Ravichandran Ashwin,Death-Overs Finishers,61,118.0,98,High (100+),1.0,30.9,166.3,Death Pressure SR,151.97,37.49,74.04,60.9,Tier 1: Priority RR Auction Target
+7325,Harpreet Brar,Death-Overs Finishers,38,115.0,85,High (100+),1.0,62.5,145.45,Death Pressure SR,130.49,19.59,60.87,60.82,Tier 2: Core Squad Target
+6284,Anukul Roy,Death-Overs Finishers,23,51.0,39,Medium (50-99),0.85,60.9,151.28,Death Pressure SR,135.95,27.45,52.35,60.81,Tier 4: Speculative / High-Risk
+4755,Shivam Dube,Death-Overs Finishers,108,519.0,484,High (100+),1.0,31.3,166.02,Death Pressure SR,159.46,10.16,88.2,60.8,Tier 3: Tactical / Backup Option
+4494,Abhinav Manohar,Death-Overs Finishers,20,90.0,94,Medium (50-99),0.85,40.0,169.57,Death Pressure SR,139.51,20.12,51.89,60.45,Tier 2: Core Squad Target
+4409,Sam Curran,Death-Overs Finishers,75,345.0,295,High (100+),1.0,34.4,161.84,Death Pressure SR,145.4,24.65,73.66,60.21,Tier 2: Core Squad Target
+7344,Shoriful Islam,Death-Overs Finishers,39,54.0,60,Medium (50-99),0.85,75.9,138.3,Death Pressure SR,134.92,41.93,49.66,59.99,Tier 1: Priority RR Auction Target
+20005,Arshad Khan,Death-Overs Finishers,25,81.0,63,Medium (50-99),0.85,63.6,148.39,Death Pressure SR,148.33,11.73,61.5,59.79,Tier 3: Tactical / Backup Option
+4823,Washington Sundar,Death-Overs Finishers,65,288.0,309,High (100+),1.0,48.5,154.73,Death Pressure SR,147.13,14.05,70.93,59.78,Tier 2: Core Squad Target
+3550,Sharafuddin Ashraf,Death-Overs Finishers,11,26.0,30,Low (20-49),0.6,78.9,142.31,Death Pressure SR,143.83,75.64,39.72,59.29,Tier 2: Core Squad Target
+6160,Chamika Karunaratne,Death-Overs Finishers,21,116.0,126,High (100+),1.0,82.9,128.3,Death Pressure SR,127.3,75.39,63.66,59.05,Tier 3: Tactical / Backup Option
+19147,Faraz Akram,Death-Overs Finishers,6,42.0,39,Low (20-49),0.6,70.9,138.89,Death Pressure SR,153.6,64.29,47.68,58.12,Tier 4: Speculative / High-Risk
+27964,Anshul Kamboj,Death-Overs Finishers,28,51.0,48,Medium (50-99),0.85,85.7,127.91,Death Pressure SR,144.86,105.1,59.9,57.94,Tier 3: Tactical / Backup Option
+7364,Haris Rauf,Death-Overs Finishers,48,103.0,90,High (100+),1.0,86.5,130.0,Death Pressure SR,127.66,19.42,56.59,57.82,Tier 2: Core Squad Target
+6526,Himmat Singh,Death-Overs Finishers,5,45.0,39,Low (20-49),0.6,56.5,156.25,Death Pressure SR,142.43,19.17,39.83,57.81,Tier 3: Tactical / Backup Option
+3986,Matthew Renshaw,Death-Overs Finishers,6,20.0,30,Low (20-49),0.6,27.8,175.0,Death Pressure SR,146.16,35.23,49.28,57.32,Tier 3: Tactical / Backup Option
+8652,Mohammad Ishaq,Death-Overs Finishers,13,47.0,43,Low (20-49),0.6,32.3,170.83,Death Pressure SR,151.87,57.24,47.95,56.96,Tier 3: Tactical / Backup Option
+1813,Deepak Chahar,Death-Overs Finishers,48,65.0,48,Medium (50-99),0.85,73.8,145.83,Death Pressure SR,144.62,0.0,54.01,56.47,Tier 2: Core Squad Target
+3628,Kagiso Rabada,Death-Overs Finishers,69,121.0,112,High (100+),1.0,79.4,124.0,Death Pressure SR,132.34,57.27,59.94,56.21,Tier 2: Core Squad Target
+4106,Daryl Mitchell,Death-Overs Finishers,69,279.0,242,High (100+),1.0,21.0,164.57,Death Pressure SR,153.9,13.88,75.06,55.72,Tier 1: Priority RR Auction Target
+3578,Imad Wasim,Death-Overs Finishers,14,93.0,70,Medium (50-99),0.85,43.5,150.0,Death Pressure SR,140.08,37.63,61.71,55.6,Tier 2: Core Squad Target
+2526,Ish Sodhi,Death-Overs Finishers,59,117.0,116,High (100+),1.0,87.2,124.77,Death Pressure SR,126.53,56.3,55.87,55.53,Tier 3: Tactical / Backup Option
+6161,Rahul Chahar,Death-Overs Finishers,42,85.0,79,Medium (50-99),0.85,83.2,128.0,Death Pressure SR,127.64,97.65,48.83,55.21,Tier 2: Core Squad Target
+403,Umesh Yadav,Death-Overs Finishers,29,81.0,79,Medium (50-99),0.85,87.8,126.03,Death Pressure SR,131.54,56.79,52.28,55.19,Tier 3: Tactical / Backup Option
+3673,Ramesh Mendis,Death-Overs Finishers,11,40.0,45,Low (20-49),0.6,69.2,139.47,Death Pressure SR,139.24,52.5,34.84,54.5,Tier 3: Tactical / Backup Option
+2876,Axar Patel,Death-Overs Finishers,143,746.0,529,High (100+),1.0,41.4,152.07,Death Pressure SR,142.88,12.18,68.7,54.48,Tier 2: Core Squad Target
+4101,Mitchell Santner,Death-Overs Finishers,83,328.0,244,High (100+),1.0,45.2,148.39,Death Pressure SR,132.89,12.7,65.73,53.83,Tier 2: Core Squad Target
+6398,Aaron Hardie,Death-Overs Finishers,16,75.0,52,Medium (50-99),0.85,36.6,158.82,Death Pressure SR,137.85,13.93,57.46,53.43,Tier 3: Tactical / Backup Option
+3323,Jimmy Neesham,Death-Overs Finishers,47,245.0,161,High (100+),1.0,38.2,149.18,Death Pressure SR,141.8,15.08,68.17,52.91,Tier 3: Tactical / Backup Option
+4662,Cole McConchie,Death-Overs Finishers,10,55.0,41,Medium (50-99),0.85,42.3,141.67,Death Pressure SR,145.06,69.26,64.02,51.99,Tier 3: Tactical / Backup Option
+6643,Hasan Mahmud,Death-Overs Finishers,20,41.0,41,Low (20-49),0.6,89.1,123.68,Death Pressure SR,132.21,77.07,41.44,51.44,Tier 1: Priority RR Auction Target
+6628,Gerald Coetzee,Death-Overs Finishers,29,76.0,61,Medium (50-99),0.85,59.2,132.08,Death Pressure SR,136.76,20.47,50.55,51.14,Tier 2: Core Squad Target
+7699,Abbas Afridi,Death-Overs Finishers,26,87.0,70,Medium (50-99),0.85,59.3,130.51,Death Pressure SR,137.45,43.01,52.5,50.97,Tier 2: Core Squad Target
+499,Shakib Al Hasan,Death-Overs Finishers,18,98.0,102,Medium (50-99),0.85,31.2,164.15,Death Pressure SR,142.11,3.7,60.35,50.52,Tier 2: Core Squad Target
+2214,Gulbadin Naib,Death-Overs Finishers,18,63.0,67,Medium (50-99),0.85,33.2,143.4,Death Pressure SR,149.83,37.42,69.12,50.39,Tier 2: Core Squad Target
+6881,Scott Edwards,Death-Overs Finishers,12,57.0,45,Medium (50-99),0.85,25.6,154.29,Death Pressure SR,144.22,18.65,63.37,50.25,Tier 2: Core Squad Target
+7905,Tanzim Sakib,Death-Overs Finishers,31,150.0,93,High (100+),1.0,57.1,126.14,Death Pressure SR,124.15,63.48,60.1,50.02,Tier 2: Core Squad Target
+4219,Krunal Pandya,Death-Overs Finishers,74,252.0,194,High (100+),1.0,29.6,152.11,Death Pressure SR,136.86,12.05,69.02,49.82,Tier 2: Core Squad Target
+786,Chris Jordan,Death-Overs Finishers,27,101.0,93,High (100+),1.0,72.1,128.05,Death Pressure SR,130.67,5.9,51.19,49.37,Tier 3: Tactical / Backup Option
+22134,Luke Jongwe,Death-Overs Finishers,20,107.0,77,High (100+),1.0,62.1,162.69,Death Pressure SR,130.13,-17.82,41.09,49.35,Tier 3: Tactical / Backup Option
+22920,Jacob Duffy,Death-Overs Finishers,42,27.0,30,Low (20-49),0.6,96.8,122.22,Death Pressure SR,136.77,97.22,34.68,49.1,Tier 2: Core Squad Target
+6518,Daniel Sams,Death-Overs Finishers,17,48.0,44,Low (20-49),0.6,58.7,136.11,Death Pressure SR,139.09,37.03,34.23,48.63,Tier 3: Tactical / Backup Option
+8049,Naseem Shah,Death-Overs Finishers,27,36.0,38,Low (20-49),0.6,77.6,121.88,Death Pressure SR,131.76,75.43,31.72,48.21,Tier 2: Core Squad Target
+3275,Alzarri Joseph,Death-Overs Finishers,53,127.0,117,High (100+),1.0,90.0,90.35,Death Pressure SR,109.78,29.39,51.83,47.96,Tier 2: Core Squad Target
+27464,Aayan Afzal Khan,Death-Overs Finishers,7,64.0,38,Medium (50-99),0.85,55.9,123.53,Death Pressure SR,132.73,73.44,57.87,47.83,Tier 4: Speculative / High-Risk
+1487,Adam Milne,Death-Overs Finishers,26,46.0,43,Low (20-49),0.6,76.8,121.62,Death Pressure SR,127.41,78.7,30.23,47.72,Tier 2: Core Squad Target
+5441,Barry McCarthy,Death-Overs Finishers,29,98.0,75,Medium (50-99),0.85,67.0,138.89,Death Pressure SR,129.94,1.02,40.11,47.54,Tier 2: Core Squad Target
+2320,Trent Boult,Death-Overs Finishers,70,67.0,65,Medium (50-99),0.85,82.3,132.76,Death Pressure SR,132.75,-1.12,40.79,47.39,Tier 2: Core Squad Target
+21781,Clive Madande,Death-Overs Finishers,23,160.0,106,High (100+),1.0,35.6,141.43,Death Pressure SR,119.2,19.95,56.08,47.2,Tier 2: Core Squad Target
+7503,Ravi Bishnoi,Death-Overs Finishers,109,104.0,80,High (100+),1.0,76.2,106.33,Death Pressure SR,113.19,98.08,48.25,47.06,Tier 2: Core Squad Target
+29558,Muhammad Arfan,Death-Overs Finishers,5,69.0,53,Medium (50-99),0.85,76.8,128.3,Death Pressure SR,125.47,0.0,45.52,47.01,Tier 4: Speculative / High-Risk
+4874,Richard Ngarava,Death-Overs Finishers,39,60.0,51,Medium (50-99),0.85,82.3,112.0,Death Pressure SR,119.37,98.33,42.1,46.41,Tier 1: Priority RR Auction Target
+24475,Rehan Ahmed,Death-Overs Finishers,11,27.0,36,Low (20-49),0.6,80.0,125.93,Death Pressure SR,138.07,9.26,32.01,46.06,Tier 4: Speculative / High-Risk
+7967,Noor Ahmad,Death-Overs Finishers,70,104.0,87,High (100+),1.0,76.3,101.23,Death Pressure SR,105.4,66.54,43.8,45.95,Tier 2: Core Squad Target
+2681,Taskin Ahmed,Death-Overs Finishers,46,84.0,74,Medium (50-99),0.85,80.4,121.13,Death Pressure SR,129.34,7.74,41.74,45.78,Tier 2: Core Squad Target
+3298,Jofra Archer,Death-Overs Finishers,56,131.0,96,High (100+),1.0,66.2,138.46,Death Pressure SR,132.77,-7.47,46.53,45.46,Tier 3: Tactical / Backup Option
+360,Bhuvneshwar Kumar,Death-Overs Finishers,101,159.0,125,High (100+),1.0,74.0,95.0,Death Pressure SR,103.97,51.19,42.98,45.33,Tier 3: Tactical / Backup Option
+2399,Dushmantha Chameera,Death-Overs Finishers,53,90.0,94,Medium (50-99),0.85,94.0,101.16,Death Pressure SR,115.22,68.89,40.09,45.02,Tier 2: Core Squad Target
+3653,Avesh Khan,Death-Overs Finishers,79,53.0,45,Medium (50-99),0.85,78.9,141.46,Death Pressure SR,145.93,-52.83,43.96,44.97,Tier 2: Core Squad Target
+5750,Ehsan Khan,Death-Overs Finishers,14,33.0,32,Low (20-49),0.6,97.0,131.25,Death Pressure SR,137.72,0.0,30.04,44.45,Tier 2: Core Squad Target
+3697,Kyle Jamieson,Death-Overs Finishers,30,55.0,43,Medium (50-99),0.85,63.2,115.0,Death Pressure SR,126.01,62.94,46.94,44.25,Tier 4: Speculative / High-Risk
+5837,Mahedi Hasan,Death-Overs Finishers,42,150.0,100,High (100+),1.0,39.5,145.57,Death Pressure SR,117.16,8.0,47.76,44.06,Tier 2: Core Squad Target
+47370,Aniket Verma,Death-Overs Finishers,20,72.0,77,Medium (50-99),0.85,39.3,169.39,Death Pressure SR,146.98,-19.13,45.98,43.93,Tier 3: Tactical / Backup Option
+3276,Gudakesh Motie,Death-Overs Finishers,39,100.0,80,High (100+),1.0,55.2,154.69,Death Pressure SR,136.87,-18.11,44.87,43.86,Tier 3: Tactical / Backup Option
+5809,Naveen ul Haq,Death-Overs Finishers,37,65.0,56,Medium (50-99),0.85,83.6,77.78,Death Pressure SR,104.62,23.85,35.14,43.78,Tier 2: Core Squad Target
+25138,Harsh Dubey,Death-Overs Finishers,15,20.0,30,Low (20-49),0.6,43.5,140.0,Death Pressure SR,143.3,17.55,35.6,43.71,Tier 4: Speculative / High-Risk
+19316,Maheesh Theekshana,Death-Overs Finishers,99,192.0,152,High (100+),1.0,74.9,62.59,Death Pressure SR,81.12,28.22,35.0,43.7,Tier 3: Tactical / Backup Option
+7059,Nehal Wadhera,Death-Overs Finishers,45,199.0,113,High (100+),1.0,16.6,146.67,Death Pressure SR,141.49,9.64,64.68,43.58,Tier 2: Core Squad Target
+26519,Janith Liyanage,Death-Overs Finishers,10,46.0,49,Low (20-49),0.6,36.0,135.48,Death Pressure SR,148.24,56.61,51.17,43.53,Tier 2: Core Squad Target
+6512,Michael Bracewell,Death-Overs Finishers,45,157.0,143,High (100+),1.0,40.9,151.82,Death Pressure SR,135.41,-4.31,50.38,43.41,Tier 3: Tactical / Backup Option
+22187,Ryan Klein,Death-Overs Finishers,6,51.0,47,Medium (50-99),0.85,72.3,139.02,Death Pressure SR,131.99,-16.1,39.22,43.09,Tier 3: Tactical / Backup Option
+2892,Asif Ali,Death-Overs Finishers,13,41.0,53,Low (20-49),0.6,67.9,146.88,Death Pressure SR,138.81,-11.53,24.68,42.92,Tier 4: Speculative / High-Risk
+1219,David Willey,Death-Overs Finishers,19,78.0,37,Medium (50-99),0.85,37.8,127.78,Death Pressure SR,122.9,48.97,59.09,42.78,Tier 3: Tactical / Backup Option
+28756,Haider Ali,Death-Overs Finishers,12,38.0,37,Low (20-49),0.6,94.9,108.11,Death Pressure SR,128.76,107.89,30.69,42.67,Tier 4: Speculative / High-Risk
+278,Tim Southee,Death-Overs Finishers,36,48.0,41,Low (20-49),0.6,80.4,97.56,Death Pressure SR,124.81,70.84,29.33,42.33,Tier 1: Priority RR Auction Target
+1171,Chris Woakes,Death-Overs Finishers,11,46.0,44,Low (20-49),0.6,91.7,97.73,Death Pressure SR,121.16,95.65,29.02,42.26,Tier 4: Speculative / High-Risk
+8009,Junaid Siddique,Death-Overs Finishers,15,35.0,35,Low (20-49),0.6,92.1,88.57,Death Pressure SR,121.54,88.57,28.21,42.05,Tier 3: Tactical / Backup Option
+6523,Blessing Muzarabani,Death-Overs Finishers,37,36.0,36,Low (20-49),0.6,83.7,94.12,Death Pressure SR,121.29,74.6,28.13,42.03,Tier 1: Priority RR Auction Target
+5944,Mohammed Siraj,Death-Overs Finishers,83,69.0,62,Medium (50-99),0.85,86.1,86.44,Death Pressure SR,107.83,14.49,34.16,41.47,Tier 3: Tactical / Backup Option
+21784,Brad Evans,Death-Overs Finishers,21,121.0,86,High (100+),1.0,71.1,118.6,Death Pressure SR,127.08,0.0,46.19,41.3,Tier 3: Tactical / Backup Option
+6355,Shaheen Afridi,Death-Overs Finishers,47,147.0,121,High (100+),1.0,66.1,129.2,Death Pressure SR,127.57,-6.01,44.18,41.27,Tier 2: Core Squad Target
+7270,Anrich Nortje,Death-Overs Finishers,39,63.0,59,Medium (50-99),0.85,88.1,96.36,Death Pressure SR,112.66,12.3,35.57,41.0,Tier 2: Core Squad Target
+6256,Varun Chakravarthy,Death-Overs Finishers,95,40.0,39,Low (20-49),0.6,79.6,60.61,Death Pressure SR,108.12,51.39,23.61,40.9,Tier 2: Core Squad Target
+7920,Nathan Ellis,Death-Overs Finishers,43,42.0,45,Low (20-49),0.6,78.9,64.29,Death Pressure SR,107.95,30.96,23.55,40.89,Tier 1: Priority RR Auction Target
+45966,Prashant Veer,Death-Overs Finishers,6,67.0,39,Medium (50-99),0.85,58.2,120.51,Death Pressure SR,138.73,0.0,59.3,40.28,Tier 2: Core Squad Target
+1617,Rishi Dhawan,Death-Overs Finishers,12,45.0,32,Low (20-49),0.6,61.5,155.56,Death Pressure SR,124.54,-54.92,19.98,39.86,Tier 4: Speculative / High-Risk
+8040,Ripal Patel,Death-Overs Finishers,5,39.0,35,Low (20-49),0.6,76.1,130.3,Death Pressure SR,132.94,-10.62,28.09,39.56,Tier 4: Speculative / High-Risk
+2847,Shardul Thakur,Death-Overs Finishers,52,175.0,143,High (100+),1.0,66.2,137.21,Death Pressure SR,135.25,-23.53,42.29,39.15,Tier 3: Tactical / Backup Option
+5808,Karim Janat,Death-Overs Finishers,31,126.0,96,High (100+),1.0,30.1,140.98,Death Pressure SR,125.74,6.85,52.27,38.94,Tier 3: Tactical / Backup Option
+7052,Dunith Wellalage,Death-Overs Finishers,16,88.0,63,Medium (50-99),0.85,46.0,134.69,Death Pressure SR,127.04,-1.32,41.34,36.71,Tier 3: Tactical / Backup Option
+29888,Harshit Rana,Death-Overs Finishers,45,125.0,73,High (100+),1.0,49.7,116.9,Death Pressure SR,120.18,10.4,48.91,36.56,Tier 3: Tactical / Backup Option
+8380,Mohammad Rishad Hossain,Death-Overs Finishers,49,133.0,76,High (100+),1.0,46.1,110.45,Death Pressure SR,125.31,18.05,54.2,36.44,Tier 2: Core Squad Target
+1566,Mohammed Shami,Death-Overs Finishers,57,46.0,45,Low (20-49),0.6,97.8,115.56,Death Pressure SR,130.53,0.0,25.3,36.3,Tier 1: Priority RR Auction Target
+7709,Ainsley Ndlovu,Death-Overs Finishers,5,32.0,32,Low (20-49),0.6,100.0,87.5,Death Pressure SR,122.33,0.0,34.53,36.13,Tier 4: Speculative / High-Risk
+4641,Lungi Ngidi,Death-Overs Finishers,39,62.0,53,Medium (50-99),0.85,85.5,88.68,Death Pressure SR,110.99,0.0,34.4,36.1,Tier 2: Core Squad Target
+4373,Mustafizur Rahman,Death-Overs Finishers,71,59.0,59,Medium (50-99),0.85,100.0,86.44,Death Pressure SR,113.13,0.0,31.13,35.28,Tier 2: Core Squad Target
+20894,Aman Khan,Death-Overs Finishers,10,84.0,41,Medium (50-99),0.85,39.4,142.42,Death Pressure SR,122.62,-5.48,36.3,34.7,Tier 3: Tactical / Backup Option
+3383,Kinchit Shah,Death-Overs Finishers,11,47.0,33,Low (20-49),0.6,30.6,127.59,Death Pressure SR,140.53,55.84,37.59,34.44,Tier 3: Tactical / Backup Option
+34485,Sufiyan Muqeem,Death-Overs Finishers,25,32.0,32,Low (20-49),0.6,100.0,103.12,Death Pressure SR,128.43,0.0,25.82,33.96,Tier 1: Priority RR Auction Target
+49027,Bevon Jacobs,Death-Overs Finishers,12,55.0,46,Medium (50-99),0.85,24.3,133.33,Death Pressure SR,146.96,5.06,55.66,33.68,Tier 2: Core Squad Target
+4837,Obed McCoy,Death-Overs Finishers,32,43.0,41,Low (20-49),0.6,95.3,92.68,Death Pressure SR,118.61,0.0,23.03,33.26,Tier 2: Core Squad Target
+4856,Benjamin Sears,Death-Overs Finishers,22,33.0,33,Low (20-49),0.6,100.0,69.7,Death Pressure SR,114.84,0.0,21.76,32.94,Tier 2: Core Squad Target
+4499,Saqib Mahmood,Death-Overs Finishers,11,33.0,33,Low (20-49),0.6,100.0,75.76,Death Pressure SR,117.24,0.0,20.74,32.68,Tier 4: Speculative / High-Risk
+2636,Adam Zampa,Death-Overs Finishers,52,47.0,42,Low (20-49),0.6,80.8,65.0,Death Pressure SR,104.44,1.7,16.86,32.35,Tier 1: Priority RR Auction Target
+39657,Eshan Malinga,Death-Overs Finishers,44,38.0,34,Low (20-49),0.6,89.5,73.53,Death Pressure SR,111.72,0.0,19.28,32.32,Tier 2: Core Squad Target
+7240,FazalHaq Farooqi,Death-Overs Finishers,50,45.0,35,Low (20-49),0.6,77.8,40.0,Death Pressure SR,92.96,0.0,15.83,31.46,Tier 3: Tactical / Backup Option
+479,Adil Rashid,Death-Overs Finishers,61,112.0,93,High (100+),1.0,78.2,98.89,Death Pressure SR,115.01,-12.5,33.04,31.07,Tier 3: Tactical / Backup Option
+49003,Hasan Nawaz,Death-Overs Finishers,27,30.0,61,Low (20-49),0.6,18.8,168.75,Death Pressure SR,127.89,-57.48,18.39,30.71,Tier 4: Speculative / High-Risk
+7625,Suryansh Shedge,Death-Overs Finishers,13,53.0,40,Medium (50-99),0.85,35.7,136.0,Death Pressure SR,146.91,-10.26,44.74,30.68,Tier 3: Tactical / Backup Option
+4974,Mohammad Nadeem,Death-Overs Finishers,5,35.0,34,Low (20-49),0.6,42.5,110.0,Death Pressure SR,126.25,24.44,31.3,29.83,Tier 3: Tactical / Backup Option
+2261,Harshal Patel,Death-Overs Finishers,79,135.0,104,High (100+),1.0,71.7,104.95,Death Pressure SR,114.76,-16.3,31.0,27.83,Tier 3: Tactical / Backup Option
+3689,Mark Watt,Death-Overs Finishers,6,47.0,37,Low (20-49),0.6,63.8,125.0,Death Pressure SR,127.13,-18.76,18.89,27.37,Tier 4: Speculative / High-Risk
+2972,Yasim Murtaza,Death-Overs Finishers,14,81.0,68,Medium (50-99),0.85,26.4,134.69,Death Pressure SR,125.43,-5.06,37.84,26.58,Tier 3: Tactical / Backup Option
+6464,Arshdeep Singh,Death-Overs Finishers,147,119.0,123,High (100+),1.0,93.2,95.58,Death Pressure SR,109.06,-36.65,25.89,26.47,Tier 3: Tactical / Backup Option
+3644,Kuldeep Yadav,Death-Overs Finishers,90,176.0,172,High (100+),1.0,85.6,80.12,Death Pressure SR,91.29,-15.86,17.81,26.0,Tier 3: Tactical / Backup Option
+6436,Qais Ahmad,Death-Overs Finishers,10,30.0,33,Low (20-49),0.6,97.1,110.0,Death Pressure SR,131.64,-40.0,22.96,25.74,Tier 1: Priority RR Auction Target
+1389,Sean Abbott,Death-Overs Finishers,21,32.0,34,Low (20-49),0.6,91.9,110.34,Death Pressure SR,128.43,-36.88,18.58,24.8,Tier 3: Tactical / Backup Option
+829,Mitchell Starc,Death-Overs Finishers,40,28.0,30,Low (20-49),0.6,100.0,71.43,Death Pressure SR,118.35,-28.57,15.12,23.78,Tier 2: Core Squad Target
+3641,Ben Dwarshuis,Death-Overs Finishers,14,58.0,35,Medium (50-99),0.85,50.0,90.32,Death Pressure SR,110.47,-2.3,28.39,23.74,Tier 3: Tactical / Backup Option
+21790,Tashinga Musekiwa,Death-Overs Finishers,21,163.0,94,High (100+),1.0,45.2,122.54,Death Pressure SR,121.27,-17.0,35.48,23.65,Tier 3: Tactical / Backup Option
+8638,Basil Hameed,Death-Overs Finishers,9,70.0,43,Medium (50-99),0.85,30.9,113.51,Death Pressure SR,120.26,4.31,41.01,23.3,Tier 3: Tactical / Backup Option
+4900,Wanindu Hasaranga,Death-Overs Finishers,91,263.0,211,High (100+),1.0,45.1,125.0,Death Pressure SR,117.67,-27.94,30.81,22.4,Tier 2: Core Squad Target
+27466,Dhruv Parashar,Death-Overs Finishers,11,65.0,30,Medium (50-99),0.85,30.6,110.0,Death Pressure SR,109.84,10.35,34.28,22.2,Tier 4: Speculative / High-Risk
+1944,Keshav Maharaj,Death-Overs Finishers,30,75.0,57,Medium (50-99),0.85,63.3,113.46,Death Pressure SR,109.85,-20.0,20.48,21.99,Tier 4: Speculative / High-Risk
+4658,Nasum Ahmed,Death-Overs Finishers,30,58.0,32,Medium (50-99),0.85,41.0,91.3,Death Pressure SR,115.11,-5.34,29.26,19.22,Tier 3: Tactical / Backup Option
+3543,Shahidullah Kamal,Death-Overs Finishers,8,34.0,34,Low (20-49),0.6,35.1,129.41,Death Pressure SR,122.99,-21.52,16.71,16.82,Tier 4: Speculative / High-Risk
+4111,Khushdil Shah,Death-Overs Finishers,20,89.0,57,Medium (50-99),0.85,27.7,92.31,Death Pressure SR,103.11,-39.88,17.21,5.37,Tier 4: Speculative / High-Risk
+46137,Kartik Sharma,Death-Overs Finishers,11,34.0,44,Low (20-49),0.6,20.4,81.82,Death Pressure SR,133.71,-22.46,20.94,5.24,Tier 4: Speculative / High-Risk
+1699,Suryakumar Yadav,Middle-Order Batters,139,457.0,1744,High (100+),1.0,63.2,193.95,Middle Pressure SR,182.51,24.4,94.05,88.83,Tier 1: Priority RR Auction Target
+3374,Mark Chapman,Middle-Order Batters,53,187.0,544,High (100+),1.0,62.3,211.11,Middle Pressure SR,157.1,20.49,91.33,87.75,Tier 1: Priority RR Auction Target
+8238,Sameer Rizvi,Middle-Order Batters,18,91.0,196,Medium (50-99),0.85,66.9,170.45,Middle Pressure SR,163.34,41.95,78.7,86.63,Tier 1: Priority RR Auction Target
+4703,Rishabh Pant,Middle-Order Batters,73,170.0,767,High (100+),1.0,61.9,175.41,Middle Pressure SR,177.42,50.95,86.27,86.3,Tier 1: Priority RR Auction Target
+3125,Nicholas Pooran,Middle-Order Batters,115,490.0,1134,High (100+),1.0,57.5,162.32,Middle Pressure SR,179.13,34.0,99.34,86.08,Tier 1: Priority RR Auction Target
+3647,Shreyas Iyer,Middle-Order Batters,98,253.0,1122,High (100+),1.0,60.2,188.75,Middle Pressure SR,188.55,51.01,88.04,85.97,Tier 1: Priority RR Auction Target
+4246,Nitish Rana,Middle-Order Batters,50,140.0,527,High (100+),1.0,61.2,185.71,Middle Pressure SR,157.53,19.14,87.08,85.87,Tier 2: Core Squad Target
+1077,David Miller,Middle-Order Batters,81,630.0,715,High (100+),1.0,55.9,166.67,Middle Pressure SR,164.6,33.27,94.13,85.58,Tier 1: Priority RR Auction Target
+25213,Dewald Brevis,Middle-Order Batters,40,127.0,409,High (100+),1.0,64.9,169.64,Middle Pressure SR,160.63,17.63,80.75,85.37,Tier 1: Priority RR Auction Target
+4391,Liam Livingstone,Middle-Order Batters,72,276.0,601,High (100+),1.0,60.5,168.63,Middle Pressure SR,170.95,30.18,83.57,84.99,Tier 2: Core Squad Target
+8221,Nitish Reddy,Middle-Order Batters,52,161.0,418,High (100+),1.0,62.2,164.1,Middle Pressure SR,161.76,21.87,81.89,84.83,Tier 3: Tactical / Backup Option
+3415,Matthew Cross,Middle-Order Batters,5,27.0,90,Low (20-49),0.6,81.8,183.33,Middle Pressure SR,149.76,52.03,42.61,84.24,Tier 3: Tactical / Backup Option
+2756,Shashank Singh,Middle-Order Batters,45,340.0,273,High (100+),1.0,48.8,165.12,Middle Pressure SR,180.34,61.04,100.0,83.89,Tier 2: Core Squad Target
+6423,Riyan Parag,Middle-Order Batters,72,250.0,684,High (100+),1.0,63.1,177.22,Middle Pressure SR,161.44,17.32,78.14,83.8,Tier 2: Core Squad Target
+3916,Jitesh Sharma,Middle-Order Batters,73,322.0,539,High (100+),1.0,60.3,160.71,Middle Pressure SR,179.11,45.48,88.77,83.76,Tier 1: Priority RR Auction Target
+7894,Tony Munyonga,Middle-Order Batters,13,51.0,99,Medium (50-99),0.85,70.2,163.16,Middle Pressure SR,140.9,37.25,64.77,83.57,Tier 2: Core Squad Target
+4260,Heinrich Klaasen,Middle-Order Batters,72,394.0,921,High (100+),1.0,65.0,177.44,Middle Pressure SR,170.79,10.18,84.33,83.51,Tier 1: Priority RR Auction Target
+1596,Moeen Ali,Middle-Order Batters,67,229.0,429,High (100+),1.0,56.8,178.75,Middle Pressure SR,166.78,42.34,83.18,83.27,Tier 2: Core Squad Target
+2485,Babar Azam,Middle-Order Batters,52,103.0,553,High (100+),1.0,46.8,181.25,Middle Pressure SR,179.29,68.94,100.0,83.03,Tier 1: Priority RR Auction Target
+20327,Usman Khan,Middle-Order Batters,23,56.0,207,Medium (50-99),0.85,64.5,200.0,Middle Pressure SR,152.18,43.84,63.03,81.64,Tier 2: Core Squad Target
+4755,Shivam Dube,Middle-Order Batters,108,519.0,1028,High (100+),1.0,66.6,158.7,Middle Pressure SR,159.46,10.16,88.2,81.57,Tier 3: Tactical / Backup Option
+1101,George Dockrell,Middle-Order Batters,42,246.0,264,High (100+),1.0,53.0,173.53,Middle Pressure SR,156.86,45.86,82.33,81.37,Tier 2: Core Squad Target
+7059,Nehal Wadhera,Middle-Order Batters,45,199.0,517,High (100+),1.0,75.8,160.0,Middle Pressure SR,141.49,9.64,64.68,80.34,Tier 2: Core Squad Target
+6288,Shubman Gill,Middle-Order Batters,112,140.0,1145,High (100+),1.0,42.2,179.45,Middle Pressure SR,163.85,22.48,96.73,80.18,Tier 1: Priority RR Auction Target
+6725,Sherfane Rutherford,Middle-Order Batters,56,399.0,457,High (100+),1.0,55.9,157.58,Middle Pressure SR,165.55,36.43,88.7,79.99,Tier 1: Priority RR Auction Target
+7094,Curtis Campher,Middle-Order Batters,39,163.0,387,High (100+),1.0,73.6,150.68,Middle Pressure SR,139.11,25.3,72.5,79.86,Tier 2: Core Squad Target
+4106,Daryl Mitchell,Middle-Order Batters,69,279.0,675,High (100+),1.0,58.7,165.26,Middle Pressure SR,153.9,13.88,75.06,79.78,Tier 1: Priority RR Auction Target
+34466,Arafat Minhas,Middle-Order Batters,8,66.0,59,Medium (50-99),0.85,48.8,207.14,Middle Pressure SR,161.47,86.97,83.09,79.67,Tier 2: Core Squad Target
+768,Reeza Hendricks,Middle-Order Batters,34,112.0,342,High (100+),1.0,41.0,192.54,Middle Pressure SR,171.8,43.13,96.94,79.66,Tier 1: Priority RR Auction Target
+8301,Asif Khan,Middle-Order Batters,13,83.0,121,Medium (50-99),0.85,60.5,160.0,Middle Pressure SR,171.66,62.31,71.82,79.21,Tier 1: Priority RR Auction Target
+37052,Naman Dhir,Middle-Order Batters,47,213.0,253,High (100+),1.0,43.0,194.0,Middle Pressure SR,197.84,65.65,90.93,79.05,Tier 3: Tactical / Backup Option
+7338,Haider Ali,Middle-Order Batters,12,30.0,87,Low (20-49),0.6,71.9,158.82,Middle Pressure SR,160.39,87.77,52.51,78.77,Tier 2: Core Squad Target
+26519,Janith Liyanage,Middle-Order Batters,10,46.0,87,Low (20-49),0.6,64.0,186.67,Middle Pressure SR,148.24,56.61,51.17,78.45,Tier 2: Core Squad Target
+20702,Tristan Stubbs,Middle-Order Batters,70,480.0,617,High (100+),1.0,57.1,148.89,Middle Pressure SR,171.57,44.76,100.0,78.38,Tier 1: Priority RR Auction Target
+813,Jos Buttler,Middle-Order Batters,121,170.0,1236,High (100+),1.0,43.7,174.39,Middle Pressure SR,178.78,35.57,86.46,78.26,Tier 1: Priority RR Auction Target
+3782,M Shahrukh Khan,Middle-Order Batters,43,174.0,213,High (100+),1.0,52.0,160.0,Middle Pressure SR,167.55,38.97,82.74,78.14,Tier 1: Priority RR Auction Target
+2258,Sanju Samson,Middle-Order Batters,124,144.0,1092,High (100+),1.0,48.9,192.86,Middle Pressure SR,163.56,16.6,81.18,77.99,Tier 1: Priority RR Auction Target
+1481,Kusal Perera,Middle-Order Batters,32,43.0,368,Low (20-49),0.6,64.8,180.0,Middle Pressure SR,157.32,38.95,46.45,77.63,Tier 3: Tactical / Backup Option
+25679,Salil Arora,Middle-Order Batters,11,56.0,49,Medium (50-99),0.85,50.0,166.67,Middle Pressure SR,159.73,32.73,70.26,77.01,Tier 1: Priority RR Auction Target
+2877,Vijay Shankar,Middle-Order Batters,26,128.0,199,High (100+),1.0,51.6,154.55,Middle Pressure SR,174.9,77.42,90.08,76.68,Tier 1: Priority RR Auction Target
+535,Ambati Rayudu,Middle-Order Batters,23,71.0,212,Medium (50-99),0.85,62.9,156.52,Middle Pressure SR,158.11,49.94,65.35,76.67,Tier 2: Core Squad Target
+2984,Sikandar Raza,Middle-Order Batters,57,301.0,628,High (100+),1.0,62.7,148.21,Middle Pressure SR,157.92,35.17,84.0,76.48,Tier 1: Priority RR Auction Target
+8182,Donovan Ferreira,Middle-Order Batters,31,170.0,196,High (100+),1.0,57.1,147.22,Middle Pressure SR,176.96,44.85,91.88,75.43,Tier 2: Core Squad Target
+7260,Dhruv Jurel,Middle-Order Batters,54,282.0,421,High (100+),1.0,52.8,150.67,Middle Pressure SR,167.56,31.51,89.87,74.95,Tier 1: Priority RR Auction Target
+6273,Tom Banton,Middle-Order Batters,19,38.0,153,Low (20-49),0.6,55.8,261.54,Middle Pressure SR,173.08,59.26,51.46,74.9,Tier 2: Core Squad Target
+3669,Sadeera Samarawickrama,Middle-Order Batters,8,25.0,100,Low (20-49),0.6,61.3,400.0,Middle Pressure SR,147.08,35.33,40.97,74.73,Tier 3: Tactical / Backup Option
+4821,Mahipal Lomror,Middle-Order Batters,27,87.0,109,Medium (50-99),0.85,49.1,175.0,Middle Pressure SR,159.35,19.67,61.59,74.32,Tier 2: Core Squad Target
+7897,Namboori Tilak Varma,Middle-Order Batters,127,727.0,1548,High (100+),1.0,61.6,139.92,Middle Pressure SR,156.67,20.42,96.02,74.25,Tier 1: Priority RR Auction Target
+3330,Hardik Pandya,Middle-Order Batters,129,577.0,1064,High (100+),1.0,55.3,148.15,Middle Pressure SR,160.18,28.42,87.38,74.02,Tier 2: Core Squad Target
+2214,Gulbadin Naib,Middle-Order Batters,18,63.0,87,Medium (50-99),0.85,43.1,285.71,Middle Pressure SR,149.83,37.42,69.12,73.64,Tier 2: Core Squad Target
+6651,Towhid Hridoy,Middle-Order Batters,53,186.0,623,High (100+),1.0,62.4,139.58,Middle Pressure SR,149.29,30.34,91.29,73.26,Tier 1: Priority RR Auction Target
+1318,Andre Russell,Middle-Order Batters,64,428.0,396,High (100+),1.0,54.0,153.53,Middle Pressure SR,172.45,11.11,86.14,72.88,Tier 2: Core Squad Target
+6396,Tim David,Middle-Order Batters,98,558.0,592,High (100+),1.0,48.3,145.83,Middle Pressure SR,188.05,26.22,96.78,71.92,Tier 1: Priority RR Auction Target
+4662,Cole McConchie,Middle-Order Batters,10,55.0,56,Medium (50-99),0.85,57.7,152.63,Middle Pressure SR,145.06,69.26,64.02,71.82,Tier 3: Tactical / Backup Option
+4853,Glenn Phillips,Middle-Order Batters,57,169.0,665,High (100+),1.0,60.8,145.95,Middle Pressure SR,158.59,16.62,78.66,71.77,Tier 3: Tactical / Backup Option
+6671,Lalit Yadav,Middle-Order Batters,18,117.0,133,High (100+),1.0,61.3,149.06,Middle Pressure SR,131.93,37.5,65.29,71.68,Tier 3: Tactical / Backup Option
+49027,Bevon Jacobs,Middle-Order Batters,12,55.0,124,Medium (50-99),0.85,65.6,158.33,Middle Pressure SR,146.96,5.06,55.66,70.88,Tier 2: Core Squad Target
+8647,Sediqullah Atal,Middle-Order Batters,38,39.0,362,Low (20-49),0.6,44.0,300.0,Middle Pressure SR,163.27,61.64,55.78,70.74,Tier 2: Core Squad Target
+4369,Shai Hope,Middle-Order Batters,58,63.0,483,Medium (50-99),0.85,43.7,160.0,Middle Pressure SR,162.22,33.96,67.23,70.6,Tier 2: Core Squad Target
+8408,Shreyas Movva,Middle-Order Batters,4,33.0,54,Low (20-49),0.6,65.9,166.67,Middle Pressure SR,136.52,7.91,34.16,70.5,Tier 3: Tactical / Backup Option
+930,Karun Nair,Middle-Order Batters,12,20.0,73,Low (20-49),0.6,48.3,206.67,Middle Pressure SR,151.87,18.85,45.14,69.56,Tier 3: Tactical / Backup Option
+4117,Ishan Kishan,Middle-Order Batters,122,106.0,1011,High (100+),1.0,41.9,148.39,Middle Pressure SR,174.56,44.25,92.04,69.38,Tier 1: Priority RR Auction Target
+2436,Dasun Shanaka,Middle-Order Batters,69,388.0,445,High (100+),1.0,57.5,138.84,Middle Pressure SR,161.03,47.34,85.7,69.25,Tier 2: Core Squad Target
+223,Steven Smith,Middle-Order Batters,13,30.0,85,Low (20-49),0.6,46.2,233.33,Middle Pressure SR,152.89,51.73,44.7,68.93,Tier 3: Tactical / Backup Option
+35506,Quentin Sampson,Middle-Order Batters,4,42.0,40,Low (20-49),0.6,80.0,142.86,Middle Pressure SR,136.21,88.69,35.05,68.89,Tier 3: Tactical / Backup Option
+1941,Devon Conway,Middle-Order Batters,61,32.0,638,Low (20-49),0.6,42.9,179.17,Middle Pressure SR,154.04,37.11,50.08,68.82,Tier 2: Core Squad Target
+8726,Alishan Sharafu,Middle-Order Batters,14,51.0,117,Medium (50-99),0.85,44.3,156.25,Middle Pressure SR,151.79,44.27,67.45,68.78,Tier 2: Core Squad Target
+3383,Kinchit Shah,Middle-Order Batters,11,47.0,50,Low (20-49),0.6,46.3,183.33,Middle Pressure SR,140.53,55.84,37.59,67.2,Tier 3: Tactical / Backup Option
+2671,Liton Das,Middle-Order Batters,61,39.0,469,Low (20-49),0.6,41.2,219.05,Middle Pressure SR,168.89,69.82,45.61,66.93,Tier 3: Tactical / Backup Option
+4986,Rovman Powell,Middle-Order Batters,100,647.0,919,High (100+),1.0,58.9,132.58,Middle Pressure SR,157.43,19.93,88.16,66.91,Tier 1: Priority RR Auction Target
+953,Lokesh Rahul,Middle-Order Batters,74,183.0,876,High (100+),1.0,43.5,157.58,Middle Pressure SR,149.92,11.09,71.05,66.73,Tier 1: Priority RR Auction Target
+2921,Fakhar Zaman,Middle-Order Batters,47,88.0,442,Medium (50-99),0.85,51.2,145.45,Middle Pressure SR,161.09,43.48,71.21,66.62,Tier 1: Priority RR Auction Target
+3024,Mohammad Rizwan,Middle-Order Batters,37,97.0,489,Medium (50-99),0.85,42.4,147.06,Middle Pressure SR,160.76,45.56,83.09,66.61,Tier 1: Priority RR Auction Target
+3605,Aiden Markram,Middle-Order Batters,95,217.0,832,High (100+),1.0,49.8,139.44,Middle Pressure SR,160.42,23.92,87.12,66.51,Tier 2: Core Squad Target
+6272,William Jacks,Middle-Order Batters,62,59.0,317,Medium (50-99),0.85,45.5,152.0,Middle Pressure SR,162.67,30.63,64.99,66.25,Tier 2: Core Squad Target
+4867,Wesley Madhevere,Middle-Order Batters,30,70.0,190,Medium (50-99),0.85,44.5,155.17,Middle Pressure SR,140.26,42.18,58.06,65.9,Tier 3: Tactical / Backup Option
+7406,Rizwan CP,Middle-Order Batters,4,46.0,65,Low (20-49),0.6,63.7,141.67,Middle Pressure SR,145.12,54.58,51.3,65.04,Tier 2: Core Squad Target
+7544,Venkatesh Iyer,Middle-Order Batters,55,195.0,433,High (100+),1.0,45.9,150.0,Middle Pressure SR,154.0,10.15,74.49,63.99,Tier 1: Priority RR Auction Target
+6922,Abdul Samad,Middle-Order Batters,9,55.0,79,Medium (50-99),0.85,78.2,120.59,Middle Pressure SR,145.06,43.28,68.83,63.82,Tier 2: Core Squad Target
+2003,Bhanuka Rajapaksa,Middle-Order Batters,31,96.0,263,Medium (50-99),0.85,62.5,136.0,Middle Pressure SR,146.79,14.38,67.71,63.24,Tier 2: Core Squad Target
+3297,Shimron Hetmyer,Middle-Order Batters,94,515.0,609,High (100+),1.0,48.9,140.45,Middle Pressure SR,158.11,13.26,82.61,63.06,Tier 1: Priority RR Auction Target
+3323,Jimmy Neesham,Middle-Order Batters,47,245.0,257,High (100+),1.0,61.0,135.83,Middle Pressure SR,141.8,15.08,68.17,62.88,Tier 3: Tactical / Backup Option
+6280,Harry Brook,Middle-Order Batters,56,98.0,501,Medium (50-99),0.85,56.4,163.41,Middle Pressure SR,151.56,-9.75,49.39,62.55,Tier 3: Tactical / Backup Option
+6985,Bas de Leede,Middle-Order Batters,5,54.0,94,Medium (50-99),0.85,57.7,133.33,Middle Pressure SR,135.88,20.44,69.4,62.11,Tier 2: Core Squad Target
+2379,Ben Duckett,Middle-Order Batters,20,28.0,187,Low (20-49),0.6,55.5,250.0,Middle Pressure SR,146.55,-4.05,34.15,61.4,Tier 3: Tactical / Backup Option
+5939,Cameron Green,Middle-Order Batters,65,194.0,582,High (100+),1.0,54.3,144.23,Middle Pressure SR,152.59,2.25,73.55,61.21,Tier 2: Core Squad Target
+3056,Iftikhar Ahmed,Middle-Order Batters,35,155.0,266,High (100+),1.0,58.5,125.42,Middle Pressure SR,152.35,38.17,76.9,59.81,Tier 1: Priority RR Auction Target
+2463,Ryan Burl,Middle-Order Batters,42,310.0,475,High (100+),1.0,67.3,117.12,Middle Pressure SR,135.36,23.26,78.4,59.36,Tier 2: Core Squad Target
+2639,Marcus Stoinis,Middle-Order Batters,94,430.0,706,High (100+),1.0,56.6,125.6,Middle Pressure SR,161.1,14.43,86.04,59.29,Tier 2: Core Squad Target
+1205,Jonny Bairstow,Middle-Order Batters,33,76.0,298,Medium (50-99),0.85,44.3,181.63,Middle Pressure SR,143.11,-8.48,51.57,59.11,Tier 2: Core Squad Target
+7978,Johnathan Campbell,Middle-Order Batters,9,37.0,70,Low (20-49),0.6,69.3,134.78,Middle Pressure SR,139.44,16.81,34.81,58.26,Tier 3: Tactical / Backup Option
+4823,Washington Sundar,Middle-Order Batters,65,288.0,306,High (100+),1.0,48.0,136.14,Middle Pressure SR,147.13,14.05,70.93,57.58,Tier 2: Core Squad Target
+2533,Najibullah Zadran,Middle-Order Batters,23,109.0,182,High (100+),1.0,59.5,114.29,Middle Pressure SR,168.12,62.66,91.44,57.54,Tier 1: Priority RR Auction Target
+152,Ravindra Jadeja,Middle-Order Batters,75,517.0,412,High (100+),1.0,43.0,128.95,Middle Pressure SR,149.79,33.06,86.65,57.4,Tier 2: Core Squad Target
+6664,Dion Myers,Middle-Order Batters,20,58.0,151,Medium (50-99),0.85,44.4,138.46,Middle Pressure SR,140.11,37.98,61.45,57.16,Tier 2: Core Squad Target
+6460,Ayush Badoni,Middle-Order Batters,62,364.0,469,High (100+),1.0,52.2,122.55,Middle Pressure SR,155.87,26.39,82.85,56.86,Tier 1: Priority RR Auction Target
+6726,Romario Shepherd,Middle-Order Batters,96,541.0,289,High (100+),1.0,42.1,126.84,Middle Pressure SR,160.12,34.84,90.86,56.83,Tier 2: Core Squad Target
+2930,Rassie van der Dussen,Middle-Order Batters,20,106.0,179,High (100+),1.0,57.6,116.67,Middle Pressure SR,151.48,44.96,86.3,56.76,Tier 1: Priority RR Auction Target
+3097,Shan Masood,Middle-Order Batters,10,53.0,103,Medium (50-99),0.85,58.5,122.73,Middle Pressure SR,141.08,18.23,72.26,56.48,Tier 1: Priority RR Auction Target
+1107,Mohammad Nabi,Middle-Order Batters,56,277.0,365,High (100+),1.0,55.1,119.57,Middle Pressure SR,158.81,53.86,81.43,56.09,Tier 2: Core Squad Target
+2876,Axar Patel,Middle-Order Batters,143,746.0,651,High (100+),1.0,50.9,133.19,Middle Pressure SR,142.88,12.18,68.7,55.91,Tier 2: Core Squad Target
+3377,Babar Hayat,Middle-Order Batters,14,68.0,212,Medium (50-99),0.85,55.8,127.27,Middle Pressure SR,144.33,31.3,60.27,55.53,Tier 2: Core Squad Target
+6448,Ibrahim Zadran,Middle-Order Batters,47,134.0,475,High (100+),1.0,42.2,128.57,Middle Pressure SR,135.5,16.97,84.48,55.14,Tier 1: Priority RR Auction Target
+838,Glenn Maxwell,Middle-Order Batters,78,186.0,599,High (100+),1.0,62.5,126.83,Middle Pressure SR,159.45,3.08,72.95,55.09,Tier 3: Tactical / Backup Option
+8085,Suyash Prabhudessai,Middle-Order Batters,10,57.0,74,Medium (50-99),0.85,69.8,138.46,Middle Pressure SR,130.2,-2.87,42.11,55.04,Tier 3: Tactical / Backup Option
+7625,Suryansh Shedge,Middle-Order Batters,13,53.0,63,Medium (50-99),0.85,56.2,152.63,Middle Pressure SR,146.91,-10.26,44.74,54.99,Tier 3: Tactical / Backup Option
+3280,Nazmul Hossain Shanto,Middle-Order Batters,28,49.0,254,Low (20-49),0.6,49.8,140.0,Middle Pressure SR,137.69,18.68,41.11,54.85,Tier 3: Tactical / Backup Option
+4229,George Linde,Middle-Order Batters,17,106.0,72,High (100+),1.0,51.4,127.27,Middle Pressure SR,158.53,12.15,75.74,54.51,Tier 1: Priority RR Auction Target
+5039,Rajat Patidar,Middle-Order Batters,48,126.0,603,High (100+),1.0,65.7,123.08,Middle Pressure SR,162.11,1.37,76.07,54.49,Tier 1: Priority RR Auction Target
+2633,Jason Holder,Middle-Order Batters,88,312.0,202,High (100+),1.0,45.2,126.83,Middle Pressure SR,152.85,39.36,75.46,54.36,Tier 2: Core Squad Target
+3648,Deepak Hooda,Middle-Order Batters,58,190.0,482,High (100+),1.0,60.5,133.75,Middle Pressure SR,137.21,3.3,57.0,54.23,Tier 3: Tactical / Backup Option
+23450,Sai Sudharsan,Middle-Order Batters,57,96.0,800,Medium (50-99),0.85,47.4,141.07,Middle Pressure SR,151.58,6.4,57.43,53.89,Tier 2: Core Squad Target
+6881,Scott Edwards,Middle-Order Batters,12,57.0,107,Medium (50-99),0.85,60.8,120.0,Middle Pressure SR,144.22,18.65,63.37,53.86,Tier 2: Core Squad Target
+4409,Sam Curran,Middle-Order Batters,75,345.0,478,High (100+),1.0,55.7,117.76,Middle Pressure SR,145.4,24.65,73.66,53.4,Tier 2: Core Squad Target
+4219,Krunal Pandya,Middle-Order Batters,74,252.0,401,High (100+),1.0,61.1,120.69,Middle Pressure SR,136.86,12.05,69.02,53.34,Tier 2: Core Squad Target
+305,Ravichandran Ashwin,Middle-Order Batters,61,118.0,172,High (100+),1.0,54.3,118.18,Middle Pressure SR,151.97,37.49,74.04,53.09,Tier 1: Priority RR Auction Target
+2687,Roston Chase,Middle-Order Batters,47,185.0,323,High (100+),1.0,63.2,112.31,Middle Pressure SR,134.6,18.39,72.78,52.8,Tier 2: Core Squad Target
+4695,Nick Kelly,Middle-Order Batters,7,21.0,62,Low (20-49),0.6,70.5,128.57,Middle Pressure SR,137.06,11.59,31.01,52.32,Tier 3: Tactical / Backup Option
+19894,Mitchell Hay,Middle-Order Batters,9,25.0,47,Low (20-49),0.6,69.1,114.29,Middle Pressure SR,160.42,101.3,50.97,51.71,Tier 2: Core Squad Target
+8380,Mohammad Rishad Hossain,Middle-Order Batters,49,133.0,89,High (100+),1.0,53.9,125.76,Middle Pressure SR,125.31,18.05,54.2,51.59,Tier 2: Core Squad Target
+7002,Nicholas Kirton,Middle-Order Batters,4,22.0,58,Low (20-49),0.6,53.2,129.74,Middle Pressure SR,144.88,32.81,42.71,51.4,Tier 3: Tactical / Backup Option
+5882,Afif Hossain,Middle-Order Batters,20,82.0,231,Medium (50-99),0.85,64.0,120.0,Middle Pressure SR,137.36,15.37,52.4,51.31,Tier 2: Core Squad Target
+4708,Rinku Singh,Middle-Order Batters,83,567.0,621,High (100+),1.0,48.4,111.22,Middle Pressure SR,176.22,47.49,93.23,51.29,Tier 1: Priority RR Auction Target
+4773,Jaker Ali Anik,Middle-Order Batters,34,224.0,308,High (100+),1.0,60.2,108.45,Middle Pressure SR,147.2,31.45,78.31,51.22,Tier 1: Priority RR Auction Target
+3986,Matthew Renshaw,Middle-Order Batters,6,20.0,52,Low (20-49),0.6,48.1,129.74,Middle Pressure SR,146.16,35.23,49.28,50.79,Tier 3: Tactical / Backup Option
+4812,Harry Tector,Middle-Order Batters,46,156.0,420,High (100+),1.0,50.7,112.5,Middle Pressure SR,155.0,44.04,83.42,50.62,Tier 2: Core Squad Target
+7472,Shahbaz Ahmed,Middle-Order Batters,48,230.0,235,High (100+),1.0,54.0,112.35,Middle Pressure SR,143.68,39.58,77.71,50.57,Tier 3: Tactical / Backup Option
+4736,Josh Inglis,Middle-Order Batters,56,55.0,479,Medium (50-99),0.85,53.0,158.06,Middle Pressure SR,139.35,-29.76,34.81,50.51,Tier 3: Tactical / Backup Option
+1924,Sam Billings,Middle-Order Batters,12,67.0,123,Medium (50-99),0.85,68.0,106.06,Middle Pressure SR,144.71,28.11,60.34,48.83,Tier 2: Core Squad Target
+7446,Abdul Samad,Middle-Order Batters,41,263.0,194,High (100+),1.0,45.8,124.21,Middle Pressure SR,151.86,9.13,72.63,48.33,Tier 1: Priority RR Auction Target
+6628,Gerald Coetzee,Middle-Order Batters,29,76.0,42,Medium (50-99),0.85,40.8,130.43,Middle Pressure SR,136.76,20.47,50.55,48.23,Tier 2: Core Squad Target
+8729,Haider Shah,Middle-Order Batters,3,22.0,47,Low (20-49),0.6,72.3,144.44,Middle Pressure SR,133.77,-32.77,22.39,48.21,Tier 4: Speculative / High-Risk
+198,Manish Pandey,Middle-Order Batters,21,135.0,246,High (100+),1.0,66.3,116.09,Middle Pressure SR,131.52,7.6,56.43,48.2,Tier 2: Core Squad Target
+47,Virat Kohli,Middle-Order Batters,92,84.0,1090,Medium (50-99),0.85,44.4,126.32,Middle Pressure SR,153.22,13.56,61.5,47.8,Tier 2: Core Squad Target
+728,Dawid Malan,Middle-Order Batters,22,21.0,216,Low (20-49),0.6,47.3,129.74,Middle Pressure SR,145.51,17.8,42.07,47.77,Tier 3: Tactical / Backup Option
+7903,Shamim Hossain,Middle-Order Batters,39,178.0,254,High (100+),1.0,57.9,104.62,Middle Pressure SR,144.43,29.05,76.36,47.52,Tier 3: Tactical / Backup Option
+4779,Pieter Willem Mulder,Middle-Order Batters,11,22.0,51,Low (20-49),0.6,45.5,133.33,Middle Pressure SR,135.16,19.2,32.64,47.22,Tier 4: Speculative / High-Risk
+818,Mitchell Marsh,Middle-Order Batters,83,122.0,718,High (100+),1.0,41.6,136.23,Middle Pressure SR,149.02,-6.8,70.44,46.85,Tier 3: Tactical / Backup Option
+167,Ajinkya Rahane,Middle-Order Batters,56,42.0,463,Low (20-49),0.6,45.2,142.86,Middle Pressure SR,143.82,3.9,32.16,46.65,Tier 3: Tactical / Backup Option
+6676,Azmatullah Omarzai,Middle-Order Batters,68,263.0,393,High (100+),1.0,59.1,100.0,Middle Pressure SR,150.26,23.22,76.94,45.58,Tier 2: Core Squad Target
+24779,Ijaz Ahmadzai,Middle-Order Batters,6,66.0,68,Medium (50-99),0.85,63.6,120.59,Middle Pressure SR,142.51,-0.55,50.07,44.9,Tier 2: Core Squad Target
+1440,Rahul Tripathi,Middle-Order Batters,43,53.0,355,Medium (50-99),0.85,49.8,148.48,Middle Pressure SR,134.28,-17.44,35.74,44.81,Tier 3: Tactical / Backup Option
+20006,Ramandeep Singh,Middle-Order Batters,37,177.0,135,High (100+),1.0,46.9,106.56,Middle Pressure SR,157.41,19.58,81.17,44.8,Tier 2: Core Squad Target
+3489,Salman Agha,Middle-Order Batters,43,129.0,401,High (100+),1.0,57.4,115.62,Middle Pressure SR,131.46,4.57,63.57,44.64,Tier 3: Tactical / Backup Option
+7937,Wasim Ali,Middle-Order Batters,7,47.0,101,Low (20-49),0.6,66.9,106.67,Middle Pressure SR,129.19,20.46,41.37,43.96,Tier 3: Tactical / Backup Option
+7808,Marco Jansen,Middle-Order Batters,60,209.0,117,High (100+),1.0,42.2,112.99,Middle Pressure SR,141.82,52.91,69.07,43.54,Tier 2: Core Squad Target
+3578,Imad Wasim,Middle-Order Batters,14,93.0,81,Medium (50-99),0.85,50.3,109.52,Middle Pressure SR,140.08,37.63,61.71,43.31,Tier 2: Core Squad Target
+4926,Shadab Khan,Middle-Order Batters,43,157.0,182,High (100+),1.0,54.8,109.8,Middle Pressure SR,147.5,10.7,66.99,43.3,Tier 2: Core Squad Target
+8295,Matthew Forde,Middle-Order Batters,21,85.0,52,Medium (50-99),0.85,45.6,112.12,Middle Pressure SR,157.27,68.16,63.91,43.26,Tier 2: Core Squad Target
+7155,Sahan Arachchige,Middle-Order Batters,11,53.0,123,Medium (50-99),0.85,65.1,37.5,Middle Pressure SR,145.93,30.99,64.12,42.18,Tier 2: Core Squad Target
+23311,Jacob Bethell,Middle-Order Batters,33,41.0,200,Low (20-49),0.6,44.2,118.18,Middle Pressure SR,155.29,22.66,48.26,42.16,Tier 3: Tactical / Backup Option
+27959,Hrithik Shokeen,Middle-Order Batters,13,20.0,43,Low (20-49),0.6,66.2,129.74,Middle Pressure SR,130.45,-9.44,26.43,42.04,Tier 4: Speculative / High-Risk
+499,Shakib Al Hasan,Middle-Order Batters,18,98.0,172,Medium (50-99),0.85,52.6,116.13,Middle Pressure SR,142.11,3.7,60.35,41.65,Tier 2: Core Squad Target
+4814,Lorcan Tucker,Middle-Order Batters,40,79.0,413,Medium (50-99),0.85,62.0,123.08,Middle Pressure SR,129.7,-6.33,41.63,41.36,Tier 3: Tactical / Backup Option
+2490,Mohammad Nawaz,Middle-Order Batters,54,295.0,207,High (100+),1.0,41.6,108.86,Middle Pressure SR,148.49,17.96,73.54,41.27,Tier 1: Priority RR Auction Target
+1219,David Willey,Middle-Order Batters,19,78.0,50,Medium (50-99),0.85,51.0,106.45,Middle Pressure SR,122.9,48.97,59.09,41.21,Tier 3: Tactical / Backup Option
+8654,Cooper Connolly,Middle-Order Batters,24,61.0,198,Medium (50-99),0.85,54.5,84.21,Middle Pressure SR,159.74,18.82,80.57,41.16,Tier 3: Tactical / Backup Option
+1568,Kane Williamson,Middle-Order Batters,24,46.0,270,Low (20-49),0.6,50.5,118.52,Middle Pressure SR,135.74,17.09,36.33,41.08,Tier 3: Tactical / Backup Option
+6783,Azam Khan,Middle-Order Batters,10,21.0,43,Low (20-49),0.6,74.1,130.0,Middle Pressure SR,138.47,-27.54,22.45,40.78,Tier 4: Speculative / High-Risk
+6398,Aaron Hardie,Middle-Order Batters,16,75.0,66,Medium (50-99),0.85,46.5,112.2,Middle Pressure SR,137.85,13.93,57.46,39.8,Tier 3: Tactical / Backup Option
+3282,Mehidy Hasan Miraz,Middle-Order Batters,19,57.0,135,Medium (50-99),0.85,50.9,128.57,Middle Pressure SR,128.33,-5.19,39.94,39.59,Tier 3: Tactical / Backup Option
+2680,Nurul Hasan,Middle-Order Batters,22,152.0,114,High (100+),1.0,47.9,92.31,Middle Pressure SR,142.73,38.62,84.09,39.53,Tier 1: Priority RR Auction Target
+772,Rilee Rossouw,Middle-Order Batters,26,39.0,220,Low (20-49),0.6,52.8,142.86,Middle Pressure SR,143.05,-34.63,25.58,39.41,Tier 4: Speculative / High-Risk
+26646,Rahul Chopra,Middle-Order Batters,14,82.0,171,Medium (50-99),0.85,76.3,86.79,Middle Pressure SR,125.23,12.71,43.92,39.4,Tier 3: Tactical / Backup Option
+5808,Karim Janat,Middle-Order Batters,31,126.0,185,High (100+),1.0,58.0,108.33,Middle Pressure SR,125.74,6.85,52.27,38.75,Tier 3: Tactical / Backup Option
+21781,Clive Madande,Middle-Order Batters,23,160.0,181,High (100+),1.0,60.7,89.87,Middle Pressure SR,119.2,19.95,56.08,38.22,Tier 2: Core Squad Target
+4895,Charith Asalanka,Middle-Order Batters,55,123.0,467,High (100+),1.0,63.2,115.15,Middle Pressure SR,127.35,-6.13,44.5,38.15,Tier 3: Tactical / Backup Option
+6466,Atharwa Taide,Middle-Order Batters,10,23.0,74,Low (20-49),0.6,41.8,139.13,Middle Pressure SR,142.89,-8.92,30.0,37.68,Tier 3: Tactical / Backup Option
+19714,Abishek Porel,Middle-Order Batters,33,86.0,234,Medium (50-99),0.85,44.2,127.03,Middle Pressure SR,141.4,-6.97,49.96,37.56,Tier 3: Tactical / Backup Option
+4904,Kamindu Mendis,Middle-Order Batters,39,138.0,381,High (100+),1.0,64.2,80.0,Middle Pressure SR,139.0,9.71,60.85,37.13,Tier 3: Tactical / Backup Option
+7905,Tanzim Sakib,Middle-Order Batters,31,150.0,70,High (100+),1.0,42.9,104.84,Middle Pressure SR,124.15,63.48,60.1,36.96,Tier 2: Core Squad Target
+507,Mohammad Mahmudullah,Middle-Order Batters,14,94.0,185,Medium (50-99),0.85,70.6,111.76,Middle Pressure SR,124.52,-8.79,35.71,36.31,Tier 3: Tactical / Backup Option
+7355,Tayyab Tahir,Middle-Order Batters,7,39.0,50,Low (20-49),0.6,48.1,106.25,Middle Pressure SR,139.68,24.1,44.77,36.21,Tier 3: Tactical / Backup Option
+8739,Muhammad Irfan,Middle-Order Batters,14,69.0,89,Medium (50-99),0.85,46.8,62.5,Middle Pressure SR,154.88,49.92,69.94,35.53,Tier 2: Core Squad Target
+332,Angelo Mathews,Middle-Order Batters,9,71.0,66,Medium (50-99),0.85,44.0,66.67,Middle Pressure SR,163.07,73.53,74.2,35.33,Tier 3: Tactical / Backup Option
+46929,Dian Forrester,Middle-Order Batters,5,20.0,59,Low (20-49),0.6,76.6,105.0,Middle Pressure SR,133.3,-3.77,26.67,34.75,Tier 4: Speculative / High-Risk
+1100,Dinesh Chandimal,Middle-Order Batters,5,24.0,47,Low (20-49),0.6,62.7,0.0,Middle Pressure SR,138.26,36.76,34.84,33.78,Tier 3: Tactical / Backup Option
+4494,Abhinav Manohar,Middle-Order Batters,20,90.0,123,Medium (50-99),0.85,52.3,40.0,Middle Pressure SR,139.51,20.12,51.89,33.46,Tier 2: Core Squad Target
+6467,Anuj Rawat,Middle-Order Batters,21,92.0,98,Medium (50-99),0.85,35.4,76.92,Middle Pressure SR,150.93,54.89,72.11,33.03,Tier 1: Priority RR Auction Target
+4101,Mitchell Santner,Middle-Order Batters,83,328.0,219,High (100+),1.0,40.6,102.02,Middle Pressure SR,132.89,12.7,65.73,32.95,Tier 2: Core Squad Target
+8652,Mohammad Ishaq,Middle-Order Batters,13,47.0,62,Low (20-49),0.6,46.6,100.0,Middle Pressure SR,151.87,57.24,47.95,32.79,Tier 3: Tactical / Backup Option
+2417,Akeal Hosein,Middle-Order Batters,79,198.0,92,High (100+),1.0,41.3,66.67,Middle Pressure SR,137.22,63.35,68.82,32.76,Tier 1: Priority RR Auction Target
+1040,Harpreet Bhatia,Middle-Order Batters,5,38.0,42,Low (20-49),0.6,45.2,129.74,Middle Pressure SR,127.63,-9.29,25.81,32.61,Tier 4: Speculative / High-Risk
+8638,Basil Hameed,Middle-Order Batters,9,70.0,96,Medium (50-99),0.85,69.1,90.91,Middle Pressure SR,120.26,4.31,41.01,32.29,Tier 3: Tactical / Backup Option
+29888,Harshit Rana,Middle-Order Batters,45,125.0,73,High (100+),1.0,49.7,101.89,Middle Pressure SR,120.18,10.4,48.91,31.86,Tier 3: Tactical / Backup Option
+3373,Aizaz Khan,Middle-Order Batters,13,55.0,45,Medium (50-99),0.85,57.0,76.92,Middle Pressure SR,107.92,32.88,36.54,31.67,Tier 3: Tactical / Backup Option
+295,Wayne Parnell,Middle-Order Batters,18,57.0,40,Medium (50-99),0.85,52.6,76.67,Middle Pressure SR,112.44,36.84,42.95,31.35,Tier 3: Tactical / Backup Option
+3645,Sarfaraz Khan,Middle-Order Batters,16,47.0,106,Low (20-49),0.6,47.3,75.0,Middle Pressure SR,165.27,64.63,48.99,30.5,Tier 3: Tactical / Backup Option
+27466,Dhruv Parashar,Middle-Order Batters,11,65.0,60,Medium (50-99),0.85,61.2,65.62,Middle Pressure SR,109.84,10.35,34.28,29.38,Tier 4: Speculative / High-Risk
+5837,Mahedi Hasan,Middle-Order Batters,42,150.0,133,High (100+),1.0,52.6,72.73,Middle Pressure SR,117.16,8.0,47.76,28.03,Tier 2: Core Squad Target
+19781,Mitchell Owen,Middle-Order Batters,13,38.0,106,Low (20-49),0.6,86.2,96.77,Middle Pressure SR,120.81,-81.12,17.32,25.34,Tier 4: Speculative / High-Risk
+6512,Michael Bracewell,Middle-Order Batters,45,157.0,191,High (100+),1.0,54.6,84.62,Middle Pressure SR,135.41,-4.31,50.38,24.95,Tier 3: Tactical / Backup Option
+21790,Tashinga Musekiwa,Middle-Order Batters,21,163.0,113,High (100+),1.0,54.3,108.79,Middle Pressure SR,121.27,-17.0,35.48,24.24,Tier 3: Tactical / Backup Option
+34546,Aryan Bisht,Middle-Order Batters,4,45.0,49,Low (20-49),0.6,68.1,67.86,Middle Pressure SR,115.06,-2.97,20.8,24.06,Tier 4: Speculative / High-Risk
+20894,Aman Khan,Middle-Order Batters,10,84.0,58,Medium (50-99),0.85,55.8,89.13,Middle Pressure SR,122.62,-5.48,36.3,21.53,Tier 3: Tactical / Backup Option
+4658,Nasum Ahmed,Middle-Order Batters,30,58.0,46,Medium (50-99),0.85,59.0,88.57,Middle Pressure SR,115.11,-5.34,29.26,21.25,Tier 3: Tactical / Backup Option
+7052,Dunith Wellalage,Middle-Order Batters,16,88.0,64,Medium (50-99),0.85,46.7,82.76,Middle Pressure SR,127.04,-1.32,41.34,20.32,Tier 3: Tactical / Backup Option
+47370,Aniket Verma,Middle-Order Batters,20,72.0,103,Medium (50-99),0.85,52.6,100.0,Middle Pressure SR,146.98,-19.13,45.98,20.26,Tier 3: Tactical / Backup Option
+2972,Yasim Murtaza,Middle-Order Batters,14,81.0,124,Medium (50-99),0.85,48.1,81.25,Middle Pressure SR,125.43,-5.06,37.84,18.65,Tier 3: Tactical / Backup Option
+6433,Darwish Rasooli,Middle-Order Batters,27,55.0,278,Medium (50-99),0.85,64.8,61.11,Middle Pressure SR,120.3,-19.47,28.47,18.34,Tier 4: Speculative / High-Risk
+46137,Kartik Sharma,Middle-Order Batters,11,34.0,149,Low (20-49),0.6,69.0,77.78,Middle Pressure SR,133.71,-22.46,20.94,18.12,Tier 4: Speculative / High-Risk
+26906,Angkrish Raghuvanshi,Middle-Order Batters,30,56.0,330,Medium (50-99),0.85,54.3,78.95,Middle Pressure SR,137.09,-16.74,40.38,17.66,Tier 3: Tactical / Backup Option
+6314,Devdutt Padikkal,Middle-Order Batters,60,66.0,541,Medium (50-99),0.85,54.2,70.83,Middle Pressure SR,133.03,-15.67,36.01,16.94,Tier 3: Tactical / Backup Option
+49003,Hasan Nawaz,Middle-Order Batters,27,30.0,216,Low (20-49),0.6,66.7,75.0,Middle Pressure SR,127.89,-57.48,18.39,16.45,Tier 4: Speculative / High-Risk
+4111,Khushdil Shah,Middle-Order Batters,20,89.0,129,Medium (50-99),0.85,62.6,86.05,Middle Pressure SR,103.11,-39.88,17.21,14.36,Tier 4: Speculative / High-Risk
+4900,Wanindu Hasaranga,Middle-Order Batters,91,263.0,257,High (100+),1.0,54.9,94.39,Middle Pressure SR,117.67,-27.94,30.81,14.33,Tier 2: Core Squad Target
+3276,Gudakesh Motie,Middle-Order Batters,39,100.0,65,High (100+),1.0,44.8,94.44,Middle Pressure SR,136.87,-18.11,44.87,14.07,Tier 3: Tactical / Backup Option
+3543,Shahidullah Kamal,Middle-Order Batters,8,34.0,47,Low (20-49),0.6,48.5,100.0,Middle Pressure SR,122.99,-21.52,16.71,10.79,Tier 4: Speculative / High-Risk
+34485,Sufiyan Muqeem,Middle-Overs Bowlers,25,68.0,448,Medium (36-74),0.85,86.5,4.56,Middle Pressure Economy,5.49,-2.85,83.09,95.77,Tier 1: Priority RR Auction Target
+2490,Mohammad Nawaz,Middle-Overs Bowlers,54,120.0,768,High (75+),1.0,76.5,4.64,Middle Pressure Economy,5.82,-2.6,95.83,95.18,Tier 1: Priority RR Auction Target
+3056,Iftikhar Ahmed,Middle-Overs Bowlers,35,49.0,168,Medium (36-74),0.85,90.3,3.86,Middle Pressure Economy,6.44,-2.94,76.82,94.21,Tier 1: Priority RR Auction Target
+6436,Qais Ahmad,Middle-Overs Bowlers,10,42.0,162,Medium (36-74),0.85,84.4,6.0,Middle Pressure Economy,7.09,-3.02,75.01,93.47,Tier 1: Priority RR Auction Target
+6995,Saad Zafar,Middle-Overs Bowlers,3,24.0,66,Low (18-35),0.6,91.7,3.5,Middle Pressure Economy,7.02,-3.25,56.08,89.02,Tier 2: Core Squad Target
+8380,Mohammad Rishad Hossain,Middle-Overs Bowlers,49,105.0,880,High (75+),1.0,86.4,6.34,Middle Pressure Economy,7.93,-1.03,81.16,88.16,Tier 2: Core Squad Target
+2984,Sikandar Raza,Middle-Overs Bowlers,57,169.0,905,High (75+),1.0,83.0,5.75,Middle Pressure Economy,7.21,-0.15,83.45,87.9,Tier 1: Priority RR Auction Target
+395,Karn Sharma,Middle-Overs Bowlers,21,30.0,327,Low (18-35),0.6,90.1,5.0,Middle Pressure Economy,7.39,-5.29,51.3,87.82,Tier 2: Core Squad Target
+4895,Charith Asalanka,Middle-Overs Bowlers,55,24.0,139,Low (18-35),0.6,86.3,4.24,Middle Pressure Economy,7.32,-4.07,51.19,87.8,Tier 3: Tactical / Backup Option
+7690,Saim Ayub,Middle-Overs Bowlers,59,66.0,342,Medium (36-74),0.85,67.1,3.96,Middle Pressure Economy,5.95,-3.32,79.4,86.88,Tier 2: Core Squad Target
+7935,Mohammad Ghazanfar,Middle-Overs Bowlers,5,24.0,108,Low (18-35),0.6,100.0,5.0,Middle Pressure Economy,7.62,-2.86,46.31,86.58,Tier 3: Tactical / Backup Option
+4815,Benjamin White,Middle-Overs Bowlers,20,83.0,366,High (75+),1.0,93.8,7.07,Middle Pressure Economy,7.77,-2.22,83.19,86.4,Tier 1: Priority RR Auction Target
+4639,Wellington Masakadza,Middle-Overs Bowlers,30,84.0,324,High (75+),1.0,67.5,5.86,Middle Pressure Economy,7.16,-1.46,88.43,86.21,Tier 1: Priority RR Auction Target
+781,Sunil Narine,Middle-Overs Bowlers,67,157.0,1110,High (75+),1.0,72.5,6.0,Middle Pressure Economy,6.88,-0.51,88.14,85.53,Tier 2: Core Squad Target
+4812,Harry Tector,Middle-Overs Bowlers,46,30.0,174,Low (18-35),0.6,76.3,3.75,Middle Pressure Economy,6.75,-3.25,56.4,85.24,Tier 2: Core Squad Target
+4229,George Linde,Middle-Overs Bowlers,17,36.0,216,Medium (36-74),0.85,76.3,6.33,Middle Pressure Economy,7.69,-1.85,73.63,84.96,Tier 1: Priority RR Auction Target
+3077,Usama Mir,Middle-Overs Bowlers,5,30.0,114,Low (18-35),0.6,95.0,5.25,Middle Pressure Economy,8.39,-1.87,44.35,84.2,Tier 3: Tactical / Backup Option
+7967,Noor Ahmad,Middle-Overs Bowlers,70,128.0,1190,High (75+),1.0,81.1,3.46,Middle Pressure Economy,8.32,0.45,75.24,83.23,Tier 2: Core Squad Target
+4900,Wanindu Hasaranga,Middle-Overs Bowlers,91,176.0,1626,High (75+),1.0,79.9,6.28,Middle Pressure Economy,7.93,-0.24,77.66,83.15,Tier 2: Core Squad Target
+3281,Mosaddek Hossain,Middle-Overs Bowlers,12,18.0,120,Low (18-35),0.6,75.5,4.0,Middle Pressure Economy,7.58,-2.72,49.16,83.06,Tier 2: Core Squad Target
+4722,Rashid Khan,Middle-Overs Bowlers,122,349.0,1955,High (75+),1.0,71.2,5.52,Middle Pressure Economy,7.39,-0.16,82.37,82.43,Tier 1: Priority RR Auction Target
+4106,Daryl Mitchell,Middle-Overs Bowlers,69,19.0,60,Low (18-35),0.6,75.0,6.0,Middle Pressure Economy,7.77,-8.24,46.23,82.11,Tier 1: Priority RR Auction Target
+4840,Odean Smith,Middle-Overs Bowlers,25,55.0,204,Medium (36-74),0.85,53.1,6.0,Middle Pressure Economy,8.45,-2.53,64.4,76.93,Tier 2: Core Squad Target
+6423,Riyan Parag,Middle-Overs Bowlers,72,25.0,234,Low (18-35),0.6,90.0,6.75,Middle Pressure Economy,8.38,-1.57,41.68,76.63,Tier 2: Core Squad Target
+17911,Nangeyalia Kharote,Middle-Overs Bowlers,7,18.0,108,Low (18-35),0.6,78.3,4.0,Middle Pressure Economy,8.25,-0.6,40.93,76.54,Tier 3: Tactical / Backup Option
+2687,Roston Chase,Middle-Overs Bowlers,47,57.0,610,Medium (36-74),0.85,73.1,6.0,Middle Pressure Economy,8.4,0.25,59.32,76.31,Tier 2: Core Squad Target
+3282,Mehidy Hasan Miraz,Middle-Overs Bowlers,19,24.0,186,Low (18-35),0.6,79.5,6.67,Middle Pressure Economy,8.12,-1.69,42.4,75.36,Tier 3: Tactical / Backup Option
+3720,Craig Young,Middle-Overs Bowlers,23,75.0,201,High (75+),1.0,43.1,3.53,Middle Pressure Economy,7.8,-1.68,84.18,74.98,Tier 1: Priority RR Auction Target
+3673,Ramesh Mendis,Middle-Overs Bowlers,11,28.0,114,Low (18-35),0.6,76.0,4.33,Middle Pressure Economy,8.09,-0.11,44.41,74.93,Tier 3: Tactical / Backup Option
+4926,Shadab Khan,Middle-Overs Bowlers,43,69.0,754,Medium (36-74),0.85,90.6,7.35,Middle Pressure Economy,8.13,-0.3,62.93,73.33,Tier 2: Core Squad Target
+2876,Axar Patel,Middle-Overs Bowlers,143,144.0,1788,High (75+),1.0,67.0,6.38,Middle Pressure Economy,8.31,0.28,70.46,73.22,Tier 2: Core Squad Target
+27504,Dushan Hemantha,Middle-Overs Bowlers,8,51.0,140,Medium (36-74),0.85,74.5,6.69,Middle Pressure Economy,8.02,0.18,65.33,73.09,Tier 2: Core Squad Target
+1612,Yuzvendra Chahal,Middle-Overs Bowlers,98,277.0,1631,High (75+),1.0,76.3,6.81,Middle Pressure Economy,8.69,0.27,66.64,73.0,Tier 2: Core Squad Target
+5837,Mahedi Hasan,Middle-Overs Bowlers,42,94.0,426,High (75+),1.0,46.6,5.51,Middle Pressure Economy,7.53,-0.06,82.2,71.17,Tier 2: Core Squad Target
+1101,George Dockrell,Middle-Overs Bowlers,42,23.0,150,Low (18-35),0.6,80.6,6.0,Middle Pressure Economy,8.36,0.85,32.25,71.08,Tier 2: Core Squad Target
+3578,Imad Wasim,Middle-Overs Bowlers,14,20.0,168,Low (18-35),0.6,68.3,4.5,Middle Pressure Economy,8.06,-0.27,40.36,70.97,Tier 2: Core Squad Target
+2636,Adam Zampa,Middle-Overs Bowlers,52,94.0,840,High (75+),1.0,72.9,7.88,Middle Pressure Economy,7.86,-1.02,80.93,70.38,Tier 1: Priority RR Auction Target
+19145,Aamer Jamal,Middle-Overs Bowlers,4,20.0,42,Low (18-35),0.6,58.3,6.5,Middle Pressure Economy,8.92,-4.36,44.25,70.21,Tier 3: Tactical / Backup Option
+2972,Yasim Murtaza,Middle-Overs Bowlers,14,55.0,240,Medium (36-74),0.85,78.4,6.59,Middle Pressure Economy,8.59,1.35,52.9,69.04,Tier 3: Tactical / Backup Option
+4391,Liam Livingstone,Middle-Overs Bowlers,72,54.0,498,Medium (36-74),0.85,83.8,6.8,Middle Pressure Economy,9.82,0.92,44.24,68.88,Tier 2: Core Squad Target
+5979,Abrar Ahmed,Middle-Overs Bowlers,35,64.0,505,Medium (36-74),0.85,66.1,6.83,Middle Pressure Economy,7.82,0.41,66.83,67.94,Tier 2: Core Squad Target
+3550,Sharafuddin Ashraf,Middle-Overs Bowlers,11,45.0,138,Medium (36-74),0.85,74.2,6.67,Middle Pressure Economy,8.32,1.26,55.95,67.54,Tier 2: Core Squad Target
+7699,Abbas Afridi,Middle-Overs Bowlers,26,68.0,224,Medium (36-74),0.85,49.4,4.0,Middle Pressure Economy,8.32,-0.34,57.38,67.06,Tier 2: Core Squad Target
+8638,Basil Hameed,Middle-Overs Bowlers,9,21.0,102,Low (18-35),0.6,73.9,6.0,Middle Pressure Economy,9.39,1.28,30.66,66.4,Tier 3: Tactical / Backup Option
+58134,Digvesh Rathi,Middle-Overs Bowlers,23,35.0,324,Low (18-35),0.6,59.3,7.18,Middle Pressure Economy,7.79,-2.87,46.09,65.68,Tier 3: Tactical / Backup Option
+5577,Sai Kishore,Middle-Overs Bowlers,28,48.0,384,Medium (36-74),0.85,78.5,5.75,Middle Pressure Economy,10.3,2.59,34.19,65.67,Tier 3: Tactical / Backup Option
+6161,Rahul Chahar,Middle-Overs Bowlers,42,95.0,726,High (75+),1.0,83.8,7.06,Middle Pressure Economy,9.81,2.2,52.74,65.09,Tier 2: Core Squad Target
+2526,Ish Sodhi,Middle-Overs Bowlers,59,31.0,1069,Low (18-35),0.6,91.0,7.71,Middle Pressure Economy,8.8,-0.28,39.12,64.44,Tier 3: Tactical / Backup Option
+3383,Kinchit Shah,Middle-Overs Bowlers,11,18.0,48,Low (18-35),0.6,80.0,8.0,Middle Pressure Economy,9.58,-2.29,32.9,64.37,Tier 3: Tactical / Backup Option
+4658,Nasum Ahmed,Middle-Overs Bowlers,30,32.0,258,Low (18-35),0.6,43.0,5.25,Middle Pressure Economy,7.79,-1.66,41.98,64.31,Tier 3: Tactical / Backup Option
+3605,Aiden Markram,Middle-Overs Bowlers,95,25.0,282,Low (18-35),0.6,71.0,7.2,Middle Pressure Economy,9.17,-1.12,36.99,64.3,Tier 2: Core Squad Target
+3644,Kuldeep Yadav,Middle-Overs Bowlers,90,200.0,1610,High (75+),1.0,84.1,7.54,Middle Pressure Economy,9.36,1.69,57.67,64.14,Tier 3: Tactical / Backup Option
+7503,Ravi Bishnoi,Middle-Overs Bowlers,109,205.0,1686,High (75+),1.0,72.5,7.25,Middle Pressure Economy,9.19,1.25,61.57,63.57,Tier 2: Core Squad Target
+1541,Sean Williams,Middle-Overs Bowlers,15,18.0,144,Low (18-35),0.6,88.9,6.5,Middle Pressure Economy,9.03,2.21,25.99,63.37,Tier 4: Speculative / High-Risk
+5808,Karim Janat,Middle-Overs Bowlers,31,57.0,180,Medium (36-74),0.85,68.4,4.5,Middle Pressure Economy,10.08,2.17,38.68,63.3,Tier 3: Tactical / Backup Option
+305,Ravichandran Ashwin,Middle-Overs Bowlers,61,155.0,960,High (75+),1.0,68.4,7.41,Middle Pressure Economy,8.55,0.92,66.43,62.68,Tier 1: Priority RR Auction Target
+6512,Michael Bracewell,Middle-Overs Bowlers,45,30.0,474,Low (18-35),0.6,69.9,4.67,Middle Pressure Economy,9.48,2.03,31.07,62.47,Tier 3: Tactical / Backup Option
+4856,Benjamin Sears,Middle-Overs Bowlers,22,61.0,188,Medium (36-74),0.85,41.5,3.0,Middle Pressure Economy,8.55,0.17,58.19,62.2,Tier 2: Core Squad Target
+23467,Gurjapneet Singh,Middle-Overs Bowlers,12,28.0,102,Low (18-35),0.6,42.3,2.4,Middle Pressure Economy,8.46,-0.96,42.18,61.96,Tier 3: Tactical / Backup Option
+479,Adil Rashid,Middle-Overs Bowlers,61,101.0,1102,High (75+),1.0,83.2,8.1,Middle Pressure Economy,9.08,1.27,61.97,61.6,Tier 3: Tactical / Backup Option
+161,Dwayne Bravo,Middle-Overs Bowlers,10,38.0,96,Medium (36-74),0.85,46.6,1.5,Middle Pressure Economy,9.02,0.82,50.51,60.6,Tier 2: Core Squad Target
+2261,Harshal Patel,Middle-Overs Bowlers,79,258.0,810,High (75+),1.0,49.3,4.0,Middle Pressure Economy,9.82,1.39,52.24,60.52,Tier 3: Tactical / Backup Option
+2463,Ryan Burl,Middle-Overs Bowlers,42,49.0,300,Medium (36-74),0.85,94.3,8.09,Middle Pressure Economy,8.91,1.1,50.41,60.08,Tier 2: Core Squad Target
+3373,Aizaz Khan,Middle-Overs Bowlers,13,36.0,120,Medium (36-74),0.85,65.6,4.0,Middle Pressure Economy,10.94,4.46,34.56,60.01,Tier 3: Tactical / Backup Option
+8661,Matheesha Pathirana,Middle-Overs Bowlers,54,183.0,519,High (75+),1.0,45.8,3.0,Middle Pressure Economy,9.24,1.71,58.7,59.64,Tier 2: Core Squad Target
+2436,Dasun Shanaka,Middle-Overs Bowlers,69,41.0,360,Medium (36-74),0.85,68.1,7.18,Middle Pressure Economy,9.53,1.31,43.01,57.35,Tier 2: Core Squad Target
+1596,Moeen Ali,Middle-Overs Bowlers,67,57.0,581,Medium (36-74),0.85,72.2,8.37,Middle Pressure Economy,8.53,-0.09,56.57,57.25,Tier 2: Core Squad Target
+7545,Kuldeep Sen,Middle-Overs Bowlers,12,31.0,138,Low (18-35),0.6,57.3,5.5,Middle Pressure Economy,9.96,1.82,29.65,57.12,Tier 4: Speculative / High-Risk
+3276,Gudakesh Motie,Middle-Overs Bowlers,39,76.0,618,High (75+),1.0,83.7,7.96,Middle Pressure Economy,9.87,2.27,48.57,56.59,Tier 3: Tactical / Backup Option
+4101,Mitchell Santner,Middle-Overs Bowlers,83,138.0,1242,High (75+),1.0,71.5,8.2,Middle Pressure Economy,8.59,1.29,64.78,56.23,Tier 2: Core Squad Target
+5977,Khary Pierre,Middle-Overs Bowlers,6,18.0,72,Low (18-35),0.6,60.0,7.18,Middle Pressure Economy,9.03,0.09,35.86,55.64,Tier 3: Tactical / Backup Option
+8639,Kartik Meiyappan,Middle-Overs Bowlers,4,22.0,90,Low (18-35),0.6,93.8,7.88,Middle Pressure Economy,8.61,1.85,34.34,55.5,Tier 3: Tactical / Backup Option
+1107,Mohammad Nabi,Middle-Overs Bowlers,56,48.0,540,Medium (36-74),0.85,79.4,8.08,Middle Pressure Economy,9.59,1.62,43.78,54.46,Tier 2: Core Squad Target
+2756,Shashank Singh,Middle-Overs Bowlers,45,24.0,72,Low (18-35),0.6,80.0,7.5,Middle Pressure Economy,9.82,1.86,26.53,54.33,Tier 2: Core Squad Target
+41503,Yash Punja,Middle-Overs Bowlers,8,23.0,156,Low (18-35),0.6,86.7,8.8,Middle Pressure Economy,9.18,-0.26,32.6,54.03,Tier 3: Tactical / Backup Option
+7905,Tanzim Sakib,Middle-Overs Bowlers,31,134.0,288,High (75+),1.0,42.5,6.86,Middle Pressure Economy,9.5,1.23,59.64,52.97,Tier 2: Core Squad Target
+494,Kieron Pollard,Middle-Overs Bowlers,19,23.0,143,Low (18-35),0.6,77.3,7.18,Middle Pressure Economy,10.7,5.78,22.54,52.77,Tier 2: Core Squad Target
+7325,Harpreet Brar,Middle-Overs Bowlers,38,86.0,480,High (75+),1.0,72.0,8.25,Middle Pressure Economy,9.46,1.66,56.13,52.76,Tier 2: Core Squad Target
+4823,Washington Sundar,Middle-Overs Bowlers,65,57.0,480,Medium (36-74),0.85,61.1,7.8,Middle Pressure Economy,8.99,0.88,48.87,52.04,Tier 2: Core Squad Target
+36982,Suyash Sharma,Middle-Overs Bowlers,43,48.0,762,Medium (36-74),0.85,84.8,8.57,Middle Pressure Economy,9.73,1.64,40.34,52.0,Tier 3: Tactical / Backup Option
+22134,Luke Jongwe,Middle-Overs Bowlers,20,125.0,162,High (75+),1.0,49.1,6.89,Middle Pressure Economy,9.84,1.96,50.02,51.05,Tier 3: Tactical / Backup Option
+8182,Donovan Ferreira,Middle-Overs Bowlers,31,30.0,79,Low (18-35),0.6,72.5,8.57,Middle Pressure Economy,9.2,-0.42,32.31,50.71,Tier 2: Core Squad Target
+818,Mitchell Marsh,Middle-Overs Bowlers,83,32.0,204,Low (18-35),0.6,69.2,7.5,Middle Pressure Economy,9.72,1.84,28.76,50.13,Tier 3: Tactical / Backup Option
+152,Ravindra Jadeja,Middle-Overs Bowlers,75,53.0,1308,Medium (36-74),0.85,93.7,8.57,Middle Pressure Economy,9.72,2.31,39.4,49.86,Tier 2: Core Squad Target
+499,Shakib Al Hasan,Middle-Overs Bowlers,18,62.0,174,Medium (36-74),0.85,51.2,7.0,Middle Pressure Economy,9.87,4.33,41.59,47.36,Tier 2: Core Squad Target
+3323,Jimmy Neesham,Middle-Overs Bowlers,47,58.0,330,Medium (36-74),0.85,62.7,7.18,Middle Pressure Economy,11.82,5.17,23.56,46.56,Tier 3: Tactical / Backup Option
+20006,Ramandeep Singh,Middle-Overs Bowlers,37,18.0,72,Low (18-35),0.6,48.6,7.18,Middle Pressure Economy,9.47,1.13,31.83,46.47,Tier 2: Core Squad Target
+6237,Manimaran Siddharth,Middle-Overs Bowlers,9,21.0,90,Low (18-35),0.6,48.4,7.18,Middle Pressure Economy,9.5,1.16,31.63,46.22,Tier 3: Tactical / Backup Option
+7741,Gareth Delany,Middle-Overs Bowlers,40,61.0,414,Medium (36-74),0.85,75.0,9.0,Middle Pressure Economy,9.11,1.65,47.35,45.94,Tier 2: Core Squad Target
+19316,Maheesh Theekshana,Middle-Overs Bowlers,99,265.0,925,High (75+),1.0,40.9,7.55,Middle Pressure Economy,8.94,1.48,59.36,45.88,Tier 3: Tactical / Backup Option
+23,Piyush Chawla,Middle-Overs Bowlers,27,40.0,468,Medium (36-74),0.85,81.2,9.64,Middle Pressure Economy,9.33,1.12,47.03,45.11,Tier 3: Tactical / Backup Option
+5939,Cameron Green,Middle-Overs Bowlers,65,50.0,428,Medium (36-74),0.85,56.8,7.18,Middle Pressure Economy,11.46,4.12,27.34,44.88,Tier 2: Core Squad Target
+7094,Curtis Campher,Middle-Overs Bowlers,39,55.0,258,Medium (36-74),0.85,65.2,8.77,Middle Pressure Economy,9.31,1.23,45.39,44.18,Tier 2: Core Squad Target
+6256,Varun Chakravarthy,Middle-Overs Bowlers,95,159.0,1458,High (75+),1.0,68.5,8.83,Middle Pressure Economy,9.85,2.32,52.94,43.81,Tier 2: Core Squad Target
+2334,Dwaine Pretorius,Middle-Overs Bowlers,14,47.0,144,Medium (36-74),0.85,46.8,7.18,Middle Pressure Economy,10.5,2.88,35.43,42.42,Tier 3: Tactical / Backup Option
+2878,Mohit Sharma,Middle-Overs Bowlers,34,125.0,300,High (75+),1.0,46.2,7.18,Middle Pressure Economy,11.0,2.7,36.0,42.33,Tier 3: Tactical / Backup Option
+4219,Krunal Pandya,Middle-Overs Bowlers,74,57.0,936,Medium (36-74),0.85,74.5,8.86,Middle Pressure Economy,10.08,3.04,39.19,42.23,Tier 2: Core Squad Target
+4842,Shamar Springer,Middle-Overs Bowlers,11,25.0,112,Low (18-35),0.6,57.1,7.18,Middle Pressure Economy,11.83,6.73,14.14,41.71,Tier 4: Speculative / High-Risk
+8634,Ashwani Kumar,Middle-Overs Bowlers,10,26.0,102,Low (18-35),0.6,55.7,7.18,Middle Pressure Economy,12.31,6.83,11.58,40.45,Tier 4: Speculative / High-Risk
+2382,Jamie Overton,Middle-Overs Bowlers,32,25.0,281,Low (18-35),0.6,56.5,7.18,Middle Pressure Economy,12.71,9.79,9.76,40.35,Tier 3: Tactical / Backup Option
+1071,Jaydev Unadkat,Middle-Overs Bowlers,30,70.0,240,Medium (36-74),0.85,41.7,7.18,Middle Pressure Economy,10.94,2.83,31.07,39.1,Tier 3: Tactical / Backup Option
+28018,Ashok Sharma,Middle-Overs Bowlers,8,24.0,78,Low (18-35),0.6,44.8,7.18,Middle Pressure Economy,10.72,4.27,23.23,38.51,Tier 4: Speculative / High-Risk
+3330,Hardik Pandya,Middle-Overs Bowlers,129,132.0,906,High (75+),1.0,49.6,8.31,Middle Pressure Economy,10.51,2.31,44.59,37.52,Tier 2: Core Squad Target
+26663,Kwena Maphaka,Middle-Overs Bowlers,16,30.0,132,Low (18-35),0.6,43.3,7.18,Middle Pressure Economy,11.29,4.02,16.79,36.21,Tier 4: Speculative / High-Risk
+2304,Tymal Mills,Middle-Overs Bowlers,12,31.0,102,Low (18-35),0.6,44.5,7.18,Middle Pressure Economy,12.11,5.17,13.47,35.95,Tier 4: Speculative / High-Risk
+27960,Mayank Yadav,Middle-Overs Bowlers,22,33.0,204,Low (18-35),0.6,41.4,7.18,Middle Pressure Economy,12.19,6.86,14.36,34.76,Tier 4: Speculative / High-Risk
+25048,Umran Malik,Middle-Overs Bowlers,31,44.0,421,Medium (36-74),0.85,75.2,10.5,Middle Pressure Economy,9.84,1.22,44.89,34.7,Tier 3: Tactical / Backup Option
+6160,Chamika Karunaratne,Middle-Overs Bowlers,21,22.0,222,Low (18-35),0.6,66.1,10.0,Middle Pressure Economy,9.13,0.34,33.27,34.38,Tier 3: Tactical / Backup Option
+7472,Shahbaz Ahmed,Middle-Overs Bowlers,48,18.0,375,Low (18-35),0.6,70.1,9.0,Middle Pressure Economy,11.03,4.29,17.16,33.66,Tier 3: Tactical / Backup Option
+3285,Abu Haider,Middle-Overs Bowlers,7,18.0,60,Low (18-35),0.6,40.3,7.18,Middle Pressure Economy,12.03,7.71,10.74,33.36,Tier 4: Speculative / High-Risk
+7473,Akash Deep,Middle-Overs Bowlers,14,21.0,114,Low (18-35),0.6,41.0,7.18,Middle Pressure Economy,12.23,6.56,9.32,33.34,Tier 4: Speculative / High-Risk
+2417,Akeal Hosein,Middle-Overs Bowlers,79,86.0,798,High (75+),1.0,47.2,24.0,Middle Pressure Economy,8.32,0.37,71.98,27.57,Tier 1: Priority RR Auction Target
+6683,Mayank Markande,Middle-Overs Bowlers,22,39.0,378,Medium (36-74),0.85,87.5,15.18,Middle Pressure Economy,11.54,4.55,26.43,26.61,Tier 4: Speculative / High-Risk
+6272,William Jacks,Middle-Overs Bowlers,62,29.0,234,Low (18-35),0.6,56.7,10.91,Middle Pressure Economy,8.7,-0.5,37.92,26.6,Tier 2: Core Squad Target
+8530,Kartik Tyagi,Middle-Overs Bowlers,19,68.0,168,Medium (36-74),0.85,40.5,10.0,Middle Pressure Economy,9.99,0.53,46.95,25.86,Tier 3: Tactical / Backup Option
+1318,Andre Russell,Middle-Overs Bowlers,64,152.0,347,High (75+),1.0,46.0,10.0,Middle Pressure Economy,10.96,1.17,42.35,25.25,Tier 2: Core Squad Target
+4824,Zeeshan Ansari,Middle-Overs Bowlers,10,22.0,180,Low (18-35),0.6,88.7,12.0,Middle Pressure Economy,10.37,2.62,20.81,25.2,Tier 4: Speculative / High-Risk
+1944,Keshav Maharaj,Middle-Overs Bowlers,30,18.0,480,Low (18-35),0.6,80.3,13.0,Middle Pressure Economy,10.58,4.56,20.89,23.12,Tier 4: Speculative / High-Risk
+3629,Corbin Bosch,Middle-Overs Bowlers,20,63.0,186,Medium (36-74),0.85,50.7,13.12,Middle Pressure Economy,9.22,0.97,54.11,22.86,Tier 2: Core Squad Target
+6726,Romario Shepherd,Middle-Overs Bowlers,96,182.0,850,High (75+),1.0,55.2,11.03,Middle Pressure Economy,10.8,1.25,43.9,21.49,Tier 2: Core Squad Target
+4460,Jeffrey Vandersay,Middle-Overs Bowlers,5,26.0,90,Low (18-35),0.6,75.0,12.5,Middle Pressure Economy,9.99,3.25,20.87,20.77,Tier 4: Speculative / High-Risk
+4755,Shivam Dube,Middle-Overs Bowlers,108,21.0,385,Low (18-35),0.6,82.1,15.0,Middle Pressure Economy,12.87,9.69,8.0,20.71,Tier 3: Tactical / Backup Option
+35318,Sakib Hussain,Middle-Overs Bowlers,11,45.0,114,Medium (36-74),0.85,45.2,16.0,Middle Pressure Economy,9.28,0.56,49.34,20.48,Tier 3: Tactical / Backup Option
+56685,Abdullah Ahmadzai,Middle-Overs Bowlers,12,27.0,153,Low (18-35),0.6,68.6,11.2,Middle Pressure Economy,10.31,2.87,25.24,19.03,Tier 4: Speculative / High-Risk
+26514,Nimesh Vimukthi,Middle-Overs Bowlers,4,20.0,48,Low (18-35),0.6,50.0,12.0,Middle Pressure Economy,9.13,0.49,33.74,18.91,Tier 3: Tactical / Backup Option
+46066,Vipraj Nigam,Middle-Overs Bowlers,19,19.0,198,Low (18-35),0.6,68.8,14.31,Middle Pressure Economy,10.28,2.9,20.6,17.93,Tier 3: Tactical / Backup Option
+722,Liam Dawson,Middle-Overs Bowlers,22,28.0,246,Low (18-35),0.6,59.3,13.5,Middle Pressure Economy,9.59,2.36,27.73,15.92,Tier 4: Speculative / High-Risk
+2639,Marcus Stoinis,Middle-Overs Bowlers,94,54.0,444,Medium (36-74),0.85,59.4,19.2,Middle Pressure Economy,12.02,4.96,20.62,13.79,Tier 2: Core Squad Target
+33969,Tinotenda Maposa,Middle-Overs Bowlers,12,22.0,78,Low (18-35),0.6,44.3,10.5,Middle Pressure Economy,10.06,2.26,25.25,12.95,Tier 4: Speculative / High-Risk
+4487,Vyshak Kumar,Middle-Overs Bowlers,27,62.0,324,Medium (36-74),0.85,57.1,11.0,Middle Pressure Economy,12.38,4.65,19.77,12.56,Tier 4: Speculative / High-Risk
+8221,Nitish Reddy,Middle-Overs Bowlers,52,50.0,330,Medium (36-74),0.85,58.4,17.0,Middle Pressure Economy,12.78,5.73,17.02,12.44,Tier 3: Tactical / Backup Option
+29558,Muhammad Arfan,Middle-Overs Bowlers,5,22.0,48,Low (18-35),0.6,47.1,11.0,Middle Pressure Economy,10.68,6.97,20.53,8.27,Tier 4: Speculative / High-Risk
+4117,Ishan Kishan,Powerplay Batters,122,106.0,1262,High (100+),1.0,52.3,160.0,Powerplay Pressure SR,174.56,44.25,92.04,85.72,Tier 1: Priority RR Auction Target
+126,Rohit Sharma,Powerplay Batters,91,59.0,1084,Medium (50-99),0.85,67.0,145.45,Powerplay Pressure SR,178.27,65.31,83.09,81.66,Tier 1: Priority RR Auction Target
+28967,Tim Robinson,Powerplay Batters,26,30.0,285,Low (20-49),0.6,67.9,150.0,Powerplay Pressure SR,156.64,41.54,55.25,77.7,Tier 2: Core Squad Target
+6272,William Jacks,Powerplay Batters,62,59.0,319,Medium (50-99),0.85,45.8,166.67,Powerplay Pressure SR,162.67,30.63,64.99,76.03,Tier 2: Core Squad Target
+768,Reeza Hendricks,Powerplay Batters,34,112.0,443,High (100+),1.0,53.1,140.0,Powerplay Pressure SR,171.8,43.13,96.94,75.83,Tier 1: Priority RR Auction Target
+250,Aaron Finch,Powerplay Batters,21,29.0,229,Low (20-49),0.6,66.2,175.0,Powerplay Pressure SR,142.17,13.01,37.48,75.61,Tier 3: Tactical / Backup Option
+2671,Liton Das,Powerplay Batters,61,39.0,632,Low (20-49),0.6,55.5,183.33,Powerplay Pressure SR,168.89,69.82,45.61,75.51,Tier 3: Tactical / Backup Option
+4369,Shai Hope,Powerplay Batters,58,63.0,535,Medium (50-99),0.85,48.4,155.56,Powerplay Pressure SR,162.22,33.96,67.23,75.23,Tier 2: Core Squad Target
+7900,Tanzid Hasan,Powerplay Batters,44,24.0,521,Low (20-49),0.6,57.3,266.67,Powerplay Pressure SR,150.42,33.94,40.05,74.9,Tier 3: Tactical / Backup Option
+7216,Prabhsimran Singh,Powerplay Batters,63,51.0,756,Medium (50-99),0.85,64.5,140.0,Powerplay Pressure SR,167.64,31.32,67.76,73.62,Tier 2: Core Squad Target
+47,Virat Kohli,Powerplay Batters,92,84.0,1121,Medium (50-99),0.85,45.6,175.0,Powerplay Pressure SR,153.22,13.56,61.5,72.69,Tier 2: Core Squad Target
+3954,Andrew Balbirnie,Powerplay Batters,29,46.0,369,Low (20-49),0.6,64.9,140.0,Powerplay Pressure SR,163.87,71.01,44.6,67.99,Tier 3: Tactical / Backup Option
+3645,Sarfaraz Khan,Powerplay Batters,16,47.0,82,Low (20-49),0.6,36.6,203.23,Powerplay Pressure SR,165.27,64.63,48.99,67.96,Tier 3: Tactical / Backup Option
+220,David Warner,Powerplay Batters,45,116.0,612,High (100+),1.0,54.8,218.75,Powerplay Pressure SR,139.95,-7.62,54.04,66.95,Tier 2: Core Squad Target
+223,Steven Smith,Powerplay Batters,13,30.0,65,Low (20-49),0.6,35.3,200.0,Powerplay Pressure SR,152.89,51.73,44.7,66.32,Tier 3: Tactical / Backup Option
+813,Jos Buttler,Powerplay Batters,121,170.0,1286,High (100+),1.0,45.5,128.57,Powerplay Pressure SR,178.78,35.57,86.46,63.3,Tier 1: Priority RR Auction Target
+142,Shikhar Dhawan,Powerplay Batters,30,46.0,403,Low (20-49),0.6,53.2,137.5,Powerplay Pressure SR,148.24,23.48,51.17,63.04,Tier 2: Core Squad Target
+3672,Kusal Mendis,Powerplay Batters,67,29.0,735,Low (20-49),0.6,55.4,200.0,Powerplay Pressure SR,139.63,-3.13,29.29,62.73,Tier 4: Speculative / High-Risk
+953,Lokesh Rahul,Powerplay Batters,74,183.0,933,High (100+),1.0,46.3,138.24,Powerplay Pressure SR,149.92,11.09,71.05,62.01,Tier 1: Priority RR Auction Target
+781,Sunil Narine,Powerplay Batters,67,67.0,315,Medium (50-99),0.85,61.6,175.0,Powerplay Pressure SR,146.42,-24.99,38.24,61.4,Tier 2: Core Squad Target
+6288,Shubman Gill,Powerplay Batters,112,140.0,1355,High (100+),1.0,50.0,116.67,Powerplay Pressure SR,163.85,22.48,96.73,61.08,Tier 1: Priority RR Auction Target
+2258,Sanju Samson,Powerplay Batters,124,144.0,925,High (100+),1.0,41.4,129.41,Powerplay Pressure SR,163.56,16.6,81.18,59.4,Tier 1: Priority RR Auction Target
+3605,Aiden Markram,Powerplay Batters,95,217.0,615,High (100+),1.0,36.8,127.66,Powerplay Pressure SR,160.42,23.92,87.12,59.09,Tier 2: Core Squad Target
+728,Dawid Malan,Powerplay Batters,22,21.0,205,Low (20-49),0.6,44.9,136.36,Powerplay Pressure SR,145.51,17.8,42.07,55.57,Tier 3: Tactical / Backup Option
+818,Mitchell Marsh,Powerplay Batters,83,122.0,913,High (100+),1.0,53.0,133.33,Powerplay Pressure SR,149.02,-6.8,70.44,55.3,Tier 3: Tactical / Backup Option
+2379,Ben Duckett,Powerplay Batters,20,28.0,121,Low (20-49),0.6,35.9,162.5,Powerplay Pressure SR,146.55,-4.05,34.15,54.92,Tier 3: Tactical / Backup Option
+3024,Mohammad Rizwan,Powerplay Batters,37,97.0,534,Medium (50-99),0.85,46.4,112.81,Powerplay Pressure SR,160.76,45.56,83.09,53.85,Tier 1: Priority RR Auction Target
+6931,Pathum Nissanka,Powerplay Batters,75,91.0,1044,Medium (50-99),0.85,64.0,117.65,Powerplay Pressure SR,144.2,9.02,56.93,53.81,Tier 2: Core Squad Target
+88,Faf du Plessis,Powerplay Batters,54,61.0,709,Medium (50-99),0.85,55.6,146.67,Powerplay Pressure SR,136.32,-15.26,39.18,53.1,Tier 3: Tactical / Backup Option
+2573,Evin Lewis,Powerplay Batters,19,29.0,164,Low (20-49),0.6,59.6,112.81,Powerplay Pressure SR,163.69,54.27,56.4,53.08,Tier 2: Core Squad Target
+3639,Brandon King,Powerplay Batters,59,35.0,722,Low (20-49),0.6,63.6,112.81,Powerplay Pressure SR,161.54,54.62,49.3,53.08,Tier 3: Tactical / Backup Option
+3871,Aamir Kaleem,Powerplay Batters,6,23.0,71,Low (20-49),0.6,63.4,112.81,Powerplay Pressure SR,156.59,78.12,48.65,52.82,Tier 3: Tactical / Backup Option
+4007,Ryan Rickelton,Powerplay Batters,47,23.0,544,Low (20-49),0.6,63.6,112.81,Powerplay Pressure SR,155.22,21.24,47.99,52.72,Tier 3: Tactical / Backup Option
+19012,Zeeshan Ali,Powerplay Batters,12,22.0,103,Low (20-49),0.6,65.2,112.81,Powerplay Pressure SR,140.71,32.56,40.71,51.63,Tier 3: Tactical / Backup Option
+8726,Alishan Sharafu,Powerplay Batters,14,51.0,123,Medium (50-99),0.85,46.6,112.81,Powerplay Pressure SR,151.79,44.27,67.45,50.05,Tier 2: Core Squad Target
+3091,Sahibzada Farhan,Powerplay Batters,39,20.0,480,Low (20-49),0.6,59.0,112.81,Powerplay Pressure SR,153.3,38.35,40.57,48.83,Tier 3: Tactical / Backup Option
+1941,Devon Conway,Powerplay Batters,61,32.0,752,Low (20-49),0.6,50.6,112.81,Powerplay Pressure SR,154.04,37.11,50.08,47.49,Tier 2: Core Squad Target
+6467,Anuj Rawat,Powerplay Batters,21,92.0,98,Medium (50-99),0.85,35.4,112.81,Powerplay Pressure SR,150.93,54.89,72.11,46.23,Tier 1: Priority RR Auction Target
+930,Karun Nair,Powerplay Batters,12,20.0,73,Low (20-49),0.6,48.3,112.81,Powerplay Pressure SR,151.87,18.85,45.14,44.82,Tier 3: Tactical / Backup Option
+8600,Tadiwanashe Marumani,Powerplay Batters,40,43.0,291,Low (20-49),0.6,67.2,112.81,Powerplay Pressure SR,131.52,7.56,28.21,44.74,Tier 4: Speculative / High-Risk
+2485,Babar Azam,Powerplay Batters,52,103.0,517,High (100+),1.0,43.8,0.0,Powerplay Pressure SR,179.29,68.94,100.0,43.9,Tier 1: Priority RR Auction Target
+5553,Phil Salt,Powerplay Batters,84,65.0,978,Medium (50-99),0.85,59.5,60.0,Powerplay Pressure SR,170.71,22.33,70.92,43.63,Tier 1: Priority RR Auction Target
+1187,Jason Roy,Powerplay Batters,19,23.0,274,Low (20-49),0.6,71.0,50.0,Powerplay Pressure SR,157.96,63.54,49.31,43.32,Tier 3: Tactical / Backup Option
+7544,Venkatesh Iyer,Powerplay Batters,55,195.0,333,High (100+),1.0,35.3,111.11,Powerplay Pressure SR,154.0,10.15,74.49,42.13,Tier 1: Priority RR Auction Target
+24887,Innocent Kaia,Powerplay Batters,10,28.0,102,Low (20-49),0.6,61.8,112.81,Powerplay Pressure SR,132.45,3.41,33.28,42.05,Tier 3: Tactical / Backup Option
+4780,Mohammad Saif Hassan,Powerplay Batters,26,30.0,287,Low (20-49),0.6,57.6,100.0,Powerplay Pressure SR,144.14,22.6,40.69,40.94,Tier 3: Tactical / Backup Option
+19714,Abishek Porel,Powerplay Batters,33,86.0,259,Medium (50-99),0.85,49.0,120.0,Powerplay Pressure SR,141.4,-6.97,49.96,40.72,Tier 3: Tactical / Backup Option
+6281,Abhishek Sharma,Powerplay Batters,136,79.0,1570,Medium (50-99),0.85,67.8,111.11,Powerplay Pressure SR,159.15,-19.27,52.38,39.99,Tier 4: Speculative / High-Risk
+1568,Kane Williamson,Powerplay Batters,24,46.0,226,Low (20-49),0.6,42.2,112.81,Powerplay Pressure SR,135.74,17.09,36.33,39.24,Tier 3: Tactical / Backup Option
+6448,Ibrahim Zadran,Powerplay Batters,47,134.0,502,High (100+),1.0,44.6,80.95,Powerplay Pressure SR,135.5,16.97,84.48,39.24,Tier 1: Priority RR Auction Target
+6059,Ruturaj Gaikwad,Powerplay Batters,77,59.0,945,Medium (50-99),0.85,51.9,77.78,Powerplay Pressure SR,157.17,29.74,66.63,39.15,Tier 2: Core Squad Target
+167,Ajinkya Rahane,Powerplay Batters,56,42.0,552,Low (20-49),0.6,53.9,112.81,Powerplay Pressure SR,143.82,3.9,32.16,38.42,Tier 3: Tactical / Backup Option
+6819,Yashasvi Jaiswal,Powerplay Batters,89,34.0,1187,Low (20-49),0.6,63.4,0.0,Powerplay Pressure SR,167.04,44.45,43.19,38.42,Tier 3: Tactical / Backup Option
+6674,Rahmanullah Gurbaz,Powerplay Batters,69,20.0,736,Low (20-49),0.6,65.5,116.67,Powerplay Pressure SR,137.59,-10.92,24.64,38.38,Tier 4: Speculative / High-Risk
+6466,Atharwa Taide,Powerplay Batters,10,23.0,103,Low (20-49),0.6,58.2,112.81,Powerplay Pressure SR,142.89,-8.92,30.0,35.0,Tier 3: Tactical / Backup Option
+23311,Jacob Bethell,Powerplay Batters,33,41.0,179,Low (20-49),0.6,39.5,100.0,Powerplay Pressure SR,155.29,22.66,48.26,34.79,Tier 3: Tactical / Backup Option
+2921,Fakhar Zaman,Powerplay Batters,47,88.0,340,Medium (50-99),0.85,39.4,50.0,Powerplay Pressure SR,161.09,43.48,71.21,34.76,Tier 1: Priority RR Auction Target
+24017,Brian Bennett,Powerplay Batters,44,39.0,482,Low (20-49),0.6,60.8,62.5,Powerplay Pressure SR,144.17,15.87,38.63,34.57,Tier 4: Speculative / High-Risk
+8647,Sediqullah Atal,Powerplay Batters,38,39.0,390,Low (20-49),0.6,47.4,82.35,Powerplay Pressure SR,163.27,61.64,55.78,34.48,Tier 2: Core Squad Target
+6664,Dion Myers,Powerplay Batters,20,58.0,147,Medium (50-99),0.85,43.2,66.67,Powerplay Pressure SR,140.11,37.98,61.45,34.02,Tier 2: Core Squad Target
+4867,Wesley Madhevere,Powerplay Batters,30,70.0,190,Medium (50-99),0.85,44.5,78.57,Powerplay Pressure SR,140.26,42.18,58.06,33.74,Tier 3: Tactical / Backup Option
+4854,Rachin Ravindra,Powerplay Batters,46,83.0,287,Medium (50-99),0.85,49.3,100.0,Powerplay Pressure SR,145.35,3.9,49.87,33.51,Tier 3: Tactical / Backup Option
+992,Mayank Agarwal,Powerplay Batters,30,35.0,301,Low (20-49),0.6,61.3,112.81,Powerplay Pressure SR,132.13,-14.0,23.69,32.9,Tier 4: Speculative / High-Risk
+772,Rilee Rossouw,Powerplay Batters,26,39.0,134,Low (20-49),0.6,32.1,136.36,Powerplay Pressure SR,143.05,-34.63,25.58,32.89,Tier 4: Speculative / High-Risk
+3727,Matthew Short,Powerplay Batters,31,78.0,259,Medium (50-99),0.85,61.7,111.76,Powerplay Pressure SR,131.5,-22.24,33.33,32.62,Tier 4: Speculative / High-Risk
+1481,Kusal Perera,Powerplay Batters,32,43.0,142,Low (20-49),0.6,25.0,100.0,Powerplay Pressure SR,157.32,38.95,46.45,32.33,Tier 3: Tactical / Backup Option
+3377,Babar Hayat,Powerplay Batters,14,68.0,112,Medium (50-99),0.85,29.5,58.33,Powerplay Pressure SR,144.33,31.3,60.27,30.07,Tier 2: Core Squad Target
+23450,Sai Sudharsan,Powerplay Batters,57,96.0,737,Medium (50-99),0.85,43.7,80.0,Powerplay Pressure SR,151.58,6.4,57.43,28.13,Tier 2: Core Squad Target
+6342,Matthew Breetzke,Powerplay Batters,14,25.0,67,Low (20-49),0.6,45.3,100.0,Powerplay Pressure SR,136.42,4.55,31.53,27.37,Tier 3: Tactical / Backup Option
+2101,Quinton de Kock,Powerplay Batters,66,81.0,726,Medium (50-99),0.85,57.5,66.67,Powerplay Pressure SR,143.75,-8.19,50.11,26.97,Tier 2: Core Squad Target
+3280,Nazmul Hossain Shanto,Powerplay Batters,28,49.0,198,Low (20-49),0.6,38.8,82.35,Powerplay Pressure SR,137.69,18.68,41.11,26.48,Tier 3: Tactical / Backup Option
+1205,Jonny Bairstow,Powerplay Batters,33,76.0,335,Medium (50-99),0.85,49.8,16.67,Powerplay Pressure SR,143.11,-8.48,51.57,23.78,Tier 2: Core Squad Target
+8741,Mohammad Haris,Powerplay Batters,34,43.0,192,Low (20-49),0.6,47.2,0.0,Powerplay Pressure SR,136.9,-6.43,26.27,17.07,Tier 4: Speculative / High-Risk
+4814,Lorcan Tucker,Powerplay Batters,40,79.0,195,Medium (50-99),0.85,29.3,71.43,Powerplay Pressure SR,129.7,-6.33,41.63,15.53,Tier 3: Tactical / Backup Option
+27137,Hammad Mirza,Powerplay Batters,9,61.0,75,Medium (50-99),0.85,46.9,50.0,Powerplay Pressure SR,134.52,-18.21,36.82,15.15,Tier 3: Tactical / Backup Option
+1440,Rahul Tripathi,Powerplay Batters,43,53.0,321,Medium (50-99),0.85,45.0,16.67,Powerplay Pressure SR,134.28,-17.44,35.74,14.35,Tier 3: Tactical / Backup Option
+6314,Devdutt Padikkal,Powerplay Batters,60,66.0,389,Medium (50-99),0.85,39.0,66.67,Powerplay Pressure SR,133.03,-15.67,36.01,12.39,Tier 3: Tactical / Backup Option
+4736,Josh Inglis,Powerplay Batters,56,55.0,353,Medium (50-99),0.85,39.0,33.33,Powerplay Pressure SR,139.35,-29.76,34.81,10.5,Tier 3: Tactical / Backup Option
+7942,Jay Odedara,Powerplay Bowlers,3,18.0,42,Low (18-35),0.6,77.8,5.67,Powerplay Pressure Economy,8.14,-3.83,50.8,86.71,Tier 2: Core Squad Target
+1566,Mohammed Shami,Powerplay Bowlers,57,143.0,840,High (75+),1.0,65.9,4.3,Powerplay Pressure Economy,7.88,-0.95,83.18,84.87,Tier 1: Priority RR Auction Target
+6355,Shaheen Afridi,Powerplay Bowlers,47,122.0,578,High (75+),1.0,58.4,4.2,Powerplay Pressure Economy,7.15,-1.29,91.38,84.61,Tier 2: Core Squad Target
+28,Ishant Sharma,Powerplay Bowlers,24,56.0,258,Medium (36-74),0.85,61.1,6.25,Powerplay Pressure Economy,8.04,-2.03,65.82,79.66,Tier 2: Core Squad Target
+17424,Graham Hume,Powerplay Bowlers,10,39.0,90,Medium (36-74),0.85,47.9,4.0,Powerplay Pressure Economy,8.26,-2.51,69.92,78.2,Tier 2: Core Squad Target
+6450,Mujeeb Ur Rahman,Powerplay Bowlers,38,107.0,420,High (75+),1.0,51.2,4.86,Powerplay Pressure Economy,7.27,-0.26,87.73,77.42,Tier 1: Priority RR Auction Target
+6669,Mohsin Khan,Powerplay Bowlers,30,82.0,318,High (75+),1.0,48.6,1.0,Powerplay Pressure Economy,8.0,-0.87,83.55,77.05,Tier 1: Priority RR Auction Target
+278,Tim Southee,Powerplay Bowlers,36,122.0,408,High (75+),1.0,49.4,5.55,Powerplay Pressure Economy,8.17,-0.29,81.9,75.24,Tier 1: Priority RR Auction Target
+7344,Shoriful Islam,Powerplay Bowlers,39,125.0,417,High (75+),1.0,52.8,5.24,Powerplay Pressure Economy,8.21,-0.12,75.78,74.71,Tier 1: Priority RR Auction Target
+3720,Craig Young,Powerplay Bowlers,23,75.0,168,High (75+),1.0,36.1,4.0,Powerplay Pressure Economy,7.8,-1.68,84.18,74.05,Tier 1: Priority RR Auction Target
+2320,Trent Boult,Powerplay Bowlers,70,186.0,960,High (75+),1.0,62.2,6.0,Powerplay Pressure Economy,8.93,0.79,66.44,73.84,Tier 2: Core Squad Target
+19020,Ateeq Iqbal,Powerplay Bowlers,9,30.0,120,Low (18-35),0.6,75.5,4.5,Powerplay Pressure Economy,8.75,0.7,40.69,73.56,Tier 3: Tactical / Backup Option
+17898,Bilal Sami,Powerplay Bowlers,7,42.0,84,Medium (36-74),0.85,59.6,5.5,Powerplay Pressure Economy,8.71,-0.1,57.62,73.13,Tier 2: Core Squad Target
+5837,Mahedi Hasan,Powerplay Bowlers,42,94.0,420,High (75+),1.0,46.0,5.78,Powerplay Pressure Economy,7.53,-0.06,82.2,73.1,Tier 2: Core Squad Target
+8746,Vaibhav Arora,Powerplay Bowlers,44,106.0,558,High (75+),1.0,62.3,6.0,Powerplay Pressure Economy,9.65,0.67,59.68,72.53,Tier 2: Core Squad Target
+6628,Gerald Coetzee,Powerplay Bowlers,29,112.0,222,High (75+),1.0,37.5,4.32,Powerplay Pressure Economy,8.24,-1.23,77.69,71.72,Tier 2: Core Squad Target
+403,Umesh Yadav,Powerplay Bowlers,29,32.0,384,Low (18-35),0.6,68.8,4.29,Powerplay Pressure Economy,8.93,0.01,36.78,71.69,Tier 3: Tactical / Backup Option
+2681,Taskin Ahmed,Powerplay Bowlers,46,153.0,486,High (75+),1.0,46.7,4.25,Powerplay Pressure Economy,8.13,0.2,75.48,70.98,Tier 2: Core Squad Target
+6523,Blessing Muzarabani,Powerplay Bowlers,37,204.0,447,High (75+),1.0,54.5,5.86,Powerplay Pressure Economy,8.28,1.15,72.74,70.91,Tier 1: Priority RR Auction Target
+22920,Jacob Duffy,Powerplay Bowlers,42,88.0,516,High (75+),1.0,58.8,6.5,Powerplay Pressure Economy,8.68,0.07,67.49,70.76,Tier 2: Core Squad Target
+830,Josh Hazlewood,Powerplay Bowlers,65,135.0,798,High (75+),1.0,54.1,3.5,Powerplay Pressure Economy,8.92,0.76,67.69,70.62,Tier 2: Core Squad Target
+32862,Allah Ghazanfar,Powerplay Bowlers,22,69.0,228,Medium (36-74),0.85,49.5,5.77,Powerplay Pressure Economy,8.24,-0.29,62.7,70.47,Tier 2: Core Squad Target
+4807,Joshua Little,Powerplay Bowlers,36,106.0,330,High (75+),1.0,42.3,6.33,Powerplay Pressure Economy,7.87,-0.6,79.34,69.74,Tier 1: Priority RR Auction Target
+5809,Naveen ul Haq,Powerplay Bowlers,37,95.0,342,High (75+),1.0,43.5,2.0,Powerplay Pressure Economy,8.71,0.01,69.27,68.57,Tier 2: Core Squad Target
+4874,Richard Ngarava,Powerplay Bowlers,39,217.0,474,High (75+),1.0,56.0,6.65,Powerplay Pressure Economy,8.33,0.63,71.49,67.63,Tier 1: Priority RR Auction Target
+470,Mohammad Amir,Powerplay Bowlers,7,24.0,84,Low (18-35),0.6,57.5,7.26,Powerplay Pressure Economy,8.12,-2.95,48.4,67.04,Tier 3: Tactical / Backup Option
+4641,Lungi Ngidi,Powerplay Bowlers,39,103.0,387,High (75+),1.0,48.5,2.0,Powerplay Pressure Economy,9.33,0.82,62.74,66.72,Tier 2: Core Squad Target
+360,Bhuvneshwar Kumar,Powerplay Bowlers,101,328.0,1338,High (75+),1.0,60.2,6.0,Powerplay Pressure Economy,9.51,1.84,52.12,66.23,Tier 3: Tactical / Backup Option
+5441,Barry McCarthy,Powerplay Bowlers,29,109.0,258,High (75+),1.0,41.7,5.6,Powerplay Pressure Economy,8.7,0.41,67.37,66.08,Tier 2: Core Squad Target
+3298,Jofra Archer,Powerplay Bowlers,56,189.0,708,High (75+),1.0,56.2,3.5,Powerplay Pressure Economy,9.87,1.62,52.63,65.24,Tier 3: Tactical / Backup Option
+6676,Azmatullah Omarzai,Powerplay Bowlers,68,125.0,582,High (75+),1.0,54.5,3.67,Powerplay Pressure Economy,9.7,1.56,54.55,65.14,Tier 2: Core Squad Target
+2417,Akeal Hosein,Powerplay Bowlers,79,86.0,792,High (75+),1.0,46.8,6.58,Powerplay Pressure Economy,8.32,0.37,71.98,64.99,Tier 1: Priority RR Auction Target
+29066,Zakary Foulkes,Powerplay Bowlers,18,42.0,168,Medium (36-74),0.85,46.2,7.26,Powerplay Pressure Economy,8.4,-1.24,66.37,62.69,Tier 2: Core Squad Target
+7756,Kaleem Sana,Powerplay Bowlers,3,24.0,42,Low (18-35),0.6,62.7,6.33,Powerplay Pressure Economy,8.52,1.81,38.68,61.41,Tier 3: Tactical / Backup Option
+2933,Jasprit Bumrah,Powerplay Bowlers,75,220.0,750,High (75+),1.0,43.9,6.89,Powerplay Pressure Economy,7.67,0.63,75.01,61.2,Tier 1: Priority RR Auction Target
+2315,Reece Topley,Powerplay Bowlers,29,86.0,352,High (75+),1.0,57.2,3.0,Powerplay Pressure Economy,10.39,2.58,44.95,61.12,Tier 3: Tactical / Backup Option
+7312,Nandre Burger,Powerplay Bowlers,22,43.0,264,Medium (36-74),0.85,59.9,7.26,Powerplay Pressure Economy,9.44,0.37,51.93,60.34,Tier 2: Core Squad Target
+1813,Deepak Chahar,Powerplay Bowlers,48,90.0,691,High (75+),1.0,75.4,7.67,Powerplay Pressure Economy,9.91,1.59,52.05,60.32,Tier 2: Core Squad Target
+24767,Ripon Mondol,Powerplay Bowlers,10,38.0,120,Medium (36-74),0.85,52.6,7.26,Powerplay Pressure Economy,8.29,-0.1,58.95,60.29,Tier 2: Core Squad Target
+8295,Matthew Forde,Powerplay Bowlers,21,54.0,246,Medium (36-74),0.85,60.3,7.15,Powerplay Pressure Economy,9.68,0.96,52.26,59.73,Tier 2: Core Squad Target
+4658,Nasum Ahmed,Powerplay Bowlers,30,32.0,294,Low (18-35),0.6,49.0,7.26,Powerplay Pressure Economy,7.79,-1.66,41.98,59.12,Tier 3: Tactical / Backup Option
+25132,Praful Hinge,Powerplay Bowlers,7,36.0,66,Medium (36-74),0.85,42.3,4.0,Powerplay Pressure Economy,10.52,0.82,41.77,58.73,Tier 3: Tactical / Backup Option
+26514,Nimesh Vimukthi,Powerplay Bowlers,4,20.0,42,Low (18-35),0.6,43.8,4.5,Powerplay Pressure Economy,9.13,0.49,33.74,58.35,Tier 3: Tactical / Backup Option
+286,Kane Richardson,Powerplay Bowlers,9,21.0,72,Low (18-35),0.6,36.4,7.26,Powerplay Pressure Economy,8.34,-2.55,49.11,57.8,Tier 3: Tactical / Backup Option
+4816,Khaleel Ahmed,Powerplay Bowlers,56,163.0,762,High (75+),1.0,63.6,7.0,Powerplay Pressure Economy,10.41,2.45,49.82,57.32,Tier 3: Tactical / Backup Option
+1487,Adam Milne,Powerplay Bowlers,26,76.0,294,High (75+),1.0,53.9,7.38,Powerplay Pressure Economy,9.6,0.9,60.27,57.25,Tier 2: Core Squad Target
+3664,Binura Fernando,Powerplay Bowlers,16,39.0,192,Medium (36-74),0.85,56.1,6.67,Powerplay Pressure Economy,9.7,1.86,43.83,56.91,Tier 3: Tactical / Backup Option
+6677,Mohammad Hasnain,Powerplay Bowlers,10,39.0,114,Medium (36-74),0.85,51.4,4.0,Powerplay Pressure Economy,10.58,3.3,38.06,56.78,Tier 3: Tactical / Backup Option
+25030,Zaman Khan,Powerplay Bowlers,12,35.0,132,Low (18-35),0.6,57.1,4.0,Powerplay Pressure Economy,9.74,3.38,26.74,56.53,Tier 4: Speculative / High-Risk
+7696,Mohammad Wasim,Powerplay Bowlers,17,74.0,162,Medium (36-74),0.85,45.6,5.0,Powerplay Pressure Economy,9.83,2.24,43.12,56.29,Tier 3: Tactical / Backup Option
+6806,Tushar Deshpande,Powerplay Bowlers,50,171.0,510,High (75+),1.0,49.2,6.86,Powerplay Pressure Economy,10.35,1.35,51.46,55.74,Tier 2: Core Squad Target
+4409,Sam Curran,Powerplay Bowlers,75,226.0,474,High (75+),1.0,35.1,5.33,Powerplay Pressure Economy,10.24,1.37,49.15,55.73,Tier 2: Core Squad Target
+4438,Jasdeep Singh,Powerplay Bowlers,4,18.0,42,Low (18-35),0.6,46.7,7.26,Powerplay Pressure Economy,8.81,-1.0,38.9,55.33,Tier 3: Tactical / Backup Option
+5189,Faheem Ashraf,Powerplay Bowlers,37,32.0,186,Low (18-35),0.6,42.1,8.0,Powerplay Pressure Economy,7.79,-2.44,50.2,54.52,Tier 2: Core Squad Target
+5379,Mark Adair,Powerplay Bowlers,40,157.0,456,High (75+),1.0,54.0,7.12,Powerplay Pressure Economy,9.74,2.04,54.59,54.5,Tier 2: Core Squad Target
+21784,Brad Evans,Powerplay Bowlers,21,106.0,192,High (75+),1.0,43.8,6.5,Powerplay Pressure Economy,9.98,1.95,50.56,54.22,Tier 3: Tactical / Backup Option
+29888,Harshit Rana,Powerplay Bowlers,45,68.0,432,Medium (36-74),0.85,47.9,7.26,Powerplay Pressure Economy,9.59,0.53,47.46,53.45,Tier 3: Tactical / Backup Option
+5944,Mohammed Siraj,Powerplay Bowlers,83,179.0,1146,High (75+),1.0,63.5,7.38,Powerplay Pressure Economy,10.55,2.73,45.94,53.09,Tier 3: Tactical / Backup Option
+4505,Jhye Richardson,Powerplay Bowlers,5,24.0,54,Low (18-35),0.6,45.0,7.26,Powerplay Pressure Economy,8.72,-0.56,36.28,52.61,Tier 3: Tactical / Backup Option
+1219,David Willey,Powerplay Bowlers,19,47.0,239,Medium (36-74),0.85,62.9,7.26,Powerplay Pressure Economy,9.63,2.44,39.99,52.5,Tier 3: Tactical / Backup Option
+2399,Dushmantha Chameera,Powerplay Bowlers,53,191.0,504,High (75+),1.0,43.8,7.44,Powerplay Pressure Economy,9.31,0.99,62.05,52.43,Tier 2: Core Squad Target
+2054,Jason Behrendorff,Powerplay Bowlers,20,30.0,264,Low (18-35),0.6,60.3,7.26,Powerplay Pressure Economy,9.48,1.16,27.18,51.97,Tier 4: Speculative / High-Risk
+5750,Ehsan Khan,Powerplay Bowlers,14,60.0,114,Medium (36-74),0.85,35.3,7.41,Powerplay Pressure Economy,7.89,0.16,64.32,51.95,Tier 2: Core Squad Target
+6464,Arshdeep Singh,Powerplay Bowlers,147,478.0,1650,High (75+),1.0,51.5,8.17,Powerplay Pressure Economy,9.27,0.76,60.82,50.41,Tier 3: Tactical / Backup Option
+3174,Matt Henry,Powerplay Bowlers,30,44.0,384,Medium (36-74),0.85,61.7,7.26,Powerplay Pressure Economy,11.04,3.59,34.16,50.34,Tier 3: Tactical / Backup Option
+8614,William ORourke,Powerplay Bowlers,8,23.0,78,Low (18-35),0.6,42.9,7.26,Powerplay Pressure Economy,9.08,0.23,35.76,49.16,Tier 3: Tactical / Backup Option
+295,Wayne Parnell,Powerplay Bowlers,18,44.0,228,Medium (36-74),0.85,57.0,7.26,Powerplay Pressure Economy,10.44,2.88,33.95,48.19,Tier 3: Tactical / Backup Option
+829,Mitchell Starc,Powerplay Bowlers,40,92.0,456,High (75+),1.0,56.8,8.75,Powerplay Pressure Economy,9.67,0.73,57.3,47.32,Tier 2: Core Squad Target
+6515,Benjamin Lister,Powerplay Bowlers,12,54.0,138,Medium (36-74),0.85,56.3,8.5,Powerplay Pressure Economy,9.02,1.05,52.33,46.91,Tier 2: Core Squad Target
+19312,Nuwan Thushara,Powerplay Bowlers,38,128.0,451,High (75+),1.0,58.2,8.85,Powerplay Pressure Economy,9.3,1.03,59.44,46.78,Tier 2: Core Squad Target
+4901,Asitha Fernando,Powerplay Bowlers,6,20.0,60,Low (18-35),0.6,50.0,7.26,Powerplay Pressure Economy,10.1,1.44,27.27,46.58,Tier 4: Speculative / High-Risk
+3623,Hasan Ali,Powerplay Bowlers,8,36.0,84,Medium (36-74),0.85,53.2,8.0,Powerplay Pressure Economy,10.35,1.25,42.93,46.56,Tier 3: Tactical / Backup Option
+3660,Luke Wood,Powerplay Bowlers,17,44.0,216,Medium (36-74),0.85,66.7,8.0,Powerplay Pressure Economy,11.19,3.7,29.61,45.48,Tier 4: Speculative / High-Risk
+6518,Daniel Sams,Powerplay Bowlers,17,41.0,168,Medium (36-74),0.85,48.0,7.26,Powerplay Pressure Economy,10.07,2.72,37.16,44.99,Tier 3: Tactical / Backup Option
+3641,Ben Dwarshuis,Powerplay Bowlers,14,39.0,138,Medium (36-74),0.85,42.6,7.26,Powerplay Pressure Economy,10.18,2.23,39.55,43.99,Tier 3: Tactical / Backup Option
+8049,Naseem Shah,Powerplay Bowlers,27,75.0,294,High (75+),1.0,51.0,8.5,Powerplay Pressure Economy,9.58,1.57,56.23,43.98,Tier 2: Core Squad Target
+1159,Tendai Chatara,Powerplay Bowlers,10,29.0,108,Low (18-35),0.6,49.8,7.38,Powerplay Pressure Economy,9.44,3.01,32.65,43.69,Tier 3: Tactical / Backup Option
+6237,Manimaran Siddharth,Powerplay Bowlers,9,21.0,72,Low (18-35),0.6,38.7,7.26,Powerplay Pressure Economy,9.5,1.16,31.63,43.5,Tier 3: Tactical / Backup Option
+19316,Maheesh Theekshana,Powerplay Bowlers,99,265.0,924,High (75+),1.0,40.8,8.14,Powerplay Pressure Economy,8.94,1.48,59.36,43.36,Tier 3: Tactical / Backup Option
+2985,Mark Wood,Powerplay Bowlers,13,29.0,108,Low (18-35),0.6,38.4,7.26,Powerplay Pressure Economy,9.25,1.5,34.44,43.06,Tier 3: Tactical / Backup Option
+7533,Simarjeet Singh,Powerplay Bowlers,14,24.0,126,Low (18-35),0.6,52.5,7.26,Powerplay Pressure Economy,10.52,3.11,20.8,42.9,Tier 4: Speculative / High-Risk
+27964,Anshul Kamboj,Powerplay Bowlers,28,42.0,324,Medium (36-74),0.85,59.4,8.0,Powerplay Pressure Economy,11.09,3.17,30.76,42.56,Tier 3: Tactical / Backup Option
+5892,Blair Tickner,Powerplay Bowlers,11,36.0,84,Medium (36-74),0.85,39.1,7.26,Powerplay Pressure Economy,10.19,2.15,37.45,42.14,Tier 3: Tactical / Backup Option
+24372,Muzahir Raza,Powerplay Bowlers,6,21.0,66,Low (18-35),0.6,73.3,8.67,Powerplay Pressure Economy,9.81,2.83,23.8,41.63,Tier 4: Speculative / High-Risk
+33969,Tinotenda Maposa,Powerplay Bowlers,12,22.0,78,Low (18-35),0.6,44.3,7.26,Powerplay Pressure Economy,10.06,2.26,25.25,41.09,Tier 4: Speculative / High-Risk
+4276,Basil Thampi,Powerplay Bowlers,5,18.0,42,Low (18-35),0.6,43.8,7.26,Powerplay Pressure Economy,9.92,2.31,25.98,40.87,Tier 4: Speculative / High-Risk
+4857,Nathan Smith,Powerplay Bowlers,6,25.0,36,Low (18-35),0.6,35.3,7.26,Powerplay Pressure Economy,9.96,1.14,24.68,40.3,Tier 4: Speculative / High-Risk
+6025,Henry Shipley,Powerplay Bowlers,4,21.0,36,Low (18-35),0.6,46.2,7.26,Powerplay Pressure Economy,10.45,2.5,20.66,40.04,Tier 4: Speculative / High-Risk
+6772,Chetan Sakariya,Powerplay Bowlers,6,21.0,60,Low (18-35),0.6,45.5,7.26,Powerplay Pressure Economy,10.23,3.33,21.74,40.0,Tier 4: Speculative / High-Risk
+3628,Kagiso Rabada,Powerplay Bowlers,69,214.0,876,High (75+),1.0,57.1,8.79,Powerplay Pressure Economy,10.78,2.52,43.52,38.4,Tier 2: Core Squad Target
+3727,Matthew Short,Powerplay Bowlers,31,18.0,66,Low (18-35),0.6,43.7,7.26,Powerplay Pressure Economy,11.03,4.72,15.65,37.7,Tier 4: Speculative / High-Risk
+7364,Haris Rauf,Powerplay Bowlers,48,175.0,378,High (75+),1.0,36.8,9.25,Powerplay Pressure Economy,8.94,0.57,67.06,37.36,Tier 2: Core Squad Target
+2411,Sandeep Sharma,Powerplay Bowlers,43,176.0,438,High (75+),1.0,45.6,8.44,Powerplay Pressure Economy,10.37,2.35,43.47,36.5,Tier 3: Tactical / Backup Option
+7240,FazalHaq Farooqi,Powerplay Bowlers,50,118.0,588,High (75+),1.0,57.3,9.0,Powerplay Pressure Economy,10.64,3.51,40.23,35.95,Tier 3: Tactical / Backup Option
+7473,Akash Deep,Powerplay Bowlers,14,21.0,120,Low (18-35),0.6,43.2,7.26,Powerplay Pressure Economy,12.23,6.56,9.32,35.88,Tier 4: Speculative / High-Risk
+8805,Ottneil Baartman,Powerplay Bowlers,16,31.0,120,Low (18-35),0.6,37.2,7.26,Powerplay Pressure Economy,11.04,4.65,18.73,35.56,Tier 4: Speculative / High-Risk
+1772,Sheldon Cottrell,Powerplay Bowlers,11,37.0,132,Medium (36-74),0.85,61.4,9.0,Powerplay Pressure Economy,10.46,3.52,30.24,35.29,Tier 3: Tactical / Backup Option
+6932,Pramod Madushan,Powerplay Bowlers,7,26.0,54,Low (18-35),0.6,37.2,9.0,Powerplay Pressure Economy,8.54,-0.59,35.65,35.18,Tier 3: Tactical / Backup Option
+27960,Mayank Yadav,Powerplay Bowlers,22,33.0,186,Low (18-35),0.6,37.7,7.26,Powerplay Pressure Economy,12.19,6.86,14.36,34.72,Tier 4: Speculative / High-Risk
+5562,Richard Gleeson,Powerplay Bowlers,9,18.0,72,Low (18-35),0.6,37.1,7.26,Powerplay Pressure Economy,11.14,6.35,15.11,34.64,Tier 4: Speculative / High-Risk
+19125,Ayush Shukla,Powerplay Bowlers,10,29.0,126,Low (18-35),0.6,70.0,9.5,Powerplay Pressure Economy,11.19,5.15,22.18,33.1,Tier 4: Speculative / High-Risk
+7250,Mukesh Choudhary,Powerplay Bowlers,24,42.0,330,Medium (36-74),0.85,68.3,10.29,Powerplay Pressure Economy,10.17,1.88,38.74,32.04,Tier 3: Tactical / Backup Option
+5738,Xavier Bartlett,Powerplay Bowlers,31,91.0,339,High (75+),1.0,54.3,14.5,Powerplay Pressure Economy,9.18,0.08,61.41,31.2,Tier 2: Core Squad Target
+6354,Spencer Johnson,Powerplay Bowlers,23,42.0,240,Medium (36-74),0.85,54.8,18.0,Powerplay Pressure Economy,9.02,-0.14,56.49,30.84,Tier 2: Core Squad Target
+7201,Haroon Arshad,Powerplay Bowlers,5,24.0,42,Low (18-35),0.6,58.3,9.5,Powerplay Pressure Economy,11.02,3.5,20.62,27.53,Tier 4: Speculative / High-Risk
+7322,Yash Dayal,Powerplay Bowlers,43,110.0,438,High (75+),1.0,50.3,11.54,Powerplay Pressure Economy,9.66,0.76,55.85,25.98,Tier 2: Core Squad Target
+2416,Kyle Mayers,Powerplay Bowlers,47,19.0,114,Low (18-35),0.6,82.6,11.0,Powerplay Pressure Economy,10.28,4.44,20.6,25.15,Tier 4: Speculative / High-Risk
+8326,Jayden Seales,Powerplay Bowlers,9,31.0,96,Low (18-35),0.6,53.3,15.33,Powerplay Pressure Economy,9.6,-0.28,33.44,24.85,Tier 3: Tactical / Backup Option
+19530,Shahnawaz Dhani,Powerplay Bowlers,12,38.0,150,Medium (36-74),0.85,63.6,10.62,Powerplay Pressure Economy,10.64,4.6,33.94,24.22,Tier 3: Tactical / Backup Option
+8009,Junaid Siddique,Powerplay Bowlers,15,56.0,150,Medium (36-74),0.85,45.5,10.0,Powerplay Pressure Economy,9.8,2.32,42.49,23.81,Tier 3: Tactical / Backup Option
+7808,Marco Jansen,Powerplay Bowlers,60,161.0,678,High (75+),1.0,51.5,11.25,Powerplay Pressure Economy,10.21,1.49,50.32,22.93,Tier 2: Core Squad Target
+28655,Muhammad Rohid,Powerplay Bowlers,9,27.0,126,Low (18-35),0.6,70.8,12.0,Powerplay Pressure Economy,10.31,3.93,23.22,21.71,Tier 4: Speculative / High-Risk
+5041,Mukesh Kumar,Powerplay Bowlers,59,197.0,492,High (75+),1.0,42.9,10.94,Powerplay Pressure Economy,10.21,0.93,51.14,21.47,Tier 2: Core Squad Target
+47050,Shamar Joseph,Powerplay Bowlers,24,75.0,180,High (75+),1.0,38.2,18.0,Powerplay Pressure Economy,9.63,0.37,53.36,21.16,Tier 2: Core Squad Target
+7689,Dilshan Madushanka,Powerplay Bowlers,19,39.0,204,Medium (36-74),0.85,56.4,13.6,Powerplay Pressure Economy,10.18,2.15,38.76,20.23,Tier 3: Tactical / Backup Option
+20005,Arshad Khan,Powerplay Bowlers,25,43.0,186,Medium (36-74),0.85,49.5,18.0,Powerplay Pressure Economy,11.03,2.29,33.28,15.38,Tier 3: Tactical / Backup Option
+4201,Fareed Malik,Powerplay Bowlers,17,67.0,114,Medium (36-74),0.85,37.0,12.0,Powerplay Pressure Economy,10.15,1.21,40.85,14.98,Tier 3: Tactical / Backup Option
+3697,Kyle Jamieson,Powerplay Bowlers,30,60.0,324,Medium (36-74),0.85,51.7,11.0,Powerplay Pressure Economy,11.45,3.68,27.8,14.36,Tier 4: Speculative / High-Risk
+2483,Lizaad Williams,Powerplay Bowlers,14,29.0,132,Low (18-35),0.6,51.0,12.0,Powerplay Pressure Economy,10.45,2.03,22.89,14.23,Tier 4: Speculative / High-Risk
+1758,Patrick Cummins,Powerplay Bowlers,54,183.0,492,High (75+),1.0,40.5,12.5,Powerplay Pressure Economy,10.56,2.23,42.11,13.78,Tier 2: Core Squad Target
+3330,Hardik Pandya,Powerplay Bowlers,129,132.0,666,High (75+),1.0,36.5,12.0,Powerplay Pressure Economy,10.51,2.31,44.59,12.38,Tier 2: Core Squad Target
+37572,Shafiq Jan,Powerplay Bowlers,3,28.0,36,Low (18-35),0.6,50.0,13.0,Powerplay Pressure Economy,10.8,5.96,21.54,12.05,Tier 4: Speculative / High-Risk
+4790,Lutho Sipamla,Powerplay Bowlers,5,18.0,48,Low (18-35),0.6,43.6,12.5,Powerplay Pressure Economy,11.03,3.44,21.71,9.27,Tier 4: Speculative / High-Risk
+26663,Kwena Maphaka,Powerplay Bowlers,16,30.0,108,Low (18-35),0.6,35.4,12.0,Powerplay Pressure Economy,11.29,4.02,16.79,4.38,Tier 4: Speculative / High-Risk

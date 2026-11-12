@@ -1,0 +1,4 @@
+Group,Total Deliveries,Bat Pressure Count,Bat Pressure %,Bowl Pressure Count,Bowl Pressure %,Either Pressure Count,Either Pressure %
+Group A: All Deliveries,200961,51079,25.42,24107,12.0,65414,32.55
+Group B: Without Uncertainty (Flag == False),34360,1976,5.75,1987,5.78,3795,11.04
+Group C: With Uncertainty (Flag == True),166601,49103,29.47,22120,13.28,61619,36.99

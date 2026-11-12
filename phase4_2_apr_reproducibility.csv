@@ -1,0 +1,7 @@
+player_id,player_name,discipline,assigned_role,raw_input_1,norm_input_1,weight_1,pts_1,raw_input_2,norm_input_2,weight_2,pts_2,raw_input_3,norm_input_3,weight_3,pts_3,confidence_multiplier_w_conf,weight_conf,pts_conf,independent_recomputed_apr,stored_pipeline_apr,reproducibility_delta,reproducibility_status
+6396,Tim David,Batting,Designated Finisher,ShrunkSR=188.05,1.0,0.4,40.0,ShrunkAvg=34.65,0.8712,0.25,21.78,SRDelta=26.22,1.0,0.2,20.0,1.0,0.15,15.0,96.78,96.78,0.0,EXACT MATCH
+20702,Tristan Stubbs,Batting,Designated Finisher,ShrunkSR=171.57,1.0,0.4,40.0,ShrunkAvg=39.76,1.0,0.25,25.0,SRDelta=44.76,1.0,0.2,20.0,1.0,0.15,15.0,100.0,100.0,0.0,EXACT MATCH
+4260,Heinrich Klaasen,Batting,Designated Finisher,ShrunkSR=170.79,1.0,0.4,40.0,ShrunkAvg=26.81,0.5696,0.25,14.24,SRDelta=10.18,0.7545,0.2,15.09,1.0,0.15,15.0,84.33,84.33,0.0,EXACT MATCH
+1566,Mohammed Shami,Bowling,Powerplay Bowler,ShrunkEcon=7.88,0.84,0.45,37.8,DotPct=44.06%,0.8011,0.25,20.03,EconDelta=-0.95,0.69,0.15,10.35,1.0,0.15,15.0,83.18,83.18,0.0,EXACT MATCH
+6450,Mujeeb Ur Rahman,Bowling,Powerplay Bowler,ShrunkEcon=7.27,0.9509,0.45,42.79,DotPct=47.66%,0.8665,0.25,21.66,EconDelta=-0.26,0.552,0.15,8.28,1.0,0.15,15.0,87.73,87.73,0.0,EXACT MATCH
+2933,Jasprit Bumrah,Bowling,Death-Overs Specialist,ShrunkEcon=7.67,0.8782,0.45,39.52,DotPct=32.73%,0.5951,0.25,14.88,EconDelta=0.63,0.374,0.15,5.61,1.0,0.15,15.0,75.01,75.01,0.0,EXACT MATCH

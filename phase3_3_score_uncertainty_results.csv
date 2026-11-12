@@ -1,0 +1,5 @@
+Scenario,Total Deliveries,Bat Pressure Count,Bat Pressure %,Bat Flips vs Baseline,Bat Flips %,Bowl Pressure Count,Bowl Pressure %,Bowl Flips vs Baseline,Bowl Flips %,Either Pressure Count,Either Pressure %,Either Flips vs Baseline,Either Flips %
+Scenario 0: Baseline (Observed Minimum),200961,51079,25.42,0,0.0,24107,12.0,0,0.0,65414,32.55,0,0.0
+Scenario 1: Calibrated Empirical Delta (+1 per 3 extras),200961,51454,25.6,591,0.29,23579,11.73,1812,0.9,65370,32.53,1596,0.79
+Scenario 2: Bye/Leg-bye Sensitivity (+1 per bye/legbye),200961,51403,25.58,858,0.43,23203,11.55,2714,1.35,65011,32.35,2337,1.16
+Scenario 3: Aggressive Stress Test (+1 on ALL extras),200961,52296,26.02,1859,0.93,22414,11.15,5527,2.75,65238,32.46,5202,2.59

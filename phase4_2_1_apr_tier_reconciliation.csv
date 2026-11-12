@@ -1,0 +1,5 @@
+auction_tier,stored_pipeline_count,independently_recalculated_count,exact_matches,discrepancy_count,agreement_rate,audit_verdict
+Tier 1: Priority RR Auction Target,77,77,77,0,100.00%,PERFECT AGREEMENT
+Tier 2: Core Squad Target,154,154,154,0,100.00%,PERFECT AGREEMENT
+Tier 3: Tactical / Backup Option,182,182,182,0,100.00%,PERFECT AGREEMENT
+Tier 4: Speculative / High-Risk,545,545,545,0,100.00%,PERFECT AGREEMENT

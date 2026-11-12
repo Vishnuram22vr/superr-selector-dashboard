@@ -1,0 +1,9 @@
+discipline,tier_name,lower_bound_balls,upper_bound_balls,w_conf_multiplier,cricket_justification,player_count,example_player
+Batting,High (100+),100,No Limit,1.0,100+ pressure balls faced represents roughly 7-10 high-pressure match appearances or 2 seasons of death batting. Statistically robust sample.,136,"Tim David (558 balls faced, W_conf=1.0)"
+Batting,Medium (50-99),50,99,0.85,50-99 balls faced matches the Empirical Bayes K_bat threshold (50 balls). Performance weight equal to population prior.,114,"Mujeeb Ur Rahman as batter (64 balls faced, W_conf=0.85)"
+Batting,Low (20-49),20,49,0.6,20-49 balls faced represents 2-3 brief pressure cameos. Significant uncertainty remains; score dampened by 40%.,184,"Mohammed Shami as batter (46 balls faced, W_conf=0.60)"
+Batting,Insufficient (<20),0,19,0.3,"<20 balls faced is insufficient to draw reliable conclusions. Dampened by 70%, locking player into Tier 4.",454,"Sisanda Magala (5 balls faced, W_conf=0.30)"
+Bowling,High (75+),75,No Limit,1.0,75+ legal balls bowled represents 12.5+ pressure overs (typically 6-10 matches of death/collapse bowling). Bowlers face far lower ball volume than batters; 75 balls is the statistical equivalent of 120 batting balls.,95,"Mujeeb Ur Rahman (107 legal balls, W_conf=1.0) & Bumrah (220 legal balls, W_conf=1.0)"
+Bowling,Medium (36-74),36,74,0.85,36-74 legal balls matches the Empirical Bayes K_bowl threshold (36 balls / 6 overs). 50/50 shrinkage weighting.,83,"Roston Chase (57 legal balls, W_conf=0.85)"
+Bowling,Low (18-35),18,35,0.6,18-35 legal balls represents 3-5 overs of pressure bowling. High sample variance; dampened by 40%.,103,Supporting rotation bowlers
+Bowling,Insufficient (<18),0,17,0.3,"<18 legal balls (<3 overs) is anecdotal. Dampened by 70%, locking player into Tier 4.",366,"Tristan Stubbs as bowler (6 legal balls, W_conf=0.30)"

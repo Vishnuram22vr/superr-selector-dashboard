@@ -1,0 +1,959 @@
+player_id,player_name,all_rounder_category,distinct_matches_played,career_balls_faced,career_legal_balls,pressure_balls_faced,pressure_legal_balls,batting_confidence_tier,bowling_confidence_tier,stored_batting_apr,stored_bowling_apr,gated_balance_index,dual_gating_status,rr_auction_tier
+8,Mahendra Singh Dhoni,Unclassified / Specialist,48,463.0,,362.0,,High (100+),,92.43,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+23,Piyush Chawla,Unclassified / Specialist,27,37.0,576.0,35.0,40.0,Low (20-49),Medium (36-74),31.44,47.03,39.23,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+28,Ishant Sharma,Unclassified / Specialist,24,8.0,422.0,8.0,56.0,Insufficient (<20),Medium (36-74),13.16,65.82,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+47,Virat Kohli,Unclassified / Specialist,92,2456.0,6.0,84.0,0.0,Medium (50-99),Insufficient (<18),61.5,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+88,Faf du Plessis,Unclassified / Specialist,54,1276.0,,61.0,,Medium (50-99),,39.18,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+109,Wriddhiman Saha,Unclassified / Specialist,37,661.0,,11.0,,Insufficient (<20),,21.03,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+126,Rohit Sharma,Unclassified / Specialist,91,1619.0,,59.0,,Medium (50-99),,83.09,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+142,Shikhar Dhawan,Unclassified / Specialist,30,757.0,,46.0,,Low (20-49),,51.17,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+143,Dinesh Karthik,Unclassified / Specialist,62,639.0,6.0,418.0,0.0,High (100+),Insufficient (<18),92.09,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+147,Pradeep Sangwan,Unclassified / Specialist,3,5.0,54.0,5.0,10.0,Insufficient (<20),Insufficient (<18),12.45,12.77,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+152,Ravindra Jadeja,Genuine All-Rounder,75,958.0,1396.0,517.0,53.0,High (100+),Medium (36-74),86.65,39.4,63.03,Eligible Dual Profile,Tier 2: Core Squad Target
+158,Amit Mishra,Unclassified / Specialist,8,30.0,126.0,28.0,11.0,Low (20-49),Insufficient (<18),30.67,13.8,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+161,Dwayne Bravo,Unclassified / Specialist,10,24.0,206.0,22.0,38.0,Low (20-49),Medium (36-74),20.68,50.51,35.59,Eligible Dual Profile,Tier 2: Core Squad Target
+167,Ajinkya Rahane,Unclassified / Specialist,56,1025.0,,42.0,,Low (20-49),,32.16,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+169,Robin Uthappa,Unclassified / Specialist,11,171.0,,1.0,,Insufficient (<20),,10.4,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+198,Manish Pandey,Unclassified / Specialist,21,371.0,,135.0,,High (100+),,56.43,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+220,David Warner,Unclassified / Specialist,45,1117.0,,116.0,,High (100+),,54.04,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+223,Steven Smith,Unclassified / Specialist,13,184.0,,30.0,,Low (20-49),,44.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+232,Tom Cooper,Unclassified / Specialist,2,22.0,12.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+250,Aaron Finch,Unclassified / Specialist,21,346.0,,29.0,,Low (20-49),,37.48,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+274,Martin Guptill,Unclassified / Specialist,9,158.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+278,Tim Southee,Unclassified / Specialist,36,51.0,826.0,48.0,122.0,Low (20-49),High (75+),29.33,81.9,55.62,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+286,Kane Richardson,Unclassified / Specialist,9,1.0,198.0,1.0,21.0,Insufficient (<20),Low (18-35),15.21,49.11,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+295,Wayne Parnell,Unclassified / Specialist,18,76.0,400.0,57.0,44.0,Medium (50-99),Medium (36-74),42.95,33.95,38.45,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+305,Ravichandran Ashwin,Genuine All-Rounder,61,317.0,1404.0,118.0,155.0,High (100+),High (75+),74.04,66.43,70.24,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+332,Angelo Mathews,Developing / Utility All-Rounder,9,150.0,110.0,71.0,4.0,Medium (50-99),Insufficient (<18),74.2,6.9,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+344,Sheldon Jackson,Unclassified / Specialist,5,26.0,,12.0,,Insufficient (<20),,10.25,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+360,Bhuvneshwar Kumar,Bowling All-Rounder,101,169.0,2221.0,159.0,328.0,High (100+),High (75+),42.98,52.12,47.55,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+393,Kedar Jadhav,Unclassified / Specialist,1,10.0,,5.0,,Insufficient (<20),,12.27,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+395,Karn Sharma,Unclassified / Specialist,21,21.0,363.0,21.0,30.0,Low (20-49),Low (18-35),32.44,51.3,41.87,Eligible Dual Profile,Tier 2: Core Squad Target
+403,Umesh Yadav,Bowling All-Rounder,29,90.0,558.0,81.0,32.0,Medium (50-99),Low (18-35),52.28,36.78,44.53,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+418,Richard Berrington,Unclassified / Specialist,6,80.0,,12.0,,Insufficient (<20),,20.66,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+443,Paul Stirling,Unclassified / Specialist,39,527.0,,2.0,,Insufficient (<20),,9.93,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+470,Mohammad Amir,Unclassified / Specialist,7,4.0,146.0,4.0,24.0,Insufficient (<20),Low (18-35),14.53,48.4,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+478,Eoin Morgan,Unclassified / Specialist,2,41.0,,30.0,,Low (20-49),,15.51,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+479,Adil Rashid,Bowling All-Rounder,61,119.0,1324.0,112.0,101.0,High (100+),High (75+),33.04,61.97,47.5,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+492,Andre Fletcher,Unclassified / Specialist,5,39.0,,7.0,,Insufficient (<20),,10.1,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+494,Kieron Pollard,Developing / Utility All-Rounder,19,212.0,185.0,127.0,23.0,High (100+),Low (18-35),83.21,22.54,52.88,Eligible Dual Profile,Tier 2: Core Squad Target
+499,Shakib Al Hasan,Genuine All-Rounder,18,327.0,340.0,98.0,62.0,Medium (50-99),Medium (36-74),60.35,41.59,50.97,Eligible Dual Profile,Tier 2: Core Squad Target
+505,Mushfiqur Rahim,Unclassified / Specialist,2,9.0,,1.0,,Insufficient (<20),,18.69,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+507,Mohammad Mahmudullah,Unclassified / Specialist,14,262.0,38.0,94.0,0.0,Medium (50-99),Insufficient (<18),35.71,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+535,Ambati Rayudu,Unclassified / Specialist,23,337.0,,71.0,,Medium (50-99),,65.35,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+722,Liam Dawson,Unclassified / Specialist,22,48.0,415.0,33.0,28.0,Low (20-49),Low (18-35),36.03,27.73,31.88,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+728,Dawid Malan,Unclassified / Specialist,22,457.0,,21.0,,Low (20-49),,42.07,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+757,Sybrand Engelbrecht,Unclassified / Specialist,2,10.0,,1.0,,Insufficient (<20),,10.4,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+768,Reeza Hendricks,Unclassified / Specialist,34,835.0,23.0,112.0,0.0,High (100+),Insufficient (<18),96.94,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+772,Rilee Rossouw,Unclassified / Specialist,26,417.0,,39.0,,Low (20-49),,25.58,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+773,Shadley Van Schalkwyk,Unclassified / Specialist,4,14.0,90.0,11.0,10.0,Insufficient (<20),Insufficient (<18),22.31,14.55,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+778,Darren Bravo,Unclassified / Specialist,2,28.0,,9.0,,Insufficient (<20),,8.26,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+781,Sunil Narine,Genuine All-Rounder,67,511.0,1530.0,67.0,157.0,Medium (50-99),High (75+),38.24,88.14,63.19,Eligible Dual Profile,Tier 2: Core Squad Target
+786,Chris Jordan,Bowling All-Rounder,27,129.0,550.0,101.0,101.0,High (100+),High (75+),51.19,32.67,41.93,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+796,Matthew Wade,Unclassified / Specialist,30,427.0,,246.0,,High (100+),,93.19,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+813,Jos Buttler,Unclassified / Specialist,121,2829.0,,170.0,,High (100+),,86.46,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+818,Mitchell Marsh,Genuine All-Rounder,83,1724.0,295.0,122.0,32.0,High (100+),Low (18-35),70.44,28.76,49.6,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+820,Nathan Coulter Nile,Unclassified / Specialist,1,2.0,18.0,2.0,0.0,Insufficient (<20),Insufficient (<18),15.22,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+829,Mitchell Starc,Unclassified / Specialist,40,30.0,803.0,28.0,92.0,Low (20-49),High (75+),15.12,57.3,36.21,Eligible Dual Profile,Tier 2: Core Squad Target
+830,Josh Hazlewood,Unclassified / Specialist,65,39.0,1476.0,28.0,135.0,Low (20-49),High (75+),28.53,67.69,48.11,Eligible Dual Profile,Tier 2: Core Squad Target
+838,Glenn Maxwell,Genuine All-Rounder,78,958.0,638.0,186.0,17.0,High (100+),Insufficient (<18),72.95,9.61,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+914,Krishnappa Gowtham,Unclassified / Specialist,12,38.0,180.0,37.0,6.0,Low (20-49),Insufficient (<18),41.65,11.59,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+930,Karun Nair,Unclassified / Specialist,12,151.0,,20.0,,Low (20-49),,45.14,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+953,Lokesh Rahul,Unclassified / Specialist,74,2015.0,,183.0,,High (100+),,71.05,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+985,Brendan Taylor,Unclassified / Specialist,7,59.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+988,Graeme Cremer,Unclassified / Specialist,2,4.0,42.0,4.0,0.0,Insufficient (<20),Insufficient (<18),15.25,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+992,Mayank Agarwal,Unclassified / Specialist,30,491.0,,35.0,,Low (20-49),,23.69,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1028,Varun Aaron,Unclassified / Specialist,2,,30.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1039,Mandeep Singh,Unclassified / Specialist,6,39.0,,3.0,,Insufficient (<20),,12.73,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1040,Harpreet Bhatia,Unclassified / Specialist,5,93.0,,38.0,,Low (20-49),,25.81,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1045,David Wiese,Unclassified / Specialist,3,11.0,18.0,11.0,0.0,Insufficient (<20),Insufficient (<18),17.33,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1071,Jaydev Unadkat,Unclassified / Specialist,30,73.0,575.0,59.0,70.0,Medium (50-99),Medium (36-74),64.04,31.07,47.56,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+1077,David Miller,Unclassified / Specialist,81,1280.0,,630.0,,High (100+),,94.13,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+1100,Dinesh Chandimal,Unclassified / Specialist,5,75.0,,24.0,,Low (20-49),,34.84,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+1101,George Dockrell,Batting All-Rounder,42,498.0,186.0,246.0,23.0,High (100+),Low (18-35),82.33,32.25,57.29,Eligible Dual Profile,Tier 2: Core Squad Target
+1107,Mohammad Nabi,Genuine All-Rounder,56,663.0,680.0,277.0,48.0,High (100+),Medium (36-74),81.43,43.78,62.61,Eligible Dual Profile,Tier 2: Core Squad Target
+1116,Craig Ervine,Unclassified / Specialist,15,245.0,,10.0,,Insufficient (<20),,16.85,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1159,Tendai Chatara,Unclassified / Specialist,10,24.0,217.0,21.0,29.0,Low (20-49),Low (18-35),34.69,32.65,33.67,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+1171,Chris Woakes,Unclassified / Specialist,11,48.0,164.0,46.0,8.0,Low (20-49),Insufficient (<18),29.02,12.62,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1183,Alex Hales,Unclassified / Specialist,9,152.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1187,Jason Roy,Unclassified / Specialist,19,386.0,,23.0,,Low (20-49),,49.31,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+1195,Ben Stokes,Unclassified / Specialist,5,44.0,30.0,4.0,0.0,Insufficient (<20),Insufficient (<18),17.53,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1205,Jonny Bairstow,Unclassified / Specialist,33,673.0,,76.0,,Medium (50-99),,51.57,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+1210,James Vince,Unclassified / Specialist,5,86.0,,12.0,,Insufficient (<20),,11.3,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1219,David Willey,Bowling All-Rounder,19,98.0,380.0,78.0,47.0,Medium (50-99),Medium (36-74),59.09,39.99,49.54,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+1233,Gary Ballance,Unclassified / Specialist,1,29.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1318,Andre Russell,Genuine All-Rounder,64,733.0,754.0,428.0,152.0,High (100+),High (75+),86.14,42.35,64.25,Eligible Dual Profile,Tier 2: Core Squad Target
+1327,Johnson Charles,Unclassified / Specialist,27,410.0,,13.0,,Insufficient (<20),,9.95,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1389,Sean Abbott,Unclassified / Specialist,21,37.0,442.0,32.0,37.0,Low (20-49),Medium (36-74),18.58,35.26,26.92,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+1440,Rahul Tripathi,Unclassified / Specialist,43,713.0,,53.0,,Medium (50-99),,35.74,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+1481,Kusal Perera,Unclassified / Specialist,32,568.0,,43.0,,Low (20-49),,46.45,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+1487,Adam Milne,Unclassified / Specialist,26,56.0,545.0,46.0,76.0,Low (20-49),High (75+),30.23,60.27,45.25,Eligible Dual Profile,Tier 2: Core Squad Target
+1541,Sean Williams,Developing / Utility All-Rounder,15,157.0,162.0,15.0,18.0,Insufficient (<20),Low (18-35),7.37,25.99,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1556,David Payne,Unclassified / Specialist,2,5.0,30.0,5.0,0.0,Insufficient (<20),Insufficient (<18),16.18,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1566,Mohammed Shami,Unclassified / Specialist,57,46.0,1275.0,46.0,143.0,Low (20-49),High (75+),25.3,83.18,54.24,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+1568,Kane Williamson,Unclassified / Specialist,24,535.0,,46.0,,Low (20-49),,36.33,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+1596,Moeen Ali,Genuine All-Rounder,67,755.0,805.0,229.0,57.0,High (100+),Medium (36-74),83.18,56.57,69.88,Eligible Dual Profile,Tier 2: Core Squad Target
+1612,Yuzvendra Chahal,Unclassified / Specialist,98,10.0,2138.0,10.0,277.0,Insufficient (<20),High (75+),12.04,66.64,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+1617,Rishi Dhawan,Unclassified / Specialist,12,52.0,174.0,45.0,0.0,Low (20-49),Insufficient (<18),19.98,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1649,Regis Chakabva,Unclassified / Specialist,5,52.0,,6.0,,Insufficient (<20),,16.84,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1699,Suryakumar Yadav,Unclassified / Specialist,139,2759.0,6.0,457.0,3.0,High (100+),Insufficient (<18),94.05,22.8,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+1701,Swapnil Singh,Unclassified / Specialist,9,25.0,102.0,25.0,0.0,Low (20-49),Insufficient (<18),35.58,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1758,Patrick Cummins,Bowling All-Rounder,54,247.0,1215.0,206.0,183.0,High (100+),High (75+),72.46,42.11,57.28,Eligible Dual Profile,Tier 2: Core Squad Target
+1772,Sheldon Cottrell,Unclassified / Specialist,11,,215.0,,37.0,,Medium (36-74),,30.24,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+1791,Wesley Barresi,Unclassified / Specialist,2,9.0,,7.0,,Insufficient (<20),,17.02,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1801,Nitish Kumar,Unclassified / Specialist,3,20.0,,5.0,,Insufficient (<20),,17.48,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1810,Devon Thomas,Unclassified / Specialist,6,50.0,,7.0,,Insufficient (<20),,8.24,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+1813,Deepak Chahar,Unclassified / Specialist,48,65.0,917.0,65.0,90.0,Medium (50-99),High (75+),54.01,52.05,53.03,Eligible Dual Profile,Tier 2: Core Squad Target
+1924,Sam Billings,Unclassified / Specialist,12,181.0,,67.0,,Medium (50-99),,60.34,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+1941,Devon Conway,Unclassified / Specialist,61,1486.0,,32.0,,Low (20-49),,50.08,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+1944,Keshav Maharaj,Bowling All-Rounder,30,90.0,598.0,75.0,18.0,Medium (50-99),Low (18-35),20.48,20.89,20.69,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+2001,Yashodha Lanka,Unclassified / Specialist,5,91.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2003,Bhanuka Rajapaksa,Unclassified / Specialist,31,421.0,,96.0,,Medium (50-99),,67.71,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+2054,Jason Behrendorff,Unclassified / Specialist,20,11.0,438.0,11.0,30.0,Insufficient (<20),Low (18-35),14.63,27.18,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2101,Quinton de Kock,Unclassified / Specialist,66,1262.0,,81.0,,Medium (50-99),,50.11,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+2210,Sabbir Rahman,Unclassified / Specialist,4,36.0,6.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2213,Soumya Sarkar,Unclassified / Specialist,13,201.0,42.0,8.0,1.0,Insufficient (<20),Insufficient (<18),10.88,13.61,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2214,Gulbadin Naib,Unclassified / Specialist,18,202.0,54.0,63.0,0.0,Medium (50-99),Insufficient (<18),69.12,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+2218,Anamul Haque,Unclassified / Specialist,7,94.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2246,Tom Latham,Unclassified / Specialist,11,242.0,,6.0,,Insufficient (<20),,9.44,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2258,Sanju Samson,Unclassified / Specialist,124,2232.0,,144.0,,High (100+),,81.18,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2261,Harshal Patel,Bowling All-Rounder,79,145.0,1643.0,135.0,258.0,High (100+),High (75+),31.0,52.24,41.62,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2296,Safyaan Sharif,Unclassified / Specialist,2,6.0,33.0,6.0,0.0,Insufficient (<20),Insufficient (<18),14.84,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2304,Tymal Mills,Unclassified / Specialist,12,13.0,229.0,13.0,31.0,Insufficient (<20),Low (18-35),10.78,13.47,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2315,Reece Topley,Unclassified / Specialist,29,21.0,615.0,21.0,86.0,Low (20-49),High (75+),24.02,44.95,34.48,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2320,Trent Boult,Unclassified / Specialist,70,79.0,1543.0,67.0,186.0,Medium (50-99),High (75+),40.79,66.44,53.61,Eligible Dual Profile,Tier 2: Core Squad Target
+2321,Olly Stone,Unclassified / Specialist,1,1.0,24.0,1.0,6.0,Insufficient (<20),Insufficient (<18),13.4,10.8,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2334,Dwaine Pretorius,Bowling All-Rounder,14,82.0,308.0,42.0,47.0,Low (20-49),Medium (36-74),44.35,35.43,39.89,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2351,Danushka Gunathilaka,Unclassified / Specialist,13,117.0,5.0,13.0,0.0,Insufficient (<20),Insufficient (<18),16.83,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2359,Prenelan Subrayen,Unclassified / Specialist,2,,42.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2361,Temba Bavuma,Unclassified / Specialist,10,98.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2364,Ashton Agar,Unclassified / Specialist,6,47.0,144.0,3.0,6.0,Insufficient (<20),Insufficient (<18),17.16,22.25,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2367,Travis Head,Unclassified / Specialist,66,1129.0,16.0,14.0,0.0,Insufficient (<20),Insufficient (<18),11.01,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2373,Ashton Turner,Unclassified / Specialist,3,20.0,,9.0,,Insufficient (<20),,19.29,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2379,Ben Duckett,Unclassified / Specialist,20,337.0,,28.0,,Low (20-49),,34.15,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+2382,Jamie Overton,Bowling All-Rounder,32,146.0,497.0,120.0,25.0,High (100+),Low (18-35),78.42,9.76,44.09,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2399,Dushmantha Chameera,Bowling All-Rounder,53,100.0,1151.0,90.0,191.0,Medium (50-99),High (75+),40.09,62.05,51.07,Eligible Dual Profile,Tier 2: Core Squad Target
+2407,Dhananjaya de Silva,Unclassified / Specialist,15,199.0,81.0,7.0,0.0,Insufficient (<20),Insufficient (<18),7.97,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2411,Sandeep Sharma,Unclassified / Specialist,43,11.0,961.0,11.0,176.0,Insufficient (<20),High (75+),14.63,43.47,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+2416,Kyle Mayers,Batting All-Rounder,47,756.0,138.0,3.0,19.0,Insufficient (<20),Low (18-35),15.17,20.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2417,Akeal Hosein,Bowling All-Rounder,79,223.0,1692.0,198.0,86.0,High (100+),High (75+),68.82,71.98,70.4,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+2418,Justin Greaves,Unclassified / Specialist,2,20.0,6.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2436,Dasun Shanaka,Genuine All-Rounder,69,774.0,529.0,388.0,41.0,High (100+),Medium (36-74),85.7,43.01,64.36,Eligible Dual Profile,Tier 2: Core Squad Target
+2439,Akila Dananjaya,Unclassified / Specialist,2,1.0,36.0,1.0,6.0,Insufficient (<20),Insufficient (<18),17.13,9.32,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2463,Ryan Burl,Genuine All-Rounder,42,706.0,318.0,310.0,49.0,High (100+),Medium (36-74),78.4,50.41,64.41,Eligible Dual Profile,Tier 2: Core Squad Target
+2483,Lizaad Williams,Unclassified / Specialist,14,21.0,259.0,21.0,29.0,Low (20-49),Low (18-35),20.77,22.89,21.83,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+2485,Babar Azam,Unclassified / Specialist,52,1181.0,,103.0,,High (100+),,100.0,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2490,Mohammad Nawaz,Genuine All-Rounder,54,497.0,1004.0,295.0,120.0,High (100+),High (75+),73.54,95.83,84.69,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+2523,Will Young,Unclassified / Specialist,12,176.0,,11.0,,Insufficient (<20),,8.49,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2526,Ish Sodhi,Bowling All-Rounder,59,133.0,1175.0,117.0,31.0,High (100+),Low (18-35),55.87,39.12,47.49,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2531,Joe Root,Unclassified / Specialist,2,15.0,12.0,14.0,0.0,Insufficient (<20),Insufficient (<18),8.74,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2533,Najibullah Zadran,Unclassified / Specialist,23,306.0,,109.0,,High (100+),,91.44,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2534,Rahmat Shah,Unclassified / Specialist,1,6.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2573,Evin Lewis,Unclassified / Specialist,19,275.0,,29.0,,Low (20-49),,56.4,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+2633,Jason Holder,Genuine All-Rounder,88,447.0,1928.0,312.0,277.0,High (100+),High (75+),75.46,53.67,64.56,Eligible Dual Profile,Tier 2: Core Squad Target
+2636,Adam Zampa,Unclassified / Specialist,52,52.0,1152.0,47.0,94.0,Low (20-49),High (75+),16.86,80.93,48.9,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+2639,Marcus Stoinis,Genuine All-Rounder,94,1247.0,747.0,430.0,54.0,High (100+),Medium (36-74),86.04,20.62,53.33,Eligible Dual Profile,Tier 2: Core Squad Target
+2650,Raymon Reifer,Unclassified / Specialist,3,41.0,30.0,7.0,6.0,Insufficient (<20),Insufficient (<18),22.33,5.99,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2661,Shamarh Brooks,Unclassified / Specialist,7,150.0,,12.0,,Insufficient (<20),,8.69,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2671,Liton Das,Unclassified / Specialist,61,1139.0,,39.0,,Low (20-49),,45.61,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+2680,Nurul Hasan,Unclassified / Specialist,22,238.0,,152.0,,High (100+),,84.09,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2681,Taskin Ahmed,Bowling All-Rounder,46,92.0,1040.0,84.0,153.0,Medium (50-99),High (75+),41.74,75.48,58.61,Eligible Dual Profile,Tier 2: Core Squad Target
+2687,Roston Chase,Genuine All-Rounder,47,511.0,834.0,185.0,57.0,High (100+),Medium (36-74),72.78,59.32,66.05,Eligible Dual Profile,Tier 2: Core Squad Target
+2750,Alex Carey,Unclassified / Specialist,3,28.0,,18.0,,Insufficient (<20),,19.38,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2756,Shashank Singh,Batting All-Rounder,45,560.0,90.0,340.0,24.0,High (100+),Low (18-35),100.0,26.53,63.27,Eligible Dual Profile,Tier 2: Core Squad Target
+2790,Praveen Dubey,Unclassified / Specialist,2,20.0,30.0,18.0,0.0,Insufficient (<20),Insufficient (<18),9.2,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2847,Shardul Thakur,Bowling All-Rounder,52,216.0,966.0,175.0,149.0,High (100+),High (75+),42.29,42.47,42.38,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2852,Jagadeesha Suchith,Unclassified / Specialist,5,8.0,108.0,8.0,0.0,Insufficient (<20),Insufficient (<18),10.88,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2860,KS Bharat,Unclassified / Specialist,2,7.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2863,Sandeep Warrier,Unclassified / Specialist,5,,66.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2872,Siddarth Kaul,Unclassified / Specialist,1,,24.0,,6.0,,Insufficient (<18),,19.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2876,Axar Patel,Genuine All-Rounder,143,1279.0,2670.0,746.0,144.0,High (100+),High (75+),68.7,70.46,69.58,Eligible Dual Profile,Tier 2: Core Squad Target
+2877,Vijay Shankar,Unclassified / Specialist,26,386.0,9.0,128.0,0.0,High (100+),Insufficient (<18),90.08,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2878,Mohit Sharma,Unclassified / Specialist,34,19.0,649.0,8.0,125.0,Insufficient (<20),High (75+),13.27,36.0,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+2884,Manan Vohra,Unclassified / Specialist,2,22.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2887,Harmeet Singh,Unclassified / Specialist,4,28.0,96.0,18.0,12.0,Insufficient (<20),Insufficient (<18),8.94,11.3,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2892,Asif Ali,Unclassified / Specialist,13,78.0,,41.0,,Low (20-49),,24.68,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2921,Fakhar Zaman,Unclassified / Specialist,47,863.0,,88.0,,Medium (50-99),,71.21,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2930,Rassie van der Dussen,Unclassified / Specialist,20,311.0,,106.0,,High (100+),,86.3,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+2933,Jasprit Bumrah,Unclassified / Specialist,75,31.0,1708.0,31.0,220.0,Low (20-49),High (75+),20.89,75.01,47.95,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+2972,Yasim Murtaza,Genuine All-Rounder,14,258.0,306.0,81.0,55.0,Medium (50-99),Medium (36-74),37.84,52.9,45.37,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2984,Sikandar Raza,Genuine All-Rounder,57,1002.0,1091.0,301.0,169.0,High (100+),High (75+),84.0,83.45,83.72,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+2985,Mark Wood,Unclassified / Specialist,13,20.0,281.0,20.0,29.0,Low (20-49),Low (18-35),31.6,34.44,33.02,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+2996,Stephanus Myburgh,Unclassified / Specialist,2,28.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+2997,Paul van Meekeren,Unclassified / Specialist,10,18.0,187.0,11.0,6.0,Insufficient (<20),Insufficient (<18),14.77,10.38,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3024,Mohammad Rizwan,Unclassified / Specialist,37,1152.0,,97.0,,Medium (50-99),,83.09,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3033,Usman Qadir,Unclassified / Specialist,4,7.0,96.0,7.0,0.0,Insufficient (<20),Insufficient (<18),11.57,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3038,Hussain Talat,Unclassified / Specialist,5,54.0,36.0,10.0,0.0,Insufficient (<20),Insufficient (<18),11.15,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3040,Kashif Daud,Unclassified / Specialist,2,2.0,11.0,2.0,1.0,Insufficient (<20),Insufficient (<18),13.36,13.75,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3056,Iftikhar Ahmed,Batting All-Rounder,35,455.0,186.0,155.0,49.0,High (100+),Medium (36-74),76.9,76.82,76.86,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+3077,Usama Mir,Unclassified / Specialist,5,7.0,120.0,7.0,30.0,Insufficient (<20),Low (18-35),12.77,44.35,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3091,Sahibzada Farhan,Unclassified / Specialist,39,814.0,,20.0,,Low (20-49),,40.57,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3097,Shan Masood,Unclassified / Specialist,10,176.0,,53.0,,Medium (50-99),,72.26,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3125,Nicholas Pooran,Unclassified / Specialist,115,1972.0,,490.0,,High (100+),,99.34,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3135,Yannic Cariah,Unclassified / Specialist,2,4.0,36.0,4.0,23.0,Insufficient (<20),Low (18-35),15.25,54.45,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+3174,Matt Henry,Unclassified / Specialist,30,28.0,622.0,21.0,44.0,Low (20-49),Medium (36-74),26.53,34.16,30.34,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3253,Rohan Mustafa,Unclassified / Specialist,1,,24.0,,6.0,,Insufficient (<18),,22.58,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3255,Ahmed Raza 1,Unclassified / Specialist,1,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3260,Hashmatullah Shahidi,Unclassified / Specialist,2,54.0,,2.0,,Insufficient (<20),,20.12,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3272,Fabian Allen,Unclassified / Specialist,13,48.0,179.0,46.0,1.0,Low (20-49),Insufficient (<18),32.01,13.75,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3275,Alzarri Joseph,Bowling All-Rounder,53,130.0,1153.0,127.0,221.0,High (100+),High (75+),51.83,72.37,62.1,Eligible Dual Profile,Tier 2: Core Squad Target
+3276,Gudakesh Motie,Bowling All-Rounder,39,145.0,738.0,100.0,76.0,High (100+),High (75+),44.87,48.57,46.72,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3280,Nazmul Hossain Shanto,Unclassified / Specialist,28,510.0,12.0,49.0,6.0,Low (20-49),Insufficient (<18),41.11,7.41,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3281,Mosaddek Hossain,Developing / Utility All-Rounder,12,113.0,159.0,69.0,18.0,Medium (50-99),Low (18-35),61.78,49.16,55.47,Eligible Dual Profile,Tier 2: Core Squad Target
+3282,Mehidy Hasan Miraz,Batting All-Rounder,19,265.0,234.0,57.0,24.0,Medium (50-99),Low (18-35),39.94,42.4,41.17,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3285,Abu Haider,Unclassified / Specialist,7,27.0,149.0,25.0,18.0,Low (20-49),Low (18-35),51.9,10.74,31.32,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+3297,Shimron Hetmyer,Unclassified / Specialist,94,1245.0,,515.0,,High (100+),,82.61,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3298,Jofra Archer,Bowling All-Rounder,56,145.0,1259.0,131.0,189.0,High (100+),High (75+),46.53,52.63,49.58,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3299,Andrew Tye,Unclassified / Specialist,3,,66.0,,14.0,,Insufficient (<18),,12.03,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3304,Munim Shahriar,Unclassified / Specialist,3,19.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3306,Afsar Zazai,Unclassified / Specialist,1,24.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3320,Jayant Yadav,Unclassified / Specialist,1,,24.0,,13.0,,Insufficient (<18),,13.16,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3323,Jimmy Neesham,Genuine All-Rounder,47,421.0,526.0,245.0,58.0,High (100+),Medium (36-74),68.17,23.56,45.87,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3330,Hardik Pandya,Genuine All-Rounder,129,1924.0,1825.0,577.0,132.0,High (100+),High (75+),87.38,44.59,65.98,Eligible Dual Profile,Tier 2: Core Squad Target
+3337,Jeremy Gordon,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3361,Michael Leask,Unclassified / Specialist,6,59.0,30.0,8.0,0.0,Insufficient (<20),Insufficient (<18),12.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3373,Aizaz Khan,Unclassified / Specialist,13,79.0,183.0,55.0,36.0,Medium (50-99),Medium (36-74),36.54,34.56,35.55,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3374,Mark Chapman,Unclassified / Specialist,53,873.0,6.0,187.0,0.0,High (100+),Insufficient (<18),91.33,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3377,Babar Hayat,Unclassified / Specialist,14,380.0,,68.0,,Medium (50-99),,60.27,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+3382,Nizakat Khan,Unclassified / Specialist,13,285.0,,17.0,,Insufficient (<20),,21.15,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3383,Kinchit Shah,Unclassified / Specialist,11,108.0,60.0,47.0,18.0,Low (20-49),Low (18-35),37.59,32.9,35.25,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3415,Matthew Cross,Unclassified / Specialist,5,110.0,,27.0,,Low (20-49),,42.61,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3451,Baba Indrajith,Unclassified / Specialist,3,30.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3469,Shreyas Gopal,Unclassified / Specialist,4,7.0,60.0,7.0,0.0,Insufficient (<20),Insufficient (<18),16.66,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3489,Salman Agha,Batting All-Rounder,43,698.0,108.0,129.0,14.0,High (100+),Insufficient (<18),63.57,12.97,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3539,Ben McDermott,Unclassified / Specialist,7,138.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3543,Shahidullah Kamal,Unclassified / Specialist,8,97.0,30.0,34.0,0.0,Low (20-49),Insufficient (<18),16.71,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3544,Usman Ghani,Unclassified / Specialist,7,125.0,,10.0,,Insufficient (<20),,7.9,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3545,Ihsanullah Janat,Unclassified / Specialist,1,14.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3550,Sharafuddin Ashraf,Unclassified / Specialist,11,38.0,186.0,26.0,45.0,Low (20-49),Medium (36-74),39.72,55.95,47.84,Eligible Dual Profile,Tier 2: Core Squad Target
+3578,Imad Wasim,Developing / Utility All-Rounder,14,161.0,246.0,93.0,20.0,Medium (50-99),Low (18-35),61.71,40.36,51.03,Eligible Dual Profile,Tier 2: Core Squad Target
+3595,Andy McBrine,Unclassified / Specialist,6,8.0,72.0,8.0,0.0,Insufficient (<20),Insufficient (<18),15.17,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3605,Aiden Markram,Genuine All-Rounder,95,1672.0,397.0,217.0,25.0,High (100+),Low (18-35),87.12,36.99,62.06,Eligible Dual Profile,Tier 2: Core Squad Target
+3613,Shakeel Ahmed,Unclassified / Specialist,4,40.0,79.0,40.0,12.0,Low (20-49),Insufficient (<18),26.78,14.49,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3622,Hayden Walsh,Unclassified / Specialist,9,15.0,186.0,15.0,5.0,Insufficient (<20),Insufficient (<18),14.06,18.06,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3623,Hasan Ali,Unclassified / Specialist,8,19.0,158.0,17.0,36.0,Insufficient (<20),Medium (36-74),15.59,42.93,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3627,Andile Phehlukwayo,Unclassified / Specialist,7,41.0,144.0,41.0,14.0,Low (20-49),Insufficient (<18),22.94,3.3,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3628,Kagiso Rabada,Bowling All-Rounder,69,141.0,1533.0,121.0,214.0,High (100+),High (75+),59.94,43.52,51.73,Eligible Dual Profile,Tier 2: Core Squad Target
+3629,Corbin Bosch,Bowling All-Rounder,20,140.0,367.0,99.0,63.0,Medium (50-99),Medium (36-74),62.17,54.11,58.14,Eligible Dual Profile,Tier 2: Core Squad Target
+3635,Jason Smith,Unclassified / Specialist,8,69.0,,19.0,,Insufficient (<20),,17.79,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3637,Dayyaan Galiem,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3639,Brandon King,Unclassified / Specialist,59,1135.0,,35.0,,Low (20-49),,49.3,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3641,Ben Dwarshuis,Unclassified / Specialist,14,70.0,324.0,58.0,39.0,Medium (50-99),Medium (36-74),28.39,39.55,33.97,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3644,Kuldeep Yadav,Bowling All-Rounder,90,201.0,1914.0,176.0,200.0,High (100+),High (75+),17.81,57.67,37.74,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3645,Sarfaraz Khan,Unclassified / Specialist,16,224.0,,47.0,,Low (20-49),,48.99,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3647,Shreyas Iyer,Unclassified / Specialist,98,1865.0,8.0,253.0,0.0,High (100+),Insufficient (<18),88.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3648,Deepak Hooda,Batting All-Rounder,58,797.0,131.0,190.0,4.0,High (100+),Insufficient (<18),57.0,5.79,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3651,Ricky Bhui,Unclassified / Specialist,2,9.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3653,Avesh Khan,Unclassified / Specialist,79,57.0,1672.0,53.0,290.0,Medium (50-99),High (75+),43.96,54.42,49.19,Eligible Dual Profile,Tier 2: Core Squad Target
+3660,Luke Wood,Unclassified / Specialist,17,8.0,324.0,8.0,44.0,Insufficient (<20),Medium (36-74),15.56,29.61,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3664,Binura Fernando,Unclassified / Specialist,16,25.0,342.0,25.0,39.0,Low (20-49),Medium (36-74),20.46,43.83,32.14,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3669,Sadeera Samarawickrama,Unclassified / Specialist,8,163.0,,25.0,,Low (20-49),,40.97,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3672,Kusal Mendis,Unclassified / Specialist,67,1326.0,,29.0,,Low (20-49),,29.29,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3673,Ramesh Mendis,Unclassified / Specialist,11,65.0,150.0,40.0,28.0,Low (20-49),Low (18-35),34.84,44.41,39.62,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+3683,Gavin Main,Unclassified / Specialist,2,1.0,36.0,1.0,3.0,Insufficient (<20),Insufficient (<18),13.4,22.41,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3686,CB Sole,Unclassified / Specialist,5,22.0,97.0,22.0,12.0,Low (20-49),Insufficient (<18),22.12,13.48,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3689,Mark Watt,Unclassified / Specialist,6,58.0,125.0,47.0,12.0,Low (20-49),Insufficient (<18),18.89,9.16,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3697,Kyle Jamieson,Unclassified / Specialist,30,68.0,627.0,55.0,60.0,Medium (50-99),Medium (36-74),46.94,27.8,37.37,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+3700,Tim Seifert,Unclassified / Specialist,43,760.0,,12.0,,Insufficient (<20),,9.01,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3720,Craig Young,Unclassified / Specialist,23,30.0,466.0,30.0,75.0,Low (20-49),High (75+),19.79,84.18,51.98,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+3727,Matthew Short,Batting All-Rounder,31,420.0,151.0,78.0,18.0,Medium (50-99),Low (18-35),33.33,15.65,24.49,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+3771,Vivian Kingma,Unclassified / Specialist,5,1.0,97.0,1.0,0.0,Insufficient (<20),Insufficient (<18),13.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3772,Logan van Beek,Unclassified / Specialist,6,32.0,132.0,32.0,2.0,Low (20-49),Insufficient (<18),20.48,22.24,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3775,Sompal Kami,Unclassified / Specialist,3,9.0,44.0,9.0,5.0,Insufficient (<20),Insufficient (<18),13.97,18.79,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3782,M Shahrukh Khan,Unclassified / Specialist,43,410.0,18.0,174.0,0.0,High (100+),Insufficient (<18),82.74,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3802,Anshuman Rath,Unclassified / Specialist,9,146.0,20.0,8.0,0.0,Insufficient (<20),Insufficient (<18),20.56,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3832,Rezza Gaznavi,Unclassified / Specialist,3,41.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3839,Amjad Mahboob,Unclassified / Specialist,3,19.0,54.0,18.0,0.0,Insufficient (<20),Insufficient (<18),14.56,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3858,Jatinder Singh,Unclassified / Specialist,6,128.0,2.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3871,Aamir Kaleem,Developing / Utility All-Rounder,6,112.0,108.0,23.0,0.0,Low (20-49),Insufficient (<18),48.65,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3876,Sufyan Mehmood,Unclassified / Specialist,6,30.0,72.0,19.0,0.0,Insufficient (<20),Insufficient (<18),17.29,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3916,Jitesh Sharma,Unclassified / Specialist,73,894.0,,322.0,,High (100+),,88.77,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3926,Rahul Tewatia,Unclassified / Specialist,58,524.0,49.0,412.0,0.0,High (100+),Insufficient (<18),81.09,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+3954,Andrew Balbirnie,Unclassified / Specialist,29,569.0,,46.0,,Low (20-49),,44.6,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3967,Tom Kohler,Unclassified / Specialist,3,54.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+3986,Matthew Renshaw,Unclassified / Specialist,6,108.0,36.0,20.0,0.0,Low (20-49),Insufficient (<18),49.28,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+3995,Donald Tiripano,Unclassified / Specialist,2,3.0,30.0,3.0,6.0,Insufficient (<20),Insufficient (<18),12.9,7.41,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4007,Ryan Rickelton,Unclassified / Specialist,47,856.0,,23.0,,Low (20-49),,47.99,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4101,Mitchell Santner,Genuine All-Rounder,83,540.0,1737.0,328.0,138.0,High (100+),High (75+),65.73,64.78,65.25,Eligible Dual Profile,Tier 2: Core Squad Target
+4102,George Munsey,Unclassified / Specialist,5,98.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4106,Daryl Mitchell,Unclassified / Specialist,69,1150.0,80.0,279.0,19.0,High (100+),Low (18-35),75.06,46.23,60.64,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+4111,Khushdil Shah,Unclassified / Specialist,20,206.0,60.0,89.0,0.0,Medium (50-99),Insufficient (<18),17.21,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4117,Ishan Kishan,Unclassified / Specialist,122,2411.0,1.0,106.0,0.0,High (100+),Insufficient (<18),92.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4201,Fareed Malik,Unclassified / Specialist,17,20.0,308.0,20.0,67.0,Low (20-49),Medium (36-74),19.39,40.85,30.12,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+4211,Vishnu Vinod,Unclassified / Specialist,4,39.0,,19.0,,Insufficient (<20),,10.2,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4219,Krunal Pandya,Genuine All-Rounder,74,656.0,1257.0,252.0,57.0,High (100+),Medium (36-74),69.02,39.19,54.1,Eligible Dual Profile,Tier 2: Core Squad Target
+4221,Chris Green,Unclassified / Specialist,1,3.0,24.0,3.0,0.0,Insufficient (<20),Insufficient (<18),15.23,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4229,George Linde,Bowling All-Rounder,17,140.0,283.0,106.0,36.0,High (100+),Medium (36-74),75.74,73.63,74.69,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+4235,Sisanda Magala,Unclassified / Specialist,4,5.0,72.0,5.0,14.0,Insufficient (<20),Insufficient (<18),20.93,10.28,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4237,Tabraiz Shamsi,Unclassified / Specialist,16,7.0,310.0,7.0,17.0,Insufficient (<20),Insufficient (<18),12.17,9.85,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4246,Nitish Rana,Batting All-Rounder,50,861.0,101.0,140.0,11.0,High (100+),Insufficient (<18),87.08,14.51,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+4260,Heinrich Klaasen,Unclassified / Specialist,72,1417.0,,394.0,,High (100+),,84.33,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4265,T Natarajan,Unclassified / Specialist,49,2.0,1052.0,2.0,204.0,Insufficient (<20),High (75+),15.22,37.39,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4276,Basil Thampi,Unclassified / Specialist,5,,96.0,,18.0,,Low (18-35),,25.98,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4288,Navdeep Saini,Unclassified / Specialist,5,2.0,90.0,2.0,0.0,Insufficient (<20),Insufficient (<18),13.78,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4369,Shai Hope,Unclassified / Specialist,58,1105.0,,63.0,,Medium (50-99),,67.23,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+4372,Rony Talukder,Unclassified / Specialist,9,143.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4373,Mustafizur Rahman,Unclassified / Specialist,71,59.0,1576.0,59.0,308.0,Medium (50-99),High (75+),31.13,61.67,46.4,Eligible Dual Profile,Tier 2: Core Squad Target
+4391,Liam Livingstone,Genuine All-Rounder,72,994.0,594.0,276.0,54.0,High (100+),Medium (36-74),83.57,44.24,63.91,Eligible Dual Profile,Tier 2: Core Squad Target
+4409,Sam Curran,Genuine All-Rounder,75,858.0,1350.0,345.0,226.0,High (100+),High (75+),73.66,49.15,61.41,Eligible Dual Profile,Tier 2: Core Squad Target
+4412,Max ODowd,Unclassified / Specialist,11,199.0,30.0,0.0,7.0,Insufficient (<20),Insufficient (<18),15.7,21.73,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4417,Karan KC,Unclassified / Specialist,3,2.0,42.0,2.0,0.0,Insufficient (<20),Insufficient (<18),12.76,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4438,Jasdeep Singh,Unclassified / Specialist,4,20.0,90.0,19.0,18.0,Insufficient (<20),Low (18-35),10.02,38.9,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4450,Mehran Khan,Unclassified / Specialist,2,9.0,30.0,9.0,9.0,Insufficient (<20),Insufficient (<18),11.39,21.24,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4458,AHT Donald,Unclassified / Specialist,3,24.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4460,Jeffrey Vandersay,Unclassified / Specialist,5,23.0,120.0,12.0,26.0,Insufficient (<20),Low (18-35),16.06,20.87,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4486,BR Sharath,Unclassified / Specialist,1,5.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4487,Vyshak Kumar,Unclassified / Specialist,27,16.0,567.0,16.0,62.0,Insufficient (<20),Medium (36-74),12.28,19.77,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4489,Prasidh Krishna,Unclassified / Specialist,52,22.0,1173.0,22.0,171.0,Low (20-49),High (75+),24.68,65.52,45.1,Eligible Dual Profile,Tier 2: Core Squad Target
+4494,Abhinav Manohar,Unclassified / Specialist,20,235.0,,90.0,,Medium (50-99),,51.89,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+4499,Saqib Mahmood,Unclassified / Specialist,11,33.0,228.0,33.0,15.0,Low (20-49),Insufficient (<18),20.74,15.07,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4505,Jhye Richardson,Unclassified / Specialist,5,22.0,120.0,19.0,24.0,Insufficient (<20),Low (18-35),7.26,36.28,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4604,Mitchell Swepson,Unclassified / Specialist,1,1.0,12.0,1.0,0.0,Insufficient (<20),Insufficient (<18),16.17,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4636,Bjorn Fortuin,Unclassified / Specialist,13,56.0,210.0,45.0,6.0,Low (20-49),Insufficient (<18),36.77,9.32,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4639,Wellington Masakadza,Bowling All-Rounder,30,151.0,480.0,125.0,84.0,High (100+),High (75+),57.05,88.43,72.74,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+4641,Lungi Ngidi,Unclassified / Specialist,39,62.0,798.0,62.0,103.0,Medium (50-99),High (75+),34.4,62.74,48.57,Eligible Dual Profile,Tier 2: Core Squad Target
+4658,Nasum Ahmed,Unclassified / Specialist,30,78.0,600.0,58.0,32.0,Medium (50-99),Low (18-35),29.26,41.98,35.62,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+4662,Cole McConchie,Developing / Utility All-Rounder,10,97.0,120.0,55.0,6.0,Medium (50-99),Insufficient (<18),64.02,11.96,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4665,Tom Blundell,Unclassified / Specialist,2,19.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4684,Dane Cleaver,Unclassified / Specialist,10,149.0,,4.0,,Insufficient (<20),,19.63,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4686,Joshua Clarkson,Unclassified / Specialist,11,114.0,48.0,90.0,0.0,Medium (50-99),Insufficient (<18),60.3,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+4692,Lockie Ferguson,Unclassified / Specialist,53,30.0,1076.0,30.0,124.0,Low (20-49),High (75+),22.25,39.04,30.64,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+4695,Nick Kelly,Unclassified / Specialist,7,88.0,,21.0,,Low (20-49),,31.01,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4703,Rishabh Pant,Unclassified / Specialist,73,1239.0,,170.0,,High (100+),,86.27,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4708,Rinku Singh,Unclassified / Specialist,83,1284.0,10.0,567.0,0.0,High (100+),Insufficient (<18),93.23,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4716,Mayank Dagar,Unclassified / Specialist,8,1.0,137.0,1.0,4.0,Insufficient (<20),Insufficient (<18),15.21,21.9,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4722,Rashid Khan,Genuine All-Rounder,122,507.0,2747.0,443.0,349.0,High (100+),High (75+),79.71,82.37,81.04,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+4736,Josh Inglis,Unclassified / Specialist,56,904.0,,55.0,,Medium (50-99),,34.81,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4755,Shivam Dube,Genuine All-Rounder,108,1544.0,469.0,519.0,21.0,High (100+),Low (18-35),88.2,8.0,48.1,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+4773,Jaker Ali Anik,Unclassified / Specialist,34,512.0,,224.0,,High (100+),,78.31,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4779,Pieter Willem Mulder,Developing / Utility All-Rounder,11,112.0,114.0,22.0,15.0,Low (20-49),Insufficient (<18),32.64,20.56,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4780,Mohammad Saif Hassan,Batting All-Rounder,26,498.0,123.0,30.0,12.0,Low (20-49),Insufficient (<18),40.69,19.4,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4784,Tony de Zorzi,Unclassified / Specialist,7,91.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4790,Lutho Sipamla,Unclassified / Specialist,5,14.0,110.0,14.0,18.0,Insufficient (<20),Low (18-35),10.7,21.71,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4793,Dean Foxcroft,Unclassified / Specialist,6,101.0,12.0,10.0,0.0,Insufficient (<20),Insufficient (<18),17.72,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4802,Stephen Doheny,Unclassified / Specialist,3,21.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4807,Joshua Little,Unclassified / Specialist,36,19.0,780.0,19.0,106.0,Insufficient (<20),High (75+),15.55,79.34,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4812,Harry Tector,Batting All-Rounder,46,828.0,228.0,156.0,30.0,High (100+),Low (18-35),83.42,56.4,69.91,Eligible Dual Profile,Tier 2: Core Squad Target
+4814,Lorcan Tucker,Unclassified / Specialist,40,666.0,,79.0,,Medium (50-99),,41.63,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4815,Benjamin White,Unclassified / Specialist,20,14.0,390.0,13.0,83.0,Insufficient (<20),High (75+),7.78,83.19,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+4816,Khaleel Ahmed,Unclassified / Specialist,56,5.0,1198.0,5.0,163.0,Insufficient (<20),High (75+),11.77,49.82,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4817,Anmolpreet Singh,Unclassified / Specialist,8,101.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4821,Mahipal Lomror,Unclassified / Specialist,27,222.0,30.0,87.0,6.0,Medium (50-99),Insufficient (<18),61.59,19.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+4823,Washington Sundar,Genuine All-Rounder,65,637.0,786.0,288.0,57.0,High (100+),Medium (36-74),70.93,48.87,59.9,Eligible Dual Profile,Tier 2: Core Squad Target
+4824,Zeeshan Ansari,Unclassified / Specialist,10,,203.0,,22.0,,Low (18-35),,20.81,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4826,George Garton,Unclassified / Specialist,1,4.0,24.0,4.0,6.0,Insufficient (<20),Insufficient (<18),12.88,7.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4830,Keacy Carty,Unclassified / Specialist,6,72.0,,15.0,,Insufficient (<20),,23.08,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4837,Obed McCoy,Unclassified / Specialist,32,43.0,641.0,43.0,105.0,Low (20-49),High (75+),23.03,67.61,45.32,Eligible Dual Profile,Tier 2: Core Squad Target
+4838,Keemo Paul,Unclassified / Specialist,6,29.0,90.0,29.0,6.0,Low (20-49),Insufficient (<18),27.22,15.35,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4840,Odean Smith,Bowling All-Rounder,25,133.0,384.0,108.0,55.0,High (100+),Medium (36-74),71.55,64.4,67.97,Eligible Dual Profile,Tier 2: Core Squad Target
+4842,Shamar Springer,Unclassified / Specialist,11,69.0,196.0,58.0,25.0,Medium (50-99),Low (18-35),75.2,14.14,44.67,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+4847,Finn Allen,Unclassified / Specialist,52,834.0,,3.0,,Insufficient (<20),,15.46,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4853,Glenn Phillips,Batting All-Rounder,57,1093.0,113.0,169.0,7.0,High (100+),Insufficient (<18),78.66,17.09,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4854,Rachin Ravindra,Batting All-Rounder,46,582.0,132.0,83.0,6.0,Medium (50-99),Insufficient (<18),49.87,22.22,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4856,Benjamin Sears,Unclassified / Specialist,22,33.0,453.0,33.0,61.0,Low (20-49),Medium (36-74),21.76,58.19,39.98,Eligible Dual Profile,Tier 2: Core Squad Target
+4857,Nathan Smith,Unclassified / Specialist,6,7.0,102.0,7.0,25.0,Insufficient (<20),Low (18-35),16.21,24.68,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4867,Wesley Madhevere,Batting All-Rounder,30,427.0,96.0,70.0,3.0,Medium (50-99),Insufficient (<18),58.06,19.08,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4870,Kundai Matigimu,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4871,Brandon Mavuta,Unclassified / Specialist,2,15.0,42.0,15.0,18.0,Insufficient (<20),Low (18-35),12.48,46.41,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4874,Richard Ngarava,Unclassified / Specialist,39,62.0,846.0,60.0,217.0,Medium (50-99),High (75+),42.1,71.49,56.8,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+4876,Milton Shumba,Unclassified / Specialist,6,63.0,12.0,32.0,0.0,Low (20-49),Insufficient (<18),18.27,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4880,Aarif Sheikh,Unclassified / Specialist,1,3.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4881,Dipendra Airee,Unclassified / Specialist,2,19.0,36.0,7.0,0.0,Insufficient (<20),Insufficient (<18),16.12,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4882,Kushal Bhurtel,Unclassified / Specialist,3,44.0,49.0,0.0,1.0,Insufficient (<20),Insufficient (<18),15.7,11.5,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4895,Charith Asalanka,Batting All-Rounder,55,739.0,161.0,123.0,24.0,High (100+),Low (18-35),44.5,51.19,47.84,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+4900,Wanindu Hasaranga,Genuine All-Rounder,91,468.0,2034.0,263.0,176.0,High (100+),High (75+),30.81,77.66,54.23,Eligible Dual Profile,Tier 2: Core Squad Target
+4901,Asitha Fernando,Unclassified / Specialist,6,5.0,120.0,4.0,20.0,Insufficient (<20),Low (18-35),21.02,27.27,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4902,Avishka Fernando,Unclassified / Specialist,9,62.0,,7.0,,Insufficient (<20),,10.99,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4903,Lahiru Kumara,Unclassified / Specialist,3,,71.0,,28.0,,Low (18-35),,50.58,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+4904,Kamindu Mendis,Batting All-Rounder,39,593.0,150.0,138.0,0.0,High (100+),Insufficient (<18),60.85,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4926,Shadab Khan,Genuine All-Rounder,43,332.0,832.0,157.0,69.0,High (100+),Medium (36-74),66.99,62.93,64.96,Eligible Dual Profile,Tier 2: Core Squad Target
+4947,Kasun Rajitha,Unclassified / Specialist,5,9.0,108.0,9.0,14.0,Insufficient (<20),Insufficient (<18),18.44,13.26,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4974,Mohammad Nadeem,Unclassified / Specialist,5,80.0,60.0,35.0,6.0,Low (20-49),Insufficient (<18),31.3,9.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+4983,Sikander Zulfiqar,Unclassified / Specialist,1,3.0,,3.0,,Insufficient (<20),,13.32,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+4986,Rovman Powell,Unclassified / Specialist,100,1559.0,73.0,647.0,13.0,High (100+),Insufficient (<18),88.16,8.21,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+5029,Prerak Mankad,Unclassified / Specialist,5,73.0,,18.0,,Insufficient (<20),,25.61,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5034,Murugan Ashwin,Unclassified / Specialist,10,14.0,198.0,14.0,0.0,Insufficient (<20),Insufficient (<18),11.63,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5039,Rajat Patidar,Unclassified / Specialist,48,918.0,,126.0,,High (100+),,76.07,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+5041,Mukesh Kumar,Unclassified / Specialist,59,23.0,1148.0,22.0,197.0,Low (20-49),High (75+),28.81,51.14,39.98,Eligible Dual Profile,Tier 2: Core Squad Target
+5189,Faheem Ashraf,Bowling All-Rounder,37,204.0,442.0,173.0,32.0,High (100+),Low (18-35),76.86,50.2,63.53,Eligible Dual Profile,Tier 2: Core Squad Target
+5231,Oshane Thomas,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5379,Mark Adair,Genuine All-Rounder,40,277.0,845.0,232.0,157.0,High (100+),High (75+),71.89,54.59,63.24,Eligible Dual Profile,Tier 2: Core Squad Target
+5441,Barry McCarthy,Bowling All-Rounder,29,112.0,619.0,98.0,109.0,Medium (50-99),High (75+),40.11,67.37,53.74,Eligible Dual Profile,Tier 2: Core Squad Target
+5547,Nosthush Kenjige,Unclassified / Specialist,4,13.0,78.0,10.0,0.0,Insufficient (<20),Insufficient (<18),11.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5553,Phil Salt,Unclassified / Specialist,84,1643.0,,65.0,,Medium (50-99),,70.92,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+5561,Brad Wheal,Unclassified / Specialist,2,12.0,36.0,12.0,12.0,Insufficient (<20),Insufficient (<18),13.93,18.82,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5562,Richard Gleeson,Unclassified / Specialist,9,6.0,194.0,6.0,18.0,Insufficient (<20),Low (18-35),12.28,15.11,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5577,Sai Kishore,Unclassified / Specialist,28,16.0,489.0,16.0,48.0,Insufficient (<20),Medium (36-74),12.38,34.19,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+5608,Narayan Jagadeesan,Unclassified / Specialist,8,118.0,,15.0,,Insufficient (<20),,21.14,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5665,Sanjay Yadav,Unclassified / Specialist,1,2.0,12.0,2.0,0.0,Insufficient (<20),Insufficient (<18),12.93,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5738,Xavier Bartlett,Bowling All-Rounder,31,90.0,624.0,71.0,91.0,Medium (50-99),High (75+),54.91,61.41,58.16,Eligible Dual Profile,Tier 2: Core Squad Target
+5750,Ehsan Khan,Unclassified / Specialist,14,33.0,323.0,33.0,60.0,Low (20-49),Medium (36-74),30.04,64.32,47.18,Eligible Dual Profile,Tier 2: Core Squad Target
+5808,Karim Janat,Genuine All-Rounder,31,319.0,263.0,126.0,57.0,High (100+),Medium (36-74),52.27,38.68,45.48,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+5809,Naveen ul Haq,Unclassified / Specialist,37,67.0,786.0,65.0,95.0,Medium (50-99),High (75+),35.14,69.27,52.2,Eligible Dual Profile,Tier 2: Core Squad Target
+5837,Mahedi Hasan,Genuine All-Rounder,42,253.0,914.0,150.0,94.0,High (100+),High (75+),47.76,82.2,64.98,Eligible Dual Profile,Tier 2: Core Squad Target
+5839,Yasir Ali Chowdhury,Unclassified / Specialist,12,153.0,,104.0,,High (100+),,80.83,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+5844,Ebadot Hossain,Unclassified / Specialist,3,,72.0,,10.0,,Insufficient (<18),,12.36,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5866,Patrick Kruger,Unclassified / Specialist,7,60.0,116.0,41.0,14.0,Low (20-49),Insufficient (<18),19.78,11.11,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5877,Andries Gous,Unclassified / Specialist,3,57.0,,8.0,,Insufficient (<20),,19.73,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5882,Afif Hossain,Unclassified / Specialist,20,361.0,30.0,82.0,0.0,Medium (50-99),Insufficient (<18),52.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+5892,Blair Tickner,Unclassified / Specialist,11,5.0,215.0,5.0,36.0,Insufficient (<20),Medium (36-74),12.04,37.45,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+5928,Prithvi Shaw,Unclassified / Specialist,26,391.0,,9.0,,Insufficient (<20),,16.35,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+5939,Cameron Green,Genuine All-Rounder,65,1072.0,753.0,194.0,50.0,High (100+),Medium (36-74),73.55,27.34,50.45,Eligible Dual Profile,Tier 2: Core Squad Target
+5940,Riley Meredith,Unclassified / Specialist,14,3.0,310.0,3.0,42.0,Insufficient (<20),Medium (36-74),14.3,61.35,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+5944,Mohammed Siraj,Unclassified / Specialist,83,72.0,1806.0,69.0,179.0,Medium (50-99),High (75+),34.16,45.94,40.05,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+5977,Khary Pierre,Unclassified / Specialist,6,15.0,120.0,15.0,18.0,Insufficient (<20),Low (18-35),11.69,35.86,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+5979,Abrar Ahmed,Unclassified / Specialist,35,11.0,764.0,11.0,64.0,Insufficient (<20),Medium (36-74),10.92,66.83,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6025,Henry Shipley,Unclassified / Specialist,4,2.0,78.0,2.0,21.0,Insufficient (<20),Low (18-35),15.69,20.66,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6035,Chirag Suri,Unclassified / Specialist,5,103.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6059,Ruturaj Gaikwad,Unclassified / Specialist,77,1822.0,,59.0,,Medium (50-99),,66.63,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6097,Brydon Carse,Unclassified / Specialist,14,37.0,268.0,17.0,17.0,Insufficient (<20),Insufficient (<18),7.75,16.47,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6160,Chamika Karunaratne,Bowling All-Rounder,21,152.0,336.0,116.0,22.0,High (100+),Low (18-35),63.66,33.27,48.47,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+6161,Rahul Chahar,Bowling All-Rounder,42,95.0,866.0,85.0,95.0,Medium (50-99),High (75+),48.83,52.74,50.78,Eligible Dual Profile,Tier 2: Core Squad Target
+6162,Kulwant Khejroliya,Unclassified / Specialist,4,,56.0,,13.0,,Insufficient (<18),,10.01,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6166,Jack Edwards,Unclassified / Specialist,1,6.0,12.0,6.0,0.0,Insufficient (<20),Insufficient (<18),13.24,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6172,Lasith Croospulle,Unclassified / Specialist,5,31.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6179,Nipun Ransika,Unclassified / Specialist,5,6.0,90.0,6.0,6.0,Insufficient (<20),Insufficient (<18),13.64,7.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6180,Praveen Jayawickrama,Unclassified / Specialist,2,,48.0,,6.0,,Insufficient (<18),,11.25,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6188,Simi Singh,Unclassified / Specialist,2,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6196,Josh Tongue,Unclassified / Specialist,5,,120.0,,5.0,,Insufficient (<18),,14.47,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6203,Surendran Chandramohan,Unclassified / Specialist,3,25.0,,5.0,,Insufficient (<20),,18.3,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6237,Manimaran Siddharth,Unclassified / Specialist,9,,186.0,,21.0,,Low (18-35),,31.63,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6256,Varun Chakravarthy,Unclassified / Specialist,95,49.0,2128.0,40.0,159.0,Low (20-49),High (75+),23.61,52.94,38.27,Eligible Dual Profile,Tier 2: Core Squad Target
+6272,William Jacks,Genuine All-Rounder,62,697.0,413.0,59.0,29.0,Medium (50-99),Low (18-35),64.99,37.92,51.45,Eligible Dual Profile,Tier 2: Core Squad Target
+6273,Tom Banton,Unclassified / Specialist,19,274.0,,38.0,,Low (20-49),,51.46,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6280,Harry Brook,Unclassified / Specialist,56,889.0,,98.0,,Medium (50-99),,49.39,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6281,Abhishek Sharma,Genuine All-Rounder,136,2317.0,457.0,79.0,6.0,Medium (50-99),Insufficient (<18),52.38,4.06,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6284,Anukul Roy,Unclassified / Specialist,23,64.0,311.0,51.0,15.0,Medium (50-99),Insufficient (<18),52.35,11.1,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6285,Kamlesh Nagarkoti,Unclassified / Specialist,1,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6286,Shivam Mavi,Unclassified / Specialist,12,25.0,216.0,24.0,26.0,Low (20-49),Low (18-35),35.42,45.26,40.34,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+6287,Yash Thakur,Unclassified / Specialist,27,4.0,569.0,4.0,60.0,Insufficient (<20),Medium (36-74),12.88,31.56,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6288,Shubman Gill,Unclassified / Specialist,112,2711.0,,140.0,,High (100+),,96.73,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6297,Matthew Parkinson,Unclassified / Specialist,2,5.0,36.0,5.0,4.0,Insufficient (<20),Insufficient (<18),11.46,20.79,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6314,Devdutt Padikkal,Unclassified / Specialist,60,998.0,,66.0,,Medium (50-99),,36.01,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6342,Matthew Breetzke,Unclassified / Specialist,14,148.0,,25.0,,Low (20-49),,31.53,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6350,Matthew Kuhnemann,Unclassified / Specialist,6,12.0,120.0,12.0,0.0,Insufficient (<20),Insufficient (<18),10.85,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6354,Spencer Johnson,Unclassified / Specialist,23,13.0,438.0,10.0,42.0,Insufficient (<20),Medium (36-74),14.58,56.49,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6355,Shaheen Afridi,Bowling All-Rounder,47,183.0,990.0,147.0,122.0,High (100+),High (75+),44.18,91.38,67.78,Eligible Dual Profile,Tier 2: Core Squad Target
+6356,Khaled Ahmed,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6359,Raghu Sharma,Unclassified / Specialist,5,,90.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6389,Tanvir Islam,Unclassified / Specialist,6,16.0,102.0,16.0,12.0,Insufficient (<20),Insufficient (<18),12.15,18.24,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6395,Josh Philippe,Unclassified / Specialist,5,46.0,,23.0,,Low (20-49),,24.54,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6396,Tim David,Unclassified / Specialist,98,1226.0,6.0,558.0,0.0,High (100+),Insufficient (<18),96.78,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6398,Aaron Hardie,Bowling All-Rounder,16,142.0,271.0,75.0,12.0,Medium (50-99),Insufficient (<18),57.46,5.68,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6423,Riyan Parag,Genuine All-Rounder,72,1084.0,260.0,250.0,25.0,High (100+),Low (18-35),78.14,41.68,59.91,Eligible Dual Profile,Tier 2: Core Squad Target
+6433,Darwish Rasooli,Unclassified / Specialist,27,429.0,,55.0,,Medium (50-99),,28.47,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6436,Qais Ahmad,Unclassified / Specialist,10,34.0,192.0,30.0,42.0,Low (20-49),Medium (36-74),22.96,75.01,48.98,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+6440,Omair Yousuf,Unclassified / Specialist,8,126.0,,1.0,,Insufficient (<20),,10.4,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6441,Abdullah Shafique,Unclassified / Specialist,3,16.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6443,Rohail Nazir,Unclassified / Specialist,1,20.0,,14.0,,Insufficient (<20),,26.24,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6448,Ibrahim Zadran,Unclassified / Specialist,47,1126.0,,134.0,,High (100+),,84.48,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6449,Wafadar Momand,Unclassified / Specialist,2,,31.0,,3.0,,Insufficient (<18),,12.33,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6450,Mujeeb Ur Rahman,Unclassified / Specialist,38,70.0,820.0,64.0,107.0,Medium (50-99),High (75+),54.05,87.73,70.89,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+6457,Urvil Patel,Unclassified / Specialist,10,96.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6460,Ayush Badoni,Unclassified / Specialist,62,899.0,77.0,364.0,8.0,High (100+),Insufficient (<18),82.85,16.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6464,Arshdeep Singh,Bowling All-Rounder,147,132.0,3202.0,119.0,478.0,High (100+),High (75+),25.89,60.82,43.36,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+6466,Atharwa Taide,Unclassified / Specialist,10,177.0,1.0,23.0,1.0,Low (20-49),Insufficient (<18),30.0,10.3,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6467,Anuj Rawat,Unclassified / Specialist,21,277.0,,92.0,,Medium (50-99),,72.11,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6473,Nuwanidu Fernando,Unclassified / Specialist,11,179.0,,4.0,,Insufficient (<20),,12.25,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6483,Nishan Madushka,Unclassified / Specialist,4,45.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6486,Tanush Kotian,Unclassified / Specialist,1,31.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6487,Priyam Garg,Unclassified / Specialist,4,56.0,,14.0,,Insufficient (<20),,13.33,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6489,Darshan Nalkande,Unclassified / Specialist,6,12.0,84.0,1.0,4.0,Insufficient (<20),Insufficient (<18),10.4,20.79,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6494,Manoj Bhandage,Unclassified / Specialist,1,4.0,,4.0,,Insufficient (<20),,12.46,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6503,Zahoor Khan,Unclassified / Specialist,5,2.0,120.0,2.0,26.0,Insufficient (<20),Low (18-35),14.74,40.44,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6506,Mohammad Imran Randhawa,Unclassified / Specialist,3,12.0,72.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6512,Michael Bracewell,Genuine All-Rounder,45,350.0,678.0,157.0,30.0,High (100+),Low (18-35),50.38,31.07,40.73,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+6514,Anil Nidamanuru,Unclassified / Specialist,5,43.0,,12.0,,Insufficient (<20),,17.8,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6515,Benjamin Lister,Unclassified / Specialist,12,6.0,245.0,6.0,54.0,Insufficient (<20),Medium (36-74),11.36,52.33,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6518,Daniel Sams,Unclassified / Specialist,17,75.0,350.0,48.0,41.0,Low (20-49),Medium (36-74),34.23,37.16,35.69,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+6523,Blessing Muzarabani,Unclassified / Specialist,37,43.0,820.0,36.0,204.0,Low (20-49),High (75+),28.13,72.74,50.43,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+6526,Himmat Singh,Unclassified / Specialist,5,69.0,,45.0,,Low (20-49),,39.83,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6565,Katene Clarke,Unclassified / Specialist,4,48.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6566,Matthew John Fisher,Unclassified / Specialist,3,,54.0,,5.0,,Insufficient (<18),,12.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6574,Alick Athanaze,Unclassified / Specialist,15,264.0,6.0,7.0,0.0,Insufficient (<20),Insufficient (<18),14.73,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6591,KM Asif,Unclassified / Specialist,4,2.0,84.0,2.0,12.0,Insufficient (<20),Insufficient (<18),12.93,9.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6628,Gerald Coetzee,Bowling All-Rounder,29,103.0,592.0,76.0,112.0,Medium (50-99),High (75+),50.55,77.69,64.12,Eligible Dual Profile,Tier 2: Core Squad Target
+6643,Hasan Mahmud,Unclassified / Specialist,20,46.0,396.0,41.0,80.0,Low (20-49),High (75+),41.44,72.18,56.81,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+6644,Mahidul Ankon,Unclassified / Specialist,4,47.0,,1.0,,Insufficient (<20),,10.4,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6645,Mohammad Sheikh,Unclassified / Specialist,5,76.0,,22.0,,Low (20-49),,34.3,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6651,Towhid Hridoy,Unclassified / Specialist,53,998.0,2.0,186.0,0.0,High (100+),Insufficient (<18),91.29,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6664,Dion Myers,Unclassified / Specialist,20,340.0,12.0,58.0,0.0,Medium (50-99),Insufficient (<18),61.45,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6669,Mohsin Khan,Unclassified / Specialist,30,28.0,654.0,28.0,82.0,Low (20-49),High (75+),23.32,83.55,53.44,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+6671,Lalit Yadav,Developing / Utility All-Rounder,18,217.0,204.0,117.0,8.0,High (100+),Insufficient (<18),65.29,5.18,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6674,Rahmanullah Gurbaz,Unclassified / Specialist,69,1123.0,,20.0,,Low (20-49),,24.64,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6676,Azmatullah Omarzai,Genuine All-Rounder,68,665.0,1067.0,263.0,125.0,High (100+),High (75+),76.94,54.55,65.75,Eligible Dual Profile,Tier 2: Core Squad Target
+6677,Mohammad Hasnain,Unclassified / Specialist,10,13.0,222.0,13.0,39.0,Insufficient (<20),Medium (36-74),18.49,38.06,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6683,Mayank Markande,Unclassified / Specialist,22,13.0,432.0,13.0,39.0,Insufficient (<20),Medium (36-74),19.33,26.43,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6697,Shams Mulani,Unclassified / Specialist,2,1.0,30.0,1.0,6.0,Insufficient (<20),Insufficient (<18),15.69,7.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6705,Scott McKechnie,Unclassified / Specialist,3,26.0,,15.0,,Insufficient (<20),,17.64,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6725,Sherfane Rutherford,Unclassified / Specialist,56,818.0,18.0,399.0,0.0,High (100+),Insufficient (<18),88.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+6726,Romario Shepherd,Genuine All-Rounder,96,687.0,1539.0,541.0,182.0,High (100+),High (75+),90.86,43.9,67.38,Eligible Dual Profile,Tier 2: Core Squad Target
+6739,Amir Jangoo,Unclassified / Specialist,7,135.0,,7.0,,Insufficient (<20),,13.0,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6764,Bukkapatnam Siddharth,Unclassified / Specialist,1,,6.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6772,Chetan Sakariya,Unclassified / Specialist,6,6.0,132.0,6.0,21.0,Insufficient (<20),Low (18-35),12.84,21.74,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6783,Azam Khan,Unclassified / Specialist,10,58.0,,21.0,,Low (20-49),,22.45,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6784,Hassan Mohammad,Unclassified / Specialist,1,1.0,24.0,1.0,0.0,Insufficient (<20),Insufficient (<18),15.69,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6795,Terrance Hinds,Unclassified / Specialist,2,3.0,26.0,3.0,11.0,Insufficient (<20),Insufficient (<18),16.63,13.21,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6797,Dominic Drakes,Unclassified / Specialist,7,12.0,126.0,12.0,24.0,Insufficient (<20),Low (18-35),11.68,22.58,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6806,Tushar Deshpande,Unclassified / Specialist,50,24.0,1037.0,24.0,171.0,Low (20-49),High (75+),30.58,51.46,41.02,Eligible Dual Profile,Tier 2: Core Squad Target
+6819,Yashasvi Jaiswal,Unclassified / Specialist,89,1872.0,7.0,34.0,0.0,Low (20-49),Insufficient (<18),43.19,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6881,Scott Edwards,Unclassified / Specialist,12,176.0,,57.0,,Medium (50-99),,63.37,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6900,Michael Jones,Unclassified / Specialist,3,19.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6919,Tyrone Kane,Unclassified / Specialist,1,11.0,,6.0,,Insufficient (<20),,10.94,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6922,Abdul Samad,Unclassified / Specialist,9,101.0,,55.0,,Medium (50-99),,68.83,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6926,Matty Potts,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6931,Pathum Nissanka,Unclassified / Specialist,75,1631.0,,91.0,,Medium (50-99),,56.93,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6932,Pramod Madushan,Unclassified / Specialist,7,14.0,145.0,14.0,26.0,Insufficient (<20),Low (18-35),10.7,35.65,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+6984,Saqib Zulfiqar,Unclassified / Specialist,1,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+6985,Bas de Leede,Unclassified / Specialist,5,163.0,72.0,54.0,0.0,Medium (50-99),Insufficient (<18),69.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+6995,Saad Zafar,Unclassified / Specialist,3,39.0,72.0,23.0,24.0,Low (20-49),Low (18-35),25.36,56.08,40.72,Eligible Dual Profile,Tier 2: Core Squad Target
+7001,Dilon Heyliger,Unclassified / Specialist,4,20.0,54.0,20.0,13.0,Low (20-49),Insufficient (<18),39.84,23.83,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7002,Nicholas Kirton,Unclassified / Specialist,4,109.0,6.0,22.0,0.0,Low (20-49),Insufficient (<18),42.71,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7003,Rayyan Pathan,Unclassified / Specialist,3,16.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7008,Gus Atkinson,Unclassified / Specialist,4,23.0,65.0,10.0,9.0,Insufficient (<20),Insufficient (<18),18.01,10.98,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7044,Jamie Smith,Unclassified / Specialist,5,67.0,,3.0,,Insufficient (<20),,11.76,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7046,Tinashe Kamunhukamwe,Unclassified / Specialist,5,74.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7049,Kamil Mishara,Unclassified / Specialist,22,407.0,6.0,18.0,0.0,Insufficient (<20),Insufficient (<18),23.27,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7052,Dunith Wellalage,Bowling All-Rounder,16,137.0,332.0,88.0,7.0,Medium (50-99),Insufficient (<18),41.34,19.44,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7059,Nehal Wadhera,Unclassified / Specialist,45,682.0,28.0,199.0,0.0,High (100+),Insufficient (<18),64.68,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7060,Arjun Tendulkar,Unclassified / Specialist,6,14.0,97.0,14.0,6.0,Insufficient (<20),Insufficient (<18),15.01,3.53,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7094,Curtis Campher,Genuine All-Rounder,39,526.0,396.0,163.0,55.0,High (100+),Medium (36-74),72.5,45.39,58.95,Eligible Dual Profile,Tier 2: Core Squad Target
+7120,Rohit Paudel,Unclassified / Specialist,3,64.0,42.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7140,Senuran Muthusamy,Unclassified / Specialist,2,9.0,42.0,9.0,0.0,Insufficient (<20),Insufficient (<18),12.55,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7152,Hazratullah Zazai,Unclassified / Specialist,16,245.0,,3.0,,Insufficient (<20),,9.9,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7155,Sahan Arachchige,Unclassified / Specialist,11,189.0,78.0,53.0,12.0,Medium (50-99),Insufficient (<18),64.12,21.37,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7201,Haroon Arshad,Unclassified / Specialist,5,18.0,72.0,18.0,24.0,Insufficient (<20),Low (18-35),17.77,20.62,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7216,Prabhsimran Singh,Unclassified / Specialist,63,1172.0,,51.0,,Medium (50-99),,67.76,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7227,Nijat Masood,Unclassified / Specialist,3,5.0,66.0,5.0,0.0,Insufficient (<20),Insufficient (<18),15.27,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7240,FazalHaq Farooqi,Unclassified / Specialist,50,45.0,1027.0,45.0,118.0,Low (20-49),High (75+),15.83,40.23,28.03,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+7241,Ziaur Rahman,Unclassified / Specialist,2,,48.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7250,Mukesh Choudhary,Unclassified / Specialist,24,8.0,483.0,4.0,42.0,Insufficient (<20),Medium (36-74),15.71,38.74,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7260,Dhruv Jurel,Unclassified / Specialist,54,798.0,,282.0,,High (100+),,89.87,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+7269,Sushant Mishra,Unclassified / Specialist,2,3.0,38.0,3.0,6.0,Insufficient (<20),Insufficient (<18),14.76,12.43,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7270,Anrich Nortje,Unclassified / Specialist,39,67.0,836.0,63.0,166.0,Medium (50-99),High (75+),35.57,53.66,44.61,Eligible Dual Profile,Tier 2: Core Squad Target
+7304,Sanvir Singh,Unclassified / Specialist,5,21.0,,19.0,,Insufficient (<20),,21.69,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7312,Nandre Burger,Unclassified / Specialist,22,30.0,441.0,24.0,43.0,Low (20-49),Medium (36-74),28.31,51.93,40.12,Eligible Dual Profile,Tier 2: Core Squad Target
+7322,Yash Dayal,Unclassified / Specialist,43,9.0,871.0,9.0,110.0,Insufficient (<20),High (75+),11.09,55.85,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7325,Harpreet Brar,Bowling All-Rounder,38,136.0,667.0,115.0,86.0,High (100+),High (75+),60.87,56.13,58.5,Eligible Dual Profile,Tier 2: Core Squad Target
+7327,Rasikh Salam,Unclassified / Specialist,28,39.0,542.0,34.0,72.0,Low (20-49),Medium (36-74),33.2,46.39,39.8,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+7338,Haider Ali,Unclassified / Specialist,12,121.0,,30.0,,Low (20-49),,52.51,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7341,Jake McGurk,Unclassified / Specialist,23,279.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7344,Shoriful Islam,Unclassified / Specialist,39,79.0,790.0,54.0,125.0,Medium (50-99),High (75+),49.66,75.78,62.72,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+7354,Al Alis,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7355,Tayyab Tahir,Unclassified / Specialist,7,104.0,,39.0,,Low (20-49),,44.77,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7364,Haris Rauf,Bowling All-Rounder,48,104.0,1027.0,103.0,175.0,High (100+),High (75+),56.59,67.06,61.83,Eligible Dual Profile,Tier 2: Core Squad Target
+7403,Lalit Rajbanshi,Unclassified / Specialist,2,,30.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7406,Rizwan CP,Unclassified / Specialist,4,102.0,,46.0,,Low (20-49),,51.3,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7409,Sundeep Jora,Unclassified / Specialist,3,60.0,,13.0,,Insufficient (<20),,13.12,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7446,Abdul Samad,Unclassified / Specialist,41,424.0,9.0,263.0,0.0,High (100+),Insufficient (<18),72.63,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+7472,Shahbaz Ahmed,Genuine All-Rounder,48,435.0,535.0,230.0,18.0,High (100+),Low (18-35),77.71,17.16,47.43,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+7473,Akash Deep,Unclassified / Specialist,14,14.0,278.0,14.0,21.0,Insufficient (<20),Low (18-35),15.15,9.32,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7498,Abhijeet Tomar,Unclassified / Specialist,1,8.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7503,Ravi Bishnoi,Bowling All-Rounder,109,105.0,2327.0,104.0,205.0,High (100+),High (75+),48.25,61.57,54.91,Eligible Dual Profile,Tier 2: Core Squad Target
+7533,Simarjeet Singh,Unclassified / Specialist,14,15.0,240.0,12.0,24.0,Insufficient (<20),Low (18-35),11.13,20.8,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7544,Venkatesh Iyer,Unclassified / Specialist,55,943.0,49.0,195.0,8.0,High (100+),Insufficient (<18),74.49,12.76,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+7545,Kuldeep Sen,Unclassified / Specialist,12,3.0,241.0,3.0,31.0,Insufficient (<20),Low (18-35),14.3,29.65,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7566,Ben Curran,Unclassified / Specialist,4,40.0,,7.0,,Insufficient (<20),,10.99,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7574,Kumar Kartikeya Singh,Unclassified / Specialist,16,17.0,282.0,17.0,0.0,Insufficient (<20),Insufficient (<18),10.49,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7625,Suryansh Shedge,Unclassified / Specialist,13,112.0,60.0,53.0,6.0,Medium (50-99),Insufficient (<18),44.74,4.25,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7634,Aaron Jones,Unclassified / Specialist,3,40.0,18.0,0.0,6.0,Insufficient (<20),Insufficient (<18),15.7,19.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7689,Dilshan Madushanka,Unclassified / Specialist,19,12.0,362.0,11.0,39.0,Insufficient (<20),Medium (36-74),6.52,38.76,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7690,Saim Ayub,Genuine All-Rounder,59,880.0,510.0,14.0,66.0,Insufficient (<20),Medium (36-74),22.69,79.4,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7692,Qasim Akram,Unclassified / Specialist,5,105.0,42.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7696,Mohammad Wasim,Unclassified / Specialist,17,30.0,355.0,29.0,74.0,Low (20-49),Medium (36-74),36.43,43.12,39.77,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+7699,Abbas Afridi,Bowling All-Rounder,26,118.0,453.0,87.0,68.0,Medium (50-99),Medium (36-74),52.5,57.38,54.94,Eligible Dual Profile,Tier 2: Core Squad Target
+7702,Chamindu Wickramasinghe,Unclassified / Specialist,4,35.0,42.0,35.0,0.0,Low (20-49),Insufficient (<18),35.66,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7704,Pavan Rathnayake,Unclassified / Specialist,10,149.0,12.0,14.0,0.0,Insufficient (<20),Insufficient (<18),19.47,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7709,Ainsley Ndlovu,Unclassified / Specialist,5,32.0,66.0,32.0,14.0,Low (20-49),Insufficient (<18),34.53,14.01,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7710,Brandon Glover,Unclassified / Specialist,1,1.0,12.0,1.0,0.0,Insufficient (<20),Insufficient (<18),17.13,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7741,Gareth Delany,Genuine All-Rounder,40,296.0,552.0,175.0,61.0,High (100+),Medium (36-74),84.36,47.35,65.86,Eligible Dual Profile,Tier 2: Core Squad Target
+7744,Jordan Cox,Unclassified / Specialist,5,74.0,,4.0,,Insufficient (<20),,12.51,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7755,Harsh Thaker,Unclassified / Specialist,4,57.0,48.0,13.0,12.0,Insufficient (<20),Insufficient (<18),16.19,19.62,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7756,Kaleem Sana,Unclassified / Specialist,3,4.0,67.0,4.0,24.0,Insufficient (<20),Low (18-35),18.02,38.68,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7761,Ravinderpal Singh,Unclassified / Specialist,3,24.0,,18.0,,Insufficient (<20),,20.44,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7808,Marco Jansen,Genuine All-Rounder,60,277.0,1317.0,209.0,161.0,High (100+),High (75+),69.07,50.32,59.69,Eligible Dual Profile,Tier 2: Core Squad Target
+7894,Tony Munyonga,Unclassified / Specialist,13,141.0,,51.0,,Medium (50-99),,64.77,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7896,Akash Singh,Unclassified / Specialist,11,,223.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7897,Namboori Tilak Varma,Unclassified / Specialist,127,2515.0,85.0,727.0,0.0,High (100+),Insufficient (<18),96.02,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+7900,Tanzid Hasan,Unclassified / Specialist,44,910.0,,24.0,,Low (20-49),,40.05,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7901,Parvez Emon,Unclassified / Specialist,39,585.0,,17.0,,Insufficient (<20),,20.18,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7903,Shamim Hossain,Batting All-Rounder,39,439.0,103.0,178.0,6.0,High (100+),Insufficient (<18),76.36,12.99,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7904,Mohammad Chowdhury,Unclassified / Specialist,1,2.0,,2.0,,Insufficient (<20),,12.93,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7905,Tanzim Sakib,Bowling All-Rounder,31,163.0,677.0,150.0,134.0,High (100+),High (75+),60.1,59.64,59.87,Eligible Dual Profile,Tier 2: Core Squad Target
+7906,Rakibul Hasan,Unclassified / Specialist,8,25.0,180.0,24.0,1.0,Low (20-49),Insufficient (<18),25.29,21.65,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7908,Mohammad Akbar Ali,Unclassified / Specialist,7,99.0,,5.0,,Insufficient (<20),,11.36,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7911,Oliver Hairs,Unclassified / Specialist,5,50.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7912,Vikramjit Singh,Unclassified / Specialist,11,137.0,45.0,3.0,0.0,Insufficient (<20),Insufficient (<18),18.0,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7914,Clayton Floyd,Unclassified / Specialist,2,1.0,36.0,1.0,0.0,Insufficient (<20),Insufficient (<18),15.69,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7915,Monank Patel,Unclassified / Specialist,3,37.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7916,Karima Gore,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7920,Nathan Ellis,Unclassified / Specialist,43,57.0,916.0,42.0,138.0,Low (20-49),High (75+),23.55,71.32,47.43,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+7924,Kushal Malla,Unclassified / Specialist,3,51.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7925,Rohan Rangarajan,Unclassified / Specialist,1,11.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7926,Manpreet Singh,Unclassified / Specialist,1,15.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7927,Janak Prakash,Unclassified / Specialist,3,81.0,54.0,9.0,0.0,Insufficient (<20),Insufficient (<18),15.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7928,Vinoth Baskaran,Unclassified / Specialist,3,9.0,65.0,5.0,0.0,Insufficient (<20),Insufficient (<18),14.35,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7929,Aryaman Sunil Uchil,Unclassified / Specialist,3,17.0,42.0,10.0,0.0,Insufficient (<20),Insufficient (<18),16.95,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7931,Aritra Dutta,Unclassified / Specialist,3,62.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7935,Mohammad Ghazanfar,Unclassified / Specialist,5,4.0,108.0,4.0,24.0,Insufficient (<20),Low (18-35),13.29,46.31,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7937,Wasim Ali,Unclassified / Specialist,7,151.0,84.0,47.0,6.0,Low (20-49),Insufficient (<18),41.37,9.32,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7938,Sandeep Goud 1,Unclassified / Specialist,1,2.0,,2.0,,Insufficient (<20),,17.12,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7942,Jay Odedara,Unclassified / Specialist,3,1.0,54.0,1.0,18.0,Insufficient (<20),Low (18-35),13.4,50.8,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+7945,Nasrulla Rana,Unclassified / Specialist,5,12.0,72.0,12.0,6.0,Insufficient (<20),Insufficient (<18),12.01,14.66,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+7966,Farmanullah Safi,Unclassified / Specialist,3,36.0,36.0,18.0,18.0,Insufficient (<20),Low (18-35),19.67,44.9,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7967,Noor Ahmad,Bowling All-Rounder,70,114.0,1467.0,104.0,128.0,High (100+),High (75+),43.8,75.24,59.52,Eligible Dual Profile,Tier 2: Core Squad Target
+7978,Johnathan Campbell,Unclassified / Specialist,9,101.0,,37.0,,Low (20-49),,34.81,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+7981,Imran Mir,Unclassified / Specialist,3,36.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8005,Zawar Farid,Unclassified / Specialist,5,50.0,78.0,23.0,18.0,Low (20-49),Low (18-35),17.9,45.28,31.59,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+8009,Junaid Siddique,Unclassified / Specialist,15,38.0,330.0,35.0,56.0,Low (20-49),Medium (36-74),28.21,42.49,35.35,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+8014,Avi Dixit,Unclassified / Specialist,3,32.0,,18.0,,Insufficient (<20),,16.22,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8033,Abdul Rahmani,Unclassified / Specialist,3,4.0,60.0,4.0,17.0,Insufficient (<20),Insufficient (<18),14.53,24.25,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8040,Ripal Patel,Unclassified / Specialist,5,46.0,,39.0,,Low (20-49),,28.09,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8049,Naseem Shah,Unclassified / Specialist,27,49.0,576.0,36.0,75.0,Low (20-49),High (75+),31.72,56.23,43.97,Eligible Dual Profile,Tier 2: Core Squad Target
+8085,Suyash Prabhudessai,Unclassified / Specialist,10,106.0,,57.0,,Medium (50-99),,42.11,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8093,Nikhil Chaudhary,Unclassified / Specialist,3,19.0,42.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8101,Ashutosh Sharma,Unclassified / Specialist,28,346.0,,293.0,,High (100+),,88.91,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+8141,Auqib Nabi,Unclassified / Specialist,5,4.0,78.0,4.0,5.0,Insufficient (<20),Insufficient (<18),17.84,15.75,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8177,Akash Madhwal,Unclassified / Specialist,17,14.0,352.0,14.0,84.0,Insufficient (<20),High (75+),13.57,44.84,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8182,Donovan Ferreira,Batting All-Rounder,31,343.0,109.0,170.0,30.0,High (100+),Low (18-35),91.88,32.31,62.09,Eligible Dual Profile,Tier 2: Core Squad Target
+8217,Ansh Tandon,Unclassified / Specialist,2,13.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8221,Nitish Reddy,Genuine All-Rounder,52,672.0,565.0,161.0,50.0,High (100+),Medium (36-74),81.89,17.02,49.45,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+8238,Sameer Rizvi,Unclassified / Specialist,18,293.0,,91.0,,Medium (50-99),,78.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+8241,Lokesh Bam,Unclassified / Specialist,1,10.0,,10.0,,Insufficient (<20),,13.19,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8251,Kumar Kushagra,Unclassified / Specialist,4,21.0,,4.0,,Insufficient (<20),,9.51,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8266,Sumit Kumar 1,Unclassified / Specialist,3,24.0,20.0,15.0,6.0,Insufficient (<20),Insufficient (<18),7.37,17.33,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8295,Matthew Forde,Bowling All-Rounder,21,114.0,408.0,85.0,54.0,Medium (50-99),Medium (36-74),63.91,52.26,58.08,Eligible Dual Profile,Tier 2: Core Squad Target
+8298,Ramon Simmonds,Unclassified / Specialist,4,2.0,78.0,2.0,12.0,Insufficient (<20),Insufficient (<18),13.36,18.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8301,Asif Khan,Unclassified / Specialist,13,200.0,,83.0,,Medium (50-99),,71.82,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+8311,Dan Mousley,Unclassified / Specialist,4,6.0,54.0,0.0,5.0,Insufficient (<20),Insufficient (<18),15.7,7.88,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8326,Jayden Seales,Unclassified / Specialist,9,6.0,180.0,6.0,31.0,Insufficient (<20),Low (18-35),14.04,33.44,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8380,Mohammad Rishad Hossain,Bowling All-Rounder,49,165.0,1018.0,133.0,105.0,High (100+),High (75+),54.2,81.16,67.68,Eligible Dual Profile,Tier 2: Core Squad Target
+8388,Ahan Wickramasinghe,Unclassified / Specialist,5,74.0,,21.0,,Low (20-49),,37.44,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8389,Jayden Lennox,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8405,Kanwarpal Tathgur,Unclassified / Specialist,1,8.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8408,Shreyas Movva,Unclassified / Specialist,4,82.0,,33.0,,Low (20-49),,34.16,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8424,Tanveer Sangha,Unclassified / Specialist,7,4.0,168.0,4.0,12.0,Insufficient (<20),Insufficient (<18),14.79,23.64,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8530,Kartik Tyagi,Unclassified / Specialist,19,16.0,415.0,16.0,68.0,Insufficient (<20),Medium (36-74),12.38,46.95,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8580,Yudhvir Singh,Unclassified / Specialist,9,16.0,138.0,16.0,12.0,Insufficient (<20),Insufficient (<18),13.42,15.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8600,Tadiwanashe Marumani,Unclassified / Specialist,40,433.0,,43.0,,Low (20-49),,28.21,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8611,Adithya Ashok,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8614,William ORourke,Unclassified / Specialist,8,,182.0,,23.0,,Low (18-35),,35.76,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8623,Kristian Clarke,Unclassified / Specialist,1,1.0,24.0,1.0,0.0,Insufficient (<20),Insufficient (<18),13.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8632,Aaqib Khan,Unclassified / Specialist,2,,48.0,,18.0,,Low (18-35),,18.24,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8634,Ashwani Kumar,Unclassified / Specialist,10,6.0,183.0,6.0,26.0,Insufficient (<20),Low (18-35),13.49,11.58,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8637,Vriitya Aravind,Unclassified / Specialist,8,103.0,,5.0,,Insufficient (<20),,10.92,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8638,Basil Hameed,Developing / Utility All-Rounder,9,139.0,138.0,70.0,21.0,Medium (50-99),Low (18-35),41.01,30.66,35.84,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+8639,Kartik Meiyappan,Unclassified / Specialist,4,15.0,96.0,13.0,22.0,Insufficient (<20),Low (18-35),13.56,34.34,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8647,Sediqullah Atal,Unclassified / Specialist,38,822.0,,39.0,,Low (20-49),,55.78,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+8652,Mohammad Ishaq,Unclassified / Specialist,13,133.0,,47.0,,Low (20-49),,47.95,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8654,Cooper Connolly,Batting All-Rounder,24,363.0,114.0,61.0,6.0,Medium (50-99),Insufficient (<18),80.57,11.59,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+8661,Matheesha Pathirana,Unclassified / Specialist,54,32.0,1132.0,19.0,183.0,Insufficient (<20),High (75+),13.37,58.7,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+8664,Victor Nyauchi,Unclassified / Specialist,1,3.0,24.0,3.0,8.0,Insufficient (<20),Insufficient (<18),14.76,12.13,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8719,Aryan Lakra,Unclassified / Specialist,4,43.0,18.0,11.0,0.0,Insufficient (<20),Insufficient (<18),12.06,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8723,Mohammed Faraazuddin,Unclassified / Specialist,5,33.0,78.0,22.0,6.0,Low (20-49),Insufficient (<18),23.68,2.85,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8726,Alishan Sharafu,Unclassified / Specialist,14,264.0,1.0,51.0,0.0,Medium (50-99),Insufficient (<18),67.45,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+8727,Sanchit Sharma,Unclassified / Specialist,4,11.0,36.0,10.0,6.0,Insufficient (<20),Insufficient (<18),7.44,7.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8729,Haider Shah,Unclassified / Specialist,3,65.0,,22.0,,Low (20-49),,22.39,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8739,Muhammad Irfan,Unclassified / Specialist,14,190.0,,69.0,,Medium (50-99),,69.94,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+8741,Mohammad Haris,Unclassified / Specialist,34,407.0,,43.0,,Low (20-49),,26.27,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8743,Muhammad Shehzad,Unclassified / Specialist,1,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8746,Vaibhav Arora,Unclassified / Specialist,44,27.0,896.0,27.0,106.0,Low (20-49),High (75+),17.19,59.68,38.44,Eligible Dual Profile,Tier 2: Core Squad Target
+8763,Duan Jansen,Unclassified / Specialist,1,,24.0,,6.0,,Insufficient (<18),,15.93,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8771,Rubin Hermann,Unclassified / Specialist,5,82.0,,8.0,,Insufficient (<20),,12.8,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+8805,Ottneil Baartman,Unclassified / Specialist,16,35.0,323.0,24.0,31.0,Low (20-49),Low (18-35),10.83,18.73,14.78,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+15269,Mohammed Aslam,Unclassified / Specialist,3,39.0,48.0,22.0,0.0,Low (20-49),Insufficient (<18),40.03,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15271,Usmangani Ibrahim Patel,Unclassified / Specialist,3,38.0,,8.0,,Insufficient (<20),,9.42,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15274,Ravija Sandaruwan,Unclassified / Specialist,3,46.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15279,Shiraz Khan,Unclassified / Specialist,3,14.0,66.0,5.0,0.0,Insufficient (<20),Insufficient (<18),9.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15280,Sayed Monib,Unclassified / Specialist,3,24.0,66.0,15.0,12.0,Insufficient (<20),Insufficient (<18),17.18,16.74,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15303,Bilal Tahir,Unclassified / Specialist,3,22.0,,7.0,,Insufficient (<20),,18.21,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15551,Ackeem Auguste,Unclassified / Specialist,9,125.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+15629,Shayan Jahangir,Unclassified / Specialist,3,47.0,,28.0,,Low (20-49),,42.68,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+16284,Habibur Rahman Sohan,Unclassified / Specialist,5,125.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+16498,Sultan Ahmad,Unclassified / Specialist,2,4.0,45.0,4.0,24.0,Insufficient (<20),Low (18-35),12.19,43.0,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+16559,Alexander Patmore,Unclassified / Specialist,1,3.0,,3.0,,Insufficient (<20),,15.23,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17413,Neil Rock,Unclassified / Specialist,6,59.0,,11.0,,Insufficient (<20),,7.93,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17419,Tim Tector,Unclassified / Specialist,6,81.0,,9.0,,Insufficient (<20),,9.81,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17424,Graham Hume,Unclassified / Specialist,10,29.0,188.0,24.0,39.0,Low (20-49),Medium (36-74),39.23,69.92,54.58,Eligible Dual Profile,Tier 2: Core Squad Target
+17430,Conor Olphert,Unclassified / Specialist,2,,30.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17432,Ross Adair,Unclassified / Specialist,16,287.0,,4.0,,Insufficient (<20),,9.46,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17898,Bilal Sami,Unclassified / Specialist,7,3.0,141.0,3.0,42.0,Insufficient (<20),Medium (36-74),14.3,57.62,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+17910,Mohammad Akram,Unclassified / Specialist,3,9.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17911,Nangeyalia Kharote,Unclassified / Specialist,7,37.0,138.0,29.0,18.0,Low (20-49),Low (18-35),25.3,40.93,33.12,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+17918,Abdullah Tarakhail,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17919,Mohammad Saleem Safi,Unclassified / Specialist,1,,18.0,,6.0,,Insufficient (<18),,6.36,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+17937,Zubaid Akbari,Unclassified / Specialist,8,122.0,24.0,0.0,12.0,Insufficient (<20),Insufficient (<18),15.7,12.14,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19012,Zeeshan Ali,Unclassified / Specialist,12,158.0,,22.0,,Low (20-49),,40.71,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+19020,Ateeq Iqbal,Unclassified / Specialist,9,5.0,159.0,5.0,30.0,Insufficient (<20),Low (18-35),14.81,40.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+19124,Anas Khan,Unclassified / Specialist,1,,23.0,,5.0,,Insufficient (<18),,23.44,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19125,Ayush Shukla,Unclassified / Specialist,10,7.0,180.0,7.0,29.0,Insufficient (<20),Low (18-35),11.63,22.18,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19145,Aamer Jamal,Unclassified / Specialist,4,22.0,72.0,15.0,20.0,Insufficient (<20),Low (18-35),18.01,44.25,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+19147,Faraz Akram,Unclassified / Specialist,6,55.0,99.0,42.0,1.0,Low (20-49),Insufficient (<18),47.68,8.05,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19307,Tharindu Rathnayake,Unclassified / Specialist,2,15.0,24.0,11.0,0.0,Insufficient (<20),Insufficient (<18),9.97,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19309,Lahiru Udara,Unclassified / Specialist,11,162.0,,10.0,,Insufficient (<20),,18.15,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19312,Nuwan Thushara,Unclassified / Specialist,38,20.0,775.0,20.0,128.0,Low (20-49),High (75+),23.04,59.44,41.24,Eligible Dual Profile,Tier 2: Core Squad Target
+19315,Vijayakanth Viyaskanth,Unclassified / Specialist,7,11.0,156.0,11.0,0.0,Insufficient (<20),Insufficient (<18),15.06,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19316,Maheesh Theekshana,Bowling All-Rounder,99,203.0,2264.0,192.0,265.0,High (100+),High (75+),35.0,59.36,47.18,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+19530,Shahnawaz Dhani,Unclassified / Specialist,12,7.0,236.0,7.0,38.0,Insufficient (<20),Medium (36-74),17.19,33.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+19535,Rejaur Rahman Raja,Unclassified / Specialist,2,6.0,48.0,6.0,18.0,Insufficient (<20),Low (18-35),15.29,20.71,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19714,Abishek Porel,Unclassified / Specialist,33,529.0,,86.0,,Medium (50-99),,49.96,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+19754,Raja Khan,Unclassified / Specialist,2,2.0,48.0,2.0,18.0,Insufficient (<20),Low (18-35),12.93,20.86,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19781,Mitchell Owen,Unclassified / Specialist,13,123.0,30.0,38.0,12.0,Low (20-49),Insufficient (<18),17.32,9.89,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19892,Theo van Woerkom,Unclassified / Specialist,1,,6.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19894,Mitchell Hay,Unclassified / Specialist,9,68.0,,25.0,,Low (20-49),,50.97,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+19902,Tim Pringle,Unclassified / Specialist,7,37.0,132.0,36.0,12.0,Low (20-49),Insufficient (<18),43.13,16.7,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19969,Mubasir Khan,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+19998,Rajvardhan Hangargekar,Unclassified / Specialist,2,,36.0,,6.0,,Insufficient (<18),,21.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20005,Arshad Khan,Bowling All-Rounder,25,99.0,376.0,81.0,43.0,Medium (50-99),Medium (36-74),61.5,33.28,47.39,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+20006,Ramandeep Singh,Batting All-Rounder,37,288.0,148.0,177.0,18.0,High (100+),Low (18-35),81.17,31.83,56.5,Eligible Dual Profile,Tier 2: Core Squad Target
+20023,Karan Sharma,Unclassified / Specialist,3,25.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20163,Aasif Sheikh,Unclassified / Specialist,2,51.0,,3.0,,Insufficient (<20),,20.57,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20175,Nandan Yadav,Unclassified / Specialist,1,2.0,6.0,2.0,0.0,Insufficient (<20),Insufficient (<18),18.06,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20229,Mohammad Ali,Unclassified / Specialist,3,1.0,42.0,1.0,0.0,Insufficient (<20),Insufficient (<18),15.69,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20310,Ahmed Daniyal,Unclassified / Specialist,8,22.0,171.0,22.0,14.0,Low (20-49),Insufficient (<18),38.94,26.29,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20316,Shahab Alam,Unclassified / Specialist,1,1.0,12.0,1.0,0.0,Insufficient (<20),Insufficient (<18),15.21,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20327,Usman Khan,Unclassified / Specialist,23,321.0,,56.0,,Medium (50-99),,63.03,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+20693,Kuldip Yadav,Unclassified / Specialist,2,,42.0,,3.0,,Insufficient (<18),,13.1,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20702,Tristan Stubbs,Unclassified / Specialist,70,1081.0,48.0,480.0,6.0,High (100+),Insufficient (<18),100.0,9.75,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+20704,Salman Mirza,Unclassified / Specialist,15,5.0,328.0,5.0,7.0,Insufficient (<20),Insufficient (<18),13.64,12.9,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20802,Abdul Basith,Unclassified / Specialist,1,1.0,,1.0,,Insufficient (<20),,15.69,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+20894,Aman Khan,Unclassified / Specialist,10,104.0,6.0,84.0,0.0,Medium (50-99),Insufficient (<18),36.3,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+20989,Vivrant Sharma,Unclassified / Specialist,2,47.0,18.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+21196,Mohammad Waheed,Unclassified / Specialist,1,1.0,24.0,1.0,0.0,Insufficient (<20),Insufficient (<18),15.69,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+21388,Martin Coetzee,Unclassified / Specialist,3,22.0,,8.0,,Insufficient (<20),,19.73,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+21777,Tafadzwa Tsiga,Unclassified / Specialist,2,24.0,,24.0,,Low (20-49),,34.71,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+21780,Ernest Masuku,Unclassified / Specialist,3,6.0,60.0,1.0,0.0,Insufficient (<20),Insufficient (<18),10.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+21781,Clive Madande,Unclassified / Specialist,23,298.0,,160.0,,High (100+),,56.08,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+21784,Brad Evans,Bowling All-Rounder,21,121.0,438.0,121.0,106.0,High (100+),High (75+),46.19,50.56,48.38,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+21786,Tanaka Chivanga,Unclassified / Specialist,2,,27.0,,4.0,,Insufficient (<18),,8.83,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+21790,Tashinga Musekiwa,Unclassified / Specialist,21,208.0,,163.0,,High (100+),,35.48,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+21791,J Gumbie,Unclassified / Specialist,3,52.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+22134,Luke Jongwe,Bowling All-Rounder,20,124.0,330.0,107.0,125.0,High (100+),High (75+),41.09,50.02,45.56,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+22137,Fionn Hand,Unclassified / Specialist,11,37.0,134.0,35.0,6.0,Low (20-49),Insufficient (<18),21.9,23.61,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+22187,Ryan Klein,Unclassified / Specialist,6,65.0,24.0,51.0,0.0,Medium (50-99),Insufficient (<18),39.22,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+22188,Aryan Dutt,Unclassified / Specialist,7,44.0,140.0,33.0,15.0,Low (20-49),Insufficient (<18),37.79,12.82,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+22471,Matthew Humphreys,Unclassified / Specialist,14,11.0,305.0,10.0,16.0,Insufficient (<20),Insufficient (<18),10.65,24.03,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+22565,Muhammad Waseem,Unclassified / Specialist,20,459.0,17.0,13.0,6.0,Insufficient (<20),Insufficient (<18),19.12,9.32,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+22920,Jacob Duffy,Unclassified / Specialist,42,31.0,877.0,27.0,88.0,Low (20-49),High (75+),34.68,67.49,51.08,Eligible Dual Profile,Tier 2: Core Squad Target
+23311,Jacob Bethell,Unclassified / Specialist,33,453.0,87.0,41.0,12.0,Low (20-49),Insufficient (<18),48.26,24.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+23450,Sai Sudharsan,Unclassified / Specialist,57,1686.0,,96.0,,Medium (50-99),,57.43,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+23467,Gurjapneet Singh,Unclassified / Specialist,12,1.0,241.0,1.0,28.0,Insufficient (<20),Low (18-35),15.69,42.18,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+24017,Brian Bennett,Batting All-Rounder,44,793.0,132.0,39.0,6.0,Low (20-49),Insufficient (<18),38.63,10.72,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24346,Mohamed Shafeeq,Unclassified / Specialist,3,6.0,63.0,6.0,12.0,Insufficient (<20),Insufficient (<18),15.25,12.95,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24372,Muzahir Raza,Unclassified / Specialist,6,27.0,90.0,27.0,21.0,Low (20-49),Low (18-35),38.38,23.8,31.09,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+24381,Shariz Ahmad,Unclassified / Specialist,4,34.0,36.0,7.0,0.0,Insufficient (<20),Insufficient (<18),16.08,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24473,Sonny Baker,Unclassified / Specialist,4,,95.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24475,Rehan Ahmed,Unclassified / Specialist,11,45.0,210.0,27.0,13.0,Low (20-49),Insufficient (<18),32.01,15.51,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24767,Ripon Mondol,Unclassified / Specialist,10,10.0,228.0,9.0,38.0,Insufficient (<20),Medium (36-74),19.7,58.95,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+24779,Ijaz Ahmadzai,Unclassified / Specialist,6,107.0,6.0,66.0,0.0,Medium (50-99),Insufficient (<18),50.07,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+24803,Gulshan Jha,Unclassified / Specialist,3,34.0,,9.0,,Insufficient (<20),,16.55,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24812,Chris Greaves,Unclassified / Specialist,4,28.0,54.0,22.0,0.0,Low (20-49),Insufficient (<18),16.6,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24887,Innocent Kaia,Unclassified / Specialist,10,165.0,6.0,28.0,0.0,Low (20-49),Insufficient (<18),33.28,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+24978,Jack Jarvis,Unclassified / Specialist,2,11.0,22.0,8.0,0.0,Insufficient (<20),Insufficient (<18),9.07,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+24982,Charlie Tear,Unclassified / Specialist,3,25.0,,1.0,,Insufficient (<20),,12.21,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25011,Liam Mccarthy,Unclassified / Specialist,3,24.0,66.0,24.0,12.0,Low (20-49),Insufficient (<18),27.76,14.39,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25030,Zaman Khan,Unclassified / Specialist,12,10.0,231.0,8.0,35.0,Insufficient (<20),Low (18-35),10.6,26.74,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25048,Umran Malik,Unclassified / Specialist,31,18.0,560.0,18.0,44.0,Insufficient (<20),Medium (36-74),17.07,44.89,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+25128,Nqabayomzi Peter,Unclassified / Specialist,9,20.0,162.0,13.0,12.0,Insufficient (<20),Insufficient (<18),18.76,19.48,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25132,Praful Hinge,Unclassified / Specialist,7,9.0,156.0,9.0,36.0,Insufficient (<20),Medium (36-74),11.26,41.77,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+25138,Harsh Dubey,Unclassified / Specialist,15,69.0,264.0,20.0,14.0,Low (20-49),Insufficient (<18),35.6,6.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25139,Shubham Dubey,Unclassified / Specialist,17,143.0,,113.0,,High (100+),,80.84,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+25213,Dewald Brevis,Unclassified / Specialist,40,630.0,3.0,127.0,0.0,High (100+),Insufficient (<18),80.75,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+25216,Andile Simelane,Unclassified / Specialist,6,35.0,108.0,22.0,17.0,Low (20-49),Insufficient (<18),32.0,15.7,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25231,Samay Shrivastava,Unclassified / Specialist,9,26.0,150.0,26.0,17.0,Low (20-49),Insufficient (<18),23.16,10.15,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25341,Mahfuzur Rabby,Unclassified / Specialist,3,30.0,66.0,15.0,0.0,Insufficient (<20),Insufficient (<18),6.58,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25353,Numan Shah,Unclassified / Specialist,1,19.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25501,Meet Bhavsar,Unclassified / Specialist,3,38.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25502,Adnan Idrees,Unclassified / Specialist,2,6.0,12.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25507,Edson Silva,Unclassified / Specialist,3,47.0,18.0,23.0,6.0,Low (20-49),Insufficient (<18),46.56,17.49,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+25534,Chad Bowes,Unclassified / Specialist,11,156.0,,4.0,,Insufficient (<20),,19.63,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25669,Priyansh Arya,Unclassified / Specialist,35,515.0,,14.0,,Insufficient (<20),,26.53,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+25679,Salil Arora,Unclassified / Specialist,11,98.0,,56.0,,Medium (50-99),,70.26,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 1: Priority RR Auction Target
+25809,Juanoy Drysdale,Unclassified / Specialist,3,2.0,60.0,2.0,12.0,Insufficient (<20),Insufficient (<18),15.22,11.18,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26514,Nimesh Vimukthi,Unclassified / Specialist,4,19.0,96.0,4.0,20.0,Insufficient (<20),Low (18-35),10.7,33.74,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+26519,Janith Liyanage,Unclassified / Specialist,10,136.0,8.0,46.0,0.0,Low (20-49),Insufficient (<18),51.17,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+26530,Treveen Mathew,Unclassified / Specialist,3,12.0,72.0,12.0,0.0,Insufficient (<20),Insufficient (<18),12.58,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26646,Rahul Chopra,Unclassified / Specialist,14,224.0,,82.0,,Medium (50-99),,43.92,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+26663,Kwena Maphaka,Unclassified / Specialist,16,25.0,305.0,25.0,30.0,Low (20-49),Low (18-35),31.48,16.79,24.13,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+26795,Joel Davies,Unclassified / Specialist,3,14.0,48.0,8.0,0.0,Insufficient (<20),Insufficient (<18),21.0,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26830,Nishant Kumar Sindhu,Unclassified / Specialist,9,66.0,36.0,17.0,0.0,Insufficient (<20),Insufficient (<18),19.2,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26834,Raj Bawa,Unclassified / Specialist,5,32.0,24.0,15.0,3.0,Insufficient (<20),Insufficient (<18),18.36,19.08,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26839,Haseebullah Khan,Unclassified / Specialist,3,30.0,,8.0,,Insufficient (<20),,18.17,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26843,Maaz Sadaqat,Unclassified / Specialist,8,228.0,72.0,6.0,0.0,Insufficient (<20),Insufficient (<18),23.93,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26848,Ghazi Ghouri,Unclassified / Specialist,3,57.0,,23.0,,Low (20-49),,26.88,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26854,SM Meherob Hasan,Unclassified / Specialist,5,53.0,120.0,43.0,10.0,Low (20-49),Insufficient (<18),56.4,22.45,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26906,Angkrish Raghuvanshi,Unclassified / Specialist,30,608.0,,56.0,,Medium (50-99),,40.38,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+26909,Yash Dhull,Unclassified / Specialist,3,23.0,,7.0,,Insufficient (<20),,8.63,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26913,Shaik Rasheed,Unclassified / Specialist,5,63.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26916,Yasir Mohammad,Unclassified / Specialist,3,9.0,48.0,9.0,0.0,Insufficient (<20),Insufficient (<18),11.68,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+26988,Jitenkumar Ramanandi,Unclassified / Specialist,2,14.0,48.0,14.0,6.0,Insufficient (<20),Insufficient (<18),17.56,11.62,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27004,Hassnain Shah,Unclassified / Specialist,2,5.0,42.0,5.0,4.0,Insufficient (<20),Insufficient (<18),11.77,16.46,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27059,Karan Sonavale,Unclassified / Specialist,6,62.0,6.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27071,Vinayak Shukla,Unclassified / Specialist,3,23.0,,19.0,,Insufficient (<20),,15.88,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27137,Hammad Mirza,Unclassified / Specialist,9,160.0,,61.0,,Medium (50-99),,36.82,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+27259,Jishan Alam,Unclassified / Specialist,7,82.0,18.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27364,Simranjeet Kang,Unclassified / Specialist,3,9.0,51.0,9.0,0.0,Insufficient (<20),Insufficient (<18),10.51,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27373,Muhammad Farooq,Unclassified / Specialist,6,30.0,96.0,18.0,3.0,Insufficient (<20),Insufficient (<18),5.71,22.41,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27380,Harshit Kaushik,Unclassified / Specialist,10,58.0,66.0,29.0,12.0,Low (20-49),Insufficient (<18),15.04,12.65,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27390,Matiullah Khan,Unclassified / Specialist,3,5.0,60.0,5.0,0.0,Insufficient (<20),Insufficient (<18),13.9,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27391,Vishnu Sukumaran,Unclassified / Specialist,2,18.0,12.0,1.0,0.0,Insufficient (<20),Insufficient (<18),10.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27460,Ali Naseer,Unclassified / Specialist,2,14.0,36.0,10.0,0.0,Insufficient (<20),Insufficient (<18),17.72,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27464,Aayan Afzal Khan,Unclassified / Specialist,7,68.0,144.0,64.0,6.0,Medium (50-99),Insufficient (<18),57.87,14.42,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27465,Nilansh Keswani,Unclassified / Specialist,2,26.0,24.0,9.0,0.0,Insufficient (<20),Insufficient (<18),19.26,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27466,Dhruv Parashar,Developing / Utility All-Rounder,11,98.0,210.0,65.0,0.0,Medium (50-99),Insufficient (<18),34.28,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27469,Aryansh Sharma,Unclassified / Specialist,8,147.0,,9.0,,Insufficient (<20),,16.35,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27504,Dushan Hemantha,Unclassified / Specialist,8,28.0,188.0,17.0,51.0,Insufficient (<20),Medium (36-74),17.56,65.33,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+27516,Ihsanullah Ihsanullah,Unclassified / Specialist,4,8.0,89.0,8.0,12.0,Insufficient (<20),Insufficient (<18),14.92,14.89,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27517,Yasir Khan,Unclassified / Specialist,8,94.0,,3.0,,Insufficient (<20),,19.63,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27743,DT Doram,Unclassified / Specialist,9,6.0,192.0,2.0,11.0,Insufficient (<20),Insufficient (<18),18.69,19.55,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27956,Prashant Solanki,Unclassified / Specialist,2,,36.0,,5.0,,Insufficient (<18),,20.14,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27959,Hrithik Shokeen,Unclassified / Specialist,13,65.0,204.0,20.0,6.0,Low (20-49),Insufficient (<18),26.43,8.45,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27960,Mayank Yadav,Unclassified / Specialist,22,12.0,493.0,12.0,33.0,Insufficient (<20),Low (18-35),11.4,14.36,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27962,Saurav Chauhan,Unclassified / Specialist,3,15.0,,8.0,,Insufficient (<20),,11.58,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+27964,Anshul Kamboj,Unclassified / Specialist,28,56.0,545.0,51.0,42.0,Medium (50-99),Medium (36-74),59.9,30.76,45.33,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+27970,Gurnoor Brar,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28018,Ashok Sharma,Unclassified / Specialist,8,4.0,174.0,4.0,24.0,Insufficient (<20),Low (18-35),14.32,23.23,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28021,Saurabh Dubey,Unclassified / Specialist,4,2.0,77.0,2.0,10.0,Insufficient (<20),Insufficient (<18),16.64,11.72,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28185,Kamil Pooran,Unclassified / Specialist,3,40.0,,5.0,,Insufficient (<20),,21.35,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28655,Muhammad Rohid,Unclassified / Specialist,9,5.0,178.0,1.0,27.0,Insufficient (<20),Low (18-35),17.26,23.22,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28664,Zahid Ali,Unclassified / Specialist,1,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28756,Haider Ali,Unclassified / Specialist,12,39.0,270.0,38.0,10.0,Low (20-49),Insufficient (<18),30.69,7.46,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28788,Tanish Suri,Unclassified / Specialist,2,41.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28908,Vincent Masekesa,Unclassified / Specialist,2,4.0,19.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28911,John Masara,Unclassified / Specialist,1,,6.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28915,Trevor Gwandu,Unclassified / Specialist,8,26.0,150.0,26.0,11.0,Low (20-49),Insufficient (<18),22.52,20.78,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+28967,Tim Robinson,Unclassified / Specialist,26,420.0,,30.0,,Low (20-49),,55.25,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+28970,Connor Esterhuizen,Unclassified / Specialist,5,137.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+29066,Zakary Foulkes,Unclassified / Specialist,18,66.0,364.0,61.0,42.0,Medium (50-99),Medium (36-74),60.55,66.37,63.46,Eligible Dual Profile,Tier 2: Core Squad Target
+29075,Aadil Ansari,Unclassified / Specialist,2,10.0,36.0,5.0,0.0,Insufficient (<20),Insufficient (<18),19.12,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+29080,Muhammad Khan,Unclassified / Specialist,4,12.0,96.0,12.0,15.0,Insufficient (<20),Insufficient (<18),14.17,12.84,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+29558,Muhammad Arfan,Unclassified / Specialist,5,69.0,102.0,69.0,22.0,Medium (50-99),Low (18-35),45.52,20.53,33.03,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+29699,Ibrahim Takahashi,Unclassified / Specialist,1,3.0,12.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+29833,Bashir Ahmad,Unclassified / Specialist,1,5.0,18.0,5.0,16.0,Insufficient (<20),Insufficient (<18),14.36,16.08,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+29888,Harshit Rana,Bowling All-Rounder,45,147.0,901.0,125.0,68.0,High (100+),Medium (36-74),48.91,47.46,48.19,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+30925,Bradley Currie,Unclassified / Specialist,5,9.0,108.0,9.0,6.0,Insufficient (<20),Insufficient (<18),12.81,11.96,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+30927,Saiteja Mukkamalla,Unclassified / Specialist,2,43.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31107,Yasin Patel,Unclassified / Specialist,3,7.0,72.0,7.0,0.0,Insufficient (<20),Insufficient (<18),16.66,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31227,Vidhwath Kaverappa,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31513,Ethan Dsouza,Unclassified / Specialist,4,38.0,24.0,2.0,0.0,Insufficient (<20),Insufficient (<18),10.36,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31518,Akshat Raghuwanshi,Unclassified / Specialist,2,25.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31529,Robin Minz,Unclassified / Specialist,4,19.0,,10.0,,Insufficient (<20),,15.15,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31835,Akshay Roopak Puri,Unclassified / Specialist,3,5.0,60.0,5.0,0.0,Insufficient (<20),Insufficient (<18),12.04,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+31836,Aman Desai,Unclassified / Specialist,2,27.0,,7.0,,Insufficient (<20),,9.43,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+32244,Tripurana Vijay,Unclassified / Specialist,1,,12.0,,6.0,,Insufficient (<18),,12.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+32399,Aaron Johnson,Unclassified / Specialist,4,49.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+32401,Akhil Kumar,Unclassified / Specialist,2,12.0,24.0,12.0,9.0,Insufficient (<20),Insufficient (<18),15.05,15.12,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+32705,Faridoon Dawoodzai,Unclassified / Specialist,4,1.0,75.0,1.0,39.0,Insufficient (<20),Medium (36-74),15.69,58.38,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+32862,Allah Ghazanfar,Unclassified / Specialist,22,15.0,461.0,12.0,69.0,Insufficient (<20),Medium (36-74),14.4,62.7,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+33009,John Turner,Unclassified / Specialist,2,,36.0,,3.0,,Insufficient (<18),,19.08,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+33067,Ravichandran Smaran,Unclassified / Specialist,4,25.0,,11.0,,Insufficient (<20),,7.54,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+33114,Milan Rathnayake,Unclassified / Specialist,4,52.0,78.0,42.0,6.0,Low (20-49),Insufficient (<18),39.27,15.73,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+33440,Adwitya Bhargava,Unclassified / Specialist,2,6.0,12.0,6.0,0.0,Insufficient (<20),Insufficient (<18),16.2,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+33443,Sabir Ali,Unclassified / Specialist,3,,48.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+33675,Mohammad Naeem,Unclassified / Specialist,4,35.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+33969,Tinotenda Maposa,Unclassified / Specialist,12,45.0,176.0,45.0,22.0,Low (20-49),Low (18-35),31.23,25.25,28.24,Eligible Dual Profile,Tier 4: Speculative / High-Risk
+34466,Arafat Minhas,Developing / Utility All-Rounder,8,121.0,132.0,66.0,8.0,Medium (50-99),Insufficient (<18),83.09,24.2,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+34485,Sufiyan Muqeem,Unclassified / Specialist,25,32.0,518.0,32.0,68.0,Low (20-49),Medium (36-74),25.82,83.09,54.45,Eligible Dual Profile,Tier 1: Priority RR Auction Target
+34522,Brandon McMullen,Unclassified / Specialist,3,96.0,48.0,12.0,0.0,Insufficient (<20),Insufficient (<18),19.89,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+34527,Jasper John Davidson,Unclassified / Specialist,1,4.0,6.0,4.0,0.0,Insufficient (<20),Insufficient (<18),15.25,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+34546,Aryan Bisht,Unclassified / Specialist,4,72.0,23.0,45.0,0.0,Low (20-49),Insufficient (<18),20.8,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+34880,Saad Masood,Unclassified / Specialist,4,57.0,90.0,32.0,12.0,Low (20-49),Insufficient (<18),51.91,15.18,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+34928,Kendel Fleming,Unclassified / Specialist,1,12.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+34929,Lachlan Lake,Unclassified / Specialist,1,4.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+34969,Manav Suthar,Unclassified / Specialist,4,2.0,48.0,2.0,0.0,Insufficient (<20),Insufficient (<18),13.36,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+35071,Kunal Rathore,Unclassified / Specialist,1,5.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+35072,Ramakrishna Ghosh,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+35102,Zikria Islam,Unclassified / Specialist,5,42.0,30.0,38.0,0.0,Low (20-49),Insufficient (<18),43.67,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+35120,Narayan Saishiv,Unclassified / Specialist,3,47.0,6.0,4.0,6.0,Insufficient (<20),Insufficient (<18),11.32,9.82,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+35122,Shah Faisal,Unclassified / Specialist,3,15.0,72.0,12.0,16.0,Insufficient (<20),Insufficient (<18),7.2,12.99,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+35133,Sufyan Yousuf,Unclassified / Specialist,2,7.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+35318,Sakib Hussain,Unclassified / Specialist,11,7.0,252.0,7.0,45.0,Insufficient (<20),Medium (36-74),14.88,49.34,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+35506,Quentin Sampson,Unclassified / Specialist,4,50.0,,42.0,,Low (20-49),,35.05,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+36153,Syed Haider,Unclassified / Specialist,3,47.0,,20.0,,Low (20-49),,39.5,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+36551,Zishan Motara,Unclassified / Specialist,1,4.0,6.0,4.0,0.0,Insufficient (<20),Insufficient (<18),13.29,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+36553,Jediah Blades,Unclassified / Specialist,6,13.0,119.0,13.0,6.0,Insufficient (<20),Insufficient (<18),12.66,15.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+36981,Himanshu Sharma,Unclassified / Specialist,2,,30.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+36982,Suyash Sharma,Unclassified / Specialist,43,2.0,899.0,2.0,48.0,Insufficient (<20),Medium (36-74),12.93,40.34,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+36983,Mohit Rathee,Unclassified / Specialist,1,2.0,12.0,2.0,10.0,Insufficient (<20),Insufficient (<18),15.22,15.91,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+36984,Raghav Goyal,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+37052,Naman Dhir,Batting All-Rounder,47,589.0,162.0,213.0,6.0,High (100+),Insufficient (<18),90.93,5.65,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+37201,Jewel Andrew,Unclassified / Specialist,6,96.0,,3.0,,Insufficient (<20),,9.9,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+37311,Shiv Mathur,Unclassified / Specialist,3,53.0,,24.0,,Low (20-49),,21.76,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+37572,Shafiq Jan,Unclassified / Specialist,3,3.0,72.0,3.0,28.0,Insufficient (<20),Low (18-35),14.58,21.54,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+37731,Musheer Khan,Unclassified / Specialist,1,3.0,12.0,3.0,0.0,Insufficient (<20),Insufficient (<18),12.48,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+37879,Khawaja Nafay,Unclassified / Specialist,4,39.0,,4.0,,Insufficient (<20),,15.13,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+37939,Nahid Rana,Unclassified / Specialist,5,5.0,93.0,5.0,14.0,Insufficient (<20),Insufficient (<18),11.63,21.3,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+38044,Mahli Beardman,Unclassified / Specialist,1,,24.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+38050,Isitha Wijesundera,Unclassified / Specialist,2,10.0,30.0,10.0,4.0,Insufficient (<20),Insufficient (<18),12.78,5.06,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+38855,Mohammad Saifuddin,Unclassified / Specialist,21,78.0,442.0,77.0,71.0,Medium (50-99),Medium (36-74),63.13,40.01,51.57,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+39374,Muhammad Zohaib,Unclassified / Specialist,10,147.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+39444,Basil Hameed,Unclassified / Specialist,3,34.0,30.0,18.0,0.0,Insufficient (<20),Insufficient (<18),17.84,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+39637,Garuka Sanketh,Unclassified / Specialist,4,2.0,78.0,2.0,17.0,Insufficient (<20),Insufficient (<18),15.22,13.28,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+39638,Vishen Halambage,Unclassified / Specialist,4,50.0,6.0,0.0,0.0,Insufficient (<20),Insufficient (<18),15.7,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+39640,Sineth Jayawardena,Unclassified / Specialist,2,47.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+39657,Eshan Malinga,Unclassified / Specialist,44,38.0,922.0,38.0,136.0,Low (20-49),High (75+),19.28,68.74,44.01,Eligible Dual Profile,Tier 2: Core Squad Target
+39991,Parveen Kumar,Unclassified / Specialist,2,8.0,48.0,1.0,24.0,Insufficient (<20),Low (18-35),12.21,56.4,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+41110,Mayank Kumar,Unclassified / Specialist,6,55.0,,7.0,,Insufficient (<20),,9.03,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+41503,Yash Punja,Unclassified / Specialist,8,,180.0,,23.0,,Low (18-35),,32.6,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+41509,Yayin Rai,Unclassified / Specialist,2,38.0,,13.0,,Insufficient (<20),,19.14,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+42548,Muhammad Jawadullah,Unclassified / Specialist,13,24.0,271.0,19.0,30.0,Insufficient (<20),Low (18-35),13.0,23.97,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+42810,Noah Croes,Unclassified / Specialist,5,53.0,,24.0,,Low (20-49),,41.66,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+42811,Michael Levitt,Unclassified / Specialist,8,203.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+42845,Arshin Kulkarni,Unclassified / Specialist,4,33.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+43250,Dilpreet Singh Bajwa,Unclassified / Specialist,2,53.0,,6.0,,Insufficient (<20),,19.64,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+43774,Shivam Singh,Unclassified / Specialist,1,3.0,,3.0,,Insufficient (<20),,15.23,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+43798,Lhuan Pretorius,Unclassified / Specialist,9,77.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+43917,Krish Bhagat,Unclassified / Specialist,3,21.0,36.0,21.0,6.0,Low (20-49),Insufficient (<18),22.55,11.59,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+45381,PV Satyanarayan Raju,Unclassified / Specialist,2,1.0,24.0,1.0,6.0,Insufficient (<20),Insufficient (<18),15.69,6.36,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+45457,Zach Lion Cachet,Unclassified / Specialist,4,48.0,70.0,3.0,12.0,Insufficient (<20),Insufficient (<18),9.48,10.59,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+45749,Mukul Choudhary,Unclassified / Specialist,10,120.0,,76.0,,Medium (50-99),,67.87,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+45966,Prashant Veer,Unclassified / Specialist,6,67.0,12.0,67.0,0.0,Medium (50-99),Insufficient (<18),59.3,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+46066,Vipraj Nigam,Bowling All-Rounder,19,89.0,288.0,86.0,19.0,Medium (50-99),Low (18-35),78.56,20.6,49.58,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+46137,Kartik Sharma,Unclassified / Specialist,11,216.0,,34.0,,Low (20-49),,20.94,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+46378,Kyle Klein,Unclassified / Specialist,8,39.0,163.0,15.0,11.0,Insufficient (<20),Insufficient (<18),8.77,10.9,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+46929,Dian Forrester,Unclassified / Specialist,5,77.0,6.0,20.0,0.0,Low (20-49),Insufficient (<18),26.67,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+46982,Shahid Aziz,Unclassified / Specialist,4,15.0,78.0,9.0,7.0,Insufficient (<20),Insufficient (<18),16.55,15.47,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+46996,Mohammad Faiq,Unclassified / Specialist,4,28.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47017,Mohammad Jnr,Unclassified / Specialist,3,12.0,63.0,12.0,12.0,Insufficient (<20),Insufficient (<18),13.93,12.78,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47050,Shamar Joseph,Unclassified / Specialist,24,29.0,471.0,29.0,75.0,Low (20-49),High (75+),39.2,53.36,46.28,Eligible Dual Profile,Tier 2: Core Squad Target
+47314,Wafiullah Tarakhil,Unclassified / Specialist,3,19.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47370,Aniket Verma,Unclassified / Specialist,20,196.0,,72.0,,Medium (50-99),,45.98,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+47371,Zuhaid Zubair,Unclassified / Specialist,1,2.0,18.0,2.0,2.0,Insufficient (<20),Insufficient (<18),12.93,14.72,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47403,Newman Nyamhuri,Unclassified / Specialist,5,21.0,83.0,19.0,6.0,Insufficient (<20),Insufficient (<18),13.96,21.87,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47542,Charles Hinze,Unclassified / Specialist,1,,12.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47694,Omid Rahman,Unclassified / Specialist,3,4.0,60.0,3.0,12.0,Insufficient (<20),Insufficient (<18),14.3,21.28,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+47724,Jahandad Khan,Unclassified / Specialist,8,34.0,108.0,17.0,15.0,Insufficient (<20),Insufficient (<18),8.1,11.14,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+48278,Ubaid Shah,Unclassified / Specialist,4,3.0,72.0,3.0,0.0,Insufficient (<20),Insufficient (<18),12.31,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+48504,Ayush Mhatre,Unclassified / Specialist,13,240.0,,15.0,,Insufficient (<20),,13.8,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+48557,Vignesh Puthur,Unclassified / Specialist,5,,72.0,,8.0,,Insufficient (<18),,18.1,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+48575,Sahil Parakh,Unclassified / Specialist,4,33.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+48616,Abdul Saqlain,Unclassified / Specialist,8,33.0,182.0,25.0,12.0,Low (20-49),Insufficient (<18),51.16,21.94,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+48953,Danish Malewar,Unclassified / Specialist,2,5.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+49003,Hasan Nawaz,Unclassified / Specialist,27,324.0,,30.0,,Low (20-49),,18.39,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+49027,Bevon Jacobs,Unclassified / Specialist,12,189.0,,55.0,,Medium (50-99),,55.66,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 2: Core Squad Target
+49265,Ahmed Tariq,Unclassified / Specialist,2,3.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+49268,Sohaib Khan,Unclassified / Specialist,4,72.0,,18.0,,Insufficient (<20),,21.12,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+50062,Nqobani Mokoena,Unclassified / Specialist,3,21.0,63.0,18.0,11.0,Insufficient (<20),Insufficient (<18),10.94,11.87,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+50284,Vaibhav Sooryavanshi,Unclassified / Specialist,35,676.0,,6.0,,Insufficient (<20),,21.35,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+52338,Usman Tariq,Unclassified / Specialist,3,,64.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+54404,Benjamin Ito,Unclassified / Specialist,1,8.0,6.0,3.0,0.0,Insufficient (<20),Insufficient (<18),12.23,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+55747,Benjamin Calitz,Unclassified / Specialist,6,81.0,,12.0,,Insufficient (<20),,13.37,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+56685,Abdullah Ahmadzai,Unclassified / Specialist,12,14.0,223.0,13.0,27.0,Insufficient (<20),Low (18-35),13.5,25.24,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+56817,Shivang Kumar,Unclassified / Specialist,13,46.0,234.0,46.0,6.0,Low (20-49),Insufficient (<18),25.3,8.97,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+56830,Madhav Tiwari,Unclassified / Specialist,5,12.0,66.0,12.0,9.0,Insufficient (<20),Insufficient (<18),16.91,10.12,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+57747,Charlie Cassell,Unclassified / Specialist,1,3.0,6.0,3.0,0.0,Insufficient (<20),Insufficient (<18),12.9,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+58134,Digvesh Rathi,Unclassified / Specialist,23,8.0,546.0,8.0,35.0,Insufficient (<20),Low (18-35),11.64,46.09,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+58135,Tejasvi Dahiya,Unclassified / Specialist,2,15.0,,3.0,,Insufficient (<20),,9.9,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+58246,Prince Yadav,Unclassified / Specialist,32,39.0,709.0,39.0,105.0,Low (20-49),High (75+),34.15,49.62,41.88,Eligible Dual Profile,Tier 3: Tactical / Backup Option
+58727,Abhinandan Singh,Unclassified / Specialist,3,,58.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+59045,Jai Moondra,Unclassified / Specialist,2,3.0,48.0,3.0,6.0,Insufficient (<20),Insufficient (<18),15.7,19.41,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+60609,Navin Bidaisee,Unclassified / Specialist,3,30.0,48.0,19.0,5.0,Insufficient (<20),Insufficient (<18),15.24,17.8,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+60689,Zawad Abrar,Unclassified / Specialist,4,68.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+60700,Ravi Singh,Unclassified / Specialist,1,2.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+64604,Kalhan Challu,Unclassified / Specialist,2,11.0,,11.0,,Insufficient (<20),,12.43,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+66103,Noor Rahman,Unclassified / Specialist,3,20.0,,4.0,,Insufficient (<20),,18.71,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+67036,Brijesh Sharma,Unclassified / Specialist,13,4.0,273.0,4.0,65.0,Insufficient (<20),Medium (36-74),14.79,39.92,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 3: Tactical / Backup Option
+67864,Matt Hollard,Unclassified / Specialist,2,,48.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+68410,Rahmatullah Zadran,Unclassified / Specialist,1,21.0,,0.0,,Insufficient (<20),,15.7,,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+69806,Mohammad Salman,Unclassified / Specialist,1,,18.0,,0.0,,Insufficient (<18),,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk
+71727,Razaullah Razaullah,Unclassified / Specialist,2,1.0,37.0,1.0,0.0,Insufficient (<20),Insufficient (<18),13.4,14.69,,Ineligible Dual Sample (<20 bat or <18 bowl pressure balls),Tier 4: Speculative / High-Risk

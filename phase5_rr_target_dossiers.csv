@@ -1,0 +1,31 @@
+player_id,player_name,assigned_role,distinct_matches_played,has_ipl_experience,has_other_domestic_experience,has_t20i_experience,total_balls_faced,p_balls_faced,shrunk_p_strike_rate,total_legal_balls,p_legal_balls,shrunk_p_economy,ipl_batting_sr,ipl_bowling_econ,other_dom_batting_sr,other_dom_bowling_econ,t20i_batting_sr,t20i_bowling_econ,bat_score_uncertainty_share,bowl_score_uncertainty_share,batting_auction_index,bowling_auction_index,rr_auction_valuation_tier
+4117,Ishan Kishan,Top-Order Batter,122,True,False,True,2411.0,106.0,174.56,1.0,0.0,9.37,148.86,24.0,N/A (N=0),N/A (N=0),142.67,N/A (N=0),4.55%,0.0%,92.04,14.69,Tier 1: Priority RR Auction Target
+126,Rohit Sharma,Top-Order Batter,91,True,False,True,1619.0,59.0,178.27,,,,141.87,N/A (N=0),N/A (N=0),N/A (N=0),149.75,N/A (N=0),7.81%,0.0%,83.09,,Tier 1: Priority RR Auction Target
+25669,Priyansh Arya,Top-Order Batter,35,True,True,False,515.0,14.0,169.24,,,,192.99,N/A (N=0),168.18,N/A (N=0),N/A (N=0),N/A (N=0),6.67%,0.0%,26.53,,Tier 4: Speculative / High-Risk
+1699,Suryakumar Yadav,Middle-Order Batter,139,True,False,True,2759.0,457.0,182.51,6.0,3.0,8.65,164.95,N/A (N=0),N/A (N=0),N/A (N=0),167.59,5.0,4.64%,0.0%,94.05,22.8,Tier 1: Priority RR Auction Target
+3374,Mark Chapman,Middle-Order Batter,53,False,False,True,873.0,187.0,157.1,6.0,0.0,9.37,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),144.33,4.0,4.71%,0.0%,91.33,14.69,Tier 1: Priority RR Auction Target
+8238,Sameer Rizvi,Designated Finisher,18,True,False,False,293.0,91.0,163.34,,,,144.71,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),4.3%,0.0%,78.7,,Tier 1: Priority RR Auction Target
+4703,Rishabh Pant,Middle-Order Batter,73,True,False,True,1239.0,170.0,177.42,,,,145.58,N/A (N=0),N/A (N=0),N/A (N=0),135.33,N/A (N=0),7.18%,0.0%,86.27,,Tier 1: Priority RR Auction Target
+8101,Ashutosh Sharma,Designated Finisher,28,True,True,False,346.0,293.0,172.1,,,,168.86,N/A (N=0),108.33,N/A (N=0),N/A (N=0),N/A (N=0),8.92%,0.0%,88.91,,Tier 1: Priority RR Auction Target
+143,Dinesh Karthik,Designated Finisher,62,True,False,True,639.0,418.0,179.12,6.0,0.0,9.37,173.8,N/A (N=0),N/A (N=0),N/A (N=0),150.83,18.0,8.59%,0.0%,92.09,14.69,Tier 1: Priority RR Auction Target
+8,Mahendra Singh Dhoni,Designated Finisher,48,True,False,False,463.0,362.0,161.96,,,,149.68,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),9.16%,0.0%,92.43,,Tier 1: Priority RR Auction Target
+37052,Naman Dhir,Batting All-Rounder,47,True,True,True,589.0,213.0,197.84,162.0,6.0,10.75,163.97,8.65,143.24,10.58,214.63,11.17,3.2%,0.0%,90.93,5.65,Tier 3: Tactical / Backup Option
+4246,Nitish Rana,Batting All-Rounder,50,True,False,False,861.0,140.0,157.53,101.0,11.0,8.97,146.11,9.98,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),6.29%,0.0%,87.08,14.51,Tier 2: Core Squad Target
+2490,Mohammad Nawaz,Genuine All-Rounder,54,False,False,True,497.0,295.0,148.49,1004.0,120.0,5.82,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),141.85,7.04,8.2%,2.44%,73.54,95.83,Tier 1: Priority RR Auction Target
+2984,Sikandar Raza,Genuine All-Rounder,57,True,False,True,1002.0,301.0,157.92,1091.0,169.0,7.21,133.82,9.5,N/A (N=0),N/A (N=0),135.8,6.66,5.97%,5.68%,84.0,83.45,Tier 1: Priority RR Auction Target
+7942,Jay Odedara,Powerplay Bowler,3,False,True,False,1.0,1.0,141.79,54.0,18.0,8.14,N/A (N=0),N/A (N=0),0.0,8.22,N/A (N=0),N/A (N=0),0.0%,0.0%,13.4,50.8,Tier 2: Core Squad Target
+1566,Mohammed Shami,Powerplay Bowler,57,True,False,True,46.0,46.0,130.53,1275.0,143.0,7.88,121.05,8.34,N/A (N=0),N/A (N=0),87.5,8.91,15.69%,5.37%,25.3,83.18,Tier 1: Priority RR Auction Target
+6355,Shaheen Afridi,Bowling All-Rounder,47,False,False,True,183.0,147.0,127.57,990.0,122.0,7.15,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),122.95,7.62,7.79%,7.09%,44.18,91.38,Tier 2: Core Squad Target
+34485,Sufiyan Muqeem,Middle-Overs Enforcer,25,False,True,True,32.0,32.0,128.43,518.0,68.0,5.49,N/A (N=0),N/A (N=0),100.0,5.03,104.35,6.37,15.15%,4.29%,25.82,83.09,Tier 1: Priority RR Auction Target
+3056,Iftikhar Ahmed,Batting All-Rounder,35,False,False,True,455.0,155.0,152.35,186.0,49.0,6.44,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),129.67,6.45,6.06%,2.0%,76.9,76.82,Tier 1: Priority RR Auction Target
+6436,Qais Ahmad,Middle-Overs Enforcer,10,False,True,True,34.0,30.0,131.64,192.0,42.0,7.09,N/A (N=0),N/A (N=0),106.67,7.0,175.0,8.78,25.64%,0.0%,22.96,75.01,Tier 1: Priority RR Auction Target
+6995,Saad Zafar,Middle-Overs Enforcer,3,False,False,True,39.0,23.0,122.34,72.0,24.0,7.02,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),92.31,5.67,4.35%,12.0%,25.36,56.08,Tier 2: Core Squad Target
+470,Mohammad Amir,Death-Overs Specialist,7,False,False,True,4.0,4.0,145.02,146.0,24.0,8.12,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),150.0,8.71,0.0%,17.24%,14.53,48.4,Tier 3: Tactical / Backup Option
+8005,Zawar Farid,Supporting Bowler,5,False,False,True,50.0,23.0,126.46,78.0,18.0,8.47,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),128.0,8.15,8.33%,5.26%,17.9,45.28,Tier 3: Tactical / Backup Option
+286,Kane Richardson,Death-Overs Specialist,9,False,False,True,1.0,1.0,141.79,198.0,21.0,8.34,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),0.0,8.85,100.0%,8.7%,15.21,49.11,Tier 3: Tactical / Backup Option
+6503,Zahoor Khan,Death-Overs Specialist,5,False,False,True,2.0,2.0,139.06,120.0,26.0,8.54,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),0.0,8.1,50.0%,3.85%,14.74,40.44,Tier 3: Tactical / Backup Option
+2485,Babar Azam,Top-Order Batter,52,False,False,True,1181.0,103.0,179.29,,,,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),133.19,N/A (N=0),4.76%,0.0%,100.0,,Tier 1: Priority RR Auction Target
+20702,Tristan Stubbs,Designated Finisher,70,True,False,True,1081.0,480.0,171.57,48.0,6.0,9.89,151.23,11.33,N/A (N=0),N/A (N=0),146.88,17.0,4.23%,0.0%,100.0,9.75,Tier 1: Priority RR Auction Target
+3125,Nicholas Pooran,Middle-Order Batter,115,True,False,True,1972.0,490.0,179.13,,,,167.19,N/A (N=0),N/A (N=0),N/A (N=0),143.01,N/A (N=0),7.84%,0.0%,99.34,,Tier 1: Priority RR Auction Target
+768,Reeza Hendricks,Top-Order Batter,34,False,False,True,835.0,112.0,171.8,23.0,0.0,9.37,N/A (N=0),N/A (N=0),N/A (N=0),N/A (N=0),146.59,9.39,8.33%,0.0%,96.94,14.69,Tier 1: Priority RR Auction Target
+6396,Tim David,Designated Finisher,98,True,False,True,1226.0,558.0,188.05,6.0,0.0,9.37,177.74,18.0,N/A (N=0),N/A (N=0),177.55,N/A (N=0),8.01%,0.0%,96.78,14.69,Tier 1: Priority RR Auction Target

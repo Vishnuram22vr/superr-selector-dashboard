@@ -1,0 +1,8 @@
+pipeline_stage,check_name,status,affected_records,details
+Competitions,Format Standardization,PASS,0,134 T20I and 7 domestic T20 competitions standardized.
+Teams,Team Whitespace Cleanse,PASS,0,353 team-competition records cleaned.
+Matches,Match Outcome Flags,PASS,0,"883 matches standardized; 19 abandoned, 21 no-result, 9 super over matches flagged."
+Playing Eleven,Super Over Roster Partitioning,PASS,40,"Separated 40 Super Over duplicate player rows into super_over_rosters.csv. Main roster is strictly unique on (match_id, player_id) with 28,341 rows."
+Player Mapping,Canonical Mapping Formatting,PASS,0,"6,413 player registrations indexed."
+Ball-by-Ball,Join Integrity & Row Preservation,PASS,0,"Exactly 200,999 deliveries preserved post-join with match and competition metadata."
+Super Overs,Super Over Isolation,PASS,38,38 Super Over deliveries strictly excluded from regular statistics and archived in super_over_* files.
